@@ -1,0 +1,9 @@
+# recipients.txt — OPTIONAL.
+# Only needed if you are NOT using --from-sent (Gmail auto-discovery).
+# Put one email address per line: the people you sent the original
+# "MINER TOWN: AWAKENING" email to. Blank lines and lines starting with # are ignored.
+# A date is optional; if you add one the --min-days filter can use it. Examples:
+#
+#   reader1@example.com
+#   reader2@example.com,2026-06-10
+#

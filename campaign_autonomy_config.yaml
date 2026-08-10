@@ -1,0 +1,25 @@
+campaign:
+  name: Miner Town 30-Day Organic Push
+  start_date: 2026-08-01
+  duration_days: 30
+  targets:
+    sales_total: 100
+    profile_visits_total: 1000
+    profile_visits_sources:
+      - Goodreads
+      - Amazon Author Central
+  user_constraints:
+    max_user_time_minutes_per_day: 60
+    autonomy_mode: full_with_guardrails
+  guardrails:
+    paid_promotion_allowed: false
+    deceptive_tactics_allowed: false
+    mass_spam_allowed: false
+    require_value_first_posts: true
+    require_disclosure_when_relevant: true
+  daily_target_reference:
+    sales_per_day: 3.34
+    profile_visits_per_day: 33.34
+  weekly_target_reference:
+    sales_per_week: 23.33
+    profile_visits_per_week: 233.33

@@ -1,0 +1,41 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Local editor and browser state
+.vscode/
+.facebook_profile/
+
+# Local BMAD/runtime output
+_bmad-output/
+burst_logs/
+
+# Local launcher scripts with embedded credentials
+Execute Follow-ups.bat
+Execute Launch Day.bat
+Execute Launch Day Phase 2.bat
+
+# Sensitive operational data and logs
+followups.xlsx
+followup_sent_log.txt
+launch_day_sent_log.txt
+launch_day_sent_log.xlsx
+launch_day_send_tracker.xlsx
+launch_day_duplicate_counts.xlsx
+refresh_followups_run.log
+gmail_duplicate_audit_report.txt
+send_cooldown_lock.json
+
+# Recipient and campaign state data
+has_book.txt
+needs_help.txt
+suppression.txt
+responded.csv
+no_response.csv
+channel_performance_tracker.csv
+daily_kpi_tracker.csv
+facebook_group_post_log.csv
+week2_metrics_intake.csv
+
+# One-off local diagnostics
+_tmp_*.py
