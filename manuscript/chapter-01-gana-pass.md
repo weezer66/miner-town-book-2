@@ -14,13 +14,17 @@ Trinity had turned that responsibility into ownership. The ganas fought through 
 
 Elara came from Drona, and in Trinity that was both identity and instruction. Her path had always been obvious: protect knowledge, improve systems, eliminate waste. Whether that path made her happy remained an unhelpful question. It had never required an answer.
 
-She sat on the edge of her bed before beginning the next chore. The same thought returned every morning. It had kept her from becoming complacent, but it had also kept her from rising higher in Trinity. If energy was always changing form, how had humanity built a system where pain alone remained constant while every other emotion was disciplined, rationed, or erased?
+She sat on the edge of her bed before beginning the next chore. The same thought returned every morning. It had kept her from becoming complacent, but it had also kept her from rising higher in Trinity.
 
-She rose and moved through the routine her body knew by heart: wash, dry, button, seal, align. Warm water at fixed pressure. Uniform fibers tightening to regulation fit. Nutrient tonic measured to the milliliter. In a city that measured heat, pressure, and output, why was suffering still the one constant nobody wanted to solve?
+Trinity had trained its people to mistake pain for honesty. The workers who complained least were admired. The ones who endured the longest were rewarded. Even comfort was spoken of carefully, as if pleasure itself were a vice and joy a thing to be hidden. Grief could be named, but tenderness was rarely allowed to stand in public without suspicion. Relief was often treated as suspect, as though a person ought to be grateful for suffering rather than free of it.
+
+If Trinity had taught people that pain was the only honest emotion, why had it built a society that rewarded endurance while suppressing everything else?
+
+She rose and moved through the routine her body knew by heart: wash, dry, button, seal, align. Warm water at fixed pressure. Uniform fibers tightening to regulation fit. Nutrient tonic measured to the milliliter. The city measured everything except the cost of the things it demanded. In a place built on output, why was suffering still the one constant nobody wanted to solve?
 
 Before leaving her room, Elara felt the familiar stab of guilt. It came in cycles, especially among people in her position. Today she was being inducted into the Initiation Monitoring team.
 
-Everyone in Trinity understood what the Initiation meant: false hope, engineered fear, pain, suffering, and sometimes blood. What no one admitted plainly was the other part. Alongside the guilt came anticipation, sometimes even excitement. The children entering the Initiation still believed something might change for them. The monitors wondered what they would witness and whether they could control it when the system went off-script.
+Everyone in Trinity understood what the Initiation meant: false hope, engineered fear, pain, suffering, and sometimes blood. What no one admitted plainly was the other part. Alongside the guilt came anticipation, sometimes even excitement. Children entering the Initiation still believed something might change for them. The monitors wondered what they would witness and whether they could control it when the system went off-script.
 
 At the door, Elara paused with her hand hovering over the panel. Her reflection broke across the polished metal.
 
@@ -58,7 +62,7 @@ The elevator took thirty seconds to lift her toward the monitoring towers. The t
 
 At that altitude, cloud cover and atmospheric barriers erased detail. Identification became mandatory through locators and tags, where people appeared first as serial numbers and only incidentally as bodies. As the pod rose, Elara watched the city fall into layers beneath her. In Trinity, altitude measured distance from other people's pain. By the time the Skylark opened at the control tier, the lesson was complete. Ascent was not freedom. It was distance with a better view.
 
-Elara reached the monitoring tower with her pulse settled into the kind of rhythm Trinity liked to mistake for loyalty. She placed her thumb on the scanner. A white ring closed around her print, then climbed to her eye line. "Identity verified. Drona clearance accepted."
+Elara reached the monitoring tower with her pulse settled into the kind of rhythm Trinity liked to mistake for loyalty. She placed her thumb on the scanner. A white ring closed around her print, then climbed to her eye line. "Identity verified. Elara Abrahms. Gana: Drona. Security clearance: Initiation monitoring."
 
 The door hissed open.
 
