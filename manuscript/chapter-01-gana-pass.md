@@ -1,4 +1,4 @@
-# Chapter 1: The Four Assignments
+# Chapter 1: Assigned to Witness
 
 Elara woke at 3:00 a.m., on schedule, before the city lights shifted to dawn mode.
 
@@ -8,31 +8,25 @@ Everyone in Trinity had a schedule. The four ganas wrote the schedule for everyo
 
 Drona governed knowledge, research, innovation, and science. Chanakya governed policy, diplomacy, and political strategy. Ashoka governed protection, enforcement, and sanctioned force. Kubera governed resources, logistics, and allocation.
 
-The official histories called them ancient communities. They were not clans or castes. They were institutions that had once shared responsibility for keeping civilization alive.
+The official histories called them ancient communities. They were not clans or castes. They were institutions built to keep civilization alive. Trinity had turned that responsibility into ownership. The ganas fought through budgets, appointments, restricted data, and carefully arranged accidents. Each claimed to serve the whole system. Each believed the others were too dangerous to control it.
 
-Trinity had turned that responsibility into ownership. The ganas fought through budgets, appointments, restricted data, and carefully arranged accidents. Each claimed to serve the whole system. Each believed the others were too dangerous to control it.
-
-Elara came from Drona, and in Trinity that was both identity and instruction. Her path had always been obvious: protect knowledge, improve systems, eliminate waste. Whether that path made her happy remained an unhelpful question. It had never required an answer.
+Elara came from Drona, and in Trinity that was both identity and instruction. Her path had always been obvious: protect knowledge, improve systems, eliminate waste.
 
 She sat on the edge of her bed before beginning the next chore. The same thought returned every morning. It had kept her from becoming complacent, but it had also kept her from rising higher in Trinity.
 
-Trinity had trained its people to mistake pain for honesty. The workers who complained least were admired. The ones who endured the longest were rewarded. Even comfort was spoken of carefully, as if pleasure itself were a vice and joy a thing to be hidden. Grief could be named, but tenderness was rarely allowed to stand in public without suspicion. Relief was often treated as suspect, as though a person ought to be grateful for suffering rather than free of it.
+Trinity had trained its people to mistake pain for honesty. The workers who complained least were admired. The ones who endured the longest were rewarded. Even comfort was spoken of carefully, as if pleasure itself were a vice and joy a thing to be hidden. Grief could be named, but tenderness was rarely allowed to stand in public without suspicion.
 
-If Trinity had taught people that pain was the only honest emotion, why had it built a society that rewarded endurance while suppressing everything else?
-
-She rose and moved through the routine her body knew by heart: wash, dry, button, seal, align. Warm water at fixed pressure. Uniform fibers tightening to regulation fit. Nutrient tonic measured to the milliliter. The city measured everything except the cost of the things it demanded. In a place built on output, suffering was still the one constant nobody wanted to solve.
+She rose and moved through the routine her body knew by heart: wash, dry, button, seal, align. Warm water at fixed pressure. Uniform fibers tightening to regulation fit. Nutrient tonic measured to the milliliter. The city measured everything except the cost of the things it demanded.
 
 Before leaving her room, Elara felt the familiar stab of guilt. It came in cycles, especially among people in her position. Today she was being inducted into the Initiation Monitoring team.
 
-Everyone in Trinity understood what the Initiation meant: false hope, engineered fear, pain, suffering, and sometimes blood. What no one admitted plainly was the other part. Alongside the guilt came anticipation, sometimes even excitement. Children entering the Initiation still believed something might change for them. The monitors wondered what they would witness and whether they could control it when the system went off-script.
-
-That was the paradox of Trinity. It trained people to endure the worst of the system without asking whether the system itself was worth preserving.
+Everyone in Trinity understood what the Initiation meant: false hope, engineered fear, pain, suffering, and sometimes blood. Alongside the guilt came anticipation, sometimes even excitement. Children entering the Initiation still believed something might change for them. The monitors wondered what they would witness and whether they could control it when the system went off-script.
 
 At the door, Elara paused with her hand hovering over the panel. Her reflection broke across the polished metal.
 
 For one breath, she imagined refusing. Not dramatic rebellion. Just absence. A missing body in a numbered chair. A silent screen where her credentials were supposed to appear.
 
-Then the system chimed once, soft and patient. Delay itself was a deviation.
+Then the system chimed once, soft and patient.
 
 Elara pressed her palm to the scanner. The lock flashed green, and the seal released with a low acknowledgment tone. Behind her, the room sealed into stillness. Ahead, corridor lights unfurled in sequence, guiding her toward the control wing where the Initiation monitors were gathering.
 
@@ -50,7 +44,7 @@ A thin amber line flickered beside one metric, then settled green. Not Are you h
 
 "Behavioral stability: within range," the panel said. "Empathy surge risk: low. Corrective intervention impulse: suppressed. Clearance granted." A green band lit across her wrist for three seconds and faded.
 
-It was a small ceremony, almost elegant in its cruelty. The system did not ask whether she was fit to feel. It asked whether she was fit to watch.
+It was a small ceremony, almost elegant in its cruelty.
 
 Elara walked toward the Skylark elevators. The pods moved bodies between tiers and repeated a lesson every citizen was expected to remember: be grateful.
 
@@ -84,23 +78,19 @@ There was nothing performative about him. No Chanakya polish. No Kubera theater.
 
 Elara looked from one representative to the next. Four ganas. Four claims to the right kind of control.
 
-The system called their cooperation balance. The room felt dangerous.
+The room felt dangerous.
 
 Inside, the chamber was arranged like a divided compass. Four curved consoles faced a suspended central grid where Miner Town rendered itself in shifting light, coordinates, and pulse-lines.
 
 Each station carried a single label in austere white text: EVENT, VARIANCE, THRESHOLD, CORRECTION.
 
-No one needed instructions. Rowan moved to EVENT and keyed in with two fingers. His display bloomed with intake feeds, incident streams, and narrative flags waiting to be classified.
-
-What counted as an event was never neutral. In Chanakya hands, naming was power.
+Rowan moved to EVENT and keyed in with two fingers. His display bloomed with intake feeds, incident streams, and narrative flags waiting to be classified.
 
 Elara took VARIANCE. Her panels lit with pattern drift, stress spikes, deviation corridors, and probability envelopes. Her job was to notice when the system's story and the data's behavior stopped agreeing.
 
 Daren lowered himself into THRESHOLD. Intervention bands, cost triggers, acceptable-loss curves, resource release windows. He did not watch people first. He watched limits.
 
-Rohan remained standing for a beat before stepping into CORRECTION. The Ashoka console came alive beneath his hand with force ladders, containment protocols, and escalation pathways. Every sanctioned method by which disorder was returned to order.
-
-Four panels. Four ganas. One machine pretending it was a process instead of a choice.
+Rohan remained standing for a beat before stepping into CORRECTION. The Ashoka console came alive beneath his hand with force ladders, containment protocols, and escalation pathways.
 
 Then the central grid flickered.
 
@@ -119,3 +109,65 @@ UNASSIGNED.
 UNASSIGNED.
 
 For the first time that morning, the machine had produced a category Trinity did not recognize.
+
+The red queue continued to populate. Thirty-seven names. Forty-one. Fifty-three.
+
+No one moved. The four monitors stood frozen, watching the display as if the queue might resolve itself if they waited long enough. In Trinity, problems that didn't fit the categories were usually managed by not naming them at all. The system preferred clean labels to inconvenient facts. But this one refused to be ignored.
+
+"Well, that wasn't in the training material," Elara said. Her voice was steady, but there was something underneath it—not quite alarm, but recognition. This was the moment where training ended and choice began.
+
+"Nor in the simulator," Rowan replied. His hands rested on the EVENT console, not moving, not acting. Waiting. The Chanakya response was always to wait for permission first, answers second.
+
+Daren moved first with the efficient certainty of someone who believed problems were problems and people were data points to organize. He spoke their names loudly, his voice carrying that particular disdain his gana was known for.
+
+"Well, looks like we have some unassigned losers here," he said. "Gage, Otto, and Ben. Let's just say all their last names are don't matter."
+
+There was a cruelty in the dismissal that was almost kind. By erasing their identities, Daren made them manageable. They became exceptions to sort through, not people to reckon with.
+
+Elara pulled up the detailed profile of each of the three unassigned Initiation candidates. The screens filled with data—medical scans, behavioral histories, genetic markers, skill assessments. Thousands of points of measurement, each one designed to fit a person into a category. But these three didn't fit. In Trinity, the only way to do the work of Trinity was to stop seeing the work as something done to people. She pulled up their files and began to look for the pattern that would explain why the system had rejected them. It was easier this way. Easier to see them as problems to solve than as people waiting to be sorted into Trinity's preferred categories. Easier, and safer.
+
+She turned to Rohan. "Can you hold down the fort while we focus on sorting out these exceptions?"
+
+Rohan heard Elara and simply complied. He had read the debrief that morning and knew she was the lead for their group. There was a hierarchy even here, in this room where the four ganas were supposed to balance each other, and Elara had earned her authority through excellence. He recognized that and moved out of the way without objection.
+
+Elara was enjoying the familiar satisfactions that came from being the best in the room. It was not pride, exactly. It was something closer to relief. In a system built to measure and rank, at least she knew where she stood.
+
+Elara pulled up Gage's profile and the data rendered itself on the screen like a description of someone's worth. She started reading aloud, her voice steady and clinical.
+
+"Male. Six feet four inches. Two hundred eighty pounds."
+
+She glanced up from the display. The figures hit her before the person did: too large for the ration, too heavy for the work, too impossible for the system to explain in one glance. In Miner Town, where resources were strictly rationed and bodies were built for specific work, a person that size shouldn't exist. Shouldn't be possible.
+
+"Wow. I didn't know there were teenagers that big anywhere, let alone in Trinity. How does he get that big on starch cubes alone?"
+
+It was a genuine question—the kind that revealed a gap in her understanding of how the system actually worked. She looked around at the other three monitors, and in that moment of asking, she was no longer simply assigning data points. She was wondering about a person.
+
+"Do you all mind if I assign Gage to me?"
+
+Everyone nodded. They didn't see the need for excitement or fascination with a lowly miner. But Elara saw it. Or at least some part of her did. She pushed it down, buried it under protocol, and claimed him as hers.
+
+She tagged Gage to herself and pulled up Ben's profile. The relief in the data was immediate—normal height, normal weight, normal everything. The kind of person who would fit into Trinity's equations without raising questions.
+
+"Five feet eight inches. One hundred sixty pounds."
+
+She glanced across the room. "Well, now that's more like it. Your average joe. Anyone want to volunteer to cater to this fine gentleman?"
+
+Rowan's hand moved before he fully understood why. It was instinct, the professional recognition of his domain. He knew better than any of them that the average miner was the true governing force in any system. The majority set the rhythm, absorbed the pressure, and kept the machinery running. That was the Chanakya way: study the many, understand the mainstream, and use that understanding to decide where the system would bend and where it would break. Ben's measurements were ordinary in the most important sense. They were not the exception. They were the baseline. The kind of disciplined, efficient build that kept the deep shafts moving without noise or collapse. That was why Ben interested him. Not because Ben was remarkable, but because Ben was representative.
+
+Rowan reached forward, his hand closing over the assignment console. "I'll take Ben."
+
+The gesture was possessive in a way that surprised even him. In claiming Ben, he was claiming something he understood. And in a room where understanding was currency, that felt like power.
+
+Elara pulled up the final profile and leaned back slightly. The moment stretched as the data loaded. She scrolled through Otto's measurements, reading them like a story written in numbers.
+
+"Height five feet nine. Weight one hundred seventy pounds."
+
+On the surface, he was no different from Ben. The same build. The kind of frame that Trinity could work with. But then she saw it in the data, the number that broke the pattern.
+
+"On the surface, he's no different from Ben. The Trinity scanner is showing an abnormally high energy signature."
+
+Before Elara could finish the thought, Rohan was already on his feet, one hand raised from the CORRECTION console.
+
+"He is mine to size up."
+
+Elara's eyes stayed on the screen. "He wasn't just built differently. The scanner is reading him almost like an energy source."
