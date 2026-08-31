@@ -94,29 +94,29 @@ Rohan remained standing for a beat before stepping into CORRECTION. The Ashoka c
 
 Then the central grid flickered.
 
-The first Initiation queue populated in red.
+The Initiation queue populated on screen—sixteen names materialized like component numbers in a system ledger, stripped of color or ceremony, rendered as mere data points in Trinity's inventory. Sixteen children. Four monitors. Four ganas. On paper, the mathematics promised a clean division. Predictable.
 
-Three entries.
+Elara leaned toward the screen as the system began its assignment sequence. Thirteen names streamed toward the EVENT, THRESHOLD, CORRECTION, and VARIANCE consoles, each connected to its designated gana with the mechanical precision Trinity preferred. At first, the grid moved through the queue with invisible efficiency.
 
-Elara leaned toward the screen. The names belonged to Miner Town.
+Then the central grid flickered again.
 
-And beneath each name, where the system normally displayed the responsible gana, a fifth designation appeared instead.
-
-UNASSIGNED.
+Three names remained on the primary display, never routed to a console. And beneath each name, where the system normally displayed the responsible gana, a fifth designation appeared instead.
 
 UNASSIGNED.
 
 UNASSIGNED.
 
-For the first time that morning, the machine had produced a category Trinity did not recognize.
+UNASSIGNED.
 
-The red queue continued to populate. Thirty-seven names. Forty-one. Fifty-three.
+A red alert bar materialized beneath the three names. **OPERATOR INTERVENTION REQUIRED.** The system's guardrails had triggered. Whatever metric or pattern these three children violated, whatever gap in Trinity's control framework they represented, the machine could not proceed without human authorization.
 
-No one moved. The four monitors stood frozen, watching the display as if the queue might resolve itself if they waited long enough. In Trinity, problems that didn't fit the categories were usually managed by not naming them at all. The system preferred clean labels to inconvenient facts. But this one refused to be ignored.
+This was probably the first time Trinity's surveillance system had encountered an anomaly of this kind. The four gana representatives searched the online archives and the printed manuals beside their consoles, but neither offered a reason for the designation or an instruction for what came next.
 
-"Well, that wasn't in the training material," Elara said. Her voice was steady, but there was something underneath it—not quite alarm, but recognition. This was the moment where training ended and choice began.
+Their attention settled on the High Command call button. Rowan lifted his hand toward it, ready to request assistance, but Elara caught his wrist.
 
-"Nor in the simulator," Rowan replied. His hands rested on the EVENT console, not moving, not acting. Waiting. The Chanakya response was always to wait for permission first, answers second.
+"Wait," she said. "It's our first day. We cannot give them a reason to think we need supervision before we have even begun. Let's see if we can solve it ourselves."
+
+The others hesitated, then agreed. In Trinity, the cost of appearing incapable was high, and none of them was ready to pay it.
 
 Daren moved first with the efficient certainty of someone who believed problems were problems and people were data points to organize. He spoke their names loudly, his voice carrying that particular disdain his gana was known for.
 
