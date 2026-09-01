@@ -10,9 +10,9 @@ It was not the word Elara would have chosen. Nothing about the three boys felt s
 
 The four gana representatives returned to their consoles.
 
-Each terminal opened the same pre-Initiation checklist, though each version was shaped by its gana's priorities. Across the central grid, sixteen names waited in ordered columns. Thirteen had been placed without interruption. Three carried a small amber mark beside their names: MANUAL ASSIGNMENT. The designation was less alarming than UNASSIGNED, but it was not invisible.
+Each terminal opened the same pre-Initiation checklist, though each version was shaped by its gana's priorities. Across the central grid, sixteen names waited in ordered columns. Thirteen had been placed without interruption. Three carried a small amber mark beside their names: MANUAL ASSIGNMENT. It was a quieter flag than UNASSIGNED, but it still marked them on the grid.
 
-The manual overrides made Gage, Ben, and Otto anomalous candidates. Elara, Rowan, and Rohan were expected to keep them under continuous observation until the Initiation was complete. Trinity did not call it watching. The official language was enhanced oversight, as though attention could make a child safer rather than easier to control.
+The manual overrides made Gage, Ben, and Otto anomalous candidates. Elara, Rowan, and Rohan were expected to keep them under continuous observation until the Initiation was complete. Trinity did not call it watching. The official language was enhanced oversight, dressed up as concern for the children's safety, when its only real function was to tighten the grip on them.
 
 Elara opened Gage's file first. The checklist unfolded beside his profile in narrow, numbered lines.
 
@@ -22,23 +22,23 @@ Above Miner Town, surveillance drones moved their patient circuits through the c
 
 Identity confirmed.
 
-Residence verified.
-
 Medical baseline recorded.
 
-Nutritional history reconciled.
+Chip telemetry calibrated.
 
-Behavioral variance flagged for observation.
+Drone coverage assigned.
+
+Baseline behavior logged for comparison.
 
 She moved through each item carefully, comparing the system's summary against the raw readings beneath it. Height. Weight. Resting pulse. Respiration rate. Cortisol level. There were numbers for everything Trinity thought could become a risk. Her job was to find the number that did not belong before it became a problem someone else had to contain.
 
 Across from her, Rowan reviewed Ben's file with the quieter concentration of someone reading a report that might reveal an argument before it began. He checked family connections, work-group affiliations, disciplinary notes, and the small patterns of behavior that could turn a routine Initiation into an event worth recording. He did not look at Ben's photograph for long. The record was more useful than the face.
 
-One entry had been elevated from the household archive: an unauthorized-aid incident involving Leroy, a repeat offender who had previously targeted Ben's family. The record showed that Gretchen persuaded the household to shelter him and spend their own rations on his recovery. Trinity classified the decision as a compassion anomaly and flagged Ben as an active participant.
+Ben's physical readings were ordinary. His history was not. One entry had been elevated from the household archive: an unauthorized-aid incident involving Leroy, a repeat offender who had previously targeted Ben's family. The record showed that Gretchen persuaded the household to shelter him and spend their own rations on his recovery. Trinity classified the decision as a compassion anomaly and flagged Ben as an active participant.
 
-The flag had remained after Leroy's later termination for obstructing a guard during an incident involving Gretchen. In the eleven months between those entries, he had become a trusted source of practical knowledge inside the household. The archive called it an informal influence network. Rowan saw the risk more clearly: the family had learned that people could change, that care could become loyalty, and that Trinity punished disruption more reliably than cruelty.
+The flag had remained after Leroy's later termination for obstructing a guard during an incident involving Gretchen. Between the two entries, Ben's periodic skill assessments had started showing competencies no ten-year-old on his training track should have had: structural-hazard assessment, ration-stretching technique, patrol-evasion routes. The system cross-referenced the scores against Leroy's own labor record, found a match, and logged eleven months of unsupervised knowledge transfer outside any sanctioned training channel. The archive called it an informal influence network. Rowan saw the risk more clearly: the family had learned that people could change, that care could become loyalty, and that Trinity punished disruption more reliably than cruelty.
 
-Ben's physical readings were ordinary. His history was not. The archive marked the household's conduct as a potential behavioral risk and an indicator of unauthorized moral reasoning. Rowan wondered whether that was why the assignment algorithm had failed to place him.
+The archive marked the household's conduct as a potential behavioral risk and an indicator of unauthorized moral reasoning. Rowan wondered whether that was why the assignment algorithm had failed to place him.
 
 Rohan worked through Otto's correction protocols. His list was shorter, but each item carried more weight.
 
@@ -49,6 +49,8 @@ Response team on standby.
 Escalation authority available.
 
 Force thresholds reviewed.
+
+None of it was framed as sorting. Containment, response, escalation, force — four lines that existed for one candidate alone, cleared and staged before Otto had crossed the gates. Trinity was not preparing to classify him. It was preparing to restrain him, and the paperwork for that had already been finished.
 
 He tapped each line only after reading it twice. Otto's unusual energy signature had placed a small red notation beside the final item: SUPPLEMENTAL OBSERVATION REQUIRED. Rohan did not react to it. Reaction was not part of his job. Preparation was.
 
@@ -76,11 +78,11 @@ That was what Trinity called it when no one had looked closely enough to see the
 
 The gates opened below.
 
-Elara's primary feed divided into six views: a wide overhead image of the Initiation chamber, two thermal maps, two infrared feeds, and Gage's biometric panel. From the tower, the chamber looked almost orderly. Sixteen heat signatures passed through the iron doors and scattered into the open space beyond them. No guards followed. No alarms sounded. The candidates were given food pouches and water.
+Elara's primary feed divided into six views: a wide overhead image of the Initiation chamber, twin thermal maps, twin infrared feeds, and a sixth panel reserved for Gage alone, his biometric readings scrolling in isolation from the rest of the cohort. From the tower, the chamber looked almost orderly. Sixteen heat signatures passed through the iron doors and scattered into the open space beyond them. No guards followed. No alarms sounded. Each candidate already carried a vacuum-sealed food pouch, and the chamber's dispensers released water without a hand ever appearing to turn the tap.
 
 "Environmental transition: successful," the console said.
 
-Within minutes, Elara's feed stacked alerts beside Gage's profile. He had redistributed his ration. Ben and Otto had remained within his proximity band. Then Gage's hydration intake fell sharply while his stimulant markers began to rise ahead of the predicted exposure curve.
+For the first hours, Elara's feed showed nothing worth flagging: Gage's intake and markers tracked the same curve as the other fifteen. Then, as the hours wore on, three alerts stacked beside his profile in quick succession. He had split his food pouch with Ben and Otto, cutting his own intake below the recommended ration floor. Ben and Otto had remained inside his proximity band the entire time. And where his stimulant markers should have kept climbing along the same dosage curve as everyone else in the chamber, they had leveled off, as if his body had simply stopped absorbing what the water was calibrated to deliver.
 
 RESOURCE DISTRIBUTION DEVIATION.
 
