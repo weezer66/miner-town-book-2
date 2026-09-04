@@ -1,0 +1,271 @@
+# Chapter 4: The First Report
+
+RECOVERY INTERVAL COMPLETE. MANUAL OBSERVATION REQUIRED.
+
+The message cleared from the central grid, but the room did not immediately return to normal. The four consoles brightened one after another. The blue light settled across the floor, the walls, and the faces of the four representatives. It made everyone look healthier than they were.
+
+Elara took her seat at VARIANCE and brought Gage's feed back to full size. The overhead view showed the same chamber as before, but the pattern had changed. The children were no longer scattered. The ones still conscious had formed small groups near the tunnel walls, each cluster responding to the others without speaking.
+
+Gage, Ben, and Otto remained together.
+
+Their readings should have been getting worse. The Initiation had passed the point where exhaustion became more than tiredness. The counter had moved beyond forty hours, and the candidates' bodies were beginning to spend reserves they could not replace. Heart rates rose and fell without clear triggers. Cortisol levels stayed high. Muscle tension appeared in waves across the thermal feed.
+
+But the three boys were not following the expected curve.
+
+Gage's pulse accelerated whenever Ben's breathing became erratic. A few seconds later, Gage's own respiration slowed, and Ben's followed. Otto's readings moved differently. His pulse stayed unnaturally controlled until one of the other two crossed a danger threshold. Then his body responded before the system could issue an alert.
+
+The pattern was not random. It was a loop.
+
+Elara separated the signals and ran the comparison again. The same result appeared: Gage carried the physical strain, Ben absorbed the emotional disruption, and Otto reacted when either of them approached collapse. None of the three was stable alone. Together, they were keeping one another inside the narrow band between function and failure.
+
+She named the pattern MUTUAL STABILIZATION.
+
+The system rejected the label.
+
+UNAUTHORIZED GROUP FORMATION REMAINS ACTIVE.
+
+Elara tried again. She changed the category from group behavior to cooperative compensation. The system accepted the phrase for less than a second before replacing it with a red notation.
+
+INTERPRETIVE INTERFERENCE DETECTED.
+
+Across the room, Rowan looked up from the EVENT console. "What did you change?"
+
+"Nothing that alters the readings."
+
+"That was not my question."
+
+Elara kept her eyes on the display. "The readings are showing coordinated recovery."
+
+Daren turned in his chair. "They are showing dependency. A failure in one will spread to the other two."
+
+"That is not the same as instability," Elara said.
+
+"It is worse. Instability can be isolated. Dependency creates leverage."
+
+Rohan's console gave a quiet warning tone. He checked the force ladder, then the chamber feed. "Otto's breathing has changed."
+
+Elara enlarged the relevant panel. Otto had moved closer to the other two. His shoulders were lowered, and his hands rested open on his knees. There was no visible threat in the posture. His heart rate had dropped by six points.
+
+Ben's breathing followed.
+
+Then Gage's.
+
+Rohan watched the sequence twice. "He is regulating them."
+
+Daren's mouth tightened. "Or controlling them."
+
+"You call every response you do not understand control," Rohan said.
+
+"And you call every use of force protection when it comes from someone you approve of."
+
+Rowan ignored them. A new window had opened across the four consoles. It carried the seal of High Command and a single instruction.
+
+SUBMIT PRELIMINARY CANDIDATE ASSESSMENT.
+
+The report fields populated beneath it. Identity. Physical condition. Behavioral classification. Group risk. Recommended post-Initiation disposition.
+
+The final field remained blank.
+
+Elara opened the available classifications. The options were arranged in a descending column of severity.
+
+INDIVIDUAL RECOVERY.
+
+SUPERVISED REINTEGRATION.
+
+SEPARATE AND REASSIGN.
+
+CONDITION FOR COMPLIANCE.
+
+PERMANENT CONTAINMENT.
+
+The system had written most of the report before asking the monitors to sign it. Gage was marked as a physical destabilizer. Ben was marked as a social influence risk. Otto was marked as a force anomaly requiring controlled placement.
+
+Together, they were classified as a coordinated deviation cluster.
+
+Elara read the phrase twice. The words were efficient, bloodless, and wrong.
+
+Rowan's report populated beside hers. He had not accepted the original designation without examining it. His cursor rested over the group-risk field.
+
+"What are you going to call them?" he asked.
+
+"The system already decided."
+
+"The system is asking for our confirmation. That is different."
+
+It was the first time Rowan had said something that sounded like an invitation rather than a challenge.
+
+Elara looked through the feed again. Gage had shifted his position so that Ben was protected from the open chamber. Otto sat on the other side, watching the tunnel mouth and the candidates moving through the haze. None of them appeared aware that their arrangement had become evidence.
+
+She thought of Teresa's hands. She thought of the hospital reports that had described ruptures without offering a cure. She thought of the ground settlements, where deprivation had been converted into an acceptable operating condition. In every place, the official language had done the same thing. It had taken a person and turned the person into a condition that could be managed.
+
+Elara placed her hand over the group-risk field.
+
+The approved designation remained visible: COORDINATED DEVIATION CLUSTER.
+
+She opened the interpretive note beneath it and began to type.
+
+THREE CANDIDATES SHOW EVIDENCE OF MUTUAL STABILIZATION UNDER EXTREME ENVIRONMENTAL STRESS. GROUP COHESION APPEARS TO REDUCE INDIVIDUAL FAILURE RISK.
+
+She stopped before adding the next sentence.
+
+The system wanted a recommendation. The obvious one was separation. Remove Gage from Ben. Remove Otto from both of them. Assign each boy to a different work group, a different supervisor, a different set of expectations. Break the pattern before it became a structure.
+
+Elara changed the recommendation field.
+
+CONTINUED OBSERVATION ADVISED BEFORE SEPARATION.
+
+The text remained on the screen.
+
+Then the border around it turned amber.
+
+UNSUPPORTED RECOMMENDATION. JUSTIFICATION REQUIRED.
+
+"Elara," Rowan said quietly.
+
+She did not look at him. "What?"
+
+"You are adding a personal interpretation to a formal report."
+
+"I am adding an observation."
+
+"You are asking the system to wait."
+
+That was exactly what she was doing. Waiting had once been the only thing she could offer Teresa. Waiting for the next transfusion. Waiting for a doctor to find a precedent. Waiting for a government office to approve a route that did not exist. Waiting had not saved anyone then.
+
+But separation had not saved anyone either.
+
+Elara entered the justification.
+
+SEPARATION MAY INCREASE INDIVIDUAL FAILURE RISK. CURRENT DATA DOES NOT SUPPORT THE ASSUMPTION THAT GROUP COHESION IS THE PRIMARY CAUSE OF INSTABILITY.
+
+The amber border held for three seconds.
+
+Then the system accepted the note.
+
+PRELIMINARY REPORT RECORDED.
+
+A new line appeared beneath it.
+
+INTERPRETIVE DEVIATION DETECTED.
+
+The warning had barely settled when Gage's biometric readings changed sharply. His pulse leapt, his breathing became short and violent, and the movement sensors registered him rising from the ground.
+
+Elara opened the limited sensor channel from a surveillance drone near the tunnel mouth. It provided no useful speech, only the scrape of movement against stone and the rising strain in Gage's breathing.
+
+The system reconstructed fragments from his sleep cycle: a face suggested by neural activity and a platform inferred from spatial patterns. The fragments were too incomplete to qualify as a verified memory, but the readings suggested that the nightmare had followed him into the chamber.
+
+The movement sensors recorded him heading toward the tunnel mouth.
+
+The movement was not strategic. His trajectory pointed toward the tunnel mouth and the restricted route leading back toward the wardens' sector. The system marked the behavior as pursuit intent, though it could not determine whether the target was a person, a memory, or a location.
+
+Gage's movement faltered. Otto's telemetry showed him following, but Ben reached Gage first.
+
+The sensors registered a struggle. Gage's heart rate crossed the red threshold, and Otto's force markers rose in response.
+
+Ben's contact sensors showed sustained pressure as he held Gage in place. For several seconds, the readings remained unstable. Then Gage's breathing slowed, followed by a reduction in Ben's exertion and Otto's force markers.
+
+Otto's readings remained elevated, but he did not intervene.
+
+Gage's pulse began to fall.
+
+The system did not classify the scene as mutual stabilization. It classified it as coordinated containment by unauthorized subjects.
+
+AUTOMATED SEPARATION PROTOCOL INITIATED.
+
+Elara sat forward. "Cancel that."
+
+The command field rejected her clearance.
+
+OPERATOR OVERRIDE UNAVAILABLE.
+
+The three boys were no longer waiting for a decision from the monitoring room. Their behavior had crossed a threshold the system had defined in advance. Ground personnel were marked insufficient for the combined strength and skill profiles of Gage and Otto. The response order routed upward, past the local wardens, to the Infinity Guard chambers.
+
+Four hours was the estimated travel time from the guard chambers to Miner Town. The system did not ask Rowan, Daren, Rohan, or Elara whether the deployment was necessary. It sent the message and began preparing the transport.
+
+SWAT RESPONSE AUTHORIZED.
+
+The alert appeared on every console. Rowan's jaw tightened. Daren stared at the resource estimate. Rohan stood with both hands flat against the CORRECTION station, reading the order as though force alone might make it less final.
+
+"They are exhausted children," Elara said.
+
+"Gage is a physical threat," Daren replied. "Otto is a trained force anomaly. The system is not measuring their age. It is measuring what they can do."
+
+"And Ben?"
+
+"The reason they have to be separated before he becomes part of the threat."
+
+Elara reviewed the chamber telemetry. Ben's contact pressure on Gage remained steady while Gage's exertion and pulse began to fall. Otto's position data showed him within the same protective range, with no further force response.
+
+After the water test, Gage's intake stopped. The system recorded the change beside the chemical exposure markers, but it could not determine whether he understood the cause. It recorded only that the three candidates had stopped drinking and that their linked readings were moving toward rest rather than renewed conflict.
+
+Their proximity remained constant as fatigue overtook them. The system marked the pattern as coordinated recovery.
+
+By the time the first guard transport cleared the lower launch platform, all three were asleep.
+
+The SWAT team arrived four hours later to find the candidates motionless beneath the tunnel wall. Their scanners swept over the chamber. Gage's pulse was slow. Ben's breathing was even. Otto's hands were open and empty.
+
+"Candidates are asleep," the team leader reported. "No active threat."
+
+The message travelled back through the chain of command. High Command recorded the result as non-threatening behavior and a safe provisional indication that the three candidates had passed the Initiation. The same report retained the escalation flag beside their names.
+
+PASSED: INITIATION SURVIVAL CRITERIA.
+
+ESCALATE FOR EXECUTIVE REVIEW.
+
+The report named the committee: Icepick, Jung, and the other senior figures who had turned the survival of Miner Town into a governing practice. The three boys would not be treated as ordinary recruits. They would be presented as a problem requiring a decision at the highest level.
+
+Elara watched the final report print across her screen. Her recommendation had survived long enough to keep the boys together, but not long enough to protect them from the committee waiting above the city.
+
+She opened the archive access panel.
+
+There was one record she needed to change before the boys woke. The ordinary induction file for Miner Town Sector One. If Gage, Ben, and Otto entered the sector under their deviation classifications, every supervisor would receive a different set of instructions. Separate housing. Restricted work assignments. Increased surveillance. No shared movement without approval.
+
+Elara knew what would happen next because Trinity had shown her the pattern many times. A label became a schedule. A schedule became a restriction. A restriction became the reason given when someone was punished for resisting it.
+
+She left her console and entered the nearest Skylark before the doors closed. The elevator began its descent toward the administrative tiers. Elara waited until the pod had gathered speed, then knelt beside the maintenance panel and used the metal tip of her hairpin to loosen the exhaust-vent screws.
+
+The opening was barely wide enough for her hand. She reached through, found the service cables running along the elevator shaft, and pulled herself into the narrow maintenance channel above the moving pod.
+
+The Skylark dropped away beneath her. The shaft wind tore at her uniform and filled her ears with the roar of the city moving through its own machinery. She gripped the cables and climbed, one hand above the other, while the elevator continued racing toward the ground floor.
+
+The restricted archive lay between the governance tiers, accessible only through a service cavity that the public maps did not show. Elara reached the upper landing and swung toward the wall recess just as the Skylark rose beneath her on its return cycle. The pod passed within inches of her boots. She folded herself into the cavity and held her breath until the lights vanished below.
+
+The wall opened behind a maintenance plate. Elara crawled into the archive corridor and found the superintendent's office sealed but unattended. The master archive key was not a metal object. It was a digital RSA soft token kept inside the superintendent's secured terminal, renewed each shift and invalidated at the next system cycle.
+
+She had less than twenty minutes.
+
+Elara used the terminal's emergency access sequence, entered the token request, and waited while the system compared her biometric identity against the superintendent's authorization. The first check failed. She tried again with the report reference number. The second check opened a narrow administrative channel.
+
+She did not copy the entire archive. She changed one record.
+
+GAGE. BEN. OTTO.
+
+MINER TOWN SECTOR ONE INDUCTION: STANDARD COHORT.
+
+DEVIATION ESCALATION: WITHHELD PENDING EXECUTIVE REVIEW.
+
+The system warned her that withholding the escalation record constituted falsification of a protected governance document. Elara looked at the countdown in the corner of the screen. She thought of Teresa waiting for a cure that had never come. She thought of the ground settlements and the people Trinity had reduced to acceptable losses.
+
+Then she confirmed the alteration.
+
+The record sealed itself. For the moment, the three boys would enter Sector One without special instructions marking them for separation. It was not freedom. It was not justice. It was three ordinary doors left open in a system that had already decided to close them.
+
+Elara deleted the temporary access trail, replaced the terminal cover, and climbed back into the service cavity. When she reached the Skylark shaft, the next pod was already rising.
+
+She waited for the carriage to pass, then dropped onto its roof.
+
+By the time she stepped back into the monitoring room, the executive review notice was still glowing on her console. Rowan looked at her once. His eyes moved to the loosened hairpin in her hand, then to the archive confirmation fading from the corner of her display.
+
+He did not ask where she had been.
+
+Below them, the three boys slept beneath the tunnel wall, unaware that the system had tried to separate them and that Elara had bought them one more chance to remain together.
+
+The alert remained active on Elara's console. Her operator status changed from **AUTHORIZED** to **UNDER REVIEW**.
+
+Daren's report closed without comment. Rohan's force assessment remained pending. Rowan's cursor stayed over the group-risk field.
+
+Below them, the three candidates' biometric readings continued to move within the same narrow range. Their proximity data showed no separation.
+
+Three linked signals appeared on Elara's screen.
+
+For once, she did not reduce them to separate entries. She left the connection visible and allowed the system to record what it could not yet explain.
