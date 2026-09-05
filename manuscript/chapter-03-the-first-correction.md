@@ -1,8 +1,12 @@
 # Chapter 3: The First Correction
 
+## Day Two: Attrition
+
+At thirty-six hours, the chamber feeds had stopped resembling a test and begun resembling an accounting of who could remain awake. Gage, Ben, and Otto still held to the same narrow proximity band. Elara had no authorized action to take, only readings that refused to separate them.
+
 Elara did not remember choosing to look at Otto's file again. Her hand had simply gone to it, the way a tongue returns to a broken tooth.
 
-CORRECTION SUBJECT: OTTO. STATUS: CONTAINED. FLAG: SUPPLEMENTAL OBSERVATION REQUIRED.
+CORRECTION SUBJECT: OTTO. STATUS: OBSERVATION ACTIVE. FLAG: SUPPLEMENTAL OBSERVATION REQUIRED.
 
 She read it twice, then a third time, and on the third pass she was not thinking about Otto at all.
 
@@ -158,7 +162,7 @@ Elara had built her entire career around a failure she could not outwork. All he
 
 By twenty-five, Elara had become very good at moving through Trinity without appearing to challenge its shape. She had earned authority through excellence, learned to translate empathy into measurable risk, and accepted a place among the people trusted to observe what happened when the city's carefully managed boundaries failed. The old curiosity had not disappeared. It had acquired clearance levels, biometric thresholds, and a professional vocabulary.
 
-She told herself this was why she had ordered the drone toward Rosa's food pouch instead of simply watching Gage's group and writing what she saw. It was not concealment. It was disclosure with better timing. She had generated the data before anyone could accuse her of hiding it.
+She told herself this was why she had kept the correction controls inactive instead of turning Gage's group into a test condition. It was not concealment. It was disclosure with better timing. She would let the evidence exist before anyone could accuse her of inventing it.
 
 She did not entirely believe herself, and that, more than anything else, was what unsettled her.
 
@@ -171,3 +175,5 @@ On her console, Otto's supplemental flag blinked once and steadied. Beside it, G
 Elara closed the file before the thought could finish forming. Trinity had taught her exactly what happened to people who reached first and reported second. She intended to be the one holding the report this time, not the one who needed someone else to write it for her.
 
 Across the room, Rowan was watching her again. She did not look up to confirm it. She already knew what her own pulse would tell him if he checked.
+
+At forty-eight hours, the piezoelectric hum began to register across the chamber feeds. The monitors returned their attention to the present. Elara preserved her preliminary recommendation against separation, Rowan began shaping the official meaning of the anomaly, Daren calculated the expense of continued observation, and Rohan kept the force ladder closed. The third day would test whether those decisions could hold.

@@ -1,5 +1,7 @@
 # Chapter 1: Assigned to Witness
 
+## Day Zero: Assignment
+
 Elara woke at 3:00 a.m., on schedule, before the city lights shifted to dawn mode.
 
 In college, this would have been the hour she went to sleep, full of noise, caffeine, and unfinished arguments. Trinity had cured her of that. Her schedule controlled when she woke, ate, worked, and slept. Discipline was part of the building.
@@ -84,11 +86,11 @@ Inside, the chamber was arranged like a divided compass. Four curved consoles fa
 
 Each station carried a single label in austere white text: EVENT, VARIANCE, THRESHOLD, CORRECTION.
 
-Rowan moved to EVENT and keyed in with two fingers. His display bloomed with intake feeds, incident streams, and narrative flags waiting to be classified.
+Rowan moved to EVENT, the Chanakya station, because Chanakya taught that power began by deciding which events were allowed to mean something. His display bloomed with intake feeds, incident streams, and narrative flags waiting to be classified.
 
-Elara took VARIANCE. Her panels lit with pattern drift, stress spikes, deviation corridors, and probability envelopes. Her job was to notice when the system's story and the data's behavior stopped agreeing.
+Elara took VARIANCE, the Drona station, because Drona's first obligation was to follow knowledge wherever it led, especially when the data exposed a flaw the system preferred not to name. Her panels lit with pattern drift, stress spikes, deviation corridors, and probability envelopes. Her job was to notice when the system's story and the data's behavior stopped agreeing.
 
-Daren lowered himself into THRESHOLD. Intervention bands, cost triggers, acceptable-loss curves, resource release windows. He did not watch people first. He watched limits.
+Daren lowered himself into THRESHOLD, the Kubera station, where allocation became a question of what could be spent, withheld, or sacrificed without endangering the whole. Intervention bands, cost triggers, acceptable-loss curves, resource release windows. He did not watch people first. He watched limits.
 
 Rohan remained standing for a beat before stepping into CORRECTION. The Ashoka console came alive beneath his hand with force ladders, containment protocols, and escalation pathways.
 

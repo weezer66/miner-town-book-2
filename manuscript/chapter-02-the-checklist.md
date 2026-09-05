@@ -1,8 +1,10 @@
 # Chapter 2: The Checklist
 
+## Day One: Intake
+
 The three names stopped flashing.
 
-Gage settled beneath Elara's VARIANCE designation. Ben moved to Rowan's EVENT stream. Otto locked into Rohan's CORRECTION channel. The red alert bar vanished from the central grid, leaving only the record of a manual override in the corner of the display.
+Gage settled beneath Elara's Drona VARIANCE designation. Ben moved to Rowan's Chanakya EVENT stream, where his record could be turned into an official meaning. Otto locked into Rohan's Ashoka CORRECTION channel, already framed as a force problem to contain. Daren's Kubera THRESHOLD display retained the cost of all three. The red alert bar vanished from the central grid, leaving only the record of a manual override in the corner of the display.
 
 Daren watched it disappear. "There," he said. "Sorted."
 
@@ -94,72 +96,40 @@ Daren's gaze stayed on the loss projections. "The distinction changes nothing. H
 
 Elara enlarged the overhead feed. Gage remained between Ben and Otto whenever the three shifted through the chamber. It could have been accident or instinct. But each time the surrounding candidates crowded closer, the other two turned toward him before they moved.
 
-Her console offered three actions: record the deviation, notify the floor wardens, or initiate corrective observation. Each would turn an incomplete interpretation into an official fact. Elara selected the third.
+Her console offered three actions: record the deviation, notify the floor wardens, or initiate corrective observation. Each would turn an incomplete interpretation into an official fact. Elara selected the first and left the other two inactive.
 
-"You are escalating?" Rowan asked.
+"You are declining to escalate?" Rowan asked.
 
-"Testing a theory," Elara said.
+"I am declining to make a conclusion before the evidence exists," Elara said.
 
-Gage's physical profile had already suggested unusual strength. The proximity data suggested something more consequential: he was becoming the point around which the other two organized themselves. Remove that point, and Ben and Otto might return to the predictable individual responses Trinity expected. Elara did not say that aloud. She marked a low-visibility drone for an unscheduled payload release and selected Rosa's food pouch from the cohort map.
+At eighteen hours, the chamber had changed from restless to wrong. No candidate slept. The screens showed shaking hands, repeated movements, and pulse patterns rising without exertion. Gage's group sat close enough that their heat signatures touched at the edges. They shared what they could and kept one another facing the same direction.
 
-The drone descended when Rosa turned away from it. Its dispenser released an additional dissolvable stimulant dose into the seam of her pouch, then rose back into the chamber's blind upper structure. The system logged the action as environmental calibration.
+"Cohesion is not evidence of safety," Daren said.
 
-At first, Rosa's biometrics only showed confusion: a rapid pulse, rising cortisol, erratic eye movement. Then her threat-recognition responses spiked beyond the normal exposure curve. The drones watched her turn from one candidate to another, her infrared outline recoiling from shapes that existed only inside her drugged perception.
+"Neither is isolation," Elara replied.
 
-Emily moved toward her. The overhead feed lost a clear view as the candidates converged, but the sensors registered a sudden impact, a sharp break in Emily's vital signs, and Rosa's stress response falling briefly into stunned stillness.
+Rowan looked between the readings and his event log. "Give me language that can survive review."
 
-Elara's hand hovered above the intervention control. For three seconds, Rosa's markers stabilized. Then the stimulant surge resumed. She dragged Emily's body toward the tunnel mouth, tied it across her back, and wandered in a direction the route map did not recognize as an exit.
+Elara entered a provisional note: CANDIDATES MAINTAIN COOPERATIVE PROXIMITY UNDER EARLY STRESS. NO INTERVENTION RECOMMENDED AT THIS TIME.
 
-"That was not calibration," Rowan said.
+Rohan did not look away from Otto's feed. "At twenty-four hours, the first real decisions begin. The force ladder remains closed unless there is an actual threat."
 
-Elara did not answer. On the central grid, Rosa's marker surged toward Gage. Then Otto moved.
+The blue bands in the monitoring room brightened to white. Every display dimmed except the central grid.
 
-The replay isolated the action frame by frame. Otto crossed the space in one measured line, shifted his weight, and struck once. Rosa's heat signature dropped hard against the chamber floor. The impact was brief, controlled, and far more efficient than his size or baseline physical record had predicted.
+FIRST MONITOR RELEASE. AUTOPILOT OBSERVATION ENGAGED.
 
-Elara opened Otto's supplemental file. The unexplained energy signature had not been a fault in the scanner. It was the trace of a trained body: breath control, stored force, and a movement pattern designed to spend almost nothing until the moment it mattered. Rohan's CORRECTION display identified no formal Trinity training record. Whatever Otto knew, he had learned where the system had not been watching.
+The four representatives entered the adjoining recovery station, where scanners measured fatigue as an institutional resource. Rowan received tea, Daren black coffee, Rohan coffee cut with electrolytes, and Elara a bitter coffee. The monitors were not being tested as brutally as the candidates, but Trinity still measured them for usefulness.
 
-The three boys regrouped around Gage before the drones could classify the event as over. Ben's marker returned to his proximity band. Otto's pulse steadied with impossible speed. Gage remained upright despite Rosa's attack. Elara looked at the three linked signals and understood that a drugged candidate had not been enough to break them. It would take more than panic, exhaustion, or one manufactured threat to separate the group.
+Daren joined Rohan at the counter. "You should have notified the wardens. Variables reveal what a system is worth."
 
-Before she could decide what that meant, the lights in the monitoring room shifted. The narrow blue bands that had kept their attention fixed on the consoles brightened to white. Every display dimmed except the central grid.
+"They are children," Rohan said.
 
-MANDATED RECOVERY INTERVAL. AUTOPILOT OBSERVATION ENGAGED.
+"They are candidates. Every candidate who leaves together teaches the others that the system can be resisted."
 
-The Initiation continued below without them. Drone paths tightened. The system assumed the first layer of observation and would summon them only for a threshold it could not resolve alone.
+Rohan set down his cup. "Force has a purpose. It is not a way to make a report more useful."
 
-No one argued with the break. Monitoring the Initiation demanded the same sustained attention it demanded from the candidates, though Trinity gave its representatives better language for the strain. Alertness was an institutional resource. Efficiency had to be maintained.
+Rowan approached Elara after Rohan had gone. "Drona trains its representatives to observe before they alter a system," he said. "Will you hold to that?"
 
-The four gana representatives moved through the adjoining recovery station in silence. Each placed a hand against a sampling plate and let the machine take what it required: sweat chemistry, blood oxygen, glucose, cortisol, hydration, and stimulant residue. The scan did not ask whether they were tired. It determined whether fatigue had made them less useful.
+Elara looked at the three linked signals. "Until the evidence gives me a reason not to."
 
-When the results cleared, the dispenser opened. Rowan received tea, Daren black coffee, Rohan coffee cut with electrolytes, and Elara a small cup of bitter coffee. Each serving had been adjusted to the body's readings taken moments before: enough stimulant to sharpen attention, enough mineral balance to steady the hands, enough suppression to smooth the emotions Trinity considered inefficient.
-
-Elara held the cup beneath the dispenser's light. Somewhere below, Gage, Ben, and Otto were being measured for every sign that they might fail. Up here, the four people judging them were measured for the same reason.
-
-Rohan took one measured sip before Daren joined him at the counter. They were never quite friendly. Kubera counted cost before consequence; Ashoka was trained to calculate consequence before force.
-
-"You should have let the test run," Daren said. "The girl was a variable. Variables reveal what a system is worth."
-
-"She was a person," Rohan said.
-
-"A person who was already breaking. You could have learned whether the three boys were useful under pressure."
-
-Rohan set down his cup. "Force has a purpose. It is not a way to make a report more interesting."
-
-"Everything has a cost," Daren replied. "You just prefer not to total yours."
-
-For a moment, Rohan looked as though he might answer. Then he turned away. Ashoka did not spend strength on contests that changed nothing. He returned to the recovery station window and watched the central grid without another word.
-
-Rowan approached Elara after Rohan had gone. His tea was untouched. Chanakya did not waste questions by asking them before they had become useful.
-
-"Drona trains its representatives to observe before they alter a system," he said. "Why did you alter this one?"
-
-Elara met his eyes over the rim of her cup. "Because observation without pressure only tells you how a system behaves when it is comfortable."
-
-"You dosed a candidate without authorization. You turned an unstable situation into a corrective event." His voice stayed mild, which made the question sharper. "Is that how Drona defines knowledge?"
-
-"Drona defines knowledge as the difference between a theory and a fact," Elara said. "We had three unassigned candidates and no explanation for them. I created a condition that produced data."
-
-Rowan studied her for a moment. He was not convinced; she could see that. But the recovery lights shifted back to their narrow blue, and the central grid brightened through the station window.
-
-RECOVERY INTERVAL COMPLETE. MANUAL OBSERVATION REQUIRED.
-
-The moment closed before either of them could force it open. Rowan set down his tea. Elara finished her coffee, and the four gana representatives returned to their stations.
+At thirty-six hours, the monitors returned to their consoles. The first day had ended. The attrition that would decide the Initiation had begun.
