@@ -117,6 +117,4 @@ Rohan set down his cup. "Force has a purpose. It is not a way to make a report m
 
 Rowan approached Elara after Rohan had gone. "Drona trains its representatives to observe before they alter a system," he said. "Will you hold to that?"
 
-Elara looked at the three linked signals. "Until the evidence gives me a reason not to."
-
-At thirty-six hours, the monitors returned to their consoles. The first day had ended. The attrition that would decide the Initiation had begun.
+Elara looked at the three synchronized readings on her screen: Gage's rising strain, Ben's erratic responses, and Otto's sudden force markers. "Until the evidence gives me a reason not to."
