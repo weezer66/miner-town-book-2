@@ -20,7 +20,7 @@ Elara opened Gage's file first. The checklist unfolded beside his profile in nar
 
 The screen did not show her Gage so much as it dismantled him. His subdermal birth chip supplied a continuous biological record: heart rate, heart-rate variability, body temperature, blood pressure, respiratory rate, blood-oxygen saturation, blood glucose, cortisol level, hydration, electrolyte balance, sleep debt, pupil response, and muscle tension. More readings arrived every second than she could have learned by standing in front of him for an hour.
 
-Above Miner Town, surveillance drones moved their patient circuits through the clouds. Their thermal sensors tracked the heat leaving his skin; infrared lenses mapped circulation beneath it; motion analysis recorded every imbalance, tremor, and shift in posture. The chip told Trinity what his body was doing from within. The drones tracked how those changes appeared across his skin, movement, and heat signature. From this high above the mines, Elara could watch Gage breathe, warm, strain, and recover without ever having to meet his eyes.
+Above Miner Town, surveillance drones glided through the clouds in relentless, watchful circuits. Their thermal sensors tracked the heat leaving his skin; infrared lenses mapped circulation beneath it; motion analysis recorded every imbalance, tremor, and shift in posture. The chip told Trinity what his body was doing from within. The drones tracked how those changes appeared across his skin, movement, and heat signature. From this high above the mines, Elara could watch Gage breathe, warm, strain, and recover without ever having to meet his eyes.
 
 Identity confirmed.
 
@@ -74,10 +74,7 @@ CONFIRMED, the screen read.
 
 One by one, the other consoles answered with the same quiet chime.
 
-On the central grid, the sixteen names remained in their columns, waiting for the Initiation to begin. Everything was moving according to plan.
-
-That was what Trinity called it when no one had looked closely enough to see the danger yet.
-
+On the central grid, the sixteen names remained in their columns, waiting for the Initiation to begin. Everything was moving according to the approved sequence.
 The gates opened below.
 
 Elara's primary feed divided into six views: a wide overhead image of the Initiation chamber, twin thermal maps, twin infrared feeds, and a sixth panel reserved for Gage alone, his biometric readings scrolling in isolation from the rest of the cohort. From the tower, the chamber looked almost orderly. Sixteen heat signatures passed through the iron doors and scattered into the open space beyond them. No guards followed. No alarms sounded. Each candidate already carried a vacuum-sealed food pouch, and the chamber's dispensers released water without a hand ever appearing to turn the tap.
@@ -102,21 +99,11 @@ Her console offered three actions: record the deviation, notify the floor warden
 
 "I am declining to make a conclusion before the evidence exists," Elara said.
 
-At eighteen hours, the chamber had changed from restless to wrong. No candidate slept. The screens showed shaking hands, repeated movements, and pulse patterns rising without exertion. Gage's group sat close enough that their heat signatures touched at the edges. They shared what they could and kept one another facing the same direction.
-
-"Cohesion is not evidence of safety," Daren said.
-
-"Neither is isolation," Elara replied.
-
-Rowan looked between the readings and his event log. "Give me language that can survive review."
-
-Elara entered a provisional note: CANDIDATES MAINTAIN COOPERATIVE PROXIMITY UNDER EARLY STRESS. NO INTERVENTION RECOMMENDED AT THIS TIME.
-
-Rohan did not look away from Otto's feed. "At twenty-four hours, the first real decisions begin. The force ladder remains closed unless there is an actual threat."
+By the ten-hour mark, the chamber was still under watch, but the representatives had already rotated through the first manual monitoring cycle. The room emptied in staggered relief, their fatigue measured as an institutional resource and folded into the same system that had been recording the boys' readings since intake. Trinity did not pause for exhaustion. It simply shifted the burden of attention from human eyes to automated ones.
 
 The blue bands in the monitoring room brightened to white. Every display dimmed except the central grid.
 
-FIRST MONITOR RELEASE. AUTOPILOT OBSERVATION ENGAGED.
+MANUAL MONITORING SHIFT COMPLETE. AUTOPILOT OBSERVATION ENGAGED.
 
 The four representatives entered the adjoining recovery station, where scanners measured fatigue as an institutional resource. Rowan received tea, Daren black coffee, Rohan coffee cut with electrolytes, and Elara a bitter coffee. The monitors were not being tested as brutally as the candidates, but Trinity still measured them for usefulness.
 
