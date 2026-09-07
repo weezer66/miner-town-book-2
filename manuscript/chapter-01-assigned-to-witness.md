@@ -92,7 +92,7 @@ Elara took VARIANCE, the Drona station, because Drona's first obligation was to 
 
 Daren lowered himself into THRESHOLD, the Kubera station, where allocation became a question of what could be spent, withheld, or sacrificed without endangering the whole. Intervention bands, cost triggers, acceptable-loss curves, resource release windows. He did not watch people first. He watched limits.
 
-Rohan remained standing for a beat before stepping into CORRECTION. The Ashoka console came alive beneath his hand with force ladders, containment protocols, and escalation pathways.
+Rohan remained standing for a beat before stepping into CORRECTION. The Ashoka console came alive beneath his hand with force ladders, containment protocols, and escalation pathways. In Trinity's security framework, the force ladder was Ashoka's standardized escalation scale for physical intervention and coercion—a rigid progression ranging from passive atmospheric pressure to direct warden suppression.
 
 Then the central grid flickered.
 

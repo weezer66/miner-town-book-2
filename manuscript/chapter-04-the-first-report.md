@@ -8,7 +8,7 @@ RECOVERY INTERVAL COMPLETE. MANUAL OBSERVATION REQUIRED.
 
 The message cleared from the central grid, but the room did not immediately return to normal. The four consoles brightened one after another. The blue light settled across the floor, the walls, and the faces of the four representatives. It made everyone look healthier than they were.
 
-Elara took her seat at VARIANCE and brought Gage's feed back to full size. The overhead view showed the same chamber as before, but the pattern had changed. The children were no longer scattered. The ones still conscious had formed small groups near the tunnel walls, each cluster responding to the others without speaking.
+Elara took her seat at VARIANCE, the Drona station, and brought Gage's feed back to full size. The overhead view showed the same chamber as before, but the pattern had changed. The children were no longer scattered. The ones still conscious had formed small groups near the tunnel walls, each cluster responding to the others without speaking.
 
 Gage, Ben, and Otto remained together.
 
@@ -16,13 +16,15 @@ Their readings should have been getting worse. The Initiation had entered Day Th
 
 But the three boys were not following the expected curve.
 
-Gage's pulse accelerated whenever Ben's breathing became erratic. A few seconds later, Gage's own respiration slowed, and Ben's followed. Otto's readings moved differently. His pulse stayed unnaturally controlled until one of the other two crossed a danger threshold. Then his body responded before the system could issue an alert.
+Gage paced his breathing to mirror Ben’s whenever panic began to take over, giving Ben a steady rhythm to focus on until both of their heart rates slowed. Otto’s telemetry moved differently. He remained still, conserving his strength like a coiled spring, stepping in to physically anchor or steady whichever of the other two wavered near collapse before the system’s alert could even trigger.
 
 The pattern was not random. It was a loop.
 
 Elara separated the signals and ran the comparison again. The same result appeared: Gage carried the physical strain, Ben absorbed the emotional disruption, and Otto reacted when either of them approached collapse. None of the three was stable alone. Together, they were keeping one another inside the narrow band between function and failure.
 
 She named the pattern MUTUAL STABILIZATION.
+
+Across the room, Daren’s mouth twitched with silent satisfaction. He had not forgotten Elara’s public correction during the shift change, and in Kubera, debts were always settled. During the off-shift, Daren had called in a favor from his contacts in system programming, leveraging Kubera’s allocation oversight to quietly adjust the parameters on Elara’s console. He had dialed the interpretation sensitivity and anomaly detection to absolute maximum, transforming her station from an analytical tool into an over-sensitized trap. Now, any custom entry Elara attempted would be flagged as operator bias, triggering system warnings and automatically generating corrective recommendations that directly contradicted her inputs.
 
 The system rejected the label.
 
