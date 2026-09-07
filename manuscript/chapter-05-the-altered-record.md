@@ -10,7 +10,13 @@ Yet sitting back while the system dismantled the boys was a line she refused to 
 
 Altering a protected governance document inside the restricted archives was an act of high treason. In her already compromised position, any further slip would escalate an administrative review into immediate, permanent catastrophe. If she failed—or if the system traced the biometric footprint of her override—there would be no second chance. She would lose her clearance, her freedom, and her place in Trinity, facing permanent containment or exile to the ground she had once tried so desperately to reach. But as she watched the three linked signals pulsing on her screen, Elara knew that safety bought through inaction was no safety at all.
 
-She left her console and entered the nearest Skylark before the doors closed. The elevator began its descent toward the administrative tiers. Elara waited until the pod had gathered speed, then knelt beside the maintenance panel and used the metal tip of her hairpin to loosen the exhaust-vent screws.
+She could not simply walk away from her console. In a room monitored by three rival ganas—and with her own operator status flagged as **UNDER REVIEW**—an unannounced departure during post-Initiation processing would trigger an immediate security alert. Every move had to be covered by procedural logic.
+
+Elara initiated Drona’s mandatory post-shift audit protocol. She selected the option for physical ledger verification—a procedural requirement that allowed an operator facing administrative review twenty minutes to retrieve hard-copy archive documentation from the sub-tier vaults before executive lockouts took effect. On the room’s central display, her console status shifted from active monitoring to **TEMPORARY TRANSIT: AUDIT RETRIEVAL**.
+
+Daren glanced up, a faint, smug smirk playing at the corner of his mouth; he assumed she was scurrying off to prepare her defense for the upcoming inquiry. Rowan watched her log the code without expression, satisfied that she was following protocol. Rohan merely nodded once, acknowledging her compliance with system procedures.
+
+With her twenty-minute clock ticking on the main board, Elara stepped away from the console with deliberate, unhurried precision. She walked past the curved monitoring desks, her pulse held steady against the room's biometric sensors, and entered the nearest Skylark before the doors closed. The elevator began its descent toward the administrative tiers. Elara waited until the pod had gathered speed, then knelt beside the maintenance panel and used the metal tip of her hairpin to loosen the exhaust-vent screws.
 
 The opening was barely wide enough for her hand. She reached through, found the service cables running along the elevator shaft, and pulled herself into the narrow maintenance channel above the moving pod.
 
