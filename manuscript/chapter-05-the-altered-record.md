@@ -18,9 +18,13 @@ Daren glanced up, a faint, smug smirk playing at the corner of his mouth; he ass
 
 With her twenty-minute clock ticking on the main board, Elara stepped away from the console with deliberate, unhurried precision. She walked past the curved monitoring desks, her pulse held steady against the room's biometric sensors, and entered the nearest Skylark before the doors closed. The elevator began its descent toward the administrative tiers. Elara waited until the pod had gathered speed, then knelt beside the maintenance panel and used the metal tip of her hairpin to loosen the exhaust-vent screws.
 
-The opening was barely wide enough for her hand. She reached through, found the service cables running along the elevator shaft, and pulled herself into the narrow maintenance channel above the moving pod.
+Removing the vent grill exposed the secondary access latch designed for emergency shaft maintenance. Elara disengaged the ceiling locks, pushing the hinged hatch panel upward into the dark, vertical corridor. Using the interior handrails for leverage, she hoisted her torso into the howling wind above the car, pulling herself flat onto the vibrating roof.
 
-The Skylark dropped away beneath her. The shaft wind tore at her uniform and filled her ears with the roar of the city moving through its own machinery. She gripped the cables and climbed, one hand above the other, while the elevator continued racing toward the ground floor.
+The pod was dropping too fast to risk a direct leap to the wall; the downward velocity would tear her fingers from the rungs the moment she touched them. Crouching on the oil-slicked metal, she tracked the vertical steel guide-rail running beside the car. As the pod sped past a mid-shaft maintenance junction, the gap between the car roof and the wall ladder briefly compressed to a mere foot.
+
+Elara timed her move to the split-second. She lunged for the ladder's vertical steel upright, wrapping her forearm around the bar and absorbing the violent downward jerk against the rung braces. The pod dropped away beneath her boots with a deafening rush of displacement wind, leaving her suspended in the dark shaft, knees locked against the wall, her knuckles white as she fought the momentum trying to throw her into the void.
+
+The shaft wind tore at her uniform and filled her ears with the roar of the city moving through its own machinery. She gripped the cables and climbed, one hand above the other, while the elevator continued racing toward the ground floor.
 
 The restricted archive lay between the governance tiers, accessible only through a service cavity that the public maps did not show. Elara reached the upper landing and swung toward the wall recess just as the Skylark rose beneath her on its return cycle. The pod passed within inches of her boots. She folded herself into the cavity and held her breath until the lights vanished below.
 
