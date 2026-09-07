@@ -18,7 +18,9 @@ Elara entered a provisional note: CANDIDATES MAINTAIN COOPERATIVE PROXIMITY UNDE
 
 Rohan did not look away from Otto's feed. "At twenty-four hours, the first real decisions begin. The force ladder remains closed unless there is an actual threat."
 
-At thirty-six hours, the chamber feeds had stopped resembling a test and begun resembling an accounting of who could remain awake. Gage, Ben, and Otto still held to the same narrow proximity band. Elara had no authorized action to take, only readings that refused to separate them.
+The next review window arrived without ceremony. The chamber had already crossed the point where fatigue could be dismissed as ordinary strain. The readings were still within Trinity's approved thresholds, but the pattern had become durable enough that no one could pretend it was temporary.
+
+By thirty-six hours, the chamber feeds had stopped resembling a test and begun resembling an accounting of who could remain awake. Gage, Ben, and Otto still held to the same narrow proximity band. Elara had no authorized action to take, only readings that refused to separate them.
 
 Elara did not remember choosing to look at Otto's file again. Her hand had simply gone to it, the way a tongue returns to a broken tooth.
 
