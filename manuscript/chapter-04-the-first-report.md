@@ -34,31 +34,35 @@ Elara tried again. She changed the category from group behavior to cooperative c
 
 INTERPRETIVE INTERFERENCE DETECTED.
 
+Elara’s fingers paused above the keys. The diagnostic margin in the corner of her screen was flashing a calibration value that was far too high—someone had pushed her console’s sensitivity to its maximum ceiling. She glanced across the central grid. Daren was watching his own monitors with a flat, innocent expression, but the timing was too precise to be a glitch.
+
 Across the room, Rowan looked up from the EVENT console. "What did you change?"
 
-"Nothing that alters the readings."
+"Nothing that alters the readings," Elara said, her voice remaining carefully controlled.
 
 "That was not my question."
 
 Elara kept her eyes on the display. "The readings are showing coordinated recovery."
 
-Daren turned in his chair. "They are showing dependency. A failure in one will spread to the other two."
+Daren turned in his chair, taking immediate advantage of the red flag glowing on her board. "They are showing dependency. A failure in one will spread to the other two."
 
 "That is not the same as instability," Elara said.
 
 "It is worse. Instability can be isolated. Dependency creates leverage."
 
-Rohan's console gave a quiet warning tone. He checked the force ladder, then the chamber feed. "Otto's breathing has changed."
+Before Elara could answer, the artificially inflated sensitivity parameters from her station spilled across the shared network bridge. On the adjacent Ashoka console, Rohan's warning chime rang out sharply—triggered prematurely because Daren’s spiked threshold settings had forced the entire room's grid to flag even micro-fluctuations in candidate telemetry.
 
-Elara enlarged the relevant panel. Otto had moved closer to the other two. His shoulders were lowered, and his hands rested open on his knees. There was no visible threat in the posture. His heart rate had dropped by six points.
+Rohan checked the force ladder, then the chamber feed, his brow furrowing at the sudden alert. "Otto's breathing has changed."
+
+Elara enlarged the relevant panel. Otto had moved closer to the other two. His shoulders were lowered, and his hands rested open on his knees. Under standard parameters, the shift was a normal posture reset, but on her over-sensitized board, it glowed as a biometric shift. His heart rate had dropped by six points.
 
 Ben's breathing followed.
 
 Then Gage's.
 
-Rohan watched the sequence twice. "He is regulating them."
+Rohan watched the sequence twice, separating the true movement from the system's amplified alarm. "He is regulating them."
 
-Daren's mouth tightened. "Or controlling them."
+Daren's mouth tightened, leaning into the alert his sabotage had engineered. "Or controlling them."
 
 "You call every response you do not understand control," Rohan said.
 
@@ -154,7 +158,7 @@ A new line appeared beneath it.
 
 INTERPRETIVE DEVIATION DETECTED.
 
-Near sixty hours, Rosa's marker broke from the cohort pattern. The monitors received only fragments: Emily's vital signs declining through repeated impacts, Rosa dragging a second heat signature through the tunnel haze, and a surge of movement when she reached Gage's group. Elara could not see a chamber scene clearly enough to turn it into one. She had surveillance evidence, incomplete audio, and three monitors ready to make the fragments mean different things.
+Near sixty hours, Rosa's marker broke from the cohort pattern. The monitors received only fragments: Emily's vitals collapsing from repeated blunt trauma, Rosa dragging a second heat signature through the tunnel haze, and a violent surge of movement when she reached Gage's group. Elara could not see a chamber scene clearly enough to turn it into one. She had surveillance evidence, incomplete audio, and three monitors ready to make the fragments mean different things.
 
 Rohan froze the automated designation of subject-on-subject violence. "Partial surveillance is not a verdict," he said.
 
@@ -200,6 +204,8 @@ SWAT RESPONSE AUTHORIZED.
 
 The alert appeared on every console. Rowan's jaw tightened. Daren stared at the resource estimate. Rohan stood with both hands flat against the CORRECTION station, reading the order as though force alone might make it less final.
 
+Under standard Trinity procedure, their twelve-hour monitoring cycle should have ended as sixty hours approached. But the moment High Command issued the emergency assessment and the SWAT protocol engaged, the system initiated a mandatory shift lock. Shift rotations were frozen. All four representatives were required to remain at their consoles until the deployment resolved or the Initiation reached its seventy-two-hour mark.
+
 "They are exhausted children," Elara said.
 
 "Gage is a physical threat," Daren replied. "Otto is a trained force anomaly. The system is not measuring their age. It is measuring what they can do."
@@ -237,51 +243,3 @@ She opened the archive access panel.
 There was one record she needed to change before the boys' Sector One induction instructions propagated. The executive alert had already been issued, but the ordinary induction file still controlled what every supervisor would receive: separate housing, restricted work assignments, increased surveillance, and no shared movement without approval.
 
 Elara knew what would happen next because Trinity had shown her the pattern many times. A label became a schedule. A schedule became a restriction. A restriction became the reason given when someone was punished for resisting it.
-
-She left her console and entered the nearest Skylark before the doors closed. The elevator began its descent toward the administrative tiers. Elara waited until the pod had gathered speed, then knelt beside the maintenance panel and used the metal tip of her hairpin to loosen the exhaust-vent screws.
-
-The opening was barely wide enough for her hand. She reached through, found the service cables running along the elevator shaft, and pulled herself into the narrow maintenance channel above the moving pod.
-
-The Skylark dropped away beneath her. The shaft wind tore at her uniform and filled her ears with the roar of the city moving through its own machinery. She gripped the cables and climbed, one hand above the other, while the elevator continued racing toward the ground floor.
-
-The restricted archive lay between the governance tiers, accessible only through a service cavity that the public maps did not show. Elara reached the upper landing and swung toward the wall recess just as the Skylark rose beneath her on its return cycle. The pod passed within inches of her boots. She folded herself into the cavity and held her breath until the lights vanished below.
-
-The wall opened behind a maintenance plate. Elara crawled into the archive corridor and found the superintendent's office sealed but unattended. The master archive key was not a metal object. It was a digital RSA soft token kept inside the superintendent's secured terminal, renewed each shift and invalidated at the next system cycle.
-
-She had less than twenty minutes.
-
-Elara used the terminal's emergency access sequence, entered the token request, and waited while the system compared her biometric identity against the superintendent's authorization. The first check failed. She tried again with the report reference number. The second check opened a narrow administrative channel.
-
-She did not copy the entire archive. She changed one record.
-
-GAGE. BEN. OTTO.
-
-MINER TOWN SECTOR ONE INDUCTION: STANDARD COHORT.
-
-DEVIATION ESCALATION: WITHHELD PENDING EXECUTIVE REVIEW.
-
-The system warned her that withholding the Sector One escalation details constituted falsification of a protected governance document. Elara looked at the countdown in the corner of the screen. She thought of Teresa waiting for a cure that had never come. She thought of the ground settlements and the people Trinity had reduced to acceptable losses.
-
-Then she confirmed the alteration.
-
-The record sealed itself. For the moment, the three boys would enter Sector One without special instructions marking them for separation. It was not freedom. It was not justice. It was three ordinary doors left open in a system that had already decided to close them.
-
-Elara deleted the temporary access trail, replaced the terminal cover, and climbed back into the service cavity. When she reached the Skylark shaft, the next pod was already rising.
-
-She waited for the carriage to pass, then dropped onto its roof.
-
-By the time she stepped back into the monitoring room, the executive review notice was still glowing on her console. Rowan looked at her once. His eyes moved to the loosened hairpin in her hand, then to the archive confirmation fading from the corner of her display.
-
-He did not ask where she had been.
-
-Below them, the three boys had left the tunnel together, unaware that the system had tried to separate them and that Elara had bought them one more chance to remain together.
-
-The alert remained active on Elara's console. Her operator status changed from **AUTHORIZED** to **UNDER REVIEW**.
-
-Daren's report closed without comment. Rohan's force assessment remained pending. Rowan's cursor stayed over the group-risk field.
-
-Below them, the three candidates' biometric readings continued to move within the same narrow range. Their proximity data showed no separation.
-
-Three linked signals appeared on Elara's screen.
-
-For once, she did not reduce them to separate entries. She left the connection visible and allowed the system to record what it could not yet explain.

@@ -7,6 +7,7 @@ CHAPTERS = [
     MANUSCRIPT_DIR / "chapter-02-the-checklist.md",
     MANUSCRIPT_DIR / "chapter-03-the-first-correction.md",
     MANUSCRIPT_DIR / "chapter-04-the-first-report.md",
+    MANUSCRIPT_DIR / "chapter-05-the-altered-record.md",
 ]
 
 REQUIRED_MARKERS = [
@@ -20,6 +21,7 @@ REQUIRED_MARKERS = [
     (3, "sixty hours"),
     (3, "seventy-two hours"),
     (3, "PASSED: INITIATION SURVIVAL CRITERIA."),
+    (4, "MINER TOWN SECTOR ONE INDUCTION: STANDARD COHORT."),
 ]
 
 
