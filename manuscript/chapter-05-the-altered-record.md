@@ -28,7 +28,7 @@ The shaft wind tore at her uniform and filled her ears with the roar of the city
 
 The restricted archive lay between the governance tiers, accessible only through a service cavity that the public maps did not show. Elara reached the upper landing and swung toward the wall recess just as the Skylark rose beneath her on its return cycle. The pod shot past within inches of her boots, its exterior running lights sweeping over her face. She folded herself into the cavity and held her breath until the cab ascended past and the lights vanished above into the upper shaft.
 
-The wall opened behind a maintenance plate. Elara crawled into the archive corridor and found the superintendent's office sealed but unattended. The master archive key was not a metal object. It was a digital RSA soft token kept inside the superintendent's secured terminal, renewed each shift and invalidated at the next system cycle.
+The wall opened behind a maintenance plate. Elara crawled into the archive corridor and found the superintendent's office sealed but unattended. The restricted archive didn't rely on physical locks; it required an active administrative session token, an encrypted key generated anew with each monitoring cycle.
 
 She had less than twenty minutes.
 
