@@ -4,17 +4,19 @@
 
 By the eighteen-hour mark, the system had flagged a new pattern. The chamber had changed from restless to wrong. No candidate slept. The screens showed shaking hands, repeated movements, and pulse patterns rising without exertion. The design of the intake had already done what it was meant to do. Gage's group sat close enough that their heat signatures touched at the edges. They shared what they could and kept one another facing the same direction.
 
+The next morning, the representatives settled back into their consoles for the first full reassessment of the intake cycle after the overnight deterioration.
+
 "Cohesion is not evidence of safety," Daren said.
 
 "Neither is isolation," Elara replied.
+
+Daren's jaw tightened, and for a moment his eyes stayed on Elara instead of the board. Kubera had long treated itself as the uppermost echelon of the ganas because it controlled resources, allocation, and the machinery that kept the system fed. Being corrected in front of the others was not something Kubera absorbed easily, and Daren did not forget it. He let the silence carry the insult, then turned back to the console with the controlled irritation of a man who knew the room had not chosen him as its center.
 
 Rowan looked between the readings and his event log. "Give me language that can survive review."
 
 Elara entered a provisional note: CANDIDATES MAINTAIN COOPERATIVE PROXIMITY UNDER EARLY STRESS. NO INTERVENTION RECOMMENDED AT THIS TIME.
 
 Rohan did not look away from Otto's feed. "At twenty-four hours, the first real decisions begin. The force ladder remains closed unless there is an actual threat."
-
-The next morning, the representatives settled back into their consoles for the first full reassessment of the intake cycle after the overnight deterioration.
 
 At thirty-six hours, the chamber feeds had stopped resembling a test and begun resembling an accounting of who could remain awake. Gage, Ben, and Otto still held to the same narrow proximity band. Elara had no authorized action to take, only readings that refused to separate them.
 
