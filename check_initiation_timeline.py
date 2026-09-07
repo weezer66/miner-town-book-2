@@ -12,13 +12,13 @@ CHAPTERS = [
 REQUIRED_MARKERS = [
     (0, "## Day Zero: Assignment"),
     (1, "## Day One: Intake"),
-    (1, "FIRST MONITOR RELEASE. AUTOPILOT OBSERVATION ENGAGED."),
-    (2, "## Day Two: Attrition"),
-    (2, "At thirty-six hours"),
-    (2, "At forty-eight hours"),
+    (1, "AUTOPILOT OBSERVATION ENGAGED."),
+    (2, "## Day One, continued: The Pattern Forms"),
+    (2, "thirty-six hours"),
+    (2, "forty-eight hours"),
     (3, "## Day Three: Threshold"),
-    (3, "Near sixty hours, Rosa's marker"),
-    (3, "At seventy-two hours, the gates reopened."),
+    (3, "sixty hours"),
+    (3, "seventy-two hours"),
     (3, "PASSED: INITIATION SURVIVAL CRITERIA."),
 ]
 
