@@ -1,5 +1,15 @@
 # Chapter 5: The Altered Record
 
+Elara stood before her console, watching the executive escalation order seal itself into Trinity’s central ledger. In Drona, every crisis was an equation waiting for an operator to balance it, but as she evaluated her remaining options, she knew the math offered no safe resolution.
+
+Compliance was the path of least resistance. If she did nothing, her profile remained untarnished, her clearance intact, and her standing in Drona secure. The system would process Gage, Ben, and Otto through standard culling protocols—separating their quarters, fragmenting their assignments, and ensuring they broke individually before they could threaten the city’s design. To remain passive was to survive, but it meant becoming an accomplice to the very machinery that had erased Teresa.
+
+An official administrative appeal was equally futile. She could lodge a formal dissent through Drona’s governance channels, but bureaucracy in Trinity was designed to exhaust resistance through delay. By the time her petition reached a review board, the boys’ separation directives would already be enforced, and her name would simply be flagged for secondary audit.
+
+That left only a third option: direct, unauthorized intervention.
+
+Altering a protected governance document inside the restricted archives was an act of high treason. The stakes were absolute. If she failed—or if the system traced the biometric footprint of her override—there would be no second chance. She would lose her clearance, her freedom, and her place in Trinity, facing permanent containment or exile to the ground she had once tried so desperately to reach. But as she watched the three linked signals pulsing on her screen, Elara knew that safety bought through inaction was no safety at all.
+
 She left her console and entered the nearest Skylark before the doors closed. The elevator began its descent toward the administrative tiers. Elara waited until the pod had gathered speed, then knelt beside the maintenance panel and used the metal tip of her hairpin to loosen the exhaust-vent screws.
 
 The opening was barely wide enough for her hand. She reached through, found the service cables running along the elevator shaft, and pulled herself into the narrow maintenance channel above the moving pod.
