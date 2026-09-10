@@ -112,7 +112,7 @@ Now it spoke directly to him.
 
 The words were calm, almost gentle. That made them worse.
 
-"You were given access, resources, and the authority to interpret threshold conditions. You allowed three lowly residents of Miner Town—children drawn from the labor population Kubera keeps beneath notice—to alter the meaning of the Initiation. You recognized their cohesion as a threat, but you failed to control the response. You possessed the data, the connections, and the institutional reach to establish a defensible case against Elara Abrahms. You did not."
+"You were given access, resources, and the authority to interpret threshold conditions. You allowed three lowly residents of Miner Town—children drawn from the labor population Kubera keeps beneath notice—to alter the meaning of the Initiation. You recognized their cohesion as a threat, but you failed to control the response. You possessed the data, the connections, and the institutional reach to establish a defensible case against Elara Nathan. You did not."
 
 Daren's mouth went dry.
 

@@ -12,7 +12,7 @@ The next morning, the representatives settled back into their consoles for the f
 
 Daren's jaw tightened, and for a moment his eyes stayed on Elara instead of the board. Kubera had long treated itself as the uppermost echelon of the ganas because it controlled resources, allocation, and the machinery that kept the system fed. Being corrected in front of the others was not something Kubera absorbed easily, and Daren did not forget it. He let the silence carry the insult, then turned back to the console with the controlled irritation of a man who knew the room had not chosen him as its center.
 
-Rowan looked between the readings and his event log. "Give me language that can survive review."
+Ravi looked between the readings and his event log. "Give me language that can survive review."
 
 Elara entered a provisional note: CANDIDATES MAINTAIN COOPERATIVE PROXIMITY UNDER EARLY STRESS. NO INTERVENTION RECOMMENDED AT THIS TIME.
 
@@ -172,11 +172,11 @@ Elara's own file did not carry a transfer. It carried something quieter and more
 
 EMPATHY SURGE EVENT, AGE 12. SUBJECT DEMONSTRATES RISK OF PROTOCOL DEVIATION UNDER EMOTIONAL LOAD. RECOMMEND CONTINUED MONITORING.
 
-Sen had explained the lesson plainly, in the flat administrative voice Elara would spend the next fourteen years learning to imitate. Concealment did not protect anyone. It only delayed the moment when the system found out anyway, and by then the person being protected had already been exposed for longer, not less. Mercy applied in secret was not mercy. It was a debt collected later, usually against someone who could no longer see it coming.
+Sen had explained the lesson plainly, in the flat administrative voice Elara would spend the next four years learning to imitate. Concealment did not protect anyone. It only delayed the moment when the system found out anyway, and by then the person being protected had already been exposed for longer, not less. Mercy applied in secret was not mercy. It was a debt collected later, usually against someone who could no longer see it coming.
 
 Elara had built her entire career around a failure she could not outwork. All her care, love, empathy, struggle, and desperation had not saved Teresa. Worse, her desperation had carried her to the ground and kept her away when Teresa spoke her final word. After that, Elara learned to observe before acting, to report before intervening, and to let the machine see everything before she decided what to feel about it. No amount of discipline could change what she had lost, but discipline gave her a way to keep moving.
 
-By twenty-five, Elara had become very good at moving through Trinity without appearing to challenge its shape. She had earned authority through excellence, learned to translate empathy into measurable risk, and accepted a place among the people trusted to observe what happened when the city's carefully managed boundaries failed. The old curiosity had not disappeared. It had acquired clearance levels, biometric thresholds, and a professional vocabulary.
+By nineteen, Elara had become very good at moving through Trinity without appearing to challenge its shape. She had earned authority through excellence, learned to translate empathy into measurable risk, and accepted a place among the people trusted to observe what happened when the city's carefully managed boundaries failed. The old curiosity had not disappeared. It had acquired clearance levels, biometric thresholds, and a professional vocabulary.
 
 She told herself this was why she had kept the correction controls inactive instead of turning Gage's group into a test condition. It was not concealment. It was disclosure with better timing. She would let the evidence exist before anyone could accuse her of inventing it.
 
@@ -190,11 +190,11 @@ On her console, Otto's supplemental flag blinked once and steadied. Beside it, G
 
 Elara closed the file before the thought could finish forming. Trinity had taught her exactly what happened to people who reached first and reported second. She intended to be the one holding the report this time, not the one who needed someone else to write it for her.
 
-Across the room, Rowan was watching her again. She did not look up to confirm it. She already knew what her own pulse would tell him if he checked.
+Across the room, Ravi was watching her again. She did not look up to confirm it. She already knew what her own pulse would tell him if he checked.
 
 The second monitoring cycle came to an end under the steady hum of automated tracking. The blue status lights transitioned to white as the representatives logged off their consoles for the night, leaving the automated systems to record the hours between shifts.
 
-While Trinity slept around them, Rohan traced the escalation pathways on his personal terminal. Ashoka had been built on the principle that power without precision was merely violence. In the monitoring room, Daren measured candidates by their resource cost and Rowan measured them by their compliance narrative. Only Ashoka understood that a candidate who could endure pressure without lashing out was far more valuable than one who surrendered at the first sign of pain.
+While Trinity slept around them, Rohan traced the escalation pathways on his personal terminal. Ashoka had been built on the principle that power without precision was merely violence. In the monitoring room, Daren measured candidates by their resource cost and Ravi measured them by their compliance narrative. Only Ashoka understood that a candidate who could endure pressure without lashing out was far more valuable than one who surrendered at the first sign of pain.
 
 Otto’s readings remained locked in a tight, elevated state, a physical anomaly that hovered just below the red line. A lesser monitor would have opened the correction protocols out of sheer discomfort with the unknown. But Rohan knew the difference between a threat and a pillar. Otto was holding the group together through sheer force of will, giving Ben and Gage something solid to lean against as the hours wore on.
 

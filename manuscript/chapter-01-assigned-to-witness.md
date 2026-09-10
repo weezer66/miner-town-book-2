@@ -4,7 +4,7 @@
 
 Elara woke at 3:00 a.m., on schedule, before the city lights shifted to dawn mode.
 
-In college, this would have been the hour she went to sleep, full of noise, caffeine, and unfinished arguments. Trinity had cured her of that. Her schedule controlled when she woke, ate, worked, and slept. Discipline was part of the building.
+At the Institute, this would have been the hour she went to sleep, full of noise, caffeine, and unfinished arguments. Trinity had cured her of that. Her schedule controlled when she woke, ate, worked, and slept. Discipline was part of the building.
 
 Everyone in Trinity had a schedule. The four ganas wrote the schedule for everyone else.
 
@@ -62,13 +62,13 @@ The elevator took thirty seconds to lift her toward the monitoring towers. The t
 
 At that altitude, cloud cover and atmospheric barriers erased detail. Identification became mandatory through locators and tags, where people appeared first as serial numbers and only incidentally as bodies. As the pod rose, Elara watched the city fall into layers beneath her. In Trinity, altitude measured distance from other people's pain. By the time the Skylark opened at the control tier, the lesson was complete. Ascent was not freedom. It was distance with a better view.
 
-Elara reached the monitoring tower with her pulse settled into the kind of rhythm Trinity liked to mistake for loyalty. She placed her thumb on the scanner. A white ring closed around her print, then climbed to her eye line. "Identity verified. Elara Abrahms. Gana: Drona. Security clearance: Initiation monitoring."
+Elara reached the monitoring tower with her pulse settled into the kind of rhythm Trinity liked to mistake for loyalty. She placed her thumb on the scanner. A white ring closed around her print, then climbed to her eye line. "Identity verified. Elara Nathan. Gana: Drona. Security clearance: Initiation monitoring."
 
 The door hissed open on a green pulse. Across the circular antechamber, three other doors released pressure in perfect sync, as if the building itself had taken a single measured breath.
 
 One figure stepped from each threshold. For a moment, the four of them stood around the Initiation wing, each carrying a different doctrine in the same uniform.
 
-Rowan came first, Chanakya's representative to the monitoring team. His face held a calm that people trusted until they realized they had been studied, not seen. He nodded once at Elara. It was courtesy, but it was also a warning: this was not a meeting between equals. It was an arrangement of control.
+Ravi came first, Chanakya's representative to the monitoring team. His face held a calm that people trusted until they realized they had been studied, not seen. He nodded once at Elara. It was courtesy, but it was also a warning: this was not a meeting between equals. It was an arrangement of control.
 
 Daren emerged with the unhurried confidence of someone who believed time belonged to him. Kubera insignia glinted at his collar, muted gold and mathematically understated. His eyes moved across bodies, badges, and doors, assigning value before words entered the room.
 
@@ -86,7 +86,7 @@ Inside, the chamber was arranged like a divided compass. Four curved consoles fa
 
 Each station carried a single label in austere white text: EVENT, VARIANCE, THRESHOLD, CORRECTION.
 
-Rowan moved to EVENT, the Chanakya station, because Chanakya taught that power began by deciding which events were allowed to mean something. His display bloomed with intake feeds, incident streams, and narrative flags waiting to be classified.
+Ravi moved to EVENT, the Chanakya station, because Chanakya taught that power began by deciding which events were allowed to mean something. His display bloomed with intake feeds, incident streams, and narrative flags waiting to be classified.
 
 Elara took VARIANCE, the Drona station, because Drona's first obligation was to follow knowledge wherever it led, especially when the data exposed a flaw the system preferred not to name. Her panels lit with pattern drift, stress spikes, deviation corridors, and probability envelopes. Her job was to notice when the system's story and the data's behavior stopped agreeing.
 
@@ -114,7 +114,7 @@ A red alert bar materialized beneath the three names. **OPERATOR INTERVENTION RE
 
 This was probably the first time Trinity's surveillance system had encountered an anomaly of this kind. The four gana representatives searched the online archives and the printed manuals beside their consoles, but neither offered a reason for the designation or an instruction for what came next.
 
-Their attention settled on the High Command call button. Rowan lifted his hand toward it, ready to request assistance, but Elara caught his wrist.
+Their attention settled on the High Command call button. Ravi lifted his hand toward it, ready to request assistance, but Elara caught his wrist.
 
 "Wait," she said. "It's our first day. We cannot give them a reason to think we need supervision before we have even begun. Let's see if we can solve it ourselves."
 
@@ -154,9 +154,9 @@ She tagged Gage to herself and pulled up Ben's profile. The relief in the data w
 
 She glanced across the room. "Well, now that's more like it. Your average joe. Anyone want to volunteer to cater to this fine gentleman?"
 
-Rowan's hand moved before he fully understood why. It was instinct, the professional recognition of his domain. He knew better than any of them that the average miner was the true governing force in any system. The majority set the rhythm, absorbed the pressure, and kept the machinery running. That was the Chanakya way: study the many, understand the mainstream, and use that understanding to decide where the system would bend and where it would break. Ben's measurements were ordinary in the most important sense. They were not the exception. They were the baseline. The kind of disciplined, efficient build that kept the deep shafts moving without noise or collapse. That was why Ben interested him. Not because Ben was remarkable, but because Ben was representative.
+Ravi's hand moved before he fully understood why. It was instinct, the professional recognition of his domain. He knew better than any of them that the average miner was the true governing force in any system. The majority set the rhythm, absorbed the pressure, and kept the machinery running. That was the Chanakya way: study the many, understand the mainstream, and use that understanding to decide where the system would bend and where it would break. Ben's measurements were ordinary in the most important sense. They were not the exception. They were the baseline. The kind of disciplined, efficient build that kept the deep shafts moving without noise or collapse. That was why Ben interested him. Not because Ben was remarkable, but because Ben was representative.
 
-Rowan reached forward, his hand closing over the assignment console. "I'll take Ben."
+Ravi reached forward, his hand closing over the assignment console. "I'll take Ben."
 
 The gesture was possessive in a way that surprised even him. In claiming Ben, he was claiming something he understood. And in a room where understanding was currency, that felt like power.
 

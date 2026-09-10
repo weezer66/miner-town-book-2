@@ -36,7 +36,7 @@ INTERPRETIVE INTERFERENCE DETECTED.
 
 Elara’s fingers paused above the keys. The diagnostic margin in the corner of her screen was flashing a calibration value that was far too high—someone had pushed her console’s sensitivity to its maximum ceiling. She glanced across the central grid. Daren was watching his own monitors with a flat, innocent expression, but the timing was too precise to be a glitch.
 
-Across the room, Rowan looked up from the EVENT console. "What did you change?"
+Across the room, Ravi looked up from the EVENT console. "What did you change?"
 
 "Nothing that alters the readings," Elara said, her voice remaining carefully controlled.
 
@@ -68,7 +68,7 @@ Daren's mouth tightened, leaning into the alert his sabotage had engineered. "Or
 
 "And you call every use of force protection when it comes from someone you approve of."
 
-Rowan ignored them. A new window had opened across the four consoles. It carried the seal of High Command and a single instruction.
+Ravi ignored them. A new window had opened across the four consoles. It carried the seal of High Command and a single instruction.
 
 SUBMIT PRELIMINARY CANDIDATE ASSESSMENT.
 
@@ -94,7 +94,7 @@ Together, they were classified as a coordinated deviation cluster.
 
 Elara read the phrase twice. The words were efficient, bloodless, and wrong.
 
-Rowan's report populated beside hers. He had not accepted the original designation without examining it. His cursor rested over the group-risk field.
+Ravi's report populated beside hers. He had not accepted the original designation without examining it. His cursor rested over the group-risk field.
 
 "What are you going to call them?" he asked.
 
@@ -102,7 +102,7 @@ Rowan's report populated beside hers. He had not accepted the original designati
 
 "The system is asking for our confirmation. That is different."
 
-It was the first time Rowan had said something that sounded like an invitation rather than a challenge.
+It was the first time Ravi had said something that sounded like an invitation rather than a challenge.
 
 Elara looked through the feed again. Gage had shifted his position so that Ben was protected from the open chamber. Otto sat on the other side, watching the tunnel mouth and the candidates moving through the haze. None of them appeared aware that their arrangement had become evidence.
 
@@ -130,7 +130,7 @@ Then the border around it turned amber.
 
 UNSUPPORTED RECOMMENDATION. JUSTIFICATION REQUIRED.
 
-"Elara," Rowan said quietly.
+"Elara," Ravi said quietly.
 
 She did not look at him. "What?"
 
@@ -164,7 +164,7 @@ Rohan froze the automated designation of subject-on-subject violence. "Partial s
 
 "It is a liability," Daren replied.
 
-Rowan amended the event record to require contextual review. Elara added that no separation order should issue from partial surveillance data. When Otto's force markers rose once and settled, Gage's signal stabilized, and Ben's remained near the chamber floor, the only conclusion the feed could support was that the immediate threat had ended.
+Ravi amended the event record to require contextual review. Elara added that no separation order should issue from partial surveillance data. When Otto's force markers rose once and settled, Gage's signal stabilized, and Ben's remained near the chamber floor, the only conclusion the feed could support was that the immediate threat had ended.
 
 The warning had barely settled when Gage's biometric readings changed sharply. His pulse leapt, his breathing became short and violent, and the movement sensors registered him rising from the ground.
 
@@ -198,11 +198,11 @@ OPERATOR OVERRIDE UNAVAILABLE.
 
 The three boys were no longer waiting for a decision from the monitoring room. Their behavior had crossed a threshold the system had defined in advance. Ground personnel were marked insufficient for the combined strength and skill profiles of Gage and Otto. The response order routed upward, past the local wardens, to the Infinity Guard chambers.
 
-Four hours was the estimated travel time from the guard chambers to Miner Town. The system did not ask Rowan, Daren, Rohan, or Elara whether the deployment was necessary. It sent the message and began preparing the transport.
+Four hours was the estimated travel time from the guard chambers to Miner Town. The system did not ask Ravi, Daren, Rohan, or Elara whether the deployment was necessary. It sent the message and began preparing the transport.
 
 SWAT RESPONSE AUTHORIZED.
 
-The alert appeared on every console. Rowan's jaw tightened. Daren stared at the resource estimate. Rohan stood with both hands flat against the CORRECTION station, reading the order as though force alone might make it less final.
+The alert appeared on every console. Ravi's jaw tightened. Daren stared at the resource estimate. Rohan stood with both hands flat against the CORRECTION station, reading the order as though force alone might make it less final.
 
 Under standard Trinity procedure, their twelve-hour monitoring cycle should have ended as sixty hours approached. But the moment High Command issued the emergency assessment and the SWAT protocol engaged, the system initiated a mandatory shift lock. Shift rotations were frozen. All four representatives were required to remain at their consoles until the deployment resolved or the Initiation reached its seventy-two-hour mark.
 
@@ -226,7 +226,7 @@ The SWAT team arrived four hours later to find the candidates motionless beneath
 
 "Candidates are asleep," the team leader reported. "No active threat."
 
-Rohan ordered a perimeter rather than an extraction. Daren objected to the cost. Rowan entered the lack of an active threat into the event record. Elara kept the group-risk field open. The survival result could not be recorded yet; the Initiation had not ended.
+Rohan ordered a perimeter rather than an extraction. Daren objected to the cost. Ravi entered the lack of an active threat into the event record. Elara kept the group-risk field open. The survival result could not be recorded yet; the Initiation had not ended.
 
 At seventy-two hours, the gates reopened. The three signals moved before the guards crossed the threshold. Gage rose first, then waited. Ben found his feet beside him. Otto moved last, close enough to steady either of them but not leading them. The monitors recorded no rescue or command that brought them to the exit. The boys emerged together because they had endured together.
 

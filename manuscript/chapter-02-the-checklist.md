@@ -4,7 +4,7 @@
 
 The three names stopped flashing.
 
-Gage settled beneath Elara's Drona VARIANCE designation. Ben moved to Rowan's Chanakya EVENT stream, where his record could be turned into an official meaning. Otto locked into Rohan's Ashoka CORRECTION channel, already framed as a force problem to contain. Daren's Kubera THRESHOLD display retained the cost of all three. The red alert bar vanished from the central grid, leaving only the record of a manual override in the corner of the display.
+Gage settled beneath Elara's Drona VARIANCE designation. Ben moved to Ravi's Chanakya EVENT stream, where his record could be turned into an official meaning. Otto locked into Rohan's Ashoka CORRECTION channel, already framed as a force problem to contain. Daren's Kubera THRESHOLD display retained the cost of all three. The red alert bar vanished from the central grid, leaving only the record of a manual override in the corner of the display.
 
 Daren watched it disappear. "There," he said. "Sorted."
 
@@ -14,7 +14,7 @@ The four gana representatives returned to their consoles.
 
 Each terminal opened the same pre-Initiation checklist, though each version was shaped by its gana's priorities. Across the central grid, sixteen names waited in ordered columns. Thirteen had been placed without interruption. Three carried a small amber mark beside their names: MANUAL ASSIGNMENT. It was a quieter flag than UNASSIGNED, but it still marked them on the grid.
 
-The manual overrides made Gage, Ben, and Otto anomalous candidates. Elara, Rowan, and Rohan were expected to keep them under continuous observation until the Initiation was complete. Trinity did not call it watching. The official language was enhanced oversight, dressed up as concern for the children's safety, when its only real function was to tighten the grip on them.
+The manual overrides made Gage, Ben, and Otto anomalous candidates. Elara, Ravi, and Rohan were expected to keep them under continuous observation until the Initiation was complete. Trinity did not call it watching. The official language was enhanced oversight, dressed up as concern for the children's safety, when its only real function was to tighten the grip on them.
 
 Elara opened Gage's file first. The checklist unfolded beside his profile in narrow, numbered lines.
 
@@ -34,13 +34,13 @@ Baseline behavior logged for comparison.
 
 She moved through each item carefully, comparing the system's summary against the raw readings beneath it. Height. Weight. Resting pulse. Respiration rate. Cortisol level. There were numbers for everything Trinity thought could become a risk. Her job was to find the number that did not belong before it became a problem someone else had to contain.
 
-Across from her, Rowan reviewed Ben's file with the quieter concentration of someone reading a report that might reveal an argument before it began. He checked family connections, work-group affiliations, disciplinary notes, and the small patterns of behavior that could turn a routine Initiation into an event worth recording. He did not look at Ben's photograph for long. The record was more useful than the face.
+Across from her, Ravi reviewed Ben's file with the quieter concentration of someone reading a report that might reveal an argument before it began. He checked family connections, work-group affiliations, disciplinary notes, and the small patterns of behavior that could turn a routine Initiation into an event worth recording. He did not look at Ben's photograph for long. The record was more useful than the face.
 
 Ben's physical readings were ordinary. His history was not. One entry had been elevated from the household archive: an unauthorized-aid incident involving Leroy, a repeat offender who had previously targeted Ben's family. The record showed that Gretchen persuaded the household to shelter him and spend their own rations on his recovery. Trinity classified the decision as a compassion anomaly and flagged Ben as an active participant.
 
-The flag had remained after Leroy's later termination for obstructing a guard during an incident involving Gretchen. Between the two entries, Ben's periodic skill assessments had started showing competencies no ten-year-old on his training track should have had: structural-hazard assessment, ration-stretching technique, patrol-evasion routes. The system cross-referenced the scores against Leroy's own labor record, found a match, and logged eleven months of unsupervised knowledge transfer outside any sanctioned training channel. The archive called it an informal influence network. Rowan saw the risk more clearly: the family had learned that people could change, that care could become loyalty, and that Trinity punished disruption more reliably than cruelty.
+The flag had remained after Leroy's later termination for obstructing a guard during an incident involving Gretchen. Between the two entries, Ben's periodic skill assessments had started showing competencies no ten-year-old on his training track should have had: structural-hazard assessment, ration-stretching technique, patrol-evasion routes. The system cross-referenced the scores against Leroy's own labor record, found a match, and logged eleven months of unsupervised knowledge transfer outside any sanctioned training channel. The archive called it an informal influence network. Ravi saw the risk more clearly: the family had learned that people could change, that care could become loyalty, and that Trinity punished disruption more reliably than cruelty.
 
-The archive marked the household's conduct as a potential behavioral risk and an indicator of unauthorized moral reasoning. Rowan wondered whether that was why the assignment algorithm had failed to place him.
+The archive marked the household's conduct as a potential behavioral risk and an indicator of unauthorized moral reasoning. Ravi wondered whether that was why the assignment algorithm had failed to place him.
 
 Rohan worked through Otto's correction protocols. His list was shorter, but each item carried more weight.
 
@@ -87,7 +87,7 @@ RESOURCE DISTRIBUTION DEVIATION.
 
 UNAUTHORIZED GROUP FORMATION.
 
-Rowan brought the two event logs onto the central grid. "He is identifying the game we are playing with them," he said. "Not merely refusing intake."
+Ravi brought the two event logs onto the central grid. "He is identifying the game we are playing with them," he said. "Not merely refusing intake."
 
 Daren's gaze stayed on the loss projections. "The distinction changes nothing. He is creating instability in the cohort."
 
@@ -95,7 +95,7 @@ Elara enlarged the overhead feed. Gage remained between Ben and Otto whenever th
 
 Her console offered three actions: record the deviation, notify the floor wardens, or initiate corrective observation. Each would turn an incomplete interpretation into an official fact. Elara selected the first and left the other two inactive.
 
-"You are declining to escalate?" Rowan asked.
+"You are declining to escalate?" Ravi asked.
 
 "I am declining to make a conclusion before the evidence exists," Elara said.
 
@@ -105,7 +105,7 @@ The blue bands in the monitoring room brightened to white. Every display dimmed 
 
 MANUAL MONITORING SHIFT COMPLETE. AUTOPILOT OBSERVATION ENGAGED.
 
-The four representatives entered the adjoining recovery station, where scanners measured fatigue as an institutional resource. Rowan received tea, Daren black coffee, Rohan coffee cut with electrolytes, and Elara a bitter coffee. The monitors were not being tested as brutally as the candidates, but Trinity still measured them for usefulness.
+The four representatives entered the adjoining recovery station, where scanners measured fatigue as an institutional resource. Ravi received tea, Daren black coffee, Rohan coffee cut with electrolytes, and Elara a bitter coffee. The monitors were not being tested as brutally as the candidates, but Trinity still measured them for usefulness.
 
 Daren joined Rohan at the counter. "You should have notified the wardens. Variables reveal what a system is worth."
 
@@ -115,8 +115,8 @@ Daren joined Rohan at the counter. "You should have notified the wardens. Variab
 
 Rohan set down his cup. "Force has a purpose. It is not a way to make a report more useful."
 
-Rowan approached Elara after Rohan had gone. "Drona trains its representatives to observe before they alter a system," he said. "Will you hold to that?"
+Ravi approached Elara after Rohan had gone. "Drona trains its representatives to observe before they alter a system," he said. "Will you hold to that?"
 
 Elara looked at the three synchronized readings on her screen: Gage's rising strain, Ben's erratic responses, and Otto's sudden force markers. "Until the evidence gives me a reason not to."
 
-After Elara spoke, Rowan did not react. That was not the Chanakya way. He let the sentence sit in the room the way a signal sat in the grid: not yet meaningful, but not yet dismissed. Rowan returned to his quarters and went through the reset Trinity required after a monitoring shift. The room's wash cycle cleared the body first — a quick rinse, a neutralizing spray, the removal of residual chamber heat — but the more important step was the mental reset. He stood in the center of the room, hands braced against the sink, and let the feed come apart in his mind one layer at a time: the pulse spikes, the proximity bands, the false calm of the system, the pattern he was not yet ready to name. Trinity called it decompression. It was a discipline designed to stop a representative from carrying the chamber back into the rest of the day. After the wash cycle, he took the regulated nutrient intake before bed, the bitter film settling across his tongue as the room dimmed into the quiet, mechanical hush of the after-hours ward. He lay still in the dark, staring at the ceiling, and the thought came to him with a suddenness that felt almost electric: if Ben looked ordinary by every measure and still carried the unassigned mark from Trinity, then perhaps he was not simply a man with a questionable history. Perhaps he was something more than a loose end. Perhaps he was the kind of person who could do more than keep the pack together — perhaps he could be the one to set a chain of disruptive events in motion, a small fracture that widened into a system-wide crack. The idea tightened in Rowan’s chest, not with fear, but with a strange, electric intrigue. If Ben was only a person, then he was an ordinary one. If he was something else, then he might be the first true variable in the pattern. Rowan let the thought linger a moment longer, then surrendered to it as sleep finally folded over him.
+After Elara spoke, Ravi did not react. That was not the Chanakya way. He let the sentence sit in the room the way a signal sat in the grid: not yet meaningful, but not yet dismissed. Ravi returned to his quarters and went through the reset Trinity required after a monitoring shift. The room's wash cycle cleared the body first — a quick rinse, a neutralizing spray, the removal of residual chamber heat — but the more important step was the mental reset. He stood in the center of the room, hands braced against the sink, and let the feed come apart in his mind one layer at a time: the pulse spikes, the proximity bands, the false calm of the system, the pattern he was not yet ready to name. Trinity called it decompression. It was a discipline designed to stop a representative from carrying the chamber back into the rest of the day. After the wash cycle, he took the regulated nutrient intake before bed, the bitter film settling across his tongue as the room dimmed into the quiet, mechanical hush of the after-hours ward. He lay still in the dark, staring at the ceiling, and the thought came to him with a suddenness that felt almost electric: if Ben looked ordinary by every measure and still carried the unassigned mark from Trinity, then perhaps he was not simply a man with a questionable history. Perhaps he was something more than a loose end. Perhaps he was the kind of person who could do more than keep the pack together — perhaps he could be the one to set a chain of disruptive events in motion, a small fracture that widened into a system-wide crack. The idea tightened in Ravi’s chest, not with fear, but with a strange, electric intrigue. If Ben was only a person, then he was an ordinary one. If he was something else, then he might be the first true variable in the pattern. Ravi let the thought linger a moment longer, then surrendered to it as sleep finally folded over him.

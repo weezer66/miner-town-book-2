@@ -16,7 +16,7 @@ She could not simply walk away from her console. In a room monitored by three ri
 
 Elara initiated Drona’s mandatory post-shift audit protocol. She selected the option for physical ledger verification—a procedural requirement that allowed an operator facing administrative review twenty minutes to retrieve hard-copy archive documentation from the sub-tier vaults before executive lockouts took effect. On the room’s central display, her console status shifted from active monitoring to **TEMPORARY TRANSIT: AUDIT RETRIEVAL**.
 
-Daren glanced up, a faint, smug smirk playing at the corner of his mouth; he assumed she was scurrying off to prepare her defense for the upcoming inquiry. Rowan watched her log the code without expression, satisfied that she was following protocol. Rohan merely nodded once, acknowledging her compliance with system procedures.
+Daren glanced up, a faint, smug smirk playing at the corner of his mouth; he assumed she was scurrying off to prepare her defense for the upcoming inquiry. Ravi watched her log the code without expression, satisfied that she was following protocol. Rohan merely nodded once, acknowledging her compliance with system procedures.
 
 With her twenty-minute clock ticking on the main board, Elara stepped away from the console with deliberate, unhurried precision. She walked past the curved monitoring desks, her pulse held steady against the room's biometric sensors, and entered the nearest Skylark before the doors closed. The elevator began its descent toward the administrative tiers. Elara waited until the pod had gathered speed, then knelt beside the maintenance panel and used the metal tip of her hairpin to loosen the exhaust-vent screws.
 
@@ -50,7 +50,7 @@ Elara deleted the temporary access trail, replaced the terminal cover, and climb
 
 She waited for the carriage to pass, then dropped onto its roof.
 
-By the time she stepped back into the monitoring room, the executive review notice was still glowing on her console. Rowan looked at her once. His eyes moved to the loosened hairpin in her hand, then to the archive confirmation fading from the corner of her display.
+By the time she stepped back into the monitoring room, the executive review notice was still glowing on her console. Ravi looked at her once. His eyes moved to the loosened hairpin in her hand, then to the archive confirmation fading from the corner of her display.
 
 He did not ask where she had been.
 
@@ -58,7 +58,7 @@ Below them, the three boys had left the tunnel together, unaware that the system
 
 The alert remained active on Elara's console. Her operator status changed from **AUTHORIZED** to **UNDER REVIEW**.
 
-Daren's report closed without comment. Rohan's force assessment remained pending. Rowan's cursor stayed over the group-risk field.
+Daren's report closed without comment. Rohan's force assessment remained pending. Ravi's cursor stayed over the group-risk field.
 
 Below them, the three candidates' biometric readings continued to move within the same narrow range. Their proximity data showed no separation.
 
@@ -73,7 +73,7 @@ CONTINUOUS MONITORING DURATION: TWENTY-FOUR HOURS.
 
 The four representatives fell back into their chairs almost at once. No one spoke. Their bodies had been held upright by procedure, caffeine, and the expectation that another alert would demand their attention. With the lock released, their shoulders dropped and their hands went slack beside the consoles.
 
-Elara blinked against the room's ordinary light. The displays had kept her pupils narrowed for so long that the surrounding walls appeared washed out, then briefly doubled at the edges. Rowan pressed his fingertips against his eyelids. Daren leaned forward with both palms on his knees, waiting for the floor to stop moving. Rohan turned his head slowly, allowing his eyes to adjust from the bright feeds to the dim recovery station beyond them.
+Elara blinked against the room's ordinary light. The displays had kept her pupils narrowed for so long that the surrounding walls appeared washed out, then briefly doubled at the edges. Ravi pressed his fingertips against his eyelids. Daren leaned forward with both palms on his knees, waiting for the floor to stop moving. Rohan turned his head slowly, allowing his eyes to adjust from the bright feeds to the dim recovery station beyond them.
 
 For twenty-four hours, Trinity had treated their attention as another resource to be spent. Now the system released them with the same indifference with which it had held them. The screens went dark, but the afterimage of the boys' three linked signals remained behind Elara's eyes.
 
@@ -95,7 +95,7 @@ Daren's eyes dropped to the hand, then lifted to Rohan's face. "This is not your
 
 For a moment, Daren looked ready to challenge him. Rohan's hand remained near the force-ladder controls, and the console displayed the first-stage intervention warning. Daren saw the escalation record forming before Rohan entered it and stepped away. Rohan lowered his hand but did not return to CORRECTION.
 
-The four representatives gathered what remained of their composure and began making their way toward their quarters. Daren left first, still carrying his anger like a report he intended to file. Rowan followed without comment, his face unreadable in the blue light.
+The four representatives gathered what remained of their composure and began making their way toward their quarters. Daren left first, still carrying his anger like a report he intended to file. Ravi followed without comment, his face unreadable in the blue light.
 
 Rohan paused in front of Elara. "Whatever happens next, I will stand with you," he said.
 
@@ -109,7 +109,7 @@ She walked beneath the blue corridor lights with her hands empty and her mind cr
 
 Far below, the mine gates stood open beneath the first grey light of the next cycle.
 
-Gage walked out of the dark with a steady gait. The guards' scanners registered the changes they could measure: altered posture, a controlled pulse, and a six-foot-five frame carrying Otto across his shoulders while dragging a semi-conscious Ben by the collar of his shirt. He was not the broken marionette they expected. He was the Engine that refused to red-line.
+Gage walked out of the dark with a steady gait. The guards' scanners registered the changes they could measure: altered posture, a controlled pulse, and a six-foot-four frame carrying Otto across his shoulders while dragging a semi-conscious Ben by the collar of his shirt. He was not the broken marionette they expected. He was the Engine that refused to red-line.
 
 They moved slowly, but they moved together.
 
