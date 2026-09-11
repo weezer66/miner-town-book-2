@@ -1,12 +1,12 @@
 # Chapter 7: The Knocking
 
-## Day Five: After the Shift
+## After the Shift
 
-While Daren faced his furnace in the Grandmaster's chamber, Elara did not notice the rest of Day Four passing.
+While Daren faced his furnace in the Grandmaster's chamber, Elara stayed at the study table long after the shift had ended.
 
-She bathed. She changed out of her monitoring uniform. She took the nutrient intake assigned to her after the shift and returned to the study table in her quarters. The room lowered its lights according to schedule. Elara opened a file, read the same line twice, and let her eyes close.
+She bathed. She changed out of her monitoring uniform. She took the nutrient intake assigned to her after the shift and returned to the study table in her quarters. The room lowered its lights according to schedule. Elara opened the restricted packet from the Monitoring Floor and read the same line twice before the words would settle: Cohort 3A, Behavioral Correlation Assessment, Elara Nathan. The report had been auto-generated at 02:13 from the sensor archive, pushed to her review queue, and routed to her quarters under the standard secrecy tag for post-shift line review. It held Gage's pulse profile, Ben's stress spikes, Otto's proximity data, and the system's first note on synchronized response. Beneath the objective language sat the problem she had refused to name: three candidates had kept choosing one another. It was not a theory she could examine from a distance. It was an outcome already written into the record, and she had chosen to leave it there. Her eyes tracked a second time across the same paragraph, then a third, as if the page might become less true by being read harder.
 
-She woke with her cheek against the table. She drank water, opened another file, and tried again. Sleep took her in short drops. Wakefulness returned without restoring her. The hours passed in a shallow cycle that left her moving through the room almost as if she were under instruction from someone else.
+She forced herself to stay upright. She drank water. She opened the second copy of the packet and pushed through another line, then another, until the letters blurred into one another. Sleep took her in short drops. Her head dipped. She jerked awake. The room smelled of cold metal and nutrient broth, and the clock near the wall had moved without her noticing. She read one more sentence, blinked once, and let her forehead fall against the table. The packet slid half-open beneath her hand. She woke with her cheek against the cool surface, the tip of her nose grazing the paper, and the taste of exhaustion still thick in her mouth. Wakefulness returned without restoring her. The hours passed in a shallow cycle that left her moving through the room as if she were under instruction from someone else.
 
 The last four days kept breaking through. Three names beneath a designation the system had not built. Gage splitting his ration. Ben holding him in place. Otto moving before the alarms could decide what his movement meant. The monitors had measured pulses, heat, proximity, force, and stress. None of those readings explained why the boys had kept choosing one another.
 
@@ -18,7 +18,7 @@ But the larger possibility would not leave her alone. She might have set a cycle
 
 The thought stayed with her until her head lowered onto the table. A small line of saliva cooled against her cheek. She did not feel it.
 
-At 5:00 a.m. on Day Five, someone knocked on her door.
+At 5:00 a.m., someone knocked on her door.
 
 Elara woke with her neck bent against the table's edge and the taste of metal in her mouth. Three measured strikes sounded against the sealed panel.
 
@@ -40,21 +40,21 @@ The guard on the left looked her over once. "Get dressed."
 
 Elara kept one hand on the door. "Why?"
 
-"Review committee briefing," the second guard said. "Drona review conference room. Eight hundred hours."
+"Drona review committee summons," the second guard said. "Conference room. Eight hundred hours."
 
 The first guard held out a thin black appointment card. The time and location appeared in white text.
 
 **08:00 - DRONA REVIEW CONFERENCE ROOM**
 
-"You will report directly," he said. "Do not return to the monitoring floor first."
+"You are to report directly to the committee," he said. "Do not return to the monitoring floor before the review."
 
 Elara took the card. Her fingers left a faint damp mark on its surface.
 
 "Is this an inquiry?"
 
-Neither guard answered. The second one looked past her into the room, taking in the open files, the untouched cup of water, and the study table where she had slept through the final hours of Day Four.
+Neither guard answered. The second one looked past her into the room, taking in the open files, the untouched cup of water, and the study table where she had slept through the final hours before dawn.
 
-The first guard stepped back. "Get dressed, Monitor Swami."
+The first guard stepped back. "Get dressed, Monitor Nathan."
 
 The seal closed between them.
 
@@ -62,7 +62,7 @@ Elara stood alone in the corridor with the appointment card in her hand and less
 
 As the minutes passed, the first alarm of the summons changed shape. Worry became fear. Fear settled into something heavier, a dread that seemed to occupy the space behind her ribs and wait there for the review to begin.
 
-She dressed without turning on the room's full lights. Uniform. Collar. Seal. Hair pulled back until her face looked orderly again. She rehearsed the language she could use: procedural judgment, incomplete evidence, candidate safety, temporary reconciliation. Words could hold a door open for a while. They could make a decision appear measured instead of desperate.
+She dressed without turning on the room's full lights. Uniform. Collar. Seal. Hair pulled back until her face looked orderly again. She rehearsed the language she could use: procedural judgment, incomplete evidence, candidate safety, temporary reconciliation. Words could hold a door open for a while. They could make a decision appear measured instead of desperate. She had no desire to dress for the committee. The thought of standing beneath their questions in a clean uniform felt almost obscene after sleeping against a study table with dried saliva at the corner of her mouth. But Trinity did not ask whether a person was ready to be judged. It issued a time, a room, and a standard of appearance, then treated compliance as evidence of character.
 
 But no one escaped a review committee. Not monitors, not directors, not the elders whose names had been carried through Trinity's oldest records. The ancient scriptures in Vishnu's cabinet had said the same thing in different forms: a person could fool another person, but karma did not mistake intention for consequence.
 
@@ -74,25 +74,23 @@ Until then, Elara could only carry the choice into the Drona review room and let
 
 Before she knew it, the room clock had reached 7:00 a.m.
 
-She had no desire to dress for the committee. The thought of standing beneath their questions in a clean uniform felt almost obscene after sleeping against a study table with dried saliva at the corner of her mouth. But Trinity did not ask whether a person was ready to be judged. It issued a time, a room, and a standard of appearance, then treated compliance as evidence of character.
-
-Elara washed her face again, changed into a fresh uniform, and fastened every clasp. She checked the collar twice. The second time, her fingers missed the catch.
+Elara washed her face again, checked the collar twice, and fastened every clasp without looking at herself in the mirror. She checked the collar twice. The second time, her fingers missed the clasp and caught on the edge of the metal. She steadied herself, re-seated it, and pulled the collar closed with a firmer tug.
 
 She left her quarters and began the quiet walk toward the Drona review conference room.
 
 The hallway was familiar enough to hurt. She had passed these walls every day for years: the narrow alcove beside the archive lift, the recessed bench beneath the ventilation grille, the window that showed nothing but filtered cloud. Each corner had once offered a small form of comfort. Now the same spaces seemed to wait for an explanation from her. The walls held their silence like judgment.
 
-At the turn into the Corridor of Knowledge, the architecture changed without becoming grander. Kubera's hall had announced ownership through height, gold, and the preserved faces of founders. Drona did not need height. Its corridor was narrow, pale, and lined with glass cases sealed against dust, moisture, and careless hands.
+At the turn into the Corridor of Knowledge, the architecture changed without becoming grander. Drona did not need height or ceremony to announce itself. Its corridor was narrow, pale, and lined with glass cases sealed against dust, moisture, and careless hands.
 
 The first cases held the instruments of people who had built knowledge from almost nothing: a cracked lens, a brass measuring arm, a set of bone-handled tools used to study the stars before Trinity had a sky of its own. The labels named astronomers, physicians, mathematicians, and engineers whose work had survived wars, migrations, and the collapse of institutions that once believed themselves permanent.
 
-Farther along, portraits of great inventors and scientists looked down from the walls. Their faces were not arranged in the severe profiles of Kubera's founders. Some were old, some young, some visibly ill, and several had been painted without flattering symmetry. Drona preserved the hands more carefully than the faces: fingers stained with ink, a thumb pressed against a specimen, a palm resting on an unfinished diagram.
+Farther along, portraits of great inventors and scientists looked down from the walls. Some were old, some young, some visibly ill, and several had been painted without flattering symmetry. Drona preserved the hands more carefully than the faces: fingers stained with ink, a thumb pressed against a specimen, a palm resting on an unfinished diagram.
 
 Between the portraits stood smaller shrines to the ancient sanyashis, teachers who had treated discipline as a way of seeing rather than a way of ruling. Their texts were displayed beside religious commentaries, scientific notebooks, medical treatises, and mathematical tables. Nothing in the corridor claimed that one kind of knowledge had defeated the others. The cases held them together beneath the same controlled light, as if inquiry required room for doubt, devotion, measurement, and contradiction.
 
-The oldest books rested inside vacuum-sealed glass cases. Their pages had browned at the edges, but the ink remained legible. A copy of an early astronomical text lay open beside a translation of a religious epic. A medical manual shared a case with a field notebook on plant behavior. The arrangement would have looked disorderly to Kubera. To Drona, the disorder was the point. Knowledge had never advanced in a straight line.
+The oldest books rested inside vacuum-sealed glass cases. Their pages had browned at the edges, but the ink remained legible. A copy of an early astronomical text lay open beside a translation of a religious epic. A medical manual shared a case with a field notebook on plant behavior. The arrangement would have looked disorderly to a casual eye. To Drona, the disorder was the point. Knowledge had never advanced in a straight line.
 
-Elara had seen the displays a thousand times. She knew which scientist had died before publishing her final work, which monk had copied a manuscript by hand through three winters, which physician had preserved a treatment later dismissed as superstition. She had walked past them as a student, an analyst, and a monitor carrying other people's failures toward review.
+Elara had seen the displays a thousand times. She knew which scientist had died before publishing a final work, which monk had copied a manuscript by hand through three winters, which physician had preserved a treatment later dismissed as superstition. She had walked past them as a student, an analyst, and a monitor carrying other people's failures toward review.
 
 That morning, every preserved object seemed to ask the same question without speaking: what did you do with what you knew?
 
@@ -109,3 +107,37 @@ Drona claimed the tradition had survived because it looked forward. Its elders w
 Elara passed the rooms without slowing. The students inside them were being taught how to make something true. She was walking toward a room where a committee would decide whether the truth she had made in a record could be permitted to remain.
 
 At the end of the wing, the Drona review conference room waited behind a door of clear glass. The committee's silhouettes were already visible on the other side.
+
+Elara stepped inside and felt a brief, absurd relief so sharp it nearly bowed her shoulders. Two faces she knew well were already seated at the long table: Elder Anandi, whose lectures on observational ethics had shaped the first year of her training, and Mentor Kavik, the quiet mathematician who had taught her how to separate pattern from impulse. They had seen her in the monitoring rooms, in the archive stacks, in the margins between procedure and judgment. For one breath, she believed they would understand the weight of what she had done and see the shape of the dilemma she had been trying to carry alone.
+
+Then the room widened beyond them.
+
+There were three others in the chairs nearest the center of the table, people she had never seen before, and by then she had the terrible instinct that this might be the first and last time their faces would ever meet. One of them was clothed in a long, plain robe of saffron and ash, the kind of garment that belonged to a temple, a retreat, or a lineage of teachers who did not care whether the world called them holy or simply disciplined. It was not the sort of dress Drona prized. Drona had always maintained that learning must not be overrun by ritual, nor education governed by doctrine, and yet here was a figure who looked as if he had stepped out of an old vow and into a room where procedure was meant to decide everything.
+
+The robe was not what unsettled her. It was the hand.
+
+His right wrist rested on the table, and the cuff of his sleeve had been threaded with seven small stones set in a narrow line: a deep red carnelian, a pale amber, a blue sapphire, a green malachite, a white pearl, a smoky opal, and a dark lapis. The arrangement was too deliberate to be ornament, too old to be decorative. Elara remembered the old Vedic syllabi, the ways teachers used visible symbols to mark a discipline one could not reduce to a single text. The red stone recalled the Rigveda, the hymns of praise and the language of invocation; the blue sapphire belonged to the Samaveda, the music of sound and memory; the amber spoke for the Yajurveda, the ritual formulae and ordered action; the pearl for the Atharvaveda, the medicine, the practical lore, the hidden knowledge of body and breath. The remaining three stones, green, opal, and lapis, were not extra ornaments. They were the old tertiary threads a scholar might use to mark the Brahmanas, the Aranyakas, and the Upanishads—teachings that did not sit neatly under one title but carried the weight of interpretation, silence, and living transmission.
+
+The room seemed to flatten around her. The instruction she had rehearsed in her quarters, the careful emphasis on procedure and incomplete evidence, all of it thinned to a single thought: the committee had not summoned her for a routine assessment. It had summoned her to answer before people who belonged to more than one kind of authority, and one of them had already decided that the truth of a life could be carried in a hand as clearly as in a record.
+
+She understood, then, that even if the man in the robe was a religious teacher, the knowledge he carried was precisely what had brought him into the room. The ancient texts had never belonged to one domain alone. They were spiritual, yes, but also worldly, practical, and political. Their truths had guided people through grief, trade, warfare, law, and memory. Justice was not a simple yes or no. It was a field of obligation, consequence, and interpretation, and the Vedas had been written to help human beings navigate that path with righteousness across the ages, when time itself could tell a story in more than one voice.
+
+She took the nearest chair and sat before the table could decide whether she was meant to stand.
+
+Her gaze slid to the next figure at the table and caught on the object in the person's hands before it registered the face above it. The cards were larger than ordinary playing cards, thick and matte, their edges beveled by hand. They looked old enough to have been inherited, not manufactured, and they were not arranged neatly in a deck. They were shuffled in a way that suggested habit, not ceremony, as if the person had spent years learning the shape of chance before accepting that chance was still only a kind of structure.
+
+The figure looked like someone from the old astrological houses, or perhaps from the narrower tradition of omen-readers who had once plotted the sky for kings, harvests, and marriages, but there was no trace of showmanship in the posture. No dramatic pause. No ritual performance. The cards were simply there, as if they belonged in the same category of tools as a measuring rod, a prayer wheel, or a ledger. Elara knew that this was not a fortune-telling room. Trinity did not permit the future to be decided by symbols when the city itself was built on records, counters, and measured risk. Yet the cards were impossible to dismiss. They carried the same logic as the stones on the robe, the same quiet insistence that life was not a simple chain of cause and effect but a map of choices drawn in layers.
+
+It was not that she believed in divination. It was that she could feel why a person like this had been invited to sit in judgment. The cards were not prophecy in the vulgar sense; they were an instrument for reading sequences, patterns, and the hidden weight of decision. In the old traditions, such things were not separate from law or ethics. They were methods for noticing how a path widened or narrowed according to intention, timing, and consequence. That was the link, and it was not sentimental. It was practical. It made her think of the same old instinct that had brought the Vedas into the room at all: some questions could not be answered with a single record, and some futures did not begin as a single choice.
+
+The man in the robe had brought ancient knowledge into the room. This figure had brought another form of discernment, one that dealt not in static facts but in the shapes a decision might take when repeated across a life. Elara could not say, exactly, why the committee had included both, only that the room seemed arranged to measure not just what had happened, but what kind of mind it took to read the meaning of it.
+
+Elara's throat tightened. The room was not a tribunal of one language. It was a chamber of reading, and every person in it had a method of telling which path was worth preserving.
+
+The last person in the room was seated at the extreme end of the table, and she was unlike the others in a way that struck Elara before she could name it. There were no ornate markings on her body, no visible sign of a lineage or office, no dress meant to impress the eye. She wore a plain gray shawl over a simple cotton tunic, and her face was lined with the patience of years. At first glance she looked almost ordinary, the kind of woman who might vanish into a corridor if the room were not already holding its breath. But the impression did not hold. It was impossible to look away from her eyes. They held a steadiness that felt older than the room itself, as if they had been taught to watch a person until the person was stripped of all pretense. Elara had never seen such a look before. It did not command a room by volume or ceremony. It commanded by quiet certainty, as if the woman had already considered the matter in a deeper language than anyone else in the chamber had yet chosen to speak.
+
+The first thing Elara noticed was that this woman was not a man. The second thing she noticed was what that meant. Drona had never been a patriarchy in the strict, simple sense. Elara had worked beside women in the archives, in the training halls, in the clinics and classrooms, and she knew the institution's claims about hierarchy did not match the everyday reality of it. Yet the balance of humankind had always tilted toward men in the stories carried down through time, and it took little effort to imagine how much of that bias had been built into the old structures of law, memory, and inheritance. Women had been erased, regulated, spoken over, and made into the exception to logic and wisdom. To see a woman like this, seated in such still authority, did something to Elara's breath. It felt less like an opinion and more like a correction. The woman did not need ceremony to command attention. She did not need a robe, a title, or a public display. Her very presence seemed to outclass everyone else in the room without trying to do so.
+
+The woman did not need a robe full of ceremony to carry authority. Her presence was enough. It said, plainly and without invitation, that the old pattern had never been the only pattern, and that another kind of strength had endured beneath the noise of history.
+
+When Elara drew in a breath to begin speaking, the woman at the far end of the table lifted one hand. Not to silence her. Not quite. Her palm was turned outward, facing Elara directly, the fingers relaxed and open, and the gesture carried such stillness that it seemed older than language. Elara felt the words catch in her throat as if some invisible hand had closed around them. Her mouth felt glued shut. For one impossible second, it was not merely that she was afraid to speak. It was that she understood, with a jolt of dread, that the room had already decided the order of things for her. The discussion had not begun with her opening statement. It had begun with a sign, a gesture, a prearranged moment in which the room would tell her when she was allowed to speak and when she was meant to listen.
