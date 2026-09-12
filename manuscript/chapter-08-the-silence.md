@@ -2,19 +2,11 @@
 
 She had not even managed a sound.
 
-The moment the elder woman at the far end of the table lifted her hand, the room seemed to close around Elara with a silence so complete it felt physical. No one spoke. No one moved. Even the air itself seemed to hold still. Elara tried to breathe, but her breath caught in her throat and jammed there. Her chest tightened as if a fist had closed around her ribs. She forced her mouth open and found nothing behind it but a useless, cramped panic. Her tongue felt thick and swollen. Her lungs burned. Within five seconds, the world narrowed to a single, terrible fact: she could not speak, and she could not draw enough air into herself.
-
-Her face began to go cold. Not numb, not tired—cold, as if the blood had been pulled away from the skin. The edges of her vision blurred. Her lips tingled. For one savage heartbeat, she felt the strange, terrifying certainty that her face had gone blue, that the room was watching her turn from a person into a failing body in front of their eyes, and there was nothing she could do to stop it.
-
-The panic came so fast it was almost a separate thing from her. It was not simply fear. It was the realization that she had been made to stop before she had even begun. The committee had not only silenced her. It had shown her what it meant to be denied the right to speak at all. A person could think they understood authority. A person could imagine pressure, commands, review, consequence. But this was different. This was the feeling of being shut out from the one thing that had always been assumed to belong to her: the ability to answer.
+The moment the elder woman at the far end of the table lifted her hand, the room seemed to close around Elara with a silence so complete it felt physical. No one spoke or moved. She tried to breathe, but her breath caught in her throat, her chest tightened, and her lungs began to burn. Her face went cold, her vision blurred, and her lips tingled as panic narrowed the world to one terrible fact: she could not speak or draw enough air into herself. This was more than fear; it was the realization that she had been stopped before she had begun, denied the ability to answer—the one thing she had always assumed belonged to her.
 
 Then the elder woman lowered her hand.
 
-The effect was instant and violent. Elara's chest lurched upward with a desperate, tearing gasp, as if a heavy trailer truck had suddenly rolled off her chest and the broken body beneath it had been forced to remember how to move. Her lungs seized, then opened. She inhaled too hard, too sharply, and the breath came in ragged bursts that hurt her throat. She bent forward, one hand clutching at her collar, the other braced against the table as she struggled to pull enough air into herself.
-
-It was like drowning and being dragged back onto the deck of a ship at the same moment. Her body was not yet hers again. It was a frightened, shuddering thing that had only just realized it was still alive. She coughed once, then again, a dry, raw sound that tore through the silence and made her feel even more exposed. Her eyes watered. Her pulse thundered in her ears. Somewhere in the room, someone remained perfectly unreadable. Somewhere else, the woman at the end of the table had already decided that she was not going to die from the silence, only from the knowledge of it.
-
-Elara straightened slowly, dragging in another breath, and this time it came with the ugly, humiliating awareness that the room had seen exactly what it wanted to see. The elder woman had been testing control, not just from the outside but from the very inside of her body. She had treated Elara's ability to speak and breathe as if it were something the committee could grant or withhold at will. The fact that she had lowered her hand now did not soften the lesson. It made it worse. It said this was not an accident of panic. It was instruction. It was demonstration.
+The effect was instant and violent. Elara's chest lurched upward with a desperate gasp as her lungs seized, then opened. She bent over the table, clutching her collar as ragged breaths tore at her throat; it felt like drowning and being dragged back onto a deck at the same time. Her body still shuddered, her eyes watered, and her pulse thundered as she forced herself upright. Then she understood what the room had seen: the elder woman had tested control from inside her body, treating Elara's ability to speak and breathe as something the committee could grant or withhold. Lowering her hand did not soften the lesson. It confirmed that her panic had been instruction, a deliberate demonstration.
 
 The council had not summoned her to hear her answer.
 
@@ -28,13 +20,13 @@ The room did not wait for Elara to work through the sound. The elder woman incli
 
 "Monitor Nathan, you may now speak. Furthermore, let only those questions that have been devised by us be taken up by you — not ones devised by your own self."
 
-The words hit Elara like a second shock. They were not harsh. They were older. Sanskrit was an ancient language, and yet she knew it. Not in the way she knew the classroom dialect or the clipped speech of Trinity procedure, but in the deeper, instinctive way a person knows something that has already lived inside her. She could feel the meaning tremble at the edges of her mind and still not grasp a single word of it.
+The words struck Elara with a second shock. They were not harsh, but they were older than Trinity's speech, and some part of her recognized them. The meaning stirred at the edge of her mind, familiar yet impossible to grasp.
 
 It was a sensation she had never known before.
 
 The room did not merely speak to her. It spoke past the ordinary barriers of language, leaving her with the unbearable feeling that the meaning was there and yet impossible to hold.
 
-She should have expected that. Her sensei had told her this in the early days at Drona Academy, before she had learned how much of wisdom was simply the ability to survive being humbled. "Just when you think you have seen it all," the woman had said, voice quiet and impossible to argue with, "life will throw you a surprise and remind you that you still have a very long way to go." Elara had laughed then, because she had been young and certain she was already learning the shape of the world. Now, with her breath still uneven and her throat raw from panic, she understood the lesson with the kind of clarity that only came after a fall.
+She should have expected that. Anandi had told her this in the early days at Drona Academy, before Elara had learned how much of wisdom was simply the ability to survive being humbled. "Just when you think you have seen it all," Anandi had said, her voice quiet and impossible to argue with, "life will throw you a surprise and remind you that you still have a very long way to go." Elara had laughed then, because she had been young and certain she was already learning the shape of the world. Now, with her breath still uneven and her throat raw from panic, she understood the lesson with the kind of clarity that only came after a fall.
 
 The room had not finished testing her.
 
@@ -42,9 +34,11 @@ It was only beginning.
 
 The elder woman at the end of the table did not break eye contact. She simply lifted her chin in a deliberate, measured gesture, and the rest of the chamber gave the smallest shift of attention that said the next moment had been anticipated long before Elara arrived.
 
-"Before we continue," the elder woman said in Sanskrit, and though her words were still in that ancient language, the meaning arrived to Elara with an unmistakable clarity, "show proper respect to the masters who sit in this room today. Let the masters introduce themselves, one by one."
+"प्रवृत्तेः पूर्वम्," the elder woman said in Sanskrit. "अद्य अस्यां सभायाम् उपविष्टेभ्यः आचार्येभ्यः उचितम् आदरं दर्शयत। आचार्याः एकैकशः स्वपरिचयं कुर्वन्तु।"
 
-The language was not just formal. It was hierarchical. It was a statement of ranking before hearing. It placed the room above her before she had even been given permission to ask a question. Elara felt the order settle over her like a second layer of gravity. She did not know the names yet, not fully. She knew the shapes of their authority, the ways they had chosen to arrive in the room, the signs they carried on their bodies and in their hands. But the elder woman's words scraped away any illusion that this was merely a review. This was an initiation into a structure that existed beyond procedure, beyond Trinity's clean language of assignment and policy.
+Mentor Kavik, who had translated for Elara earlier, gave the meaning in the language she understood: "Before getting involved, show due respect to the teachers sitting in this meeting today. Let the teachers introduce themselves one by one."
+
+The language was formal and hierarchical, placing the room above Elara before she had permission to speak and revealing that this was not a routine review but an initiation into an authority beyond Trinity's procedures and policies.
 
 The masters in the room were not simply committee members.
 
@@ -52,7 +46,7 @@ They were the ones whose authority had been recognized long before she was summo
 
 One by one, they turned their faces to her.
 
-The first among them was the man in the saffron robe, his seven stones catching the light in a line along his wrist. He did not look like a man trying to impress a room. He looked like a person who had already been accepted by the weight of his own discipline. When he spoke, his voice was deep and even, carrying the calm of someone who had spent years deciding which truths were worth protecting.
+The first was the man in the saffron robe, his seven stones catching the light along his wrist as he spoke in a deep, even voice shaped by years of discipline and the protection of hard-won truths.
 
 "I am Sarvajña, the all-knowing," he said. "I have been the elder entrusted to keep Drona steady upon the line of righteousness, and to ensure that our ancient gana never loses the tenets upon which it was built. Drona stands on three pillars: knowledge, disciplined inquiry, and the duty to serve truth before power. We do not abandon them for comfort. We do not bend them for fear. We do not permit them to be reduced to procedure alone."
 
@@ -60,11 +54,13 @@ The second was the woman with the cards, whose calm hands seemed to hold an enti
 
 "I am Draṣṭā, the seer," she said. "My duty is to know the three times: the past, the present, and the future. Nothing is certain, and I do not pretend otherwise. I guide the gana toward choices whose significance may reach much farther into tomorrow than what appears today."
 
-The third was the elder woman at the end of the table, whose stillness felt like the weight of a law no one could meaningfully question. When she spoke, her voice carried no need to prove that the room already belonged to her.
+The third was the elder woman at the end of the table, and the room seemed to arrange itself around her silence. Sarvajña carried the authority of knowledge, Draṣṭā the authority of perception, and Anandi and Kavik the authority of those who had shaped Elara's mind; this woman stood above those distinctions, as if the room's laws and lineages had gathered in her rather than the other way around. When she spoke, her voice did not claim the room. It revealed that the room had always been hers to convene.
 
 "I am the Grandmaster, known by many names depending on who you are and what you believe in," she said. "But today, the Ancient One sits well with me."
 
 The words were in the language Elara understood. The shift unsettled her more deeply than the Sanskrit had. The Grandmaster had moved from the ancient tongue into the living language without explanation, as if both belonged to the same breath. Elara understood then that the Ancient One was not a title for someone sealed in the past. The ancient one was also the current one: an authority that had carried the old knowledge forward and still knew how to speak into the present.
+
+The Grandmaster's gaze moved toward the two familiar faces. "You know, of course, your mentors Anandi and Kavik. They have guided you longer than you realize."
 
 The Ancient One continued. "We are all gathered here to meet you and to share grave news, graver than what you can imagine, and perhaps, in some way, news that will bring you relief. We are not here to reflect on your choices during the initiation monitoring. We have groomed you to use your self-consciousness and your knowledge as the compass that guides your every action. There is no right or wrong until the impact of a choice is felt as just or unjust. That conversation is reserved for another time."
 
@@ -139,8 +135,6 @@ Before Elara could respond, every elder at the table rose. The movement was quie
 Their voices came one after another, measured but joined by the same grave certainty. "This is the conflict every Drona representative prepares for across an entire lifetime. We have each wished, at one time or another, that the burden would fall upon any of us instead. But you are the chosen one, Elara. You must persevere, and you must prevail."
 
 The Grandmaster held her gaze. "What is at stake is not Drona alone. If you fail, the foundation of everything we know to be real and just will be cracked."
-
-She turned her gaze toward the two familiar faces. "You know, of course, your mentors Anandi and Kavik. They have guided you longer than you realize."
 
 She had been invited to stand in front of them as though she were a student being called to the front of a hall, not a monitor being questioned in a review chamber.
 
