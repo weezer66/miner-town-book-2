@@ -3,12 +3,13 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>The Tell — prose checker</title>
+<title>The Tell — prose checker for YA</title>
 <style>
   :root{
     --ink:#1c1a17; --paper:#faf8f4; --faint:#8a8378; --rule:#e5e0d6; --panel:#fff;
     --sev1:#b23a2e; --sev1-bg:#f6e3df; --sev2:#b8791f; --sev2-bg:#f6ecd8;
     --sev3:#6a7a52; --sev3-bg:#eaeede; --keep:#3f6d63;
+    --read:#3a5a8c; --read-bg:#e2e8f2;
     --mono:"SFMono-Regular",Consolas,"Liberation Mono",Menlo,monospace;
   }
   *{box-sizing:border-box} html,body{margin:0}
@@ -18,7 +19,7 @@
   h1{font-size:30px;margin:0;letter-spacing:-.01em;font-weight:600}
   h1 .sub{font-weight:400;color:var(--faint)}
   .tagline{color:var(--faint);font-size:15px;margin:8px 0 0}
-  .cols{display:grid;grid-template-columns:1fr 1fr;gap:26px;margin-top:26px}
+  .cols{display:grid;grid-template-columns:1fr 1fr;gap:26px;margin-top:22px}
   @media(max-width:900px){.cols{grid-template-columns:1fr}}
   .panel{background:var(--panel);border:1px solid var(--rule);border-radius:2px}
   .panel h2{font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--faint);margin:0;padding:12px 16px;border-bottom:1px solid var(--rule);font-family:var(--mono);font-weight:600}
@@ -28,21 +29,29 @@
   button{font-family:var(--mono);font-size:13px;letter-spacing:.03em;cursor:pointer;background:var(--ink);color:var(--paper);border:0;border-radius:2px;padding:11px 20px}
   button.ghost{background:transparent;color:var(--ink);border:1px solid var(--ink)}
   button:active{transform:translateY(1px)}
+  .lens{display:inline-flex;border:1px solid var(--ink);border-radius:2px;overflow:hidden;margin-right:6px}
+  .lens button{background:transparent;color:var(--ink);border:0;border-right:1px solid var(--ink);padding:10px 16px}
+  .lens button:last-child{border-right:0} .lens button.on{background:var(--ink);color:var(--paper)}
+  .mode{display:inline-flex;border:1px solid var(--rule);border-radius:2px;overflow:hidden}
+  .mode button{background:transparent;color:var(--faint);border:0;border-right:1px solid var(--rule);padding:9px 13px;font-size:12px}
+  .mode button:last-child{border-right:0} .mode button.on{background:var(--rule);color:var(--ink)}
   .out{padding:16px;min-height:440px;font-size:17px;line-height:1.66;overflow-wrap:break-word}
   .out .placeholder{color:var(--faint);font-style:italic}
   mark{padding:.02em .05em;border-radius:2px;cursor:pointer;border-bottom:2px solid transparent}
   mark.s1{background:var(--sev1-bg);border-bottom-color:var(--sev1)}
   mark.s2{background:var(--sev2-bg);border-bottom-color:var(--sev2)}
   mark.s3{background:var(--sev3-bg);border-bottom-color:var(--sev3)}
+  mark.r{background:var(--read-bg);border-bottom-color:var(--read)}
   mark.active{outline:2px solid var(--ink);outline-offset:1px}
   .score{display:flex;align-items:baseline;gap:14px;padding:14px 16px;border-bottom:1px solid var(--rule);flex-wrap:wrap}
   .score .n{font-size:34px;font-weight:600;line-height:1;font-family:var(--mono)}
   .score .lab{color:var(--faint);font-size:14px}
   .verdict{font-size:15px;padding:2px 10px;border-radius:2px;font-family:var(--mono);letter-spacing:.02em}
   .v-clean{background:#e7efe6;color:var(--keep)} .v-light{background:var(--sev3-bg);color:var(--sev3)} .v-heavy{background:var(--sev1-bg);color:var(--sev1)}
-  .findings{margin-top:26px}
+  .v-read{background:var(--read-bg);color:var(--read)}
+  .findings{margin-top:24px}
   .finding{border:1px solid var(--rule);border-left-width:4px;border-radius:2px;background:var(--panel);padding:14px 16px;margin-bottom:12px}
-  .finding.s1{border-left-color:var(--sev1)} .finding.s2{border-left-color:var(--sev2)} .finding.s3{border-left-color:var(--sev3)}
+  .finding.s1{border-left-color:var(--sev1)} .finding.s2{border-left-color:var(--sev2)} .finding.s3{border-left-color:var(--sev3)} .finding.r{border-left-color:var(--read)}
   .finding .top{display:flex;justify-content:space-between;gap:12px;align-items:baseline}
   .finding .name{font-weight:600;font-size:16px}
   .finding .count{font-family:var(--mono);font-size:12px;color:var(--faint);white-space:nowrap}
@@ -60,99 +69,221 @@
   .hit .mech .res.del{color:#a33;background:#f7e7e4;border-color:#e6c4bd;text-decoration:line-through;text-decoration-thickness:1px}
   .hit .ask{margin:0;color:#40382f}
   .hit .ask b{font-variant:small-caps;letter-spacing:.03em;color:var(--faint);font-weight:600}
+  .hit .meta{font-family:var(--mono);font-size:11px;color:var(--faint);margin:0 0 6px}
   .legend{display:flex;gap:18px;flex-wrap:wrap;margin:8px 0 0;font-size:13px;color:var(--faint);font-family:var(--mono)}
   .legend span{display:inline-flex;align-items:center;gap:6px}
   .swatch{width:11px;height:11px;border-radius:2px;display:inline-block}
   .none{color:var(--keep);font-size:16px;padding:14px 16px}
+  .gauge{padding:14px 16px;border-bottom:1px solid var(--rule)}
+  .gauge .row{display:flex;justify-content:space-between;font-size:13px;font-family:var(--mono);color:var(--faint);margin-bottom:5px}
+  .bar{height:9px;background:#ece7dd;border-radius:5px;position:relative;overflow:hidden}
+  .bar .band{position:absolute;top:0;bottom:0;background:#dfeae0}
+  .bar .mark{position:absolute;top:-3px;bottom:-3px;width:3px;background:var(--ink);border-radius:2px}
+  .gauge .caption{font-size:13px;color:#4a453d;margin:8px 0 0}
   .foot{margin-top:40px;color:var(--faint);font-size:13px;border-top:1px solid var(--rule);padding-top:14px}
   .foot code{font-family:var(--mono);background:#efece5;padding:1px 5px;border-radius:2px}
-  .mode{display:inline-flex;border:1px solid var(--ink);border-radius:2px;overflow:hidden}
-  .mode button{background:transparent;color:var(--ink);border:0;border-right:1px solid var(--ink);padding:9px 14px}
-  .mode button:last-child{border-right:0} .mode button.on{background:var(--ink);color:var(--paper)}
   .tag{font-family:var(--mono);font-size:10px;letter-spacing:.04em;text-transform:uppercase;padding:1px 6px;border-radius:2px;vertical-align:middle;margin-left:8px}
-  .tag.del{background:#f7e7e4;color:#a33} .tag.you{background:#eae7f0;color:#5a4f77}
+  .tag.del{background:#f7e7e4;color:#a33} .tag.you{background:#eae7f0;color:#5a4f77} .tag.keep{background:#e2efe4;color:var(--keep)}
 </style>
 </head>
 <body>
 <div class="wrap">
-  <header><h1>The Tell <span class="sub">— a prose checker for the machine fingerprint</span></h1></header>
-  <p class="tagline">Paste a sentence, a paragraph, or a whole chapter. Every flag comes with two things: where a fix is pure deletion, the exact result; and for the rest, the question to ask yourself so the new words are yours. It never writes replacement prose. Nothing leaves your browser.</p>
+  <header><h1>The Tell <span class="sub">— a prose checker for YA</span></h1></header>
+  <p class="tagline">Two lenses on the same text. <b>Machine fingerprint</b> flags what reads as AI-written. <b>YA readability</b> flags what a 14-year-old will bounce off — dense paragraphs, overbuilt sentences, and abstract words where a plain one hits harder. It flags spikes against your own baseline, so challenging passages you meant to write stay; it never tells you to dumb the book down. Nothing leaves your browser.</p>
   <div class="controls">
+    <div class="lens" id="lens"><button data-lens="ai" class="on">Machine fingerprint</button><button data-lens="ya">YA readability</button></div>
     <div class="mode" id="mode"><button data-scope="all" class="on">Whole thing</button><button data-scope="para">By paragraph</button></div>
-    <button id="run">Check it</button><button id="sample" class="ghost">Load an example</button><button id="clear" class="ghost">Clear</button>
+    <button id="run">Check it</button><button id="sample" class="ghost">Example</button><button id="clear" class="ghost">Clear</button>
   </div>
   <div class="cols">
     <div class="panel"><h2>Your text</h2><textarea id="in" placeholder="Paste here…"></textarea></div>
-    <div class="panel"><h2>Read-back</h2><div id="scoreHost"></div><div class="out" id="out"><span class="placeholder">Flagged text appears here. Click any highlight to jump to what it is and what to do.</span></div></div>
+    <div class="panel"><h2>Read-back</h2><div id="scoreHost"></div><div class="out" id="out"><span class="placeholder">Flagged text appears here. Click a highlight to jump to what it is and what to do.</span></div></div>
   </div>
   <div class="legend" id="legend"></div>
   <div class="findings" id="findings"></div>
-  <div class="foot"><p><b>Two kinds of fix.</b> <span class="tag del">cut</span> means the fix is deletion — the tool shows the exact result, safe because removing words can't sound like a machine. <span class="tag you">your words</span> means the sentence must be rewritten in your voice — the tool gives the question, not the answer. It never writes the replacement: the moment a tool hands you prose, the book stops being yours. A clean score is the floor, not the ceiling. Read it aloud — that catches what a checker can't.</p></div>
+  <div class="foot" id="foot"></div>
 </div>
 <script>
 "use strict";
 const rx=(re,text)=>{const out=[];let m;re.lastIndex=0;while((m=re.exec(text))){out.push({start:m.index,end:m.index+m[0].length,quote:m[0]});if(m.index===re.lastIndex)re.lastIndex++;}return out;};
-const CHECKS=[
+
+/* ---------- MACHINE FINGERPRINT CHECKS ---------- */
+const AI_CHECKS=[
  {id:"negate",label:"Negate-and-correct",sev:1,
-  why:"\u201CX was not Y. It was Z.\u201D \u2014 the narrator corrects the reader instead of trusting the scene. The single most recognised marker of machine prose; readers quote it as proof.",
-  fix:"Delete the negation and keep the assertion \u2014 or replace the whole thing with the concrete detail the abstraction stood for.",
+  why:"\u201CX was not Y. It was Z.\u201D \u2014 the narrator corrects the reader instead of trusting the scene. The most recognised marker of machine prose; readers quote it as proof.",
+  fix:"Delete the negation and keep the assertion \u2014 or replace it with the concrete detail the abstraction stood for.",
   find:t=>[...rx(/\b(?:was|were|is|are|had|did)\s+not\b[^.?!]{0,90}[.?!]\s+(?:It|They|He|She|That|This)\s+(?:was|were|is|are|had|only)\b[^.?!]{0,90}[.?!]/g,t),...rx(/(?:^|[.?!]\s+)Not\s+[^.?!]{1,70}[.?!]/g,t)],
   mech:q=>{const p=q.trim().match(/^(.*?[.?!]+)\s+(.*[.?!]+)$/);if(p)return{type:"replace",cut:p[1].trim(),result:p[2].trim(),note:"Keep the assertion; drop the correction it answers."};return{type:"flag",note:"\u201CNot \u2026\u201D fragment \u2014 usually cut, or fold into the sentence before it."};},
-  ask:"What did the negated half add? If \u201Cnothing,\u201D you already have the fix. If it added a real contrast, put that contrast in a concrete image, not a correction."},
+  ask:"What did the negated half add? If \u201Cnothing,\u201D you have the fix. If a real contrast, put it in a concrete image, not a correction."},
  {id:"aphorism",label:"Paragraph-final verdict",sev:1,
-  why:"A short summarising line dropped at a paragraph\u2019s end \u2014 a little mic-drop. One is a flourish; when most paragraphs do it, the reader braces for it and the good lines stop landing.",
-  fix:"Cut the verdict. Let the paragraph end on the thing that happened \u2014 an object, an action.",
-  find:t=>{const out=[];const paras=[...t.matchAll(/[^\n]+(?:\n(?!\n)[^\n]+)*/g)];for(const p of paras){const seg=p[0];if(seg.split(/\s+/).length<28)continue;const s=[...seg.matchAll(/[^.?!]+[.?!]+/g)];if(!s.length)continue;const last=s[s.length-1][0];if(last.trim().split(/\s+/).length<=9){const off=p.index+seg.lastIndexOf(last.trim());out.push({start:off,end:off+last.trim().length,quote:last.trim()});}}return out;},
+  why:"A short summarising line at a paragraph\u2019s end \u2014 a little mic-drop. One is a flourish; when most paragraphs do it, the reader braces and the good lines stop landing.",
+  fix:"Cut the verdict. Let the paragraph end on the thing that happened.",
+  find:t=>{const out=[];const ps=[...t.matchAll(/[^\n]+(?:\n(?!\n)[^\n]+)*/g)];for(const p of ps){const seg=p[0];if(seg.split(/\s+/).length<28)continue;const s=[...seg.matchAll(/[^.?!]+[.?!]+/g)];if(!s.length)continue;const last=s[s.length-1][0];if(last.trim().split(/\s+/).length<=9){const off=p.index+seg.lastIndexOf(last.trim());out.push({start:off,end:off+last.trim().length,quote:last.trim()});}}return out;},
   mech:q=>({type:"delete",result:q.trim(),note:"Delete this closing line. The sentence before it should be where the paragraph lands."}),
   ask:"Read the paragraph without the last line. Does it lose a fact, or only the summary? If only the summary, it goes."},
  {id:"itwas",label:"\u201CIt was \u2026\u201D explainer",sev:2,
-  why:"Opening with \u201CIt was \u2026\u201D is usually the narrator explaining rather than showing \u2014 the machine\u2019s favourite way to tell.",
+  why:"Opening with \u201CIt was \u2026\u201D is usually the narrator explaining rather than showing.",
   fix:"Recast so a person or object does something, or cut the sentence.",
   find:t=>rx(/(?:^|[.?!"\u201D]\s+)It\s+was\s+[^.?!]{0,80}[.?!]/g,t),mech:null,
-  ask:"What is the \u201Cit\u201D? Name it and let it act. \u201CIt was a small ceremony\u201D \u2192 what did the ceremony do, or what did she see happen in it?"},
+  ask:"What is the \u201Cit\u201D? Name it and let it act."},
  {id:"asthough",label:"\u201Cas though\u201D / \u201Cthe way \u2026\u201D simile",sev:2,
   why:"Hedged-simile connectors a model reaches for by reflex. In quantity they read as a tic.",
   fix:"Keep one per chapter at most; make the rest a plain statement or a concrete image.",
   find:t=>[...rx(/\bas though\b[^.?!]{0,60}/g,t),...rx(/\bthe way (?:a|an|the|[A-Z]\w+)\b[^.?!]{0,50}/g,t)],mech:null,
-  ask:"Is the comparison earning its place, or softening a claim you could just make? If softening, state the thing directly and delete the simile."},
+  ask:"Is the comparison earning its place, or softening a claim you could just make? If softening, state it directly and cut the simile."},
  {id:"abstract",label:"Abstract subject twice running",sev:2,
-  why:"\u201CTrinity \u2026\u201D, \u201CThe system \u2026\u201D as the subject of consecutive sentences. The prose floats above the people and starts to summarise the novel rather than be it.",
-  fix:"Put a person, a body, or a screen in the subject slot of at least one of the two.",
+  why:"\u201CTrinity \u2026\u201D, \u201CThe system \u2026\u201D as the subject of consecutive sentences. The prose floats above the people.",
+  fix:"Put a person, a body, or a screen in the subject slot of one of the two.",
   find:t=>{const out=[];const S=/^(?:Trinity|The system|The city|The machine|The tower|The room)\b/;const s=[...t.matchAll(/[^.?!]*[.?!]+/g)];for(let i=0;i<s.length-1;i++){const a=s[i][0],b=s[i+1][0];if(S.test(a.trim())&&/^(?:Trinity|The system|The city|The machine|The tower|The room|It)\b/.test(b.trim())){const off=s[i].index;out.push({start:off,end:off+a.length,quote:a.trim().slice(0,80)});}}return out;},mech:null,
-  ask:"Who is in the room while the system does this? Give one of these two sentences to a person \u2014 what they see, touch, or refuse."},
+  ask:"Who is in the room while the system does this? Give one sentence to a person \u2014 what they see, touch, or refuse."},
  {id:"triad",label:"Rule-of-three list",sev:2,
   why:"\u201CX, Y, and Z.\u201D Three is the model\u2019s default list length. Everywhere, it becomes a rhythm the ear picks up.",
   fix:"Drop to two, stretch to four, or make one item carry weight the others don\u2019t.",
   find:t=>rx(/\b\w+,\s+\w+,\s+and\s+\w+\b/g,t),mech:null,
-  ask:"Do all three pull equal weight? If one is filler, cut to two. If they\u2019re a real inventory, four uneven ones read truer than three tidy ones."},
+  ask:"Do all three pull equal weight? If one is filler, cut to two."},
  {id:"stock",label:"Stock transition",sev:3,
-  why:"\u201CFor the first time\u201D, \u201CFor a moment\u201D, \u201CIn that moment\u201D, \u201CSomething shifted\u201D \u2014 off-the-shelf scene hinges.",
-  fix:"Anchor the moment to a specific action or detail instead of announcing that a moment is occurring.",
+  why:"\u201CFor the first time\u201D, \u201CFor a moment\u201D, \u201CIn that moment\u201D \u2014 off-the-shelf scene hinges.",
+  fix:"Anchor the moment to a specific action or detail.",
   find:t=>rx(/\b(?:For the first time|For a moment|In that moment|Something shifted|A beat passed)\b/gi,t),
   mech:q=>({type:"delete",result:q.trim(),note:"Often deletable outright \u2014 the sentence usually stands without the hinge."}),
-  ask:"What actually marks this moment \u2014 a sound, a stop, a held breath? Put that on the page and the announcement is unnecessary."},
+  ask:"What actually marks this moment \u2014 a sound, a stop, a held breath? Put that on the page."},
  {id:"hedge",label:"Hedge adverb",sev:3,
   why:"simply, merely, precisely, quietly, carefully, genuinely \u2014 filler that softens instead of sharpens.",
   fix:"Delete it and read the sentence again.",
   find:t=>rx(/\b(?:simply|merely|precisely|quietly|carefully|genuinely|truly)\b/gi,t),
   mech:q=>({type:"delete",result:q.trim(),note:"Delete the adverb. The verb almost always carries it alone."}),
-  ask:"Is the adverb doing work the verb can\u2019t? If \u201Cwalked quietly\u201D matters, \u201Ccrept\u201D says it in the verb. If it doesn\u2019t matter, cut it."},
+  ask:"Is the adverb doing work the verb can\u2019t? If \u201Cwalked quietly\u201D matters, \u201Ccrept\u201D says it in the verb."},
  {id:"caps",label:"System-message wallpaper",sev:3,
   why:"ALL-CAPS interface lines work at two or three per chapter and turn to wallpaper past that.",
-  fix:"Keep three at most; let the others be described rather than displayed.",
+  fix:"Keep three at most; let the others be described.",
   find:t=>rx(/^[A-Z][A-Z0-9 :.,'\-]{12,}$/gm,t),mech:null,
-  ask:"Is this the message that matters, or one of several? Keep the loudest; turn the rest into a line of narration about what the screen did."}
+  ask:"Is this the message that matters, or one of several? Keep the loudest; narrate the rest."}
 ];
-let scope="all";const $=id=>document.getElementById(id);
-function analyse(text){const f=[];for(const c of CHECKS){let h=c.find(text)||[];h.sort((a,b)=>a.start-b.start);const cl=[];let le=-1;for(const x of h){if(x.start>=le){cl.push(x);le=x.end;}}if(cl.length)f.push({...c,hits:cl});}return f;}
-function verdict(f,w){const s1=f.filter(x=>x.sev===1).reduce((n,x)=>n+x.hits.length,0);const t=f.reduce((n,x)=>n+x.hits.length,0);const p=w?(t/w*1000):0;let cls="v-clean",label="nothing flagged";if(t>0){if(s1>0||p>8){cls="v-heavy";label="heavy \u2014 the fingerprint is showing";}else if(p>3){cls="v-light";label="light \u2014 a few habits";}else{cls="v-light";label="mostly clean";}}return{total:t,per1k:p,cls,label};}
+
+/* ---------- YA READABILITY ---------- */
+const ABSTRACT={"utilize":"just \u2018use\u2019","utilized":"\u2018used\u2019","utilizes":"\u2018uses\u2019","utilise":"\u2018use\u2019","utilization":"\u2018use\u2019","commence":"\u2018start\u2019 / \u2018begin\u2019","commenced":"\u2018started\u2019","terminate":"\u2018end\u2019 / \u2018stop\u2019","terminated":"\u2018ended\u2019; for a person, say what happened","reside":"\u2018live\u2019","resided":"\u2018lived\u2019","obtain":"\u2018get\u2019","obtained":"\u2018got\u2019","sufficient":"\u2018enough\u2019","insufficient":"\u2018not enough\u2019","additional":"\u2018more\u2019 / \u2018another\u2019","numerous":"\u2018many\u2019","approximately":"\u2018about\u2019","demonstrate":"\u2018show\u2019","demonstrated":"\u2018showed\u2019","indicate":"\u2018show\u2019 / \u2018point to\u2019","indicated":"\u2018showed\u2019","possess":"\u2018have\u2019","possessed":"\u2018had\u2019","require":"\u2018need\u2019","required":"\u2018needed\u2019","attempt":"\u2018try\u2019","attempted":"\u2018tried\u2019","assist":"\u2018help\u2019","comprehend":"\u2018understand\u2019 / \u2018get\u2019","facilitate":"\u2018help\u2019 / \u2018make easier\u2019","implement":"\u2018do\u2019, \u2018build\u2019","subsequent":"\u2018next\u2019 / \u2018later\u2019","subsequently":"\u2018later\u2019 / \u2018then\u2019","regarding":"\u2018about\u2019","endeavor":"\u2018try\u2019","ascertain":"\u2018find out\u2019","procure":"\u2018get\u2019","initiate":"\u2018start\u2019","initiated":"\u2018started\u2019","considerable":"\u2018a lot of\u2019 / \u2018big\u2019","substantial":"\u2018big\u2019 / \u2018a lot of\u2019","aforementioned":"say the thing again, plainly","nevertheless":"\u2018still\u2019 / \u2018even so\u2019","notwithstanding":"\u2018even so\u2019","encompass":"\u2018include\u2019 / \u2018cover\u2019","constitute":"\u2018make up\u2019 / \u2018be\u2019","manifest":"\u2018show\u2019 / \u2018appear\u2019","cognizant":"\u2018aware\u2019","myriad":"\u2018countless\u2019 or a real number","ubiquitous":"\u2018everywhere\u2019","paradigm":"\u2018model\u2019 / \u2018pattern\u2019","leverage":"\u2018use\u2019","optimal":"\u2018best\u2019","methodology":"\u2018method\u2019 / \u2018way\u2019","functionality":"\u2018what it does\u2019","necessitate":"\u2018need\u2019 / \u2018force\u2019","necessitated":"\u2018forced\u2019 / \u2018meant\u2019","elucidate":"\u2018explain\u2019","delineate":"\u2018lay out\u2019 / \u2018describe\u2019"};
+
+function syllables(w){w=w.toLowerCase().replace(/[^a-z]/g,"");if(!w)return 0;const g=w.match(/[aeiouy]+/g);let n=g?g.length:0;if(w.endsWith("e")&&!w.endsWith("le")&&n>1)n--;return Math.max(n,1);}
+function sentencesOf(t){return [...t.matchAll(/[^.?!]+[.?!]+(?:["\u201D])?/g)].map(m=>({text:m[0],start:m.index,end:m.index+m[0].length}));}
+function stats(t){const words=t.match(/[A-Za-z']+/g)||[];const W=words.length||1;const sents=sentencesOf(t);const S=sents.length||1;const syl=words.reduce((a,w)=>a+syllables(w),0);const poly=words.filter(w=>syllables(w)>=3).length;const fk=0.39*(W/S)+11.8*(syl/W)-15.59;const ease=206.835-1.015*(W/S)-84.6*(syl/W);return{W,S,fk,ease,poly,polyPct:100*poly/W,avgSent:W/S};}
+function fkOfSentence(txt){const w=txt.match(/[A-Za-z']+/g)||[];const W=w.length||1;const syl=w.reduce((a,x)=>a+syllables(x),0);return 0.39*W+11.8*(syl/W)-15.59;}
+
+const YA_CHECKS=[
+ {id:"longsent",label:"Sentence that spikes",sev:"r",kind:"sentence",
+  why:"A sentence far longer or denser than your own average. A few are fine \u2014 they\u2019re where you challenge the reader. A cluster is where a 14-year-old loses the thread.",
+  fix:"Split it at a natural joint, or cut a clause. Keep the ones that earn their length; break the ones that don\u2019t.",
+  ask:"Read it in one breath. If you run out, so does she. Is this a sentence you meant to be hard, or one that just grew?"},
+ {id:"denseppara",label:"Dense paragraph",sev:"r",kind:"para",
+  why:"A long block with no dialogue and no white space. YA readers read in beats; a wall of text reads as \u2018slow\u2019 and gets skimmed.",
+  fix:"Break it, or drop a line of dialogue or action into it. Aim for air on the page.",
+  ask:"Where\u2019s the last time someone spoke or moved? If it\u2019s been a whole paragraph of the narrator thinking, the reader is drifting."},
+ {id:"latinate",label:"Word a plainer one beats",sev:"r",kind:"word",
+  why:"An abstract, Latinate word where a shorter Anglo-Saxon one would hit harder \u2014 not because 14-year-olds can\u2019t read it, but because plain words carry more force in fiction.",
+  fix:"Swap for the plainer word \u2014 unless the formal one is Trinity\u2019s voice, in which case keep it and let it feel cold.",
+  ask:"Is this word the narrator\u2019s, or Trinity\u2019s? Trinity gets to be clinical. The narrator should be plain."}
+];
+
+let lens="ai",scope="all";const $=id=>document.getElementById(id);
+
+function analyseAI(text){const f=[];for(const c of AI_CHECKS){let h=c.find(text)||[];h.sort((a,b)=>a.start-b.start);const cl=[];let le=-1;for(const x of h){if(x.start>=le){cl.push(x);le=x.end;}}if(cl.length)f.push({...c,hits:cl});}return f;}
+
+function analyseYA(text){
+  const base=stats(text);
+  const sents=sentencesOf(text);
+  const findings=[];
+  // long/dense sentences: flag those whose word-count is >1.7x the mean AND above 25 words, or FK grade >14
+  const meanLen=base.avgSent;
+  const longHits=[];
+  for(const s of sents){const wc=(s.text.match(/[A-Za-z']+/g)||[]).length;const g=fkOfSentence(s.text);
+    if((wc>=25&&wc>meanLen*1.6)||g>14){longHits.push({start:s.start,end:s.end,quote:s.text.trim(),wc,g});}}
+  if(longHits.length)findings.push({...YA_CHECKS[0],hits:longHits});
+  // dense paragraphs: >120 words, no quote marks
+  const paras=[...text.matchAll(/[^\n]+(?:\n(?!\n)[^\n]+)*/g)];
+  const denseHits=[];
+  for(const p of paras){const seg=p[0];const wc=(seg.match(/[A-Za-z']+/g)||[]).length;const hasDialog=/["\u201C]/.test(seg);
+    if(wc>=120&&!hasDialog){denseHits.push({start:p.index,end:p.index+seg.length,quote:seg.slice(0,90).trim()+"\u2026",wc});}}
+  if(denseHits.length)findings.push({...YA_CHECKS[1],hits:denseHits});
+  // latinate words
+  const latHits=[];const re=/[A-Za-z]+/g;let m;
+  while((m=re.exec(text))){const lw=m[0].toLowerCase();if(ABSTRACT[lw]){latHits.push({start:m.index,end:m.index+m[0].length,quote:m[0],sugg:ABSTRACT[lw]});}}
+  if(latHits.length)findings.push({...YA_CHECKS[2],hits:latHits});
+  return {findings,base};
+}
+
 function esc(s){return s.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");}
-function render(text,f){let sp=[];f.forEach(x=>x.hits.forEach((h,i)=>sp.push({...h,sev:x.sev,key:x.id+"-"+i})));sp.sort((a,b)=>a.start-b.start||(a.end-a.start)-(b.end-b.start));const k=[];let le=-1;for(const s of sp){if(s.start>=le){k.push(s);le=s.end;}}let html="",cur=0;for(const s of k){if(s.start>cur)html+=esc(text.slice(cur,s.start));html+='<mark class="s'+s.sev+'" id="mk-'+s.key+'" data-key="'+s.key+'">'+esc(text.slice(s.start,s.end))+'</mark>';cur=s.end;}html+=esc(text.slice(cur));return "<p>"+html.replace(/\n{2,}/g,"</p><p>").replace(/\n/g,"<br>")+"</p>";}
-function hitPanel(f,h,idx){const m=f.mech?f.mech(h.quote):null;let tag='<span class="tag you">your words</span>',mech="";if(m&&m.type==="delete"){tag='<span class="tag del">cut</span>';mech='<div class="mech"><span class="arrow">remove \u2192</span><div class="res del">'+esc(m.result)+'</div><div style="margin-top:6px;font-size:13.5px;color:var(--faint)">'+m.note+'</div></div>';}else if(m&&m.type==="replace"){tag='<span class="tag del">cut</span>';mech='<div class="mech"><span class="arrow">was</span><div class="res del">'+esc(m.cut)+'</div><span class="arrow">becomes</span><div class="res">'+esc(m.result)+'</div><div style="margin-top:6px;font-size:13.5px;color:var(--faint)">'+m.note+'</div></div>';}return '<li class="hit"><div class="q" data-jump="'+f.id+'-'+idx+'">'+esc(h.quote.slice(0,140))+(h.quote.length>140?"\u2026":"")+'</div><div class="act">'+tag+mech+'<p class="ask"><b>ask yourself \u2014 </b>'+f.ask+'</p></div></li>';}
-function run(){const text=$("in").value,out=$("out"),fh=$("findings"),sh=$("scoreHost");if(!text.trim()){out.innerHTML='<span class="placeholder">Paste some text first.</span>';fh.innerHTML="";sh.innerHTML="";return;}const w=(text.match(/\S+/g)||[]).length;const f=analyse(text);const v=verdict(f,w);sh.innerHTML='<div class="score"><span class="n">'+v.total+'</span><span class="lab">flag'+(v.total===1?"":"s")+' \u00B7 '+w+' words \u00B7 '+v.per1k.toFixed(1)+'/1k</span><span class="verdict '+v.cls+'">'+v.label+'</span></div>';out.innerHTML=render(text,f);$("legend").innerHTML=[["sev1","Loudest \u2014 quoted as proof"],["sev2","Structural habit"],["sev3","Worth a look"]].map(a=>'<span><i class="swatch" style="background:var(--'+a[0]+')"></i>'+a[1]+'</span>').join("");if(!f.length){fh.innerHTML='<div class="none">Nothing flagged. Now read it aloud \u2014 that catches what a checker can\u2019t.</div>';return;}let note="";if(scope==="para"){const ps=text.split(/\n{2,}/).filter(p=>p.trim());const ta=ps.map((p,i)=>{const ff=analyse(p);const n=ff.reduce((a,x)=>a+x.hits.length,0);return{i:i+1,n,w:(p.match(/\S+/g)||[]).length};}).filter(x=>x.n>0);if(ta.length)note='<div class="finding s2"><div class="top"><span class="name">By paragraph</span></div><ul class="hits">'+ta.map(t=>'<li style="font-family:var(--mono);font-size:13px;padding:5px 8px">\u00B6'+t.i+' \u2014 '+t.n+' flag'+(t.n===1?"":"s")+' in '+t.w+' words</li>').join("")+'</ul></div>';}f.sort((a,b)=>a.sev-b.sev||b.hits.length-a.hits.length);fh.innerHTML=note+f.map(x=>'<div class="finding s'+x.sev+'"><div class="top"><span class="name">'+x.label+'</span><span class="count">'+x.hits.length+'\u00D7</span></div><p class="why">'+x.why+'</p><p class="fix"><b>fix \u2014 </b>'+x.fix+'</p><ul class="hits">'+x.hits.slice(0,12).map((h,i)=>hitPanel(x,h,i)).join("")+(x.hits.length>12?'<li style="color:var(--faint);font-family:var(--mono);font-size:13px;padding:4px 8px">\u2026and '+(x.hits.length-12)+' more of this kind</li>':"")+'</ul></div>').join("");fh.querySelectorAll("[data-jump]").forEach(el=>el.addEventListener("click",()=>{const m=$("mk-"+el.dataset.jump);if(!m)return;document.querySelectorAll("mark.active").forEach(z=>z.classList.remove("active"));m.classList.add("active");m.scrollIntoView({behavior:"smooth",block:"center"});}));out.querySelectorAll("mark").forEach(m=>m.addEventListener("click",()=>{document.querySelectorAll("mark.active").forEach(z=>z.classList.remove("active"));m.classList.add("active");const c=fh.querySelector("[data-jump='"+m.dataset.key+"']");if(c)c.closest(".hit").scrollIntoView({behavior:"smooth",block:"center"});}));}
-$("run").addEventListener("click",run);$("clear").addEventListener("click",()=>{$("in").value="";run();});
+
+function render(text,findings,cls){let sp=[];findings.forEach(x=>x.hits.forEach((h,i)=>sp.push({...h,cls:cls||("s"+x.sev),key:x.id+"-"+i})));
+  sp.sort((a,b)=>a.start-b.start||(a.end-a.start)-(b.end-b.start));const k=[];let le=-1;for(const s of sp){if(s.start>=le){k.push(s);le=s.end;}}
+  let html="",cur=0;for(const s of k){if(s.start>cur)html+=esc(text.slice(cur,s.start));html+='<mark class="'+s.cls+'" id="mk-'+s.key+'" data-key="'+s.key+'">'+esc(text.slice(s.start,s.end))+'</mark>';cur=s.end;}
+  html+=esc(text.slice(cur));return "<p>"+html.replace(/\n{2,}/g,"</p><p>").replace(/\n/g,"<br>")+"</p>";}
+
+function aiHitPanel(f,h,idx){const m=f.mech?f.mech(h.quote):null;let tag='<span class="tag you">your words</span>',mech="";
+  if(m&&m.type==="delete"){tag='<span class="tag del">cut</span>';mech='<div class="mech"><span class="arrow">remove \u2192</span><div class="res del">'+esc(m.result)+'</div><div style="margin-top:6px;font-size:13.5px;color:var(--faint)">'+m.note+'</div></div>';}
+  else if(m&&m.type==="replace"){tag='<span class="tag del">cut</span>';mech='<div class="mech"><span class="arrow">was</span><div class="res del">'+esc(m.cut)+'</div><span class="arrow">becomes</span><div class="res">'+esc(m.result)+'</div><div style="margin-top:6px;font-size:13.5px;color:var(--faint)">'+m.note+'</div></div>';}
+  return '<li class="hit"><div class="q" data-jump="'+f.id+'-'+idx+'">'+esc(h.quote.slice(0,140))+(h.quote.length>140?"\u2026":"")+'</div><div class="act">'+tag+mech+'<p class="ask"><b>ask yourself \u2014 </b>'+f.ask+'</p></div></li>';}
+
+function yaHitPanel(f,h,idx){let meta="",body="";
+  if(f.kind==="sentence"){meta='<p class="meta">'+h.wc+' words \u00B7 grade '+h.g.toFixed(0)+'</p>';body='<span class="tag you">your call</span><p class="ask"><b>ask yourself \u2014 </b>'+f.ask+'</p>';}
+  else if(f.kind==="para"){meta='<p class="meta">'+h.wc+' words \u00B7 no dialogue</p>';body='<span class="tag you">your call</span><p class="ask"><b>ask yourself \u2014 </b>'+f.ask+'</p>';}
+  else{body='<span class="tag you">your call</span><div class="mech"><span class="arrow">plainer \u2192</span><div class="res">'+esc(h.sugg)+'</div><div style="margin-top:6px;font-size:13.5px;color:var(--faint)">A nudge, not a rule. Keep it if it\u2019s Trinity\u2019s voice.</div></div><p class="ask"><b>ask yourself \u2014 </b>'+f.ask+'</p>';}
+  return '<li class="hit"><div class="q" data-jump="'+f.id+'-'+idx+'">'+esc(h.quote.slice(0,140))+(h.quote.length>140?"\u2026":"")+'</div><div class="act">'+meta+body+'</div></li>';}
+
+function gaugeHtml(base){
+  // YA target band: FK grade 5-9. Show where the text sits.
+  const lo=4,hi=13;const clamp=v=>Math.max(lo,Math.min(hi,v));
+  const pct=v=>((clamp(v)-lo)/(hi-lo))*100;
+  const bandL=pct(5),bandR=pct(9);
+  let read="right in the YA zone";
+  if(base.fk<5)read="very easy \u2014 fine, but you asked to challenge too";
+  else if(base.fk>9&&base.fk<=11)read="upper-YA \u2014 leans older, like Book 1\u2019s heavier passages";
+  else if(base.fk>11)read="above YA on average \u2014 look at the spikes below";
+  return '<div class="gauge"><div class="row"><span>easier</span><span>reading grade '+base.fk.toFixed(1)+'</span><span>harder</span></div>'+
+    '<div class="bar"><div class="band" style="left:'+bandL+'%;width:'+(bandR-bandL)+'%"></div><div class="mark" style="left:'+pct(base.fk)+'%"></div></div>'+
+    '<p class="caption">Shaded band is the YA sweet spot (grade 5\u20139). Your text sits at '+base.fk.toFixed(1)+' \u2014 '+read+'. Average sentence '+base.avgSent.toFixed(0)+' words; '+base.polyPct.toFixed(0)+'% long words. The band is a guide, not a target \u2014 Book 1 lived here and still challenged.</p></div>';
+}
+
+function wire(){
+  const fh=$("findings"),out=$("out");
+  fh.querySelectorAll("[data-jump]").forEach(el=>el.addEventListener("click",()=>{const m=$("mk-"+el.dataset.jump);if(!m)return;document.querySelectorAll("mark.active").forEach(z=>z.classList.remove("active"));m.classList.add("active");m.scrollIntoView({behavior:"smooth",block:"center"});}));
+  out.querySelectorAll("mark").forEach(m=>m.addEventListener("click",()=>{document.querySelectorAll("mark.active").forEach(z=>z.classList.remove("active"));m.classList.add("active");const c=fh.querySelector("[data-jump='"+m.dataset.key+"']");if(c)c.closest(".hit").scrollIntoView({behavior:"smooth",block:"center"});}));
+}
+
+function run(){
+  const text=$("in").value,out=$("out"),fh=$("findings"),sh=$("scoreHost"),lg=$("legend"),ft=$("foot");
+  if(!text.trim()){out.innerHTML='<span class="placeholder">Paste some text first.</span>';fh.innerHTML="";sh.innerHTML="";lg.innerHTML="";return;}
+  const w=(text.match(/\S+/g)||[]).length;
+
+  if(lens==="ai"){
+    const f=analyseAI(text);const s1=f.filter(x=>x.sev===1).reduce((n,x)=>n+x.hits.length,0);const total=f.reduce((n,x)=>n+x.hits.length,0);const p=w?total/w*1000:0;
+    let cls="v-clean",label="nothing flagged";if(total>0){if(s1>0||p>8){cls="v-heavy";label="heavy \u2014 the fingerprint is showing";}else if(p>3){cls="v-light";label="light \u2014 a few habits";}else{cls="v-light";label="mostly clean";}}
+    sh.innerHTML='<div class="score"><span class="n">'+total+'</span><span class="lab">flag'+(total===1?"":"s")+' \u00B7 '+w+' words \u00B7 '+p.toFixed(1)+'/1k</span><span class="verdict '+cls+'">'+label+'</span></div>';
+    out.innerHTML=render(text,f);
+    lg.innerHTML=[["sev1","Loudest \u2014 quoted as proof"],["sev2","Structural habit"],["sev3","Worth a look"]].map(a=>'<span><i class="swatch" style="background:var(--'+a[0]+')"></i>'+a[1]+'</span>').join("");
+    if(!f.length){fh.innerHTML='<div class="none">Nothing flagged. Now read it aloud \u2014 that catches what a checker can\u2019t.</div>';ft.innerHTML=footAI();return;}
+    f.sort((a,b)=>a.sev-b.sev||b.hits.length-a.hits.length);
+    fh.innerHTML=f.map(x=>'<div class="finding s'+x.sev+'"><div class="top"><span class="name">'+x.label+'</span><span class="count">'+x.hits.length+'\u00D7</span></div><p class="why">'+x.why+'</p><p class="fix"><b>fix \u2014 </b>'+x.fix+'</p><ul class="hits">'+x.hits.slice(0,12).map((h,i)=>aiHitPanel(x,h,i)).join("")+(x.hits.length>12?'<li style="color:var(--faint);font-family:var(--mono);font-size:13px;padding:4px 8px">\u2026and '+(x.hits.length-12)+' more of this kind</li>':"")+'</ul></div>').join("");
+    ft.innerHTML=footAI();wire();return;
+  }
+
+  // YA lens
+  const {findings,base}=analyseYA(text);
+  const total=findings.reduce((n,x)=>n+x.hits.length,0);
+  sh.innerHTML=gaugeHtml(base)+'<div class="score" style="border-top:0"><span class="n">'+total+'</span><span class="lab">spike'+(total===1?"":"s")+' flagged \u00B7 '+w+' words</span><span class="verdict v-read">readability lens</span></div>';
+  out.innerHTML=render(text,findings,"r");
+  lg.innerHTML='<span><i class="swatch" style="background:var(--read)"></i>Where a 14-year-old may bounce</span>';
+  if(!findings.length){fh.innerHTML='<div class="none">No spikes against your baseline. The level is consistent \u2014 which is what you want, challenge included.</div>';ft.innerHTML=footYA();return;}
+  fh.innerHTML=findings.map(x=>'<div class="finding r"><div class="top"><span class="name">'+x.label+'</span><span class="count">'+x.hits.length+'\u00D7</span></div><p class="why">'+x.why+'</p><p class="fix"><b>fix \u2014 </b>'+x.fix+'</p><ul class="hits">'+x.hits.slice(0,15).map((h,i)=>yaHitPanel(x,h,i)).join("")+(x.hits.length>15?'<li style="color:var(--faint);font-family:var(--mono);font-size:13px;padding:4px 8px">\u2026and '+(x.hits.length-15)+' more</li>':"")+'</ul></div>').join("");
+  ft.innerHTML=footYA();wire();
+}
+
+function footAI(){return '<p><b>Two kinds of fix.</b> <span class="tag del">cut</span> = deletion, shown exact. <span class="tag you">your words</span> = rewrite in your voice; the tool gives the question, not the answer. It never writes replacement prose. A clean score is the floor, not the ceiling \u2014 read it aloud.</p>';}
+function footYA(){return '<p><b>This lens flags spikes, not the level.</b> Book 1 sat in this same range and still challenged its readers \u2014 the goal is a consistent challenge, not an easy one. A flag means \u201Cthis is harder than the rest of your book\u201D; you decide whether it earns that. <span class="tag keep">keep</span> the ones that are Trinity\u2019s cold voice or a deliberate hard beat; smooth the ones that are just the prose reaching. Your daughter\u2019s finger on the page is a better guide than any number here.</p>';}
+
+$("run").addEventListener("click",run);
+$("clear").addEventListener("click",()=>{$("in").value="";run();});
+$("lens").addEventListener("click",e=>{if(e.target.dataset.lens){lens=e.target.dataset.lens;[...$("lens").children].forEach(b=>b.classList.toggle("on",b===e.target));run();}});
 $("mode").addEventListener("click",e=>{if(e.target.dataset.scope){scope=e.target.dataset.scope;[...$("mode").children].forEach(b=>b.classList.toggle("on",b===e.target));run();}});
-$("sample").addEventListener("click",()=>{$("in").value="The towers were built for separation. Several thousand feet above Trinity's lower levels, the monitoring floor watched everything.\n\nIt was not freedom. It was distance with a better view. Trinity had not defeated hunger, cold, and fear. It had moved them somewhere else. The city measured everything except the cost of the things it demanded.\n\nElara pressed her wrist to the plate. For a moment, nothing happened. Then the panel lit, precisely and quietly, and her clearance appeared. It was a small ceremony, almost elegant in its cruelty. Discipline was part of the building.\n\n\"Wow,\" she said. \"I didn't know there were teenagers that big.\"";run();});
+$("sample").addEventListener("click",()=>{$("in").value="The towers were built for separation. Several thousand feet above Trinity's lower levels, the monitoring floor watched everything.\n\nIt was not freedom. It was distance with a better view. Trinity had not defeated hunger, cold, and fear. It had moved them somewhere else. The institutional architecture of the surveillance apparatus necessitated that every representative comprehend the doctrinal framework before they could commence their observational duties, a reality that Elara had internalized approximately three years prior, subsequently utilizing that comprehension to ascertain which deviations constituted genuine anomalies and which merely represented statistical noise within an otherwise predictable behavioral distribution.\n\nElara pressed her wrist to the plate. For a moment, nothing happened. It was a small ceremony. Discipline was part of the building.\n\n\"Wow,\" she said. \"I didn't know there were teenagers that big.\"";run();});
 window.addEventListener("keydown",e=>{if((e.metaKey||e.ctrlKey)&&e.key==="Enter")run();});
 </script>
 </body>

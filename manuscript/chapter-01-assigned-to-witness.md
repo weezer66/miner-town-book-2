@@ -4,7 +4,7 @@
 
 Elara woke at 3:00 a.m., on schedule, before the city lights shifted to dawn mode.
 
-At the Institute, this would have been the hour she went to sleep, full of noise, caffeine, and unfinished arguments. Trinity had cured her of that. Her schedule controlled when she woke, ate, worked, and slept. Discipline was part of the building.
+At the Institute, this would have been the hour she went to sleep, full of caffeine and unfinished arguments. Trinity had cured her of that. Her schedule controlled when she woke, went about her daily routine, and slept.
 
 Everyone in Trinity had a schedule. The four ganas wrote the schedule for everyone else.
 
