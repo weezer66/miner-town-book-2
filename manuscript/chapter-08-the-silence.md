@@ -78,7 +78,7 @@ Draṣṭā took it from her fingers and unfolded it with deliberate care. The c
 
 "King Trishanku," Draṣṭā said, a faint smile still resting at the edge of her mouth. "He was pushed out of heaven and prevented from falling back to earth, left fixed in the space between the two, belonging to neither. His condition is the condition of those who have been placed outside every available category."
 
-She touched one finger to the name on the card. "The word survived because some outcomes refuse to resolve. In modern Hindi, a hung parliament may be called a *trishanku* government: suspended between possibilities, unable to belong fully to any one result. Trinity has no shortage of names for children the system cannot place. Some monitors use such words as insults. Others may one day reclaim them."
+She touched one finger to the name on the card. "The word survived because some outcomes refuse to resolve."
 
 Elara thought of Gage, Otto, and Ben, each marked **UNASSIGNED** by the Initiation routing system. They had not fit the routes prepared for them. They had been held between designations, between decisions, between the life Trinity had measured and the life they had begun to choose. The card was not a prophecy. It was a recognition. Their condition was his condition.
 
@@ -90,11 +90,11 @@ Elara reached for the next card in the fan. Draṣṭā unfolded it, and the ima
 
 "Ashwatthama," Draṣṭā said. "Conflict that cannot be terminated. He loosed a weapon at an unborn child after the war had already been decided, and for that act he was cursed to survive without relief. The battle ended. The conflict did not."
 
-Her faint smile did not disappear, but its meaning changed. "He is also the son of Drona. You have chosen a father and a son, two generations of the same house, and both cards have brought you back to the boys. One shows those who have been suspended between categories. The other shows what remains when a decision is called finished but its consequence continues to live."
+Her faint smile did not disappear, but its meaning changed. "He is also the son of Drona. You have chosen a son, while his father's house now stands by you. Both cards have brought you back to the boys: one shows those suspended between categories; the other shows what remains when a decision is declared finished but its consequences continue to live."
 
 Elara felt the meaning move beneath the cards and reach backward into the ceremony. The initiation had not been a sequence of tests arranged to measure three candidates and assign them to their proper routes. It had been the first visible shape of something the system did not yet know how to name. In the monitoring chamber, Gage, Otto, and Ben had not simply endured pressure beside one another. They had chosen one another, and Elara had chosen to preserve the evidence of that choice.
 
-She understood now that the chamber had been the beginning of the gana. The shared ration, the restraint, the movement toward danger, and the refusal to leave one another behind had not been separate incidents. They were the first consequences of a bond forming under observation. The ceremony had not brought her to explain what happened there. It had brought her to see that what happened there had already changed the meaning of everyone involved, including her.
+She understood now that the monitoring chamber was where the boys forged their own gana, a bond that might one day become the resistance. By preserving what happened, Elara had become part of it.
 
 Draṣṭā gathered the remaining cards into a smaller fan. "Draw the final card."
 
@@ -102,21 +102,19 @@ Elara reached for the last card. Draṣṭā unfolded it slowly. The image showe
 
 "Rahu," Draṣṭā said. "The severed head of an asura who drank the stolen amrita. The nectar reached his throat before Vishnu cut him in two, and so he remained alive without the body that could have made him whole. He pursues the sun and moon forever and swallows them at eclipses, but he cannot hold them. They always emerge."
 
-She placed her fingertip beside the name. "Rahu is danger that is always closing and never concluded. The old word *graha* is often translated as planet, but its root meaning is seizer: something that takes hold. If Trinity classifies subjects rather than incidents, a subject approaching a threshold could be marked as a *graha*. Otto's abnormal energy signature would be a graha reading. A bureaucratic term, perhaps, but one grounded in scripture. Three words capable of making an approaching danger sound official."
+She placed her fingertip beside the name. "Rahu is danger that keeps coming and never truly ends. The old word *graha* means something that seizes or takes hold. If Trinity used it for someone nearing a dangerous limit, Otto's energy reading might be called a graha reading—an ancient word turned into an official label."
 
 Elara looked at the three cards together. Trishanku, Ashwatthama, and Rahu were not promises of what must happen. They were patterns: suspension, conflict, and danger closing without resolution. She could not change what had already happened in the monitoring chamber. She could only respond to what was happening now. The final card made the next obligation clear. The present was the last time she could prepare for what was coming.
 
-Draṣṭā's expression grew solemn. "The past cannot be altered by your regret, Elara. The present can only be met by your action. But the future announces itself before it arrives. These are signals of grave times. Prepare while preparation is still possible."
+Draṣṭā's expression grew solemn. "The past cannot be changed by regret, Elara; the present must be met by action; and the future often warns us before it arrives. These are signals of grave times. Prepare while preparation is still possible."
 
-"Remember this, Elara," Draṣṭā said. "The past names what cannot be changed, the present reveals what is already moving, and the future belongs to those who recognize its warning before it arrives."
-
-Elara went quiet. She could see now that the situation was nowhere near ordinary. The gravity of the cards, the language, and the people gathered around the table justified the presence of every prestigious figure in the room. This was not a routine review dressed in ceremony. It was something larger, moving through histories and consequences she had only begun to recognize.
+Elara went quiet. The gravity of the cards, the language, and the people gathered around the table made the larger forces moving through histories and consequences impossible to ignore.
 
 But what was she doing here? The question settled inside her without panic. Was she a witness, a participant, or merely the instrument through which destiny had chosen to move the record from one hand to another? She had thought she was protecting three candidates by preserving what happened in the monitoring chamber. Now she wondered whether she had also been carrying them toward this room long before she understood that a path was forming beneath her choices.
 
 Before she could dig any further inward, Sarvajña, the elder with the seven stones threaded around his wrist, leaned forward. When he began to speak, his sentences were measured and precise. There was little of the mystic in his manner. He sounded like someone presenting facts that had been tested, recorded, and carried through too many years to require ornament.
 
-Elara understood the distinction. Draṣṭā had spoken through patterns, symbols, and the meanings that reached beyond the immediate moment. Sarvajña was speaking from a factual standpoint. His points were not about the tenses of time or what the cards might reveal. They were about what had happened, what had been documented, and what the ganas had done with the consequences.
+Elara understood the difference: Draṣṭā read patterns and possibilities, while Sarvajña dealt in documented facts and the consequences of what the ganas had done.
 
 "The animosity between the ganas did not begin with you or with today's incident," Sarvajña said. "It has existed since the ganas were instituted. For generations, the elders have been consumed with balancing the scales between them, weighing intent and choices on both sides and deciding where responsibility belongs. We measure what was meant, what was done, and what each action set in motion."
 
@@ -124,9 +122,9 @@ He glanced toward the three cards. "That work has kept old grievances from becom
 
 Sarvajña's fingers rested against the stones at his wrist. "A new wing of the Drona library was sanctioned this month. The section had been blocked for more than a decade. The approval came with twice the amount originally allocated, but no clear designation for what the additional funds were meant to support. When we carried the order to the treasury, to Kubera, there was a pause before the transfer was released. Conversations took place in closed rooms."
 
-"Our sources tell us that a new power is gathering inside Kubera. It has no name, no public office, and no designation that can be entered into a record. Yet every account describes the same impression: something extraordinarily strong, almost omnipotent in reach, is being built behind the institution's visible structure. A person like that cannot exist without complete support. Not from one elder, or one department, but from the entire chain of authority in Kubera, all the way to its Grandmaster."
+"Our sources tell us that a new power is gathering inside Kubera. It has no name, no public office, and no designation that can be entered into a record. Yet every account describes the same impression: someone extraordinarily strong, almost omnipotent in reach, is being built behind the institution's visible structure. A person like that cannot exist without complete support. Not from one elder, or one department, but from the entire chain of authority in Kubera, all the way to its Grandmaster."
 
-Sarvajña's gaze returned to Elara. "We are concerned that this is connected to the events surrounding you during these past few days. The balance between the ganas has held because every action could still be weighed against an answering action. That balance has now been tipped beyond anything we can restore by ordinary measures. Something is coming, and you will be at the center of it."
+Sarvajña's gaze returned to Elara. "We believe this is connected to the events surrounding you during these past few days. The balance between the ganas held only because every action could still be weighed against an answering action. That balance has now slipped beyond anything ordinary judgment can restore, and what is coming will not arrive as a single act we can measure or contain. You will stand at the center of it, Elara, when the consequences of these days begin to unfold."
 
 "That is why we are here: to prepare you and to ensure that Drona stands behind you. Your mentors will be your shadows from this moment onward, no matter what follows. Knowledge must not bow to wealth, strategy, or force. It must remain answerable to truth, even when every other gana has decided that truth is only another resource to be controlled."
 
