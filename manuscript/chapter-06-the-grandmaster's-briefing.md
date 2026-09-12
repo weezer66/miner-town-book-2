@@ -94,33 +94,43 @@ Daren had not yet spoken. The Grandmaster had already shown him the charge.
 
 The Grandmaster began to speak.
 
-His sentences were measured and separated by precise intervals, but Daren understood none of them. Then he recognized the cadence. This was the founders' language, the first tongue of the houses that had built fortunes before Trinity existed. It had been shaped by wealth: intricate phrases that turned possession into authority, elegant enunciations that made command sound like culture, and words precise enough to make power feel inevitable. Daren had heard fragments of it in historical recordings, usually beneath captions that called it a predecessor language of the founding houses.
+His first words came in Gujarati, rich with the clipped rhythm of money, hierarchy, and judgment. Daren heard the vowels open and close with the precision of a language designed for command, but he did not know the meaning until the chamber device behind the Grandmaster reacted to the speech.
 
-The language was beautiful in a way that made him feel smaller. He could hear the careful architecture of every sentence, the almost perfect placement of each vowel, but he could not enter its meaning. He searched the words for familiar roots, watched the Grandmaster's mouth, and tried to build a translation from tone and sequence. The chamber offered him no help. The translation panels remained dark. Shame began to consume him so completely that he imagined the color draining from his face, as though he were turning black beneath the weight of being exposed as the weak link in Kubera's proud heritage.
+"કુબેરાના દારેન. તમારા પદની સમીક્ષા કરવામાં આવી છે."
 
-The Grandmaster stopped.
+A narrow band of gold illuminated across the rear device. The glass resolved into a two-way interface: the Grandmaster's image appeared in one plane while the chamber's translation engine opened beneath it, carrying the speech through the room in a voice stripped of all softness.
 
-He looked through Daren as though Daren were a transparent obstruction between him and the chamber doors. Then he turned toward a device set into the rear wall and gave a small nod.
-
-A narrow band of gold illuminated across the device's surface. The glass resolved into a two-way interface: the Grandmaster's image appeared in one plane while the audio channel opened beneath it, carrying his voice through the room without visible speakers.
-
-The voice that came from it was not the Grandmaster's. Daren knew it immediately. He had heard that voice during the Kubera selection rounds, when the candidates stood beneath white lights and waited to learn whether the house considered them useful. It had been introduced as the Voice of Kubera, an automated rendering of the gana's authority designed to make obedience sound like destiny.
-
-Now it spoke directly to him.
-
-"Daren of Kubera. Your position has been reviewed."
+"Daren of Kubera. Your position is under review."
 
 The words were calm, almost gentle. That made them worse.
 
-"You were given access, resources, and the authority to interpret threshold conditions. You allowed three lowly residents of Miner Town—children drawn from the labor population Kubera keeps beneath notice—to alter the meaning of the Initiation. You recognized their cohesion as a threat, but you failed to control the response. You possessed the data, the connections, and the institutional reach to establish a defensible case against Elara Nathan. You did not."
+The Grandmaster continued, and this time the Gujarati rolled out in a measured, deliberate rhythm, each sentence carrying the authority of a man who had never once had to ask for silence. The device translated every phrase as it landed, the English arriving with cold exactness a beat behind the original.
+
+"તમને પ્રવેશ આપવામાં આવ્યો હતો, સાધનો આપવામાં આવ્યાં હતાં, અને સીમા-પરિસ્થિતિઓનું અર્થઘટન કરવાનો અધિકાર પણ. તમે માઇનર ટાઉનના ત્રણ તુચ્છ રહેવાસીઓને — કુબેરા જેને ધ્યાનની બહાર રાખે છે એવી શ્રમિક વસ્તીમાંથી આવેલાં બાળકોને — દીક્ષાનો અર્થ જ બદલી નાખવા દીધો. તમે તેમની એકજૂટતાને જોખમ તરીકે ઓળખી, પણ પ્રતિક્રિયાને નિયંત્રિત કરવામાં નિષ્ફળ ગયા. એલારા નાથન વિરુદ્ધ બચાવયોગ્ય કેસ ઊભો કરવા માટે તમારી પાસે માહિતી હતી, સંપર્કો હતા, અને સંstitutાકીય પહોંચ હતી. તમે એ ન કર્યું."
+
+The translation panel responded at once.
+
+"You were granted entry, provided with resources, and given the authority to interpret boundary conditions. You allowed three insignificant residents of a minor town—children from the laboring class that Kubera usually overlooks—to completely alter the meaning of the Initiation. You recognized their solidarity as a threat but failed to control the reaction. You possessed the information, the contacts, and the institutional access to build a defensible case against Elara Nathan. You did not do so."
 
 Daren's mouth went dry.
 
-"Kubera does not punish weakness because weakness is temporary. Kubera removes weakness when it becomes visible to its rivals. Your insignia is under review. Your clearance is under review. Your right to speak for this house is under review."
+The Grandmaster's next sentence came in Gujarati with the same faultless calm. The chamber device translated it in the same exact register, as though it had already prepared the wording for him before the speech began.
+
+"કુબેરા નબળાઈને સજા નથી કરતો, કારણ કે નબળાઈ ક્ષણિક છે. કુબેરા નબળાઈને દૂર કરે છે — જ્યારે તે તેના પ્રતિસ્પર્ધીઓની નજરે ચઢી જાય. તમારું પદચિહ્ન સમીક્ષા હેઠળ છે. તમારી અધિકૃત મંજૂરી સમીક્ષા હેઠળ છે. આ ઘર વતી બોલવાનો તમારો અધિકાર સમીક્ષા હેઠળ છે."
+
+The translated line arrived like a verdict.
+
+"Kubera does not punish weakness, for weakness is fleeting. Kubera eliminates weakness—once it draws the attention of rivals. Your standing is under review. Your official clearance is under review. Your right to speak on behalf of this House is under review."
 
 The device paused. Behind the Grandmaster, the suspended panels replayed the boys emerging together, Gage carrying Otto and dragging Ben through the open gates.
 
-"You allowed three unworthy representatives of the other ganas to overpower you," the voice continued. "A Drona analyst, a Chanakya interpreter, and an Ashoka enforcer each acted beyond their station, and you permitted them to make Kubera appear powerless."
+Then the Grandmaster tilted his chin toward the same gold surface and continued with the final accusation, again in Gujarati, and the machine repeated it in English without hesitation.
+
+"તમે અન્ય ગણોના ત્રણ અયોગ્ય પ્રતિનિધિઓને તમારા પર હાવી થવા દીધા," — "એક દ્રોણ વિશ્લેષક, એક ચાણક્ય અર્થઘટનકાર, અને એક અશોકા પ્રવર્તક; દરેકે પોતાના સ્થાનથી આગળ વધીને કામ કર્યું, અને તમે તેમને કુબેરાને શક્તિહીન દેખાડવા દીધો."
+
+The translation came with ritual precision.
+
+"You allowed three unsuitable representatives from other *Ganas* to overpower you," — "a Drona Analyst, a Chanakya Interpreter, and an Ashoka Proponent; each overstepped their bounds, and you allowed them to make Kubera appear powerless."
 
 The Grandmaster did not look away from him. He looked through him, as though Daren were no longer a representative of Kubera but a failed component already marked for disposal. It was worse than being ignored. Daren had been seen, measured, and found unworthy.
 
