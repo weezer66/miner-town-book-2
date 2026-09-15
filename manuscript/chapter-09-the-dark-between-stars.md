@@ -98,19 +98,9 @@ The Grandmaster's face remained composed, but something bright and merciless had
 
 "They will learn the difference."
 
-Daren lowered his gaze. The words should have frightened him. They should have sounded like a declaration of war. Instead, they settled over him with the weight of an honor he had never dared to imagine receiving. He had devoted his life to Kubera and still been treated as an instrument that could be discarded when it failed to produce the desired result.
+Daren lowered his gaze. The words should have terrified him. Instead, they landed like an honor he had never thought he deserved. He had devoted his life to Kubera and been treated as a tool to be discarded when it no longer served its purpose. Now the Grandmaster was offering him a place above those who had once dismissed him.
 
-Now the Grandmaster was offering him a place above every representative who had ever looked down on him.
-
-He had no other option.
-
-That was true.
-
-It was also true that he wanted this.
-
-"What is the first move?" Daren asked. "Who do I approach? What do you need removed?"
-
-The questions came quickly now. Names surfaced in his mind. Access points. Pressure lines. People who had corrected him in public and people who had watched without intervening. He could see the city's structure as a field of weaknesses. For the first time, the calculations he had spent years performing would not end in a report. They would become action.
+He had no other option, and that was true—but it was also true that he wanted this. "What is the first move?" Daren asked. "Who do I approach? What do you need removed?" The questions came quickly now. Names surfaced in his mind—access points, pressure lines, the people who had corrected him in public and the ones who had watched without intervening. He could see the city's structure as a field of weaknesses. For the first time, the calculations he had spent years performing would not end in a report; they would become action.
 
 The Grandmaster lifted one hand.
 
@@ -120,7 +110,7 @@ The answer was gentle. It stopped Daren more completely than a command.
 
 The Grandmaster turned away from the projection and walked to the rear of the study. A broad table stood beneath the dark window, its surface crowded with sealed ledgers, instruments, and objects whose purposes had been hidden by age or design. At its center rested a gold-ornate box.
 
-It was smaller than Daren expected. The metal had been worked into fine interlocking patterns: coiled serpents, closed eyes, and four narrow bands meeting around a circle with no center. It did not shine like the founder seal. Its gold had been darkened by handling, as though generations of hands had passed over it without ever being permitted to open it.
+He had never seen anything like it. The box was small and worked in gold, its surface patterned with coiled serpents, closed eyes, and four narrow bands meeting around a circle with no center. It did not shine like the founder seal. It looked less like an heirloom and more like a tool fashioned for a purpose the Grandmaster had spent years preparing for.
 
 The Grandmaster placed both hands on the lid.
 
@@ -128,13 +118,13 @@ For a moment, he remained still.
 
 Then the box opened.
 
-Inside lay a bracelet of obsidian.
+Inside lay a bracelet of obsidian, black as a wound in the light.
 
-It was dark, dull, and almost completely without ornament. Under the chamber's light, it seemed to drink in every reflection. Then the Grandmaster tilted it slightly, and a narrow edge caught the light with a brilliance sharper than any gold insignia Kubera had ever displayed. The gleam vanished as quickly as it appeared, leaving the stone black again.
+It drank the chamber's glow without giving it back. When the Grandmaster tilted it, a narrow edge flashed with a brilliance sharper than any gold insignia Kubera had ever displayed, then went dark again.
 
 Daren stepped forward.
 
-The Grandmaster carried the bracelet toward him. He did not hurry. The distance between them became ceremonial without either man acknowledging the ceremony. Daren felt the old instinct to straighten his collar, to present himself correctly before authority. He had no collar to correct now. No insignia. No house mark.
+The Grandmaster carried the bracelet toward him. Daren felt the old instinct to straighten himself, to stand correctly before authority, but there was nothing left to arrange. His gold bracelet was gone. The rest of his ensemble remained intact.
 
 Only the bare wrist where Kubera had removed him.
 
@@ -150,38 +140,104 @@ The sound was quiet.
 
 It was also louder than thunder.
 
-The room seemed to contract around it. The window went completely black. Somewhere beyond the walls, systems woke without announcing themselves. A pressure moved through Daren's arm, not pain but a sudden rearrangement of sensation, as though every hidden sensor in Trinity had turned toward the new band around his wrist.
+The room seemed to contract around it. The window went completely black. Somewhere beyond the walls, Trinity's hidden systems woke without announcing themselves. A pressure moved through Daren's arm, not pain but a sudden reordering of sensation, as if every sensor, access gate, and internal ledger in the city had turned toward the new band around his wrist.
 
 The obsidian remained dull.
 
 Then a thin line of light moved beneath its surface.
 
-It formed no insignia. No name. No symbol that could be entered into a record.
+Not a sigil. Not a name. Not a symbol that could be entered into a record.
+
+A trace. A recognition. A permission being issued somewhere deeper than the visible system.
 
 The Grandmaster watched the light disappear into Daren's skin.
 
 "Now you understand," he said.
 
-Daren looked down at the bracelet. The place where his old authority had been removed was covered by something that did not belong to any gana. It carried no visible mark, yet the room had responded to it. The city had felt it. Or perhaps the city had been waiting for it.
+Daren looked down at the bracelet. The place where his old authority had been removed was covered by something that did not belong to any gana. It carried no visible mark, yet the room had responded to it. The city had felt it. Or rather, it had recognized him.
 
-"What have you made me?" Daren asked.
+"What just happened?" Daren asked.
 
-The Grandmaster closed the gold box.
+The Grandmaster closed the gold box. He did not look away from Daren. The expression on his face was the same cold, deliberate one Daren had seen only moments before, when the Grandmaster had spoken of the ruling gana and the city as a thing that could be pried open. They were not equals. They were not even of the same order. But they stood, for the first time, on the same plane.
 
-"Nothing," he said. "I have given you the means to make yourself."
+"I have given you a way to be seen by the city as more than a servant of Kubera," he said.
 
 Daren raised his eyes.
 
-The dark wall panel reflected him now. His face, his bare collar, and the obsidian band at his wrist appeared beneath the fading projection. He looked less like a Kubera representative than a man who had stepped outside the system and discovered that the darkness had been waiting for him.
-
-The Grandmaster returned to the table.
+The dark wall panel reflected him now. His face, his bare collar, and the obsidian band at his wrist appeared beneath the fading projection. He looked less like a Kubera representative and more like a man who had stepped beyond the order that had defined him.
 
 "Go back to your quarters," he said. "Sleep if you can. Tomorrow, you will begin learning how much of Trinity is already listening."
 
-Daren did not ask who was listening.
+He understood the first lesson without asking: Trinity was never as quiet as it seemed.
 
-He understood that the first lesson had already begun.
+He returned to his room with the obsidian bracelet at his wrist and the weight of the chamber still pressing against the back of his eyes. He had expected Kubera members to stop him in the corridor, to question the black band or demand an explanation. No one did. The representatives and attendants he passed stepped aside without speaking. None held his gaze. They lowered their eyes as if the force around him was too great to meet directly.
 
-The memory released him.
+The narrow bed, the bare wall, and the single table looked identical to what they had before, but something in the geometry of the room had changed. It was no longer a place where he lived. It was a place he had been released to, as if Trinity had already started deciding where to place him next. He crossed to the window and looked out at the stars. Between them, the black hole held its place in the dark.
 
-Daren stood again before the real window, his fingers resting against the obsidian bracelet. Beyond the glass, the natural stars continued their slow orbit around the invisible mass. The Grandmaster's voice had vanished, but the promise remained inside him, bright and poisonous.
+The memory released him. Daren stood before the glass in the unlit room, one hand at the obsidian bracelet. The black hole remained where it had always been, unseen until someone knew where to look.
+
+He did not sleep.
+
+The next morning, the led panel embedded in the wall above his bed lit with a single message, thin and cold as a blade. The screen was the same narrow panel he had noticed before in the Phoenix elevator on his second trip, the one that had seemed almost too ordinary to matter. Now it carried a line without a routing code, a signature, or a clearance stamp.
+
+Report to the Grandmaster's chamber. Immediate.
+
+Daren read it twice. Then a third time.
+
+It did not require his name. It did not ask permission. It did not demand proof of identity. It simply knew where he was and what he was expected to do.
+
+He went down by lift without speaking to anyone. The corridor outside his room was quiet, but not empty. Two maintenance workers turned at the sound of his footsteps and immediately dropped their eyes. One straightened and stepped aside before Daren had even reached the threshold. Another lowered his head and made a small, careful gesture with his hand, as though he had just remembered something important and was trying not to make a scene about it.
+
+At the lifts, the guards at the station were already waiting.
+
+They saw him before he fully stepped into the atrium. Their posture changed in an instant: less guard, more deference. One of them moved to open the lift doors before Daren could signal his destination. Another gave him a nod that was almost a salute and then immediately looked away, as if showing respect was worse than not showing it.
+
+Daren stopped in the middle of the corridor.
+
+He had expected suspicion. He had expected protocol. He had expected, at the very least, to be observed and counted. Instead, the men at the lift station were treating him like someone whose presence had already been arranged by a power above their own.
+
+He had no words for it.
+
+The lift carried him upward. The doors opened at the Grandmaster's level and the chamber beyond seemed quieter than the rest of Trinity. No alarms. No active hum. Only a controlled silence, the kind that meant a system had already decided it would be heard only when it wanted to be.
+
+The Grandmaster was waiting inside the chamber, the same calm, still figure Daren had last seen at the dark window. He was not in a formal posture. He did not stand at a desk. He was simply there, one hand resting against the wall as though the city itself were a thing he was consulting.
+
+At his side, folded over a curved stand, lay the obsidian ensemble.
+
+It was darker than the bracelet. More practical than ceremonial. The fit of the layered plates, the collar, the mesh-lined gloves, the hood, the sealed seams—everything about it suggested motion, concealment, and an invisible field that would hold its shape around the body instead of simply covering it.
+
+"Put it on," the Grandmaster said.
+
+Daren stared at the suit, then at the old man. The words did not sound like a command in the way Kubera commands sounded. There was no tone of office in them. There was no expectation of obedience. There was simply the certainty that he would do it.
+
+He reached for the suit with both hands and felt the weight of it settle into his arms. It was lighter than it looked, but it carried a sense of density, as if the material had been made to hold pressure rather than to be worn. The hood closed around his shoulders with a soft mechanical sound. The under-layer wrapped across his ribs and chest, sealing itself with a near-silent tension. The gloves settled over his hands, the mesh at the wrist tightening around the obsidian bracelet as if the two were made to be paired.
+
+The suit did not transform him into someone else. It recognized him.
+
+The Grandmaster watched in silence until the final seam locked into place.
+
+"This is where it starts," he said.
+
+Daren felt the sentence settle through him like a weight dropped into deep water. He did not know what had begun. He only knew that the city had changed more quickly than his understanding of it and that he had been pulled into a pattern already moving before he knew the steps.
+
+He stood again in the chamber, the obsidian band at his wrist catching the weak light, the suit settling against him with a pressure he could not yet name. Beyond the room, Trinity continued its flawless, impossible order. Somewhere beneath it, the hidden systems were already listening.
+
+The next hours felt as if they were happening at a speed he could not follow. Every new fact arrived before he had time to name it, each one fitting into a system older than Kubera and more advanced than anything any gana had ever admitted existed. It was not that the city had changed, exactly; it was that he had been folded into a mesh he had never seen and could not yet read.
+
+His throat went dry.
+
+He looked around for something to drink and found a pristine glass bottle on the narrow table by the wall. He had no time to think. Before he understood the why, he understood the how.
+
+He raised his right hand.
+
+The bottle drifted from the table and slid into his palm without a sound. It was not a trick of the eye, nor a stray current of air. The obsidian suit answered the movement at once: the gloves, lined with fine sensor mesh and micro-grid channels, fed his intent into the suit's local field lattice. A low pressure built around his wrist and hand, shaping a narrow field of control that lifted the bottle with no visible effort, as if the object had simply decided to move toward him.
+
+Daren stared at it in his hand.
+
+The suit was not only a costume. It was a field, and the field had recognized him before he had fully accepted it.
+
+He turned back to the Grandmaster, his face caught between fear and awe. The old man stood perfectly still, his expression as composed as ever, as if the moment had been waiting for him all along.
+
+"This is where it starts," the Grandmaster said.
+
+The words settled in Daren like a verdict. He did not yet know what had begun, but he understood enough to know it was not a return. It was a turn. A new path had opened, and it had already chosen him.
