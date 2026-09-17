@@ -1,10 +1,10 @@
 # Chapter 10: The Pathways
 
-Later that morning, before the boys' labor intake began, the Drona cafeteria was loud enough to make secrecy look like ordinary fatigue.
+That evening, after the review chamber had emptied and the day's obligations had carried each of them elsewhere, the Drona cafeteria was loud enough to make secrecy look like ordinary fatigue.
 
 Trays struck the return belt at one end of the room. The drink dispenser hissed and clicked. A maintenance cart complained along the wall with one uneven wheel, and three students near the windows argued over a schedule neither of them could change. The noise did not hide speech so much as break it into harmless pieces. A sentence overheard at the next table became nothing more than one more complaint about rationed coffee or delayed shifts.
 
-Anandi had chosen a table near the center of the room, where no one could approach without being seen and no one would think it strange that three Drona members had stopped for a late meal. Kavik sat with his back to the service line, turning a cup between his hands. Elara had not touched the food in front of her. The thin soup had cooled into a surface she could not bring herself to disturb.
+Anandi had chosen a table near the center of the room, where no one could approach without being seen. A mentor sharing dinner with a monitor would usually draw notice, but the evening rush gave everyone else a reason to mind their own meal. Kavik sat with his back to the service line, turning a cup between his hands. Elara had not touched the food in front of her. The thin soup had cooled into a surface she could not bring herself to disturb.
 
 For several minutes, they spoke about nothing that mattered. Anandi asked whether Elara's wrist still hurt from the monitoring brace. Kavik complained that the cafeteria had found a new way to make grain taste like paper. Elara answered when an answer was required and kept looking past them at the open room.
 
@@ -80,7 +80,7 @@ The words made the page look colder. Elara remembered the reports she had read a
 
 "Why bring this to me?" she asked.
 
-Kavik did not answer at once. "Our contacts noticed the vacancy before the intake sequence closed. They have not touched it. If you choose, they can move the existing opening to the portion of the assignment queue where Gage will appear. It requires no false record and no named exception. The clerk will receive an ordinary vacancy in an ordinary batch."
+Kavik did not answer at once. "Our contacts identified Thorton's vacancy. It will remain open until Gage enters labor intake. If you choose, they can route it into his assignment batch. It requires no false record and no named exception. The clerk will receive an ordinary vacancy in an ordinary batch."
 
 "And the clerk will stamp it onto him without knowing why."
 
@@ -129,3 +129,63 @@ Nothing in the cafeteria changed. The belt continued carrying trays into its dar
 Elara watched the room move around them and did not mistake its motion for an answer.
 
 She had chosen one small condition in a future she could not see.
+
+The decision did not quiet the question that had brought her to the cafeteria.
+
+That evening, Elara met Anandi and Kavik in the Drona administrative archive. The room sat behind the public research stacks, narrow and windowless, with three terminals built into a wall of pale glass. It was where Drona officers reconciled grants, access orders, and the old records that kept Trinity's institutions from openly contradicting themselves.
+
+Anandi stood at the center terminal while Kavik opened the library-wing allocation file beside her. The public version was exact and useless: expansion approved, funding released, designation pending. Kubera's transfer appeared as a completed figure with no attached correspondence, as though the money had moved through the system without ever passing through a person's hand.
+
+"The approval trail was cleaned," Elara said.
+
+"Redacted," Anandi corrected. "Cleaned implies there is nothing beneath it."
+
+She drew up the archive's record map: public copy, departmental copy, fiscal ledger, then the native authorization record from which the others had been generated. The final layer was sealed behind a legacy firewall that rejected Elara's current clearance before she could open it.
+
+Kavik studied the denial sequence. "It does not deny you because you lack authority," he said. "It denies you because the current archive does not recognize the older permission language."
+
+"Can you get through it?" Elara asked.
+
+"Not through," Anandi said. "Around."
+
+She named the original Drona filing convention, one Elara had encountered only in training exercises: every authorization created a mirrored audit path, preserved for disputes between the ganas. The path no longer appeared in the modern interface, but it still existed beneath the redactions.
+
+Kavik began entering a string of old ledger intervals. He was not guessing at a password. He was rebuilding the sequence that linked the library request, Kubera's transfer, and the final approval. One number followed another across the screen until a second prompt opened beneath the first.
+
+NATIVE AUTHORIZATION RECORD
+
+ACCESS: PROVISIONAL
+
+Elara's pulse moved once at her throat.
+
+"This will leave a trace," she said.
+
+"A lawful audit trace," Anandi said. "We are reading a Drona record. Nothing more."
+
+The native document opened.
+
+It was shorter than Elara expected. The additional funding had been authorized at the same moment as the library expansion, not added afterward. The destination field remained blank. The purpose field held only a single classification: CONTINUITY RESERVE. Every supporting note had been removed before the document entered the current archive.
+
+At the bottom, where a signing authority should have appeared, two letters remained.
+
+OG
+
+Elara read them once. Then again.
+
+"Who is OG?"
+
+Kavik searched the authority registry. No officer, elder, department, or gana designation matched. He widened the search to retired titles, emergency councils, and sealed succession records. The result did not change.
+
+NO REGISTERED AUTHORITY.
+
+Yet the native document held.
+
+The archive accepted the signature. Kubera released the funds. Drona received them. Every system that should have rejected an unknown authority had treated OG as sufficient.
+
+Anandi looked at the two letters without touching the screen. "A title can be erased from a registry," she said. "That does not mean the power behind it has disappeared."
+
+Elara thought of Draṣṭā's warning, Sarvajña's evidence, and the hidden movement inside Kubera. She had peeled back the public record, then the departmental copy, then the fiscal trail. At the center waited only two letters and an authority the system obeyed but could not name.
+
+She closed the document before the provisional access window expired.
+
+The question remained where it had begun: not in the archive, but beyond it.
