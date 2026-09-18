@@ -148,6 +148,10 @@ She drew up the archive's record map: public copy, departmental copy, fiscal led
 
 Kavik studied the denial sequence. "It does not deny you because you lack authority," he said. "It denies you because the current archive does not recognize the older permission language."
 
+"The transfer happened this month," Elara said. "Why would it be filed in a language no one uses anymore?"
+
+"Because whoever filed it chose to," Anandi said. "The old protocol still authenticates. It simply predates every audit tool built since. A transaction entered through it is valid and almost invisible in the same motion."
+
 "Can you get through it?" Elara asked.
 
 "Not through," Anandi said. "Around."
