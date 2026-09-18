@@ -4,15 +4,17 @@ That evening, after the review chamber had emptied and the day's obligations had
 
 Trays struck the return belt at one end of the room. The drink dispenser hissed and clicked. A maintenance cart complained along the wall with one uneven wheel, and three students near the windows argued over a schedule neither of them could change. The noise did not hide speech so much as break it into harmless pieces. A sentence overheard at the next table became nothing more than one more complaint about rationed coffee or delayed shifts.
 
-Anandi had chosen a table near the center of the room, where no one could approach without being seen. A mentor sharing dinner with a monitor would usually draw notice, but the evening rush gave everyone else a reason to mind their own meal. Kavik sat with his back to the service line, turning a cup between his hands. Elara had not touched the food in front of her. The thin soup had cooled into a surface she could not bring herself to disturb.
+Anandi had chosen a table near the center of the room, where no one could approach without being seen. A mentor sharing dinner with a monitor would usually draw notice, but the evening rush gave everyone else a reason to mind their own meal. Kavik sat with his back to the service line, turning a mug of nutrient stew between his hands. Elara had not touched the food in front of her. The braised grain and protein cake had cooled into a surface she could not bring herself to disturb.
 
-For several minutes, they spoke about nothing that mattered. Anandi asked whether Elara's wrist still hurt from the monitoring brace. Kavik complained that the cafeteria had found a new way to make grain taste like paper. Elara answered when an answer was required and kept looking past them at the open room.
+For several minutes, they spoke about nothing that mattered. Anandi asked whether Elara's wrist still hurt from the monitoring brace. Kavik complained that the cafeteria had thinned the stew again to stretch the ration. Drona never went hungry, not the way Miner Town did, but it never enjoyed Kubera's abundance either. Its allocations were fixed and precisely accounted, and by the final week of a cycle, the kitchens grew frugal, watering broth and shaving portions to make the ledger close cleanly.
+
+Elara pushed her spoon through the cold grain without lifting it.
 
 Then a stack of trays crashed into the return belt.
 
 Kavik leaned forward as though he were only trying to hear her over the noise. "You have been carrying the council's words since you left the chamber."
 
-"I have been trying to decide whether they gave me words or a burden." Elara kept her voice low. "Sarvajña has an unexplained library wing and a transfer from Kubera that stopped in closed rooms. Draṣṭā has cards and warnings. They both have a shape of danger, but neither has told me what it is."
+"I have been trying to decide whether they gave me words or a burden." Elara kept her voice low. "Sarvajña has an unexplained library wing and a transfer from Kubera that paused for conversations in closed rooms. Draṣṭā has cards and warnings. They both have a shape of danger, but neither has told me what it is."
 
 "Because they do not know," Anandi said.
 
@@ -26,7 +28,9 @@ The answer should have eased something. Instead, it made the space around Elara'
 
 Kavik's attention did not leave her face. "Because you acted."
 
-"I altered the record." The admission was nearly lost under the cafeteria's machinery. "I kept Gage, Ben, and Otto in the same Sector One cohort. I told myself I was preserving what they had chosen in the chamber. But I do not know what I preserved. Their bond might protect them. It might make them visible in the worst possible way. It might turn three boys who could have survived separately into a unit that every authority in Trinity wants to break."
+The drink dispenser let out another burst of steam, and somewhere behind them a chair scraped hard against the floor.
+
+"I altered the record." The admission was nearly lost under the cafeteria's noise. "I kept Gage, Ben, and Otto in the same Sector One cohort. I told myself I was preserving what they had chosen in the chamber. But I do not know what I preserved. Their bond might protect them. It might make them visible in the worst possible way. It might turn three boys who could have survived separately into a unit that every authority in Trinity wants to break."
 
 Across the room, a student laughed too loudly. The sound rose, broke against the ceiling, and vanished among the voices.
 
@@ -36,7 +40,7 @@ Across the room, a student laughed too loudly. The sound rose, broke against the
 
 "No." Anandi's expression softened without becoming indulgent. "It is the truth you are resisting. You want an answer that will make your choice innocent. There may not be one."
 
-Elara stared at the cold soup. She had wanted the older woman to say that the alteration was necessary, or wise, or already justified by the system's cruelty. She wanted the council's warning to turn her fear into a duty so clear that it could no longer belong to her.
+Elara stared at the cooled grain and protein cake. She had wanted Anandi to say that the alteration was necessary, or wise, or already justified by the system's cruelty. She wanted the council's warning to turn her fear into a duty so clear that it could no longer belong to her.
 
 Kavik set down his cup. "The pathways are not destiny's property, Elara. They are yours. Larger forces may be moving. They may even be moving toward those boys. But the fact that a road exists does not remove responsibility for choosing to take it."
 
@@ -60,19 +64,19 @@ Elara looked beyond Anandi's shoulder toward the long windows, where the lights 
 
 Anandi withdrew her hand. "Preparation is not prophecy. It is simply refusing to be surprised by the fact that danger exists."
 
-Elara breathed in slowly. The cafeteria smelled of hot metal, citrus cleanser, and food that had been kept warm too long. The ordinary details steadied her more than the council chamber had. There, every silence had seemed designed to force a revelation. Here, silence was merely the brief space between machines.
+Elara breathed in slowly. The cafeteria smelled of hot metal, citrus cleanser, and food that had been kept warm too long. The ordinary details steadied her more than the council chamber had. There, every silence had seemed designed to force a revelation. Here, silence was merely the brief space between one clattering tray and the next.
 
 Kavik unfolded a narrow printed allocation notice from inside his sleeve and laid it beside her tray. At first glance it looked like a cafeteria receipt. The header named an intake batch. Most of the lines were blank except for one entry near the bottom.
 
 WORKER SLOT 4055
 
-VACANCY: CONFIRMED
+PRIOR HOLDER: THORTON, DECEASED. DEPENDENT OF RECORD: GAGE.
 
-Elara did not touch it. "Thorton's slot."
+VACANCY: OPEN, UNASSIGNED
 
-"Yes," Kavik said.
+Elara did not touch it. "Thorton's slot. Gage's father."
 
-"Gage's father."
+"Yes," Kavik said. "When a worker dies, the ledger does not erase the household. It flags the household's registered dependents as eligible for the vacancy. Eligible, not chosen. The intake queue still pools every open slot against every incoming worker and assigns them blind. Gage is as likely to land on some other number as this one. Our contacts found the flag. They did not act on it."
 
 "The system does not retain it as a father's slot," Anandi said. "It retains a position. A shift, a shaft, a sequence of access and labor records. When a worker is removed, the number waits for another body."
 
@@ -80,7 +84,7 @@ The words made the page look colder. Elara remembered the reports she had read a
 
 "Why bring this to me?" she asked.
 
-Kavik did not answer at once. "Our contacts identified Thorton's vacancy. It will remain open until Gage enters labor intake. If you choose, they can route it into his assignment batch. It requires no false record and no named exception. The clerk will receive an ordinary vacancy in an ordinary batch."
+Kavik did not answer at once. "Our contacts identified Thorton's vacancy. A death shaft is held for hazard reclassification before it can be refilled. That hold has kept it from cycling to someone else. It happens to still be open. If you choose, our contacts can route it into Gage's assignment batch before the hold lifts. It requires no false record and no named exception. The clerk will receive an ordinary vacancy in an ordinary batch."
 
 "And the clerk will stamp it onto him without knowing why."
 
@@ -98,7 +102,7 @@ Elara read the number again. #4055. Thorton's former work slot, emptied by a sac
 
 "Then why this line?"
 
-Anandi watched the workers clearing tables around them. "Because it carries a history he already knows, and because it gives him a place from which the system can be read. A worker tag is meant to reduce a person to a location and a task. Gage may see more in it than that. He may use it for purpose. He may reject it. He may decide it means only grief. Those decisions must remain his."
+Anandi watched the workers clearing tables around them. "Because it carries a history he already knows. A worker tag is meant to reduce a person to a location and a task, this one no differently than any other. Gage may see more in it than that. He may use it for purpose. He may reject it. He may decide it means only grief. Those decisions must remain his."
 
 Kavik added, "The available opening is a condition, not an instruction. We can make it possible for him to inherit the number. We cannot decide what he makes of it, and we should not pretend otherwise."
 
@@ -120,7 +124,7 @@ Elara folded the notice once along its existing crease. The paper made almost no
 
 She could still refuse. She could leave #4055 to the blind rotation of the intake queue and tell herself that restraint was cleaner than intervention. But clean hands had never been the same as harmless hands. The pathway before her was narrow, uncertain, and real.
 
-"Place the vacancy in his intake batch," she said.
+"Then let it go into his intake batch," she said. "I choose that."
 
 Kavik gave a single nod. He took back the folded notice and slipped it beneath his cup.
 
