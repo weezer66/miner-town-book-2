@@ -142,10 +142,39 @@ The paper came to rest just inside the threshold, white against the dark floor. 
 
 Only when the final breath count ended did Rohan rise.
 
-He crossed the room and picked up the letter. The paper was plain, not Kubera's heavy stock with its hidden fibers and quiet expense. It was handwritten, which ruled out Ashoka's clipped typed orders. It carried no Chanakya routing language, no policy frame soft enough to mean three things at once. That left Drona. And when Rohan thought of Drona, Elara's name arrived before he unfolded the page.
+He crossed the room and picked up the letter. The paper was plain, not Kubera's heavy stock with its hidden fibers and quiet expense. It was handwritten, which ruled out Ashoka's clipped typed orders. It carried no Chanakya routing language, no policy frame soft enough to mean three things at once. That left Drona.
 
-When he opened it, her name was waiting at the top.
+Ashoka taught its representatives to check the signature before the order. Authority mattered more than instruction; an order could be questioned, but the person who accepted responsibility for it could not be mistaken.
+
+Rohan unfolded the page and looked first at the bottom.
 
 Elara Nathan.
 
-His eyes moved once down the sheet before he began to read. Her name appeared again in the body, then again near the bottom, not as decoration or plea but as a careful mark of responsibility. She had not hidden behind the paper. She had placed herself inside it.
+He read the letter.
+
+Representative Rohan,
+
+I request a brief procedural consultation concerning the Ashoka response protocols connected to the recent Initiation assessment.
+
+I will report to Review Room Two in the Ashoka administrative wing tomorrow at 19:00. Your presence will be assumed unless you are unavailable. If you cannot attend, notify the duty station before the review period begins. No other response is required.
+
+Elara Nathan
+- Drona
+
+Before he finished reading the message, he had already decided to stand with her. No order required it. He saw no strategic advantage in it. He simply knew that leaving her to face it alone would be wrong. Ashoka called that instinct Dhamma (supreme duty).
+
+The letter did not surprise him. He had been waiting for her to choose a door the system could not close behind her. She had chosen paper, a public room, and a procedural reason that would survive anyone else's inspection. The details told him what the words did not: she was afraid enough to be careful, and determined enough to act.
+
+Rohan folded the letter along its existing crease and placed it beside the bed. At 19:00 tomorrow, he would be in Review Room Two. He did not need to send confirmation. His silence would be the answer she had asked for.
+
+Before turning away, he checked the Ashoka room register.
+
+Review Room Two was already reserved for 19:00.
+
+REQUESTING GANA: DRONA.
+PURPOSE: PROCEDURAL CONSULTATION.
+AUTHORITY: UNLISTED.
+
+Rohan read the final line twice. Elara had sent a letter to arrange a meeting that the room had already been prepared to receive.
+
+For the first time that day, anticipation touched Rohan's otherwise plain, steel-like face.
