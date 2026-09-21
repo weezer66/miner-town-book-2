@@ -160,6 +160,8 @@ INTERPRETIVE DEVIATION DETECTED.
 
 Near sixty hours, Rosa's marker broke from the cohort pattern. The monitors received only fragments: Emily's vitals collapsing from repeated blunt trauma, Rosa dragging a second heat signature through the tunnel haze, and a violent surge of movement when she reached Gage's group. Elara could not see a chamber scene clearly enough to turn it into one. She had surveillance evidence, incomplete audio, and three monitors ready to make the fragments mean different things.
 
+*Below, Rosa moved through the orange haze with Emily tied to her back, a broken body made into a warning. Gage saw the pickaxe, felt the cold edge at his throat, and called for Ben and Otto before the chamber could decide what their answer meant.*
+
 Rohan froze the automated designation of subject-on-subject violence. "Partial surveillance is not a verdict," he said.
 
 "It is a liability," Daren replied.

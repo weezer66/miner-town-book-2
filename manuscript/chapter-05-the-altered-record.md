@@ -109,6 +109,8 @@ She walked beneath the blue corridor lights with her hands empty and her mind cr
 
 Far below, the mine gates stood open beneath the first grey light of the next cycle.
 
+*Below, families waited in the grit for children who might not return as children. Rita held Thorton's old wrench like the only heirloom the system had failed to erase.*
+
 Gage walked out of the dark with a steady gait. The guards' scanners registered the changes they could measure: altered posture, a controlled pulse, and a six-foot-four frame carrying Otto across his shoulders while dragging a semi-conscious Ben by the collar of his shirt. He was not the broken marionette they expected. He was the Engine that refused to red-line.
 
 They moved slowly, but they moved together.

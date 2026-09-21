@@ -4,6 +4,8 @@
 
 By the eighteen-hour mark, the system had flagged a new pattern. The chamber had changed from restless to wrong. No candidate slept. The screens showed shaking hands, repeated movements, and pulse patterns rising without exertion. The design of the intake had already done what it was meant to do. Gage's group sat close enough that their heat signatures touched at the edges. They shared what they could and kept one another facing the same direction.
 
+*Below, sleep had become the thing the chamber would not permit. Words frayed. Time broke apart. The three boys stayed close because distance had begun to feel like another weapon.*
+
 The next morning, the representatives settled back into their consoles for the first full reassessment of the intake cycle after the overnight deterioration.
 
 "Cohesion is not evidence of safety," Daren said.

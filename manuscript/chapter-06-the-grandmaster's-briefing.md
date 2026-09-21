@@ -70,6 +70,8 @@ The Grandmaster stood at the far end of the chamber with his back to the doors. 
 
 Kubera could have purchased any technology Trinity possessed. The room displayed the result of purchasing more than that. Its surfaces were silent, seamless, and almost invisible until they carried information. The table showed the boys as heat, motion, chemical response, and risk. Nothing in the footage was allowed to remain a person for long.
 
+*Below, they had been more than heat and movement. Gage had carried Otto because Otto could no longer walk. He had dragged Ben because leaving him behind would have meant accepting the chamber's verdict.*
+
 The Grandmaster reviewed the last hours of the Initiation with unmistakable pleasure. Daren remained where he had stopped, hands at his sides, while the room moved through the footage in slow, deliberate layers. He did not know whether ten minutes or an hour passed. The Grandmaster paused over the candidates' deterioration, enlarged the force response, and replayed the moment when the system classified their protection of one another as coordinated containment.
 
 Daren tried to keep his attention on the table, but the ceiling above it was plated in dark gold and polished to a depthless sheen. Its surface reflected the projections below: three linked signals, a red separation pathway, Elara's name appearing in the audit stream, and the Grandmaster standing above all of it like the owner of the outcome. Daren saw his own reflection at the edge of the gold, small and distorted beneath the approaching fury. He understood that the ceiling was not decoration. It was a second display, showing him the judgment gathering overhead before anyone spoke it.

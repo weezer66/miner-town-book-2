@@ -6,9 +6,9 @@ from docx.shared import RGBColor
 
 
 manuscript_dir = Path("manuscript")
-markdown_path = manuscript_dir / "chapter-09-the-dark-between-stars.md"
+markdown_path = manuscript_dir / "chapter-08-the-silence.md"
 template_path = manuscript_dir / "chapter-01-assigned-to-witness.docx"
-output_path = manuscript_dir / "chapter-09-the-dark-between-stars.docx"
+output_path = manuscript_dir / "chapter-08-the-silence.docx"
 
 markdown_text = markdown_path.read_text(encoding="utf-8").strip()
 blocks = markdown_text.split("\n\n")
@@ -29,6 +29,9 @@ def plain_text(block: str) -> str:
 expected_paragraphs = [chapter_title, *[plain_text(block) for block in body_blocks]]
 
 doc = Document(template_path)
+if not doc.paragraphs:
+    raise SystemExit("Template must contain a title paragraph")
+
 title_style = doc.paragraphs[0].style
 body = doc._element.body
 

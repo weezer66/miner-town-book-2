@@ -10,6 +10,8 @@ She forced herself to stay upright. She drank water. She opened the second copy 
 
 The last four days kept breaking through. Three names beneath a designation the system had not built. Gage splitting his ration. Ben holding him in place. Otto moving before the alarms could decide what his movement meant. The monitors had measured pulses, heat, proximity, force, and stress. None of those readings explained why the boys had kept choosing one another.
 
+*Below, Ben had said the only sentence that still held shape inside the dark: We stay together. We think. Then we move. The system had recorded proximity. It had missed the promise.*
+
 Elara rested her forehead against the heel of her hand. Her report, the altered record, and the order waiting above them had begun as professional decisions. By the end, she could no longer tell where procedure stopped and choice began.
 
 The review could take her clearance. It could take her position. It could send her back to records, or below the city, or into a room where no one trusted her to observe anything again. Her career might not survive what she had done. Her life might become smaller than the room around her.

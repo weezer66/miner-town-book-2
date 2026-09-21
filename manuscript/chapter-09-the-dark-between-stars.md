@@ -34,6 +34,8 @@ His pulse began to climb, but he did not turn from the window. The black hole he
 
 The smile that touched his face was not wonder. It was recognition.
 
+*Below, another kind of recognition had come in the dark. Gage had looked at the chamber, the drug, the hum, and the children breaking around him, and understood that the Initiation was not a test. It was a culling.*
+
 He looked toward the sealed door. His thoughts returned to the Grandmaster's chambers, to the moment Daren had surrendered the Kubera bracelet, his authority, his privileges, and his right to speak for the House. He had reached the chamber doors believing the audience was over.
 
 The Grandmaster had not let him leave.

@@ -110,6 +110,8 @@ UNASSIGNED.
 
 UNASSIGNED.
 
+*Below the tower, in another part of the same moment, the iron gates opened with a soul-jarring screech. Gage stood in the dust-choked queue with Otto and Ben, feeling the weight of the moment pressing into his shoulders. They were not anomalies there. They were three boys trying to survive the first step into the dark.*
+
 A red alert bar materialized beneath the three names. **OPERATOR INTERVENTION REQUIRED.** The system's guardrails had triggered. Whatever metric or pattern these three children violated, whatever gap in Trinity's control framework they represented, the machine could not proceed without human authorization.
 
 This was probably the first time Trinity's surveillance system had encountered an anomaly of this kind. The four gana representatives searched the online archives and the printed manuals beside their consoles, but neither offered a reason for the designation or an instruction for what came next.

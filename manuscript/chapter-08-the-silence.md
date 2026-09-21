@@ -94,6 +94,8 @@ Her faint smile did not disappear, but its meaning changed. "He is also the son 
 
 Elara felt the meaning move beneath the cards and reach backward into the ceremony. The initiation had not been a sequence of tests arranged to measure three candidates and assign them to their proper routes. It had been the first visible shape of something the system did not yet know how to name. In the monitoring chamber, Gage, Otto, and Ben had not simply endured pressure beside one another. They had chosen one another, and Elara had chosen to preserve the evidence of that choice.
 
+*Below, Gage had not named it a gana. Ben had not called it doctrine. Otto had not called it loyalty. They had simply kept one another from breaking until survival took the shape of a bond.*
+
 She understood now that the monitoring chamber was where the boys forged their own gana, a bond that might one day become the resistance. By preserving what happened, Elara had become part of it.
 
 Draṣṭā gathered the remaining cards into a smaller fan. "Draw the final card."

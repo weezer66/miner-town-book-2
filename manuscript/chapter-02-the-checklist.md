@@ -81,6 +81,8 @@ Elara's primary feed divided into six views: a wide overhead image of the Initia
 
 "Environmental transition: successful," the console said.
 
+*Below, the first hours felt almost merciful. Each candidate carried a sealed pouch that smelled richer than anything Miner Town children had any right to expect. Gage tasted warmth, salt, and something like a promise before the metallic tang warned him the gift had teeth.*
+
 For the first hours, Elara's feed showed nothing worth flagging: Gage's intake and markers tracked the same curve as the other fifteen. Then, as the hours wore on, two alerts stacked beside his profile. He had split his food pouch with Ben and Otto, cutting his own intake below the recommended ration floor. Ben and Otto had remained inside his proximity band the entire time.
 
 RESOURCE DISTRIBUTION DEVIATION.

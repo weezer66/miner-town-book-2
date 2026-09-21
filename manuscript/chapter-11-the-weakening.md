@@ -48,6 +48,8 @@ The only question left was which gana to test the method on first.
 
 Drona had been the obvious answer before he had finished asking it.
 
+*Below, resistance was learning to draw itself in charcoal on a shack wall. Above, Daren was drawing a colder map, one made of allocations, gifts, and institutions too pleased to ask why they had been chosen.*
+
 He had not chosen Drona only because it was vulnerable to the tactic. He had chosen it because of Elara. Her correction in front of the others. Her report that kept the three boys together. Her name in the audit stream beside the failure the Grandmaster had made him carry like a verdict.
 
 Revenge did not need to announce itself. It only needed patience and the right instrument. Daren had spent his life using instruments that measured what a system could bear. Now he held one that could reach into the system and decide.
