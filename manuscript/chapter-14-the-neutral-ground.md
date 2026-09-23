@@ -102,9 +102,9 @@ Its power system had been designed to operate independently of both cities. Buri
 
 That was the source of the ring's power and its mystery. The walls remembered every institution that had used them, but the records had been divided among four archives, each keeping only the part that protected its own version of events. No complete account survived. There were rooms whose purpose had been erased, access shafts whose destinations had been sealed, and old markings that did not match any current gana designation. The ring was not powerful because it was hidden. It was powerful because its hidden history made every gana uncertain about what the others still knew.
 
-Workers used its maintenance routes. Smugglers used its blind corridors. Former faction leaders used its sealed rooms to trade information they could not carry into the city. When a person needed to disappear without becoming a public incident, someone eventually remembered the ring beneath the boundary. They remembered it as a rumor before they remembered it as a place.
+Workers used its maintenance routes. Smugglers hid in corridors absent from every map. Former faction leaders met in sealed rooms to exchange information they could not safely carry into the city. When someone needed to disappear quietly, people remembered the facility beneath the boundary. Most knew it first as a rumor and only later as a place.
 
-The old infrastructure made the place useful. The bed rows had once been intended for displaced families after a riot. Later, they served people who were not supposed to be found. Every adaptation left the original purpose visible beneath the next layer of misuse, as if the ring had been waiting for each new generation to reveal what it believed neutral ground was allowed to become.
+The old infrastructure made the place useful. The bed rows had once been intended for displaced families after a riot. Later, they served people who were not supposed to be found. Every new use added another layer to the ring's history, while its original purpose remained visible beneath them. It seemed to preserve a record of what each generation believed neutral ground was allowed to become.
 
 That was how Gage, Camilla, Ben, and Otto had entered the facility without anyone needing to call it a prison.
 
@@ -116,7 +116,7 @@ In a room without a gana insignia, a wall of dark glass carried four streams of 
 
 At the center of the streams was Daren.
 
-The Chief Architect enlarged the record of his bracelet. Obsidian access. Founder-tier permissions. Movement through sealed systems. A weapon that did not announce itself as a weapon because it had been designed to answer intention before command. Daren was still learning the limits of what the ensemble could do, but the systems around him had already begun teaching him something more dangerous: the limits might not exist where he had been told they did.
+The Chief Architect enlarged the record of his bracelet. Obsidian access. Founder-tier permissions. Movement through sealed systems. The bracelet did not look like a weapon. It responded to intention before command, turning thought into action before anyone could recognize the threat. Daren was still learning the limits of what the ensemble could do, but the systems around him had already begun revealing something more dangerous: no reliable boundary had been built around what the bracelet could do.
 
 The Chief Architect opened a second file. Daren's old disciplinary record. His removal from Kubera. The Grandmaster's private instruction. The first Continuity Reserve transfer. The signature entered as OG. Each event was small when isolated. Together they formed a slope.
 
@@ -124,9 +124,9 @@ The Chief Architect had seen this pattern before, though never at this speed. A 
 
 Daren would not stop when Kubera's Grandmaster told him to stop. He might obey for a time. He might even believe that obedience served his own design. But once he fully understood what the bracelet, the old channels, and the hidden permissions allowed him to control, he would no longer recognize the Grandmaster as the limit of his power.
 
-The Chief Architect looked at the black circle displayed beside Daren's file. It was not a symbol from Patal Loka. It was an old astronomical image, copied from a training archive: a black hole, visible only through the light bending around the place where it could not be seen.
+The Chief Architect studied Daren's file. The pattern reminded him of an old astronomical lesson: a black hole, detectable only by the way light bent around what could not be seen.
 
-Daren had once been fascinated by the image. Now he was beginning to resemble it. He did not need to stand at the center of Trinity to change its course. He only needed enough mass, enough secrecy, and enough time. Kubera's money, Chanakya's language, Drona's records, and Ashoka's force could all be drawn toward an unknown goal without any of the ganas realizing they had entered its orbit.
+Daren had once been fascinated by the image. Now he was beginning to resemble it. He did not need to stand at the center of Trinity to change its course. He only needed enough access, secrecy, and time. Kubera's money, Chanakya's language, Drona's records, and Ashoka's force could all be drawn toward an unknown goal without any of the ganas realizing they had entered its orbit.
 
 The Chief Architect opened a second sealed roster.
 
@@ -142,17 +142,7 @@ For years, Mr. Flitzberg had taken in miners who had lost their way, survived th
 
 There had been promising cases. Some were brave but too eager to be praised. Some were clever but could not resist control once it was offered. Some survived every physical trial and failed the first moral one. None had emerged with the extraordinary combination Mr. Flitzberg wanted. None had shown the capacity to become an unlikely hero instead of another weapon waiting for an owner.
 
-The old facility had been built to contain the consequences of institutional failure. Over time, it had also become a place where Patal Loka could test and receive potential recruits beyond the sight of the four ganas. The current crisis had produced another opportunity. The facility had already yielded four survivors, but survival was only the first measure. The Chief Architect wanted to know whether the new arrivals could become a resistance capable of countering the ganas when the next critical event arrived.
-
-He marked the roster for intake.
-
-One more batch of recruits.
-
-Not an army. Not a fifth gana. A counterweight: people trained to recognize when a gana had crossed from competition into domination, and prepared to act before the balance failed completely.
-
-The Chief Architect closed the file.
-
-Patal Loka had been created to restrain overreach after the last war. It could not wait for Daren's goal to become visible. By then, stopping him might require breaking the very balance it had been built to preserve.
+The old facility had been built to contain the consequences of institutional failure. Over time, it had also become a place where Patal Loka could test and receive potential recruits beyond the sight of the four ganas. The current crisis had produced another opportunity. Flitzberg had opened a provisional roster for four candidates. Survival was only the first measure. The Chief Architect wanted to know whether this group could become a resistance capable of countering the ganas when the next critical event arrived.
 
 In the room without a gana insignia, Mr. Flitzberg was still studying the sealed roster when the door opened.
 
@@ -182,7 +172,17 @@ Mr. Flitzberg looked once more toward the junkyard.
 
 "As possibilities."
 
-He touched the edge of the roster, and three dormant files opened beneath the first one. The screens did not display names. They displayed conditions: disorientation, separation, scarcity, choice.
+Flitzberg looked down at the roster. Three entries now waited beneath the intake heading. The fourth remained blank.
+
+One more batch of recruits.
+
+Not an army. Not a fifth gana. A counterweight: people trained to recognize when competition between the ganas had become control over everyone else, and prepared to act before the balance failed completely.
+
+The Chief Architect closed the file.
+
+Patal Loka had been created to restrain overreach after the last war. It could not wait for Daren's goal to become visible. By then, stopping him might require breaking the very balance it had been built to preserve.
+
+He touched the edge of the roster, and three dormant files opened on the screen. A fourth remained blank. The screens did not display names. They displayed conditions: disorientation, separation, scarcity, choice.
 
 "Begin the intake sequence," he said. "No explanations. No promises. Let them believe the first trial is simply finding their way out."
 
@@ -192,6 +192,6 @@ Behind the dark glass, the junkyard lights shifted one row at a time, closing ce
 
 Mr. Flitzberg watched the first trial begin.
 
-For the first time in years, Patal Loka had found a group worth testing. They had crossed restricted ground without permission, avoided the systems meant to detect them, and reached the boundary together. None of that proved they could resist power. It proved only that they had already survived outside its rules.
+Flitzberg did not mistake their arrival for proof. But it gave him a question worth answering: could people the system had failed to absorb become the resistance Patal Loka had been waiting for?
 
 The trials would show whether they needed to be taught resistance—or whether they already carried the beginnings of it.
