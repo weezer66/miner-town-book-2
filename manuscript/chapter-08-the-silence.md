@@ -112,6 +112,8 @@ Draṣṭā's expression grew solemn. "The past cannot be changed by regret, Ela
 
 Elara went quiet. The gravity of the cards, the language, and the people gathered around the table made the larger forces moving through histories and consequences impossible to ignore.
 
+*Below, Gage was carrying a different danger toward the shack. Badge 732—the man who had hit Otto in the dark—had accepted an invitation to dinner. The boys had survived by staying together; now they were deciding whether trust could survive being extended.*
+
 But what was she doing here? The question settled inside her without panic. Was she a witness, a participant, or merely the instrument through which destiny had chosen to move the record from one hand to another? She had thought she was protecting three candidates by preserving what happened in the monitoring chamber. Now she wondered whether she had also been carrying them toward this room long before she understood that a path was forming beneath her choices.
 
 Before she could dig any further inward, Sarvajña, the elder with the seven stones threaded around his wrist, leaned forward. When he began to speak, his sentences were measured and precise. There was little of the mystic in his manner. He sounded like someone presenting facts that had been tested, recorded, and carried through too many years to require ornament.

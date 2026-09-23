@@ -96,6 +96,8 @@ Somewhere below him, in a room he had never seen and would likely never enter, a
 
 He did not know that. It did not matter. The foundation was already being chipped away, one approved requisition at a time, and the first stone had already been laid without a single alarm sounding anywhere in Trinity.
 
+*Below, the invitation had become a presence at the shack. Gerald had entered carrying the history of the mine on his body, and Camilla had begun asking what his pain was trying to say. The next danger would not come from a system they could simply evade. It would come from deciding whom to let inside.*
+
 Elara could not keep circling the same two letters inside Drona's archive.
 
 Knowledge had taken her as far as it could. It had shown her the wall, named the gap, and proved that something stood behind the signature. It could not guard the boys. It could not stop a sealed order from becoming force. It could not make another gana answer for what it did in a corridor, a chamber, or a mine.

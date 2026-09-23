@@ -40,7 +40,7 @@ The gymnasium occupied the center of the residential wing. It was not built like
 
 Ravi joined the morning rotation at the track.
 
-Twenty rounds were mandatory. Not to build speed. Not to build muscle. Chanakya had no affection for strength that could not explain itself. The run existed to reveal how the mind handled repetition, boredom, fatigue, and the slow temptation to waste attention. Anyone could think clearly at the first round. The twentieth showed what remained when the body began asking why the thought mattered.
+Twenty rounds were mandatory. They were not meant to build speed or muscle. Chanakya cared little for strength unless a person understood how to use it. The run tested how the mind responded to repetition, boredom, fatigue, and the temptation to stop paying attention. Anyone could think clearly during the first round. By the twentieth, exhaustion made concentration difficult. That was when the real test began: could a person continue thinking carefully when every part of the body wanted to quit?
 
 Ravi ran without music, without conversation, and without letting his gaze rest too long on any one person. Around him, other representatives moved in disciplined silence. Some counted breath. Some rehearsed arguments under their tongues. One young analyst mouthed treaty clauses between strides. Chanakya turned even exercise into rehearsal for pressure.
 
@@ -58,13 +58,19 @@ Ravi took water, dried his face, and turned toward the central floor.
 
 A chessboard waited beneath the overhead light.
 
-It was older than the tables around it, carved from dark stone and pale bone, its edges worn smooth by generations of hands that had reached for victory and found instruction instead. The pieces were arranged already. Black and white armies faced one another in perfect stillness.
+It was older than the tables around it, carved from dark stone and pale ceramic, its edges worn smooth by generations of hands that had reached for victory and found instruction instead. The pieces were arranged already. Black and white armies faced one another in perfect stillness.
 
 Around the central floor, the elders of Chanakya had taken the front seats.
 
 They did not gather with the solemnity of Drona's council or the armored silence of Ashoka's instructors. They watched as people who loved a contest but knew better than to call it entertainment. Every elder carried a tablet, stylus, or folded sheet marked with probabilities. Some whispered opening lines before the game began. Others watched Ravi rather than the board, studying whether the young representative's breath changed under the weight of being seen.
 
-At the far side of the board, the Chanakya Grandmaster sat with one hand resting beside the clock.
+The far doors opened without announcement.
+
+The elders rose together.
+
+The Chanakya Grandmaster entered at an unhurried pace, and the room seemed to make space for him before he reached the board. Ravi stood at once. When the Grandmaster stopped across from him, Ravi bowed with one hand over his heart. The Grandmaster answered with a slight inclination of his head, equal parts acknowledgment and assessment.
+
+Only then did he take his seat at the far side of the board, one hand resting beside the clock.
 
 He was smaller than Ravi had expected, and that somehow made the room arrange itself more carefully around him. His hair was silver-white and pulled back at the nape, his face narrow, his mouth almost gentle until he looked directly at a person. His eyes did not search. They arrived. He wore no crown, no visible mark of office beyond a simple green robe edged in black script, each line so fine that the fabric seemed to carry arguments rather than decoration. Age had thinned his body without softening it. If the body was old, the mind behind it looked young enough to be dangerous, younger than every student in the room because it had shed the need to prove itself.
 
@@ -100,7 +106,7 @@ The second move came like a question.
 
 A knight left the Grandmaster's back rank. On the living board, a white horse arched its neck and moved in its crooked path, handler guiding it through the L-shaped advance while the audience leaned forward despite itself.
 
-Ravi saw three possible replies, two respectable and one dangerous.
+Ravi saw three possible replies, two sound and one dangerous.
 
 He chose the dangerous one.
 
@@ -246,7 +252,7 @@ His fingers closed over the white queen.
 
 Ravi saw the square before the piece moved. The queen would cross to the open file, the elephant would seal the line behind her, and the two footmen he had ignored would finish the cage. Checkmate in one. There was no counter, no clever exchange, no argument left to make. His fingers moved away from the board. He prepared to concede before the move could be played.
 
-Then the Grandmaster's clock flashed red.
+Then the Grandmaster's side of the chess clock flashed red.
 
 No one in the gymnasium breathed.
 
@@ -254,17 +260,17 @@ The signal did not sound through the room. Chanakya did not embarrass urgency by
 
 The Grandmaster released the queen without moving it.
 
-"The match is suspended," he said.
+“We stop here,” he said.
 
-The words struck the gymnasium harder than any declaration of checkmate could have. Suspended was not resigned. Not drawn. Not won. Not lost.
+The words struck the gymnasium harder than any declaration of checkmate could have. The game was not resigned. Not drawn. Not won. Not lost.
 
 Ravi stood as the Grandmaster rose.
 
 "Grandmaster," he said.
 
-The old man looked at him once, and for the first time there was no lesson in the gaze, only calculation moving too quickly to share.
+The Chanakya Grandmaster looked at him once, and for the first time there was no lesson in the gaze, only calculation moving too quickly to share.
 
-"You did not lose," the Grandmaster said. "Do not confuse that with surviving the position."
+"The board has not finished with you," the Grandmaster said. "Do not mistake an unfinished game for a spared one."
 
 Then he turned and left the table.
 
@@ -356,27 +362,27 @@ Ravi looked at the card again.
 
 YOU ARE WELCOME.
 
-Not *well played*. Not *saved*. Not *remember this*. The phrase claimed agency over the interruption itself. Whoever had placed the card wanted him to understand that the match had not simply been suspended. It had been interrupted for him.
+Not *well played*. Not *saved*. Not *remember this*. The message was clear: the match had not been suspended. It had been interrupted for him.
 
 That narrowed the possibilities until they became more frightening.
 
-Someone had known the exact state of the board. Someone had known that the Grandmaster was one move from checkmate. Someone had possessed the access to send a message urgent enough that the Grandmaster could not ignore it, delay it, or finish the move first. And someone had enough reach inside Chanakya to remove the black king from the match table, carry it through the residential wing, and place it in Ravi's room before he arrived.
+Someone had known the exact state of the board. Someone had known that the Grandmaster was one move from checkmate. Someone had arranged for the Grandmaster to be interrupted before he could complete the move. The reason remained unclear. Someone had enough reach inside Chanakya to remove the black king from the match table, carry it through the residential wing, and place it in Ravi's room before he arrived.
 
 That was not a prank. It was not courtesy.
 
-It was recruitment.
+It was a demand for his attention.
 
-Ravi finally picked up the king. The stone was still warm from the arena lights.
-
-He closed his fingers around it and felt, for the first time that morning, that the board beneath him was larger than the one he had been trained to see.
+Ravi picked up the king and closed his fingers around it and felt, for the first time that morning, that the board beneath him was larger than the one he had been trained to see.
 
 He carried the king to the narrow bed and sat down without undressing.
 
-For a while, his mind continued its work without mercy. Grandmaster. False summons. Hidden authority. Board state. Access path. Motive. Each explanation opened into three more, and each of those bent back toward the same impossible fact: someone had interrupted a checkmate before it could become a loss and had wanted Ravi to know it.
+For a while, his mind continued its work without mercy. Grandmaster. Demand for attention. Hidden authority. Board state. Access path. Motive. Each explanation opened into three more, and each of those bent back toward the same impossible fact: someone had interrupted a checkmate before it could become a loss and had wanted Ravi to know it.
 
 Eventually even Chanakya's discipline could not keep the arguments standing.
 
 Ravi lay back with the black king still closed inside his hand. The room dimmed around him. His last waking thought was not gratitude and not fear, but the unfinished shape of a question he could no longer hold upright.
+
+*Below, in the shack, Camilla and Otto were turning Gerald's pain into a problem they could study. The Mirror Box was still only an idea, but the first principle had already surfaced: the brain needed something to answer it. In one room, attention was being demanded. In another, it was becoming a tool for repair.*
 
 Then sleep took him, and the king remained in his fist.
 
