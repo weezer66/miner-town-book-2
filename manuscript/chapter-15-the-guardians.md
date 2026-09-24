@@ -116,29 +116,29 @@ Ashoka respected all of them. It had chosen Wadō-ryū because its principles su
 
 The Little Dragons practiced in pairs, each child carrying a different piece of Ashoka without knowing the names of the principles yet.
 
-One child watched the door so closely that he forgot his own stance; Rohan taught him that a guardian who fell every time someone else stumbled could not hold a line. Another moved so quickly that she outran every correction; Rohan made her repeat the movement until she could stop her hand before contact, teaching her that power became discipline only when it could stop itself. A smaller child fell during every exercise but always stood, bowed, and tried again. A fourth obeyed every instruction until another child needed help, then broke formation to steady them. Rohan taught them all the same lesson: protection required balance, courage included recovery, and obedience without awareness was not guardianship.
+Tavi watched the door so closely that he forgot his own stance; Rohan taught him that a guardian who fell every time someone else stumbled could not hold a line. Meera moved so quickly that she outran every correction; Rohan made her repeat the movement until she could stop her hand before contact, teaching her that power became discipline only when it could stop itself. Niko fell during every exercise but always stood, bowed, and tried again. Arjun obeyed every instruction until another child needed help, then broke formation to steady them. Rohan taught them all the same lesson: protection required balance, courage included recovery, and obedience without awareness was not guardianship.
 
-The final sparring pair of the day was five-year-old Isha and seven-year-old Dev. Isha was the smallest child in the class, with a purple belt tied around her waist, one rank below brown. Dev wore a brown belt. He had longer arms, stronger legs, and the confidence of a boy who had never needed to wonder whether his body would obey him.
+The final sparring pair of the day was five-year-old Claudia and seven-year-old Dev. Claudia was the smallest child in the class, with a purple belt tied around her waist, one rank below brown. Dev wore a brown belt. He had longer arms, stronger legs, and the confidence of a boy who had never needed to wonder whether his body would obey him.
 
 Their sparring session was not a contest of force. Both wore padded gloves and chest guards. The rules were simple: controlled contact, no strikes to the head, no follow-up after a clean point, and an immediate bow whenever either partner lost balance. The purpose was to see what remained when a child was tired, surprised, and no longer certain of winning.
 
-Dev scored first. He stepped around Isha's guard and touched her chest pad with a clean straight punch. Isha's eyes flashed with frustration, but she bowed and reset her feet.
+Dev scored first. He stepped around Claudia's guard and touched her chest pad with a clean straight punch. Claudia's eyes flashed with frustration, but she bowed and reset her feet.
 
 He scored again.
 
-Isha stumbled backward, caught herself, and looked toward Rohan. He did not give her an answer. Wadō-ryū did not ask an instructor to rescue a student from difficulty. It asked the student to find the next correct movement.
+Claudia stumbled backward, caught herself, and looked toward Rohan. He gave no instruction. This was her examination; she had to find the next correct movement herself.
 
-Dev came forward a third time, certain the pattern had been solved. Isha moved aside instead of back. His glove passed her shoulder. She placed her palm against his ribs, light enough to show control and firm enough to count.
+Dev came forward a third time, certain he knew how Claudia would respond. Claudia moved aside instead of back. His glove passed her shoulder. She placed her palm against his ribs, light enough to show control and firm enough to count.
 
 The point went to her.
 
-Dev frowned. Isha bowed.
+Dev frowned. Claudia bowed.
 
-He attacked harder, not illegally, but with the impatience of someone who wanted the exchange to end. Isha's feet tangled. She fell to one knee. For a moment, the room went quiet. Dev stopped with his glove raised, and Isha looked at the mat beneath her hand.
+He attacked harder, not illegally, but with the impatience of someone who wanted the exchange to end. Claudia's feet tangled. She fell to one knee. For a moment, the room went quiet. Dev stopped with his glove raised, and Claudia looked at the mat beneath her hand.
 
 Rohan saw the decision arrive in her face. She could stay down and let the round end. She could rush up angry and turn the next exchange into a collision. Or she could breathe, recover her stance, and begin again.
 
-Isha breathed once.
+Claudia breathed once.
 
 Then she stood.
 
@@ -146,23 +146,25 @@ The next time Dev entered, she did not try to beat his strength. She borrowed hi
 
 Rohan raised his hand. "Enough."
 
-Dev lowered his gloves. Isha was breathing hard, her cheek flushed beneath the edge of her headguard, but she had not looked away from her partner.
+Dev lowered his gloves. Claudia was breathing hard, her cheek flushed beneath the edge of her headguard, but she had not looked away from her partner.
 
 "What did you learn?" Rohan asked Dev.
 
-The boy glanced at Isha. "That I was chasing the point."
+The boy glanced at Claudia. "That I was chasing the point."
 
-Rohan nodded. "And you?" he asked Isha.
+Rohan nodded. "And you?" he asked Claudia.
 
 She considered the question. "That falling is not the end of the lesson."
 
 The other children watched her now, not because she had won, but because she had continued without becoming reckless. She had protected herself, protected Dev from a dangerous collision, and returned to the purpose of the exercise after frustration tried to replace it.
 
-Rohan untied the brown belt from her waist and retied it more carefully, tightening the knot at the center.
+Rohan knelt before Claudia and untied the purple belt from her waist. He folded it once and placed it in her hands, then took a brown belt from the rack beside the mat. He wrapped it around her waist and tightened the knot at the center.
+
+The class broke into applause. Dev clapped first, louder than anyone, and Claudia's face changed with the effort of trying not to smile.
 
 "You have completed the requirements," he said. "Not because you defeated Dev. You did not. You completed them because you kept your mind clear, your body under control, and your spirit willing to return to the work."
 
-Isha looked down at the belt as if it had become heavier.
+Claudia looked down at the belt as if it had become heavier.
 
 "Does that mean I am strong now?"
 
@@ -172,19 +174,21 @@ That was the lesson Ashoka tried to preserve beneath every uniform and every wea
 
 The lesson had always been misunderstood outside Ashoka. The gana did not train aggressors. It trained defenders who could display violence only when violence was necessary, and restraint when it was not. Ashoka allowed other institutions to mistake discipline for simplicity. There was advantage in being underestimated. Beneath the hard rooms, the red uniforms, and the silence of its responders, the gana preserved an intellectual tradition of judgment, proportion, and responsibility that few outsiders had bothered to study.
 
-When the class ended, the children bowed. Then discipline dissolved into affection. Niko ran into Rohan's legs first. Tavi wrapped both arms around his waist. Meera and Arjun joined from either side, and Dev, after a moment of pretending he was too old for such things, pressed into the embrace as well. Isha stood back with her new brown belt, trying to look composed until Rohan opened one arm toward her.
+When the class ended, the children bowed. Then discipline dissolved into affection. Niko ran into Rohan's legs first. Tavi wrapped both arms around his waist. Meera and Arjun joined from either side, and Dev, after a moment of pretending he was too old for such things, pressed into the embrace as well. Claudia stood back with her new brown belt, trying to look composed until Rohan opened one arm toward her.
 
 She stepped into it.
 
 For several seconds, the chief instructor stood surrounded by small arms and warm bodies, a broad, immovable shape the children treated like a beloved bear who happened to know how to stop a fight. Rohan rested his hands lightly across their backs, careful not to hold too tightly. They respected him because he was strong. They loved him because he never made them afraid of that strength.
 
-Only after he promised to see them at the next lesson did the children let him go. Rohan remained by the window after they had gone, looking across the training court at the red lights of Ashoka's platforms. The city looked stable from above. Stability was one of Trinity's most convincing illusions.
+Only after he promised to see them at the next lesson did the children let him go.
+
+Later, in his quarters, Rohan stood by the narrow window and looked across the training court at Ashoka's red platforms. The city looked stable from above. Stability was one of Trinity's most convincing illusions.
 
 He thought of Elara's hand moving across the record. She had not thrown the first strike. She had stepped into the line of force and redirected it before it reached the boys.
 
 The comparison did not make her action authorized. It made it harder to call the action wrong.
 
-That evening, Rohan decided to ask the Grandmaster for her counsel. He needed guidance that did not come from a report, a protocol, or a frightened interpretation of what the other ganas might do. He needed to know how Ashoka could protect the boys without turning protection into interference, and how a guardian could act before danger became large enough to justify force.
+That evening, Rohan decided to ask the Grandmaster for her counsel. He needed guidance that did not come from a report, a protocol, or a frightened interpretation of what the other ganas might do. He needed to know whether Ashoka could uphold a just act of courage by a Drona monitor without turning justice into interference or protection into another claim of power.
 
 The decision brought its own difficulty. The Grandmaster's schedule was built months in advance. A request for a private audience could wait for weeks unless the matter carried an urgency the institution was willing to recognize. Rohan would submit the request in the morning. Until then, he could do nothing but sleep and trust that the question would remain clear when he woke.
 
@@ -200,7 +204,7 @@ The message carried no explanation. It did not need one. The Grandmaster's ascen
 
 Rohan read the message twice. His request for counsel had not yet been sent, but the answer had arrived before the question.
 
-He sat on the edge of his bed without removing his uniform jacket. Why had he been invited? He was a senior responder and the chief instructor of the Little Dragons, but he was not a general, a minister, or a strategist whose decisions shaped the city's defense. The message had arrived too quickly to be routine and without enough explanation to be harmless. It was another mystery, placed in his hands just when he had decided to ask the Grandmaster for guidance.
+He sat on the edge of his bed in a plain dark shirt and training trousers. Why had he been invited? He was a senior responder and an Initiation monitor, but he was not a general, a minister, or a strategist whose decisions shaped the city's defense. The message had arrived too quickly to be routine and without enough explanation to be harmless. It was another mystery, placed in his hands just when he had decided to ask the Grandmaster for guidance.
 
 He lay down with the question still open. Sleep took him before he could close it.
 
