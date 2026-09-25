@@ -26,7 +26,7 @@ Elara still did not know what she was preparing for. She only knew it had a shap
 
 She pulled her knees up and wrapped her arms around them, an old habit from a childhood spent memorizing the difference between a fear she could act on and a fear she could only carry. Tonight, for the first time since the Initiation, she could not tell which one this was.
 
-Three floors above the residential wing that no longer held any record of him, Daren sat in a room Kubera had once assigned and never reclaimed, and he was not afraid of anything.
+Three floors above the residential wing, Daren sat in the room Kubera had assigned to him when he was still a representative. After his removal, no one had formally reclaimed it. The institution no longer acknowledged him as its occupant, but the room remained available, and Daren had returned because he had nowhere else to go. He was not afraid of anything.
 
 He knew that should have troubled him. He was moving against another gana in secret. He carried a power he did not yet understand. He was starting something that could not be easily undone.
 
@@ -48,9 +48,7 @@ The only question left was which gana to test the method on first.
 
 Drona had been the obvious answer before he had finished asking it.
 
-*Below, resistance was learning to draw itself in charcoal on a shack wall. Above, Daren was drawing a colder map, one made of allocations, gifts, and institutions too pleased to ask why they had been chosen.*
-
-He had not chosen Drona only because it was vulnerable to the tactic. He had chosen it because of Elara. Her correction in front of the others. Her report that kept the three boys together. Her name in the audit stream beside the failure the Grandmaster had made him carry like a verdict.
+He had not chosen Drona only because it was vulnerable to the tactic. He had chosen it because of Elara: her correction in front of the others, her report that kept the three boys together, and her name in the audit stream beside the failure the Grandmaster had made him carry like a verdict.
 
 Revenge did not need to announce itself. It only needed patience and the right instrument. Daren had spent his life using instruments that measured what a system could bear. Now he held one that could reach into the system and decide.
 
@@ -82,7 +80,7 @@ He went further than the ledger required. The original request had asked for an 
 
 The transfer moved through the Continuity Reserve, the same channel the Grandmaster had taught him to use. Ordinary Kubera spending required layers of approval. Continuity Reserve transfers did not. They had been built for founder-tier authority, old enough that the system did not ask the modern questions: Which director requested this? Which office signed? Which account gains? Daren no longer held a Kubera title, but the ledger recognized what the bracelet made him. It released the funds without challenge. Drona's accounts received the doubled sum as confirmation, not anomaly.
 
-At the base of the transfer, where a signature was required by a protocol too old to demand a name, he entered two letters.
+At the base of the transfer, where a signature was required by a protocol too old to demand a name, the field accepted two letters he had used before.
 
 OG.
 
@@ -92,7 +90,7 @@ He did not think of himself as a crusader, though revenge still burned cleanly e
 
 He closed his hand slowly, and the bracelet's surface answered with a thread of light too faint to be called a glow.
 
-Somewhere below him, in a room he had never seen and would likely never enter, a woman he had once accused in front of three watching consoles was awake at an hour meant for sleep, turning over the same two letters he had spent a month arranging never to be found.
+Somewhere below him, in a room he had never seen and would likely never enter, a woman he had once accused in front of three watching consoles was awake at an hour meant for sleep, turning over the same two letters he had spent a month hiding from the modern archive.
 
 He did not know that. It did not matter. The foundation was already being chipped away, one approved requisition at a time, and the first stone had already been laid without a single alarm sounding anywhere in Trinity.
 
@@ -134,7 +132,7 @@ At 4:00 a.m., Rohan was awake in the Ashoka barracks.
 
 The room held nothing that did not serve discipline. A narrow bed. A folded uniform. A wash basin of brushed steel. A rack for boots and armor, each piece aligned to the edge of its mark on the floor. The walls were bare except for the Ashoka insignia above the door, rendered in matte red, not decorative enough to be admired and not subtle enough to be forgotten.
 
-Rohan moved through the final sequence of his morning routine without sound. It was not the kind of exercise designed to build muscle for display. Ashoka had no use for display. The movements were slow, punishing, and exact: holds that made the tendons tremble, controlled descents that denied the body momentum, breath measured against strain until the mind stopped asking when it would end. The purpose was not strength alone. Strength could be trained by machinery. This was obedience under pressure, pain without spectacle, the old lesson driven into bone one repetition at a time: failure might happen, but surrender was never permitted to arrive first.
+Rohan moved through the final sequence of his morning routine without sound. He held a low horse stance until his thighs trembled, lowered through five controlled push-ups without letting his chest touch the floor, then settled into a forearm plank while counting each breath. It was not the kind of exercise designed to build muscle for display. Ashoka had no use for display. The movements were slow, punishing, and exact: holds that made the tendons tremble, controlled descents that denied the body momentum, breath measured against strain until the mind stopped asking when it would end. The purpose was not strength alone. Strength could be trained by machinery. This was obedience under pressure, pain without spectacle, the old lesson driven into bone one repetition at a time: failure might happen, but surrender was never permitted to arrive first.
 
 His face did not change. Sweat moved along his temple and down the scar at his jaw, but his expression remained carved into the same hard stillness he carried into every room. Not anger. Not calm. Something more severe than both, as though the body had been given a command and the man inside it had agreed never to negotiate.
 
