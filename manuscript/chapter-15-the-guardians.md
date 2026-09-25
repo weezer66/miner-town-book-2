@@ -210,9 +210,9 @@ He lay down with the question still open. Sleep took him before he could close i
 
 At exactly 4:00 a.m., his room panel brightened.
 
-Rohan woke before the second tone. He rose, washed, and dressed with the care the occasion required. He wore the traditional Ashoka Wadō-ryū kimono: deep red cloth, black trim, a white belt, and the small embroidered insignia positioned over his heart. He checked the fold of the collar, the knot at his waist, and the fall of the sleeves. Today he would stand among people who moved armies, directed divisions, and decided which dangers the public was permitted to know. He would not arrive looking as though he had been surprised into importance.
+Rohan woke at once. He rose, washed, and dressed with the care the occasion required. He wore the traditional Ashoka Wadō-ryū kimono: white cloth, black trim, and a black belt embroidered with 二段 [second dan] beside his name in Japanese, ローハン [Rohan]. He checked the fold of the collar, the knot at his waist, and the fall of the sleeves. Today he would stand among people who moved armies, directed divisions, and decided which dangers the public was permitted to know. He would not arrive looking as though he had been surprised into importance.
 
-By dawn, the ceremony filled Ashoka's central hall. Red standards hung from the upper galleries. Generals stood in formal rows beneath the insignias of their divisions. Ministers, state leaders, and strategic advisers occupied the front tiers, their presence turning a martial promotion into a public statement about who was trusted to hold power.
+By dawn, the ceremony filled Ashoka's central hall. Red standards hung from the upper galleries. Generals stood in formal rows beneath the insignias of their divisions. Ministers, state leaders, and strategic advisers occupied the front tiers. Their presence made the ceremony more than a martial-arts promotion. It became a public declaration that the state trusted the Grandmaster to hold and direct power.
 
 The Grandmaster entered without procession. The hall quieted anyway.
 
@@ -250,7 +250,7 @@ He looked up. "Yes?"
 
 She bowed. "Master Vayun requests that you join him in the front row."
 
-Rohan glanced toward the floor. Master Vayun stood beside the Grandmaster, apparently looking at nothing. The request made no sense. Rohan was not a tenth-dan practitioner, a state leader, or a member of the examination council. He had come to observe.
+Rohan glanced toward the floor. Master Vayun stood beside the Grandmaster, apparently looking at nothing. The request made no sense. Rohan was a second-dan instructor, not a member of the examination council or one of the senior masters whose judgment carried authority in the ceremony. He had come to observe.
 
 "Are you certain?" he asked.
 
@@ -278,7 +278,7 @@ From the front row, the ceremony looked entirely different. He could see the Gra
 
 He was observing everyone in it.
 
-Rohan felt goosebumps rise along his arms beneath the red-and-black kimono.
+Rohan felt goosebumps rise along his arms beneath the white kimono.
 
 He had entered the dojo expecting to witness a promotion. He had been drawn into the company of people who had shaped Ashoka's past, guarded its present, and might decide what it became next.
 
@@ -286,6 +286,4 @@ The Grandmaster stepped forward to begin the eighth-dan examination.
 
 Beside Rohan, Master Vayun smiled without looking at him.
 
-Rohan understood then that the ceremony had not been an invitation to observe.
-
-It had been an invitation to wait for what happened next.
+Rohan understood then that the invitation had never been about observation. He had been brought forward because the ceremony had something waiting for him.
