@@ -1,6 +1,6 @@
 # Chapter 16: The Chamber of Spirits
 
-The ceremony ended without ending.
+Rohan kept replaying the ceremony, but every replay became less reliable. The events had been visible to everyone and understood by almost no one. He remembered the Grandmaster's hand, the sword, Master Vayun's stillness—but not the order in which the impossible had happened.
 
 The applause faded. The generals resumed their guarded conversations. Ministers gathered beneath the red standards, already translating what they had witnessed into policy, influence, and future obligation. The Grandmaster accepted the eighth-dan belt with a bow and then turned away from the officials who had come to honor her.
 
@@ -8,15 +8,11 @@ She walked toward Rohan.
 
 "Come with me," she said.
 
-Rohan rose from beside Master Vayun. "Where?"
+Rohan rose at once and followed.
 
-"The Chamber of Spirits."
+The invitation struck him with a force greater than the ceremony. He had heard of the Chamber of Spirits, but only in the way Ashoka representatives heard of places they were not meant to enter: through unfinished stories, lowered voices, and warnings that became less useful the more seriously they were given.
 
-The invitation struck him with a force greater than the ceremony. He had heard of the chamber, but only in the way Ashoka representatives heard of places they were not meant to enter: through unfinished stories, lowered voices, and warnings that became less useful the more seriously they were given.
-
-The Chamber of Spirits was where the Ashoka Grandmasters received no delegations. It was where old decisions were remembered, where the names of the dead were kept without being carved into public walls, and where the most senior practitioners could speak without an audience turning their words into a weapon.
-
-Rohan followed.
+The Chamber of Spirits was where the Ashoka Grandmasters received no delegations. It was where old decisions were remembered, where the names of the dead were kept without being carved into public walls, and where Ashoka's most trusted guardians could speak without an audience turning their words into a weapon.
 
 Master Vayun walked on the Grandmaster's other side, silent and effortless. The three of them left the central hall through a door hidden behind a red standard. The noise of the ceremony fell away almost immediately. A descending passage opened beneath the dojo, its walls changing from polished composite to dark stone worn smooth by generations of hands.
 
@@ -106,7 +102,7 @@ The memory opened.
 
 The first test had looked almost insulting in its simplicity.
 
-A volunteer carried a bundle of young bamboo shoots into the center of the dojo. They were green, narrow, and flexible, each one no thicker than a finger. The Grandmaster stood before them in a plain white kimono, her new black belt tied at the waist. There was no weapon, no opponent, and no visible challenge beyond the fragile stems.
+A volunteer carried a bundle of young bamboo shoots into the center of the dojo. They were green, narrow, and flexible, each one no thicker than a finger. The Grandmaster stood before them in a plain white kimono, her existing seventh-dan black belt tied at the waist. There was no weapon, no opponent, and no visible challenge beyond the fragile stems.
 
 Master Vayun placed three shoots across her open palm.
 
@@ -148,9 +144,9 @@ Rohan returned to the Chamber of Spirits with his hand closed around the edge of
 
 "No," said Master Vayun. "It measured whether force could arrive without anger."
 
-The Grandmaster continued eating as if the bamboo had never happened.
+The Grandmaster lowered her hand without comment, as though splitting the bamboo had required no more effort than lifting her cup.
 
-"The second test measured timing," she said. "The cut mattered less than the moment she chose to make it."
+"The second test measured timing," Master Vayun said. "The cut mattered less than the moment she chose to make it."
 
 The memory changed.
 
@@ -260,23 +256,11 @@ The ceremony granted her the eighth dan of Wadō-ryū.
 
 Rohan returned fully to the Chamber of Spirits.
 
-The Grandmaster was no longer at the table.
+The Grandmaster and Master Vayun were still seated at the table, exactly where he had left them. The meal had gone quiet. The statues watched from their alcoves, ten silent witnesses to a conversation that had begun before Rohan entered the room.
 
-Neither was Master Vayun.
+Rohan set down his cup and straightened.
 
-Their footsteps approached from the far corridor, measured and unhurried. Rohan set down his cup and turned toward the sound.
-
-The Chamber of Spirits had been quiet when he entered. Now the statues seemed to be watching the doorway with him.
-
-The Grandmaster appeared first.
-
-Master Vayun walked beside her.
-
-Rohan stood.
-
-The meal had been an honor. The memory had been a lesson. Their footsteps carried the next question toward him.
-
-The Grandmaster returned to her place at the table. Master Vayun sat beside her, and for a moment neither spoke. The statues watched from their alcoves, ten silent witnesses to a conversation that had already begun before Rohan entered the room.
+The meal had been an honor. The memory had been a lesson. Now both seemed to be preparing him for the question waiting between them.
 
 At last, the Grandmaster folded her hands before her.
 
@@ -288,7 +272,7 @@ Rohan did not move.
 
 Her voice held none of the ceremony's public authority now. She spoke as the keeper of a burden that had been carried from one Grandmaster to the next, growing heavier each time the ganas mistook stability for safety.
 
-"I am glad you have already decided to help Elara," she continued. "Not because Ashoka should take Drona's place, and not because you should become an instrument of her judgment. She needs someone who can test what she sees without dismissing it, and act when the evidence requires action. The balance may depend on whether people like you are willing to stand between duty and obedience."
+"I am glad you have already decided to help Elara," she continued. "Not because Ashoka should take Drona's place, and not because you should become an instrument of her judgment. She needs someone who can test what she sees without dismissing it, and act when the evidence requires action. The balance may depend on whether you are willing to stand between duty and obedience."
 
 Rohan felt the words settle more deeply than praise would have. He had not asked whether anyone was watching him. The question had remained behind his teeth, too obvious to speak aloud.
 
@@ -326,7 +310,7 @@ Vayun's eyes narrowed with quiet amusement. "You are still asking the wrong ques
 
 "What is the right one?"
 
-"Why did you go?"
+"Why did you step forward?"
 
 Rohan had no answer.
 
@@ -334,7 +318,7 @@ Vayun smiled and returned to his tea.
 
 Rohan left the Chamber of Spirits alone.
 
-On the walk back to his quarters, the last few days played through him in fragments: Elara's hand over the record, the boys emerging from the mine, the black king in Ravi's room, Daren moving through systems that bent around him, the bamboo cracking in the Grandmaster's hand, steel dividing without impact, and Master Vayun stopping a fist less than an inch from his face.
+On the walk back to his quarters, the last few days played through him in fragments: Elara's hand over the record, the three candidates marked UNASSIGNED, the separation order that had followed, and the library transfer authorized under the letters OG. Each clue pointed toward a design larger than any single administrative decision, but none yet revealed who was moving the pieces or why.
 
 The events did not arrange themselves into a pattern. They accumulated into a responsibility.
 
@@ -346,6 +330,6 @@ The first words formed slowly beneath the stylus.
 
 Elara,
 
-I believe the record deserves to be preserved. We need to speak before I decide what Ashoka should do with it.
+I believe the Initiation record deserves to be preserved. Before I recommend that Ashoka act on it, we need to speak.
 
 Rohan stopped there, the ink still shining on the page.
