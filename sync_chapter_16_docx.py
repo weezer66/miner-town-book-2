@@ -42,7 +42,10 @@ for child in list(body):
     body.remove(child)
 
 heading = doc.add_paragraph(style=title_style)
-heading.add_run(chapter_title)
+title_run = heading.add_run(chapter_title)
+# user formatting choice: bold black chapter title
+title_run.bold = True
+title_run.font.color.rgb = RGBColor(0, 0, 0)
 
 # user formatting choice: one blank spacing paragraph after the title
 doc.add_paragraph()
