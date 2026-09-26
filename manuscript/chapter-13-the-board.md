@@ -40,7 +40,7 @@ He checked the cuff once, not out of vanity, but because a misaligned cuff sugge
 
 The corridor outside his quarters was already awake. Other Chanakya representatives moved toward the gymnasium with the same measured quiet, dressed in variations of green, gray, and ink-black. None wore the heavy authority of Ashoka, the clean restraint of Drona, or the muted wealth of Kubera. Chanakya dressed for conversation and consequence. The fabric allowed movement but never looseness. The collars framed the throat. The sleeves left the hands visible. A Chanakya representative's hands were expected to remain calm even when the words did not.
 
-The gymnasium occupied the center of the residential wing. It was not built like a training hall. It resembled an argument made physical: running track around the outer ring, strategy tables in the middle, sparring lanes marked not for combat but for negotiation drills, where students practiced approaching, retreating, yielding, and taking ground without once raising a hand.
+The gymnasium occupied the center of the residential wing. It resembled an argument made physical: running track around the outer ring, strategy tables in the middle, sparring lanes marked not for combat but for negotiation drills, where students practiced approaching, retreating, yielding, and taking ground without once raising a hand.
 
 Ravi joined the morning rotation at the track.
 
@@ -78,7 +78,7 @@ Only then did he take his seat at the far side of the board, one hand resting be
 
 He was smaller than Ravi had expected, and that somehow made the room arrange itself more carefully around him. His hair was silver-white and pulled back at the nape, his face narrow, his mouth almost gentle until he looked directly at a person. His eyes did not search. They arrived. He wore no crown, no visible mark of office beyond a simple green robe edged in black script, each line so fine that the fabric seemed to carry arguments rather than decoration. Age had thinned his body without softening it. If the body was old, the mind behind it looked young enough to be dangerous, younger than every student in the room because it had shed the need to prove itself.
 
-He did not look like a man preparing to play a game. He looked like a man waiting to discover which part of his opponent would move first: ambition, fear, patience, or pride.
+He looked like a man waiting to discover which part of his opponent would move first: ambition, fear, patience, or pride.
 
 Ravi approached the table.
 
@@ -158,17 +158,7 @@ Ravi did not answer. He moved again after the Grandmaster's next quiet pawn adva
 
 For six moves, the game seemed to belong to him.
 
-The announcer's calls came faster.
-
-"Black pawn to queen four."
-
-"White camel to king two."
-
-"Black horse takes center pawn."
-
-"White queen to queen two."
-
-Each move crossed from the carved board into the arena. Footmen advanced and vanished into capture with bowed heads. Camels cut diagonals through unsettled dust, their riders leaning with the patient menace of desert predators. Horses struck the board like royal messengers carrying news no one wanted to receive. The ladies of honor remained still on their mounts, veils unmoving, waiting for the moment when a queen's silence would become the most dangerous thing in the room.
+The announcer's calls came faster: black pawn to queen four, white camel to king two, black horse takes center pawn, white queen to queen two. Each move crossed from the carved board into the arena — footmen vanishing into capture with bowed heads, camels cutting diagonals through unsettled dust. The ladies of honor remained still on their mounts, veils unmoving, waiting for the moment when a queen's silence would become the most dangerous thing in the room.
 
 Ravi won material first.
 
@@ -292,23 +282,13 @@ He was too disciplined to smile in the corridor, and too honest with himself to 
 
 The corridor beyond the gymnasium curved into the Hall of Arguments.
 
-Chanakya did not preserve victories there. It preserved disputes. Along the walls, suspended panels showed famous negotiations in layered sequence: the opening position, the first concession, the false compromise, the sentence that changed the room. Some panels held written transcripts. Others displayed only empty chairs and the date of a meeting whose true record had been sealed. Beneath each case, a short notation named the consequence rather than the speaker.
+Chanakya did not preserve victories there. It preserved disputes: suspended panels showing famous negotiations in layered sequence, some holding transcripts, others only empty chairs and the date of a meeting whose true record had been sealed. Beneath each case, a short notation named the consequence rather than the speaker.
 
-A famine avoided.
+A famine avoided. A border redrawn. A rebellion delayed by nine years. A law passed with language no one understood until it was too late to amend.
 
-A border redrawn.
+Ravi slowed before the last one. After the match, he understood it differently: the board did not always end when the strongest move was made. Sometimes it ended when one side controlled how the move would be remembered.
 
-A rebellion delayed by nine years.
-
-A law passed with language no one understood until it was too late to amend.
-
-Ravi slowed before the last one, not because he had not seen it before, but because after the match he understood it differently. The board did not always end when the strongest move was made. Sometimes it ended when one side controlled how the move would be remembered.
-
-He continued into the Corridor of Unsaid Things.
-
-This hallway was narrower, lined with black glass cases containing blank paper, sealed envelopes, unsigned drafts, and fragments of policy that had never been formally adopted. Students hated this corridor when they were young. It looked empty. Later, if they survived enough instruction, they learned that most power lived in what was not written down. An unissued order could move people if enough of them believed it might exist. An unsigned draft could frighten a committee into passing something gentler. A silence, held long enough, could become policy.
-
-Two apprentices stood before a blank sheet while an instructor questioned them.
+In the narrower Corridor of Unsaid Things, black glass cases held blank paper, sealed envelopes, and unsigned drafts — the old lesson that most power lived in what was never written down. Two apprentices stood before a blank sheet while an instructor questioned them.
 
 "What does it say?" the instructor asked.
 
@@ -319,12 +299,6 @@ The instructor waited.
 The second apprentice corrected him. "It says someone chose not to speak here."
 
 "Better," the instructor said.
-
-Ravi moved on.
-
-He passed three conference rooms with transparent walls. In one, junior representatives practiced offering concessions that gave away nothing essential. In another, a senior analyst dismantled a public statement until the students could see the fear hidden beneath its grammar. In the third, a group of children no older than twelve played a negotiation game with colored stones, learning when to trade, when to promise, and when to make another player believe a promise had already been made.
-
-This was Chanakya's beauty and its danger. It did not teach people to lie first. It taught them that truth entered the world through framing, and that whoever controlled the frame often controlled what truth was allowed to do.
 
 By the time Ravi reached the residential wing, the confusion had not left him. It had sharpened.
 
@@ -371,8 +345,6 @@ Not *well played*. Not *saved*. Not *remember this*. The message was clear: the 
 That narrowed the possibilities until they became more frightening.
 
 Someone had known the exact state of the board. Someone had known that the Grandmaster was one move from checkmate. Someone had arranged for the Grandmaster to be interrupted before he could complete the move. The reason remained unclear. Someone had enough reach inside Chanakya to remove the black king from the match table, carry it through the residential wing, and place it in Ravi's room before he arrived.
-
-That was not a prank. It was not courtesy.
 
 It was a demand for his attention.
 

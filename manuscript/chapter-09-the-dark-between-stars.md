@@ -8,7 +8,7 @@ The audience should have been over.
 
 Daren had surrendered the Kubera bracelet, his authority, his privileges, and his right to speak in the House's name, and had reached the Grandmaster's chamber doors believing there was nothing left to take.
 
-The Grandmaster had not let him leave.
+The Master of the Reserve had not let him leave.
 
 His voice, when it came, was calm enough to make the sentence sound like a private kindness.
 
@@ -186,7 +186,7 @@ The Phoenix carried him upward. When its doors opened onto the familiar upper ga
 
 Daren stepped through.
 
-The Grandmaster was waiting inside the chamber, the same calm, still figure Daren had last seen at the dark window. He was not in a formal posture. He did not stand at a desk. He was simply there, one hand resting against the wall as though the city itself were a thing he was consulting.
+The Master of the Reserve was waiting inside the chamber, the same calm, still figure Daren had last seen at the dark window. He was not in a formal posture. He did not stand at a desk. He was simply there, one hand resting against the wall as though the city itself were a thing he was consulting.
 
 At his side, folded over a curved stand, lay the obsidian ensemble.
 

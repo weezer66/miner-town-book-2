@@ -70,7 +70,9 @@ The words were not an invitation. They carried the finality of a decision made b
 
 Daren passed between them. Behind him, the gold armor remained motionless beneath the black doors. Ahead, the chamber opened without ceremony, and the silence inside seemed to know his name.
 
-The Grandmaster stood at the far end of the chamber with his back to the doors. He was looking down at a broad table of transparent panels, each one carrying a different layer of the Initiation footage. The displays did not sit flat like ordinary screens. They hovered a few centimeters above the table, projecting the chamber in overlapping planes: thermal signatures beneath movement maps, biometric traces beneath audio fragments, every angle of the event separated and recombined at the Grandmaster's gesture.
+Kubera named its Grandmaster the way it named everything: by what he controlled. Within the house he was the Master of the Reserve — keeper of the vaults, the continuity funds, and the ledgers that outlived every officeholder — and the title carried more weight in Kubera's corridors than the man's face, which most representatives never saw this close.
+
+The Master of the Reserve stood at the far end of the chamber with his back to the doors. He was looking down at a broad table of transparent panels, each one carrying a different layer of the Initiation footage. The displays did not sit flat like ordinary screens. They hovered a few centimeters above the table, projecting the chamber in overlapping planes: thermal signatures beneath movement maps, biometric traces beneath audio fragments, every angle of the event separated and recombined at the Grandmaster's gesture.
 
 Kubera could have purchased any technology Trinity possessed. The room displayed the result of purchasing more than that. Its surfaces were silent, seamless, and almost invisible until they carried information. The table showed the boys as heat, motion, chemical response, and risk. Nothing in the footage was allowed to remain a person for long.
 
@@ -96,7 +98,7 @@ The Grandmaster already knew how the other ganas had received the footage. He kn
 
 Daren had not yet spoken. The Grandmaster had already shown him the charge.
 
-The Grandmaster began to speak.
+The Master of the Reserve began to speak.
 
 His first words came in Tamil, the language of the ancient City of Gold, rich with the clipped rhythm of money, hierarchy, and judgment. Daren heard the vowels open and close with the precision of a language designed for command, but he did not know the meaning until the chamber device behind the Grandmaster reacted to the speech.
 

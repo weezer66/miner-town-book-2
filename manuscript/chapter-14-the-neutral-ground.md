@@ -122,7 +122,7 @@ At the center of the streams was Daren.
 
 The Chief Architect enlarged the record of his bracelet. Obsidian access. Founder-tier permissions. Movement through sealed systems. The bracelet did not look like a weapon. It responded to intention before command, turning thought into action before anyone could recognize the threat. Daren was still learning the limits of what the ensemble could do, but the systems around him had already begun revealing something more dangerous: no reliable boundary had been built around what the bracelet could do.
 
-The Chief Architect opened a second file. Daren's old disciplinary record. His removal from Kubera. The Grandmaster's private instruction. The first Continuity Reserve transfer. The signature entered as OG. Each event was small when isolated. Together they formed a slope.
+The Chief Architect opened a second file. Daren's old disciplinary record. His removal from Kubera. The private instruction from the man Kubera called the Master of the Reserve. The first Continuity Reserve transfer. The signature entered as OG. Each event was small when isolated. Together they formed a slope.
 
 The Chief Architect had seen this pattern before, though never at this speed. A person received access, then discovered that access could become authority. Authority became reach. Reach became the power to alter the conditions under which other people made decisions. By the time the person understood the full shape of that power, the institution that had created it was no longer capable of taking it back.
 

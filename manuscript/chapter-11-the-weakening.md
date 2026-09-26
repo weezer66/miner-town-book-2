@@ -46,7 +46,7 @@ The transcript was still there, exactly where he had left it. He had read it in 
 
 Daren set the pane on his knee.
 
-He had spent his career at THRESHOLD reading limits other people pretended did not exist: intervention bands, cost triggers, acceptable-loss curves. He had believed that work was restraint. The Grandmaster had shown him another use for it. A man who knew how much pressure a system could survive also knew how much excess it could be given before the excess became a weakness.
+He had spent his career at THRESHOLD reading limits other people pretended did not exist: intervention bands, cost triggers, acceptable-loss curves. He had believed that work was restraint. The Master of the Reserve had shown him another use for it. A man who knew how much pressure a system could survive also knew how much excess it could be given before the excess became a weakness.
 
 The only question left was which gana to test the method on first.
 
