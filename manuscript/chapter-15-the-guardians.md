@@ -218,7 +218,7 @@ Rohan woke at once. He rose, washed, and dressed with the care the occasion requ
 
 By dawn, the ceremony filled Ashoka's central hall. Red standards hung from the upper galleries. Generals stood in formal rows beneath the insignias of their divisions. Ministers, state leaders, and strategic advisers occupied the front tiers. Their presence made the ceremony more than a martial-arts promotion. It became a public declaration that the state trusted the Grandmaster to hold and direct power.
 
-The Grandmaster entered without procession. The hall quieted anyway.
+The Grandmaster entered without procession. The hall quieted anyway. Within the house she was the Dhammapala — guardian of Dhamma, the supreme duty Ashoka held above every order — and the title was spoken more often in the dojo than in the command halls, because it named what the rank was for.
 
 The ascension was not presented as a reward for victory. The eighth dan represented the ability to carry force without being carried away by it: mastery of body, mind, spirit, and consequence. The final demonstration was brief. The Grandmaster redirected an advancing instructor, broke the line of attack, and stopped with her hand resting against the opponent's shoulder. She could have struck. The ceremony required everyone to understand that she had chosen not to.
 

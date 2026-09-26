@@ -72,7 +72,7 @@ The far doors opened without announcement.
 
 The elders rose together.
 
-The Chanakya Grandmaster entered at an unhurried pace, and the room seemed to make space for him before he reached the board. Ravi stood at once. When the Grandmaster stopped across from him, Ravi bowed with one hand over his heart. The Grandmaster answered with a slight inclination of his head, equal parts acknowledgment and assessment.
+The Chanakya Grandmaster entered at an unhurried pace, and the room seemed to make space for him before he reached the board. Within the house he was the Arthashastri — master of the old science of wealth and statecraft that had given the gana its name — and the elders used the title the way other houses used a bow. Ravi stood at once. When the Grandmaster stopped across from him, Ravi bowed with one hand over his heart. The Grandmaster answered with a slight inclination of his head, equal parts acknowledgment and assessment.
 
 Only then did he take his seat at the far side of the board, one hand resting beside the clock.
 
@@ -262,7 +262,7 @@ Ravi stood as the Grandmaster rose.
 
 "Grandmaster," he said.
 
-The Chanakya Grandmaster looked at him once, and for the first time there was no lesson in the gaze, only calculation moving too quickly to share.
+The Arthashastri looked at him once, and for the first time there was no lesson in the gaze, only calculation moving too quickly to share.
 
 "The board has not finished with you," the Grandmaster said. "Do not mistake an unfinished game for a spared one."
 

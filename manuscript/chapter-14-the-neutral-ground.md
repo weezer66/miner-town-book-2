@@ -4,6 +4,12 @@
 
 — Book 1, Chapter 19: Shadow Architecture
 
+In a room without a gana insignia, deep beneath the boundary between two cities, Mr. Flitzberg stood before a wall of dark glass and watched four streams of information move like weather.
+
+Kubera's Continuity Reserve had released funds under an authority no modern registry could name. Drona's library wing had accepted more money than it requested. Chanakya's residential systems had opened around an intruder and then behaved as if the intrusion had been ordinary traffic. Ashoka had begun asking questions without yet knowing which questions mattered.
+
+Flitzberg read the streams the way other men read weather fronts, and thought — as he always did on nights when the balance began to bend — about the ground he was standing in.
+
 The facility had not begun as a prison.
 
 It had begun as an agreement.
@@ -72,7 +78,7 @@ The correction had to appear as ordinary cause and effect: an audit triggered by
 
 The Grandmasters knew Patal Loka existed. What they could not know was which hand had moved, which channel had carried the order, or whether the correction had originated inside their own institution. Suspicion was acceptable. Proof was dangerous. If Patal Loka became openly attributable, the balance would become another form of domination.
 
-For almost a century, the Chief Architects and their quiet personnel had kept the four ganas from destroying the foundations on which their survival and growth depended. The work was never celebrated. Most people did not know Patal Loka existed, and those who suspected it knew better than to speak its name where a record might preserve the sound. Its greatest success was measured by events that never became wars, scandals that ended as administrative errors, and Grandmasters who believed their restraint had been entirely their own idea.
+For almost a century, the Chief Architects and their quiet personnel had kept the four ganas from destroying the foundations on which their survival and growth depended. The work was never celebrated. Most people did not know Patal Loka existed, and those who suspected it knew better than to speak its name where a record might preserve the sound. Its greatest success was measured by events that never became wars, scandals that ended as administrative errors, and Grandmasters who believed their restraint had been entirely their own idea. The most recent of those quiet successes had crossed Flitzberg's own desk.
 
 The Chief Architect was not restricted by any gana's budget. Patal Loka maintained no ordinary treasury because its authority was drawn from all four. When a correction required money, personnel, transport, intelligence, technology, or leverage, the Chief Architect could requisition it from Drona, Kubera, Chanakya, or Ashoka through channels that appeared to belong to the requesting institution. The tools remained separate. The purpose did not.
 
@@ -114,15 +120,13 @@ That was how Gage, Camilla, Ben, and Otto had entered the facility without anyon
 
 Someone had used the old agreement as a disguise. Someone had reopened a place designed to hold the consequences of institutional failure and filled it with people who had become inconvenient to the institutions above them.
 
-The current Chief Architect had been watching a different movement above the same boundary.
-
-In a room without a gana insignia, a wall of dark glass carried four streams of information. Kubera's Continuity Reserve had released funds under an authority that no modern registry could name. Drona's library wing had accepted more money than it requested. Chanakya's residential systems had opened around an intruder and then behaved as if the intrusion had been ordinary traffic. Ashoka had begun asking questions without yet knowing which questions mattered.
+That history was why Flitzberg stood at the glass tonight. The four streams were not archive material. They were the same failure beginning again, wearing new signatures.
 
 At the center of the streams was Daren.
 
 The Chief Architect enlarged the record of his bracelet. Obsidian access. Founder-tier permissions. Movement through sealed systems. The bracelet did not look like a weapon. It responded to intention before command, turning thought into action before anyone could recognize the threat. Daren was still learning the limits of what the ensemble could do, but the systems around him had already begun revealing something more dangerous: no reliable boundary had been built around what the bracelet could do.
 
-The Chief Architect opened a second file. Daren's old disciplinary record. His removal from Kubera. The private instruction from the man Kubera called the Master of the Reserve. The first Continuity Reserve transfer. The signature entered as OG. Each event was small when isolated. Together they formed a slope.
+Flitzberg opened a second file. Daren's old disciplinary record. His removal from Kubera. The private instruction from the man Kubera called the Master of the Reserve. The first Continuity Reserve transfer. The signature entered as OG. Each event was small when isolated. Together they formed a slope.
 
 The Chief Architect had seen this pattern before, though never at this speed. A person received access, then discovered that access could become authority. Authority became reach. Reach became the power to alter the conditions under which other people made decisions. By the time the person understood the full shape of that power, the institution that had created it was no longer capable of taking it back.
 
@@ -136,7 +140,7 @@ The Chief Architect opened a second sealed roster.
 
 For years, Patal Loka had searched for people who could resist the ganas without becoming another gana's instrument. They were difficult to find. Most gifted candidates wanted protection, status, revenge, or permission to use the same power that had harmed them. Patal Loka needed something rarer: people who could enter a system, understand its pressure, and refuse to belong entirely to the hand that offered them access.
 
-The current Chief Architect, Mr. Flitzberg, understood why the search mattered. At the peak of their power, rogue gana agents would not yield to their own Grandmasters, and no rival gana could defeat them without turning correction into open war. Once an agent reached that height, the four institutions could only negotiate around the danger or feed it until it became stronger. The last hope had to come from people who stood outside the old pattern.
+The current Chief Architect, Mr. Flitzberg, understood why the search mattered better than anyone alive. At the peak of their power, rogue gana agents would not yield to their own Grandmasters, and no rival gana could defeat them without turning correction into open war. Once an agent reached that height, the four institutions could only negotiate around the danger or feed it until it became stronger. The last hope had to come from people who stood outside the old pattern.
 
 According to Flitzberg's calculations, only candidates from Miner Town could defeat the unknown power emerging from the ganas. The people of Trinity-1 had been measured from childhood, assigned to systems, rewarded for serving them, and taught to mistake permission for freedom. Daren had become so powerful because Trinity-1 already knew how to route resources, permissions, surveillance, and obedience toward him. Miner Town's candidates had been neglected by those systems instead. They were not cleanly indexed. They had not been trained to seek approval from the ganas. Their instincts had formed in the gaps between official categories, where survival required judgment before permission.
 

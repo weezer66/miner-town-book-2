@@ -260,7 +260,7 @@ The ceremony granted her the eighth dan of Wadō-ryū.
 
 Rohan returned fully to the Chamber of Spirits.
 
-The Grandmaster and Master Vayun were still seated at the table, exactly where he had left them. The meal had gone quiet. The statues watched from their alcoves, ten silent witnesses to a conversation that had begun before Rohan entered the room.
+The Dhammapala and Master Vayun were still seated at the table, exactly where he had left them. The meal had gone quiet. The statues watched from their alcoves, ten silent witnesses to a conversation that had begun before Rohan entered the room.
 
 Rohan set down his cup and straightened.
 
