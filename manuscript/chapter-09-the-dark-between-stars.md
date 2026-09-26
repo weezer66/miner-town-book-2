@@ -1,5 +1,9 @@
 # Chapter 9: The Dark Between Stars
 
+*The truth hit Gage: the Initiation wasn’t a test. It was a culling. Icepick was weeding out the weak, turning survivors into bots too broken to dream of mutiny.*
+
+— Book 1, Chapter 4: Emily’s Not Talking
+
 Daren sat on the edge of his bed and watched the window.
 
 He had left the lights off. The room was easier to bear that way. Without the overhead panels, the walls lost their clean Kubera geometry, and the narrow quarters became a box suspended above the city. His right wrist seemed bare, as it should have been after Kubera stripped away his bracelet, his authority, his privileges, and his right to speak in the House's name. The skin offered no mark of what he had been. Then he turned his hand toward the window.
@@ -33,8 +37,6 @@ Daren placed his palm against the glass. The pane held the night's chill beneath
 His pulse began to climb, but he did not turn from the window. The black hole held the stars in its orbit without appearing among them, ruling the sky by remaining unseen. Daren understood the resemblance with a clarity that made his mouth curve: his Kubera identity had been stripped away, yet the power placed upon him remained hidden, unmarked, and capable of bending every visible structure around it. He was no longer meant to stand at the center of the system. He was meant to become the force other people arranged themselves around.
 
 The smile that touched his face was not wonder. It was recognition.
-
-*Below, another kind of recognition had come in the dark. Gage had looked at the chamber, the drug, the hum, and the children breaking around him, and understood that the Initiation was not a test. It was a culling.*
 
 He looked toward the sealed door. His thoughts returned to the Grandmaster's chambers, to the moment Daren had surrendered the Kubera bracelet, his authority, his privileges, and his right to speak for the House. He had reached the chamber doors believing the audience was over.
 

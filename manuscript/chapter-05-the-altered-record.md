@@ -1,5 +1,9 @@
 # Chapter 5: The Altered Record
 
+*On the fourth day a guard came to her door with a wrench. The wrench he had been holding had been logged to him at the start of the shift, and Trinity was a careful auditor. An unaccounted tool was a hole in the inventory. The guard handed it over without ceremony — the way one returns a shipment. Rita signed for it. The husband was a part to discard; the wrench was an asset to track. It was the only piece of him the algorithm hadn’t erased.*
+
+— Book 1, Chapter 6: To Hell and Back
+
 Elara stood before her console, watching the executive escalation order seal itself into Trinity’s central ledger. In Drona, every crisis was an equation waiting for an operator to balance it, but as she evaluated her remaining options, she knew the math offered no safe resolution.
 
 Compliance was the quiet, cautious choice. Her operator status was already flagged as **UNDER REVIEW** on the monitoring board—she was already backed into a corner, her every input scrutinized by Drona evaluators and her peers. If she did nothing, she wouldn't clear her profile, but she wouldn't push her precarious position over a cliff. She could absorb the administrative reprimand, let the system process Gage, Ben, and Otto through standard culling protocols, and keep what remained of her career intact. To remain passive was to protect herself in a corner, but it meant becoming an accomplice to the very machinery that had erased Teresa.
@@ -109,9 +113,7 @@ She walked beneath the blue corridor lights with her hands empty and her mind cr
 
 Far below, the mine gates stood open beneath the first grey light of the next cycle.
 
-*Below, families waited in the grit for children who might not return as children. Rita held Thorton's old wrench like the only heirloom the system had failed to erase.*
-
-Gage walked out of the dark with a steady gait. The guards' scanners registered the changes they could measure: altered posture, a controlled pulse, and a six-foot-four frame carrying Otto across his shoulders while dragging a semi-conscious Ben by the collar of his shirt. He was not the broken marionette they expected. He was the Engine that refused to red-line.
+Gage walked out of the dark with a steady gait. The guards' scanners registered the changes they could measure: altered posture, a controlled pulse, and a six-foot-five frame carrying Otto across his shoulders while dragging a semi-conscious Ben by the collar of his shirt. He was not the broken marionette they expected. He was the Engine that refused to red-line.
 
 They moved slowly, but they moved together.
 

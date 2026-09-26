@@ -1,12 +1,10 @@
 # Chapter 12: The Key
 
-*Above the mines, Elara's choice entered the system. Below, in the underground dark, it arrived as a number pressed onto a living body.*
+*Seeking the final piece, Gage sat with the Worker #4055 tag hanging between his fingers. The system didn’t retire numbers — it refilled them. When Gage survived the Initiation and entered the intake line, the processing clerk had stamped Thorton’s vacated slot onto his son’s chest without a second glance. The position was the asset; Gage was just the next body assigned to fill it. But what was once a symbol of his father’s disposal had become a key to the machine’s destruction. He walked to Camilla.*
+
+— Book 1, Chapter 6: To Hell and Back
 
 During the week of recovery, Gage turned the walls of his room into a live billboard, scribbling a sprawling map with charcoal. He was no longer tracing dream worlds; he was mapping a war.
-
-Seeking the final piece, Gage sat with the Worker #4055 tag hanging between his fingers. The system didn't retire numbers — it refilled them. When Gage survived the Initiation and entered the intake line, the processing clerk had stamped Thorton's vacated slot onto his son's chest without a second glance. The position was the asset; Gage was just the next body assigned to fill it. But what was once a symbol of his father's disposal had become a key to the machine's destruction.
-
-He walked to Camilla.
 
 "Cami," he rasped, holding out the tag. "You read the system better than I do. Tell me what we can do with this."
 

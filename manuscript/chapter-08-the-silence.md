@@ -1,5 +1,9 @@
 # Chapter 8: The Silence
 
+*In his dream, Ben saw his father’s face. Oscar had always told him that the Trinity didn’t just harvest coal; they harvested the capacity to care. He knew the system wanted human engines — tools driven by grinding fear. To survive without becoming a bot, you had to maintain the one thing the ledger couldn’t calculate: Empathy.*
+
+— Book 1, Chapter 3: The Initiation
+
 She had not even managed a sound.
 
 The moment the elder woman at the far end of the table lifted her hand, the room seemed to close around Elara with a silence so complete it felt physical. No one spoke or moved. She tried to breathe, but her breath caught in her throat, her chest tightened, and her lungs began to burn. Her face went cold, her vision blurred, and her lips tingled as panic narrowed the world to one terrible fact: she could not speak or draw enough air into herself. This was more than fear; it was the realization that she had been stopped before she had begun, denied the ability to answer—the one thing she had always assumed belonged to her.
@@ -94,8 +98,6 @@ Her faint smile did not disappear, but its meaning changed. "He is also the son 
 
 Elara felt the meaning move beneath the cards and reach backward into the ceremony. The initiation had not been a sequence of tests arranged to measure three candidates and assign them to their proper routes. It had been the first visible shape of something the system did not yet know how to name. In the monitoring chamber, Gage, Otto, and Ben had not simply endured pressure beside one another. They had chosen one another, and Elara had chosen to preserve the evidence of that choice.
 
-*Below, Gage had not named it a gana. Ben had not called it doctrine. Otto had not called it loyalty. They had simply kept one another from breaking until survival took the shape of a bond.*
-
 She understood now that the monitoring chamber was where the boys forged their own gana, a bond that might one day become the resistance. By preserving what happened, Elara had become part of it.
 
 Draṣṭā gathered the remaining cards into a smaller fan. "Draw the final card."
@@ -111,8 +113,6 @@ Elara looked at the three cards together. Trishanku, Ashwatthama, and Rahu were 
 Draṣṭā's expression grew solemn. "The past cannot be changed by regret, Elara; the present must be met by action; and the future often warns us before it arrives. These are signals of grave times. Prepare while preparation is still possible."
 
 Elara went quiet. The gravity of the cards, the language, and the people gathered around the table made the larger forces moving through histories and consequences impossible to ignore.
-
-*Below, Gage was carrying a different danger toward the shack. Badge 732—the man who had hit Otto in the dark—had accepted an invitation to dinner. The boys had survived by staying together; now they were deciding whether trust could survive being extended.*
 
 But what was she doing here? The question settled inside her without panic. Was she a witness, a participant, or merely the instrument through which destiny had chosen to move the record from one hand to another? She had thought she was protecting three candidates by preserving what happened in the monitoring chamber. Now she wondered whether she had also been carrying them toward this room long before she understood that a path was forming beneath her choices.
 

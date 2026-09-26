@@ -1,5 +1,9 @@
 # Chapter 6: The Grandmaster's Briefing
 
+*Then a new shadow appeared — heavy, slow, rhythmic. Gage walked out of the dark with a steady gait, his face changed in ways Camilla didn’t yet have names for. He was unbreakable — six-foot-five, carrying Otto across his shoulders and dragging a semi-conscious Ben by the collar of his shirt. He wasn’t the broken marionette the guards expected; he was the Engine that refused to red-line.*
+
+— Book 1, Chapter 6: To Hell and Back
+
 Daren was summoned to Kubera shortly after the monitoring lock ended, before the next administrative cycle had fully begun. When he returned to his quarters after the Initiation, he found a thin pane of glass resting on the center of his bed.
 
 It looked like an inert piece of transparent material until he touched it. Then light moved beneath its surface, the glass awakened, and a single insignia appeared: a golden torch rendered in fire-bright lines, the unmistakable mark of the Grandmaster's authority. The device was far beyond a regular representative's clearance or pay grade. Daren had no idea how it had entered his room. He only knew that no one left a device like that by accident.
@@ -69,8 +73,6 @@ Daren passed between them. Behind him, the gold armor remained motionless beneat
 The Grandmaster stood at the far end of the chamber with his back to the doors. He was looking down at a broad table of transparent panels, each one carrying a different layer of the Initiation footage. The displays did not sit flat like ordinary screens. They hovered a few centimeters above the table, projecting the chamber in overlapping planes: thermal signatures beneath movement maps, biometric traces beneath audio fragments, every angle of the event separated and recombined at the Grandmaster's gesture.
 
 Kubera could have purchased any technology Trinity possessed. The room displayed the result of purchasing more than that. Its surfaces were silent, seamless, and almost invisible until they carried information. The table showed the boys as heat, motion, chemical response, and risk. Nothing in the footage was allowed to remain a person for long.
-
-*Below, they had been more than heat and movement. Gage had carried Otto because Otto could no longer walk. He had dragged Ben because leaving him behind would have meant accepting the chamber's verdict.*
 
 The Grandmaster reviewed the last hours of the Initiation with unmistakable pleasure. Daren remained where he had stopped, hands at his sides, while the room moved through the footage in slow, deliberate layers. He did not know whether ten minutes or an hour passed. The Grandmaster paused over the candidates' deterioration, enlarged the force response, and replayed the moment when the system classified their protection of one another as coordinated containment.
 

@@ -1,5 +1,9 @@
 # Chapter 16: The Chamber of Spirits
 
+*“My name is Shu Chan,” the old man said. “Where I come from is dust now. I was the last guard of a place that no longer exists. I have been waiting for someone to find me.” He touched Otto’s forehead with one finger, and for a heartbeat Otto stood inside a stillness so deep that the world made sense.*
+
+— Book 1, Chapter 3: The Initiation
+
 Rohan kept replaying the ceremony, but every replay became less reliable. The events had been visible to everyone and understood by almost no one. He remembered the Grandmaster's hand, the sword, Master Vayun's stillness—but not the order in which the impossible had happened.
 
 The applause faded. The generals resumed their guarded conversations. Ministers gathered beneath the red standards, already translating what they had witnessed into policy, influence, and future obligation. The Grandmaster accepted the eighth-dan belt with a bow and then turned away from the officials who had come to honor her.

@@ -1,5 +1,9 @@
 # Chapter 10: The Pathways
 
+*“Don’t draw me a forest, Gage.” Her voice hardened, and for a moment she sounded like Pappy. “Draw me a way out.”*
+
+— Book 1, Chapter 17: Mirror Mirror in the Box
+
 That evening, after the review chamber had emptied and the day's obligations had carried each of them elsewhere, the Drona cafeteria was loud enough to make secrecy look like ordinary fatigue.
 
 Trays struck the return belt at one end of the room. The drink dispenser hissed and clicked. A maintenance cart complained along the wall with one uneven wheel, and three students near the windows argued over a schedule neither of them could change. The noise did not hide speech so much as break it into harmless pieces. A sentence overheard at the next table became nothing more than one more complaint about rationed coffee or delayed shifts.

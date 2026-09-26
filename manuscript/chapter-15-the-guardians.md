@@ -1,5 +1,9 @@
 # Chapter 15: The Guardians
 
+*Thorton had been the human glue that held their fractured lives together. But the mines harbored malice for anything not forged of cold metal. Three days after Gage’s fifteenth birthday, the hum of the earth shifted to a high-pitched scream — a critical valve seizing in Shaft 4. While guards retreated to upper vents, the miners remained trapped. Thorton grabbed a rusted wrench and threw his frame against the release lever, holding the line until the scream faded. The effort tore through his chest like a closing fist. His heart gave out, and he collapsed into the sludge. In the cold ledger of Miner Town, they didn’t record a hero; they recorded a broken part.*
+
+— Book 1, Chapter 6: To Hell and Back
+
 Rohan spent two days replaying the Initiation.
 
 He watched the footage without sound first.

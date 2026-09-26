@@ -1,5 +1,9 @@
 # Chapter 2: The Checklist
 
+*Gage tore into the heavy plastic, and a cloud of thick white steam billowed out, smelling so rich it made his head spin. Warm, buttery potatoes and the savory salt of poultry. To a boy who’d spent his life eating grey starch mush, it felt like holding an edible cloud in his blackened fingers. They ate like starving animals, washing it down with cool, clear water that felt like a lost memory of rain — though something at the back of the throat warned them, a thin metallic tang like a copper coin held under the tongue.*
+
+— Book 1, Chapter 3: The Initiation
+
 ## Day One: Intake
 
 The three names stopped flashing.
@@ -8,7 +12,7 @@ Gage settled beneath Elara's Drona VARIANCE designation. Ben moved to Ravi's Cha
 
 Daren watched it disappear. "There," he said. "Sorted."
 
-It was not the word Elara would have chosen. Nothing about the three boys felt sorted. But the system had accepted the assignments, and that was what mattered inside Trinity. A problem became manageable the moment it could be given an owner.
+It was Daren's word, not hers. Nothing about the three boys felt sorted. But the system had accepted the assignments, and that was what mattered inside Trinity. A problem became manageable the moment it could be given an owner.
 
 The four gana representatives returned to their consoles.
 
@@ -18,7 +22,7 @@ The manual overrides made Gage, Ben, and Otto anomalous candidates. Elara, Ravi,
 
 Elara opened Gage's file first. The checklist unfolded beside his profile in narrow, numbered lines.
 
-The screen did not show her Gage so much as it dismantled him. His subdermal birth chip supplied a continuous biological record: heart rate, heart-rate variability, body temperature, blood pressure, respiratory rate, blood-oxygen saturation, blood glucose, cortisol level, hydration, electrolyte balance, sleep debt, pupil response, and muscle tension. More readings arrived every second than she could have learned by standing in front of him for an hour.
+The screen did not show her Gage so much as it dismantled him. His subdermal birth chip supplied a continuous biological record — pulse, cortisol, sleep debt, and a dozen quieter signals beneath them. More readings arrived every second than she could have learned by standing in front of him for an hour.
 
 Above Miner Town, surveillance drones glided through the clouds in relentless, watchful circuits. Their thermal sensors tracked the heat leaving his skin; infrared lenses mapped circulation beneath it; motion analysis recorded every imbalance, tremor, and shift in posture. The chip told Trinity what his body was doing from within. The drones tracked how those changes appeared across his skin, movement, and heat signature. From this high above the mines, Elara could watch Gage breathe, warm, strain, and recover without ever having to meet his eyes.
 
@@ -54,11 +58,11 @@ Force thresholds reviewed.
 
 None of it was framed as sorting. Containment, response, escalation, force — four lines that existed for one candidate alone, cleared and staged before Otto had crossed the gates. Trinity was not preparing to classify him. It was preparing to restrain him, and the paperwork for that had already been finished.
 
-He tapped each line only after reading it twice. Otto's unusual energy signature had placed a small red notation beside the final item: SUPPLEMENTAL OBSERVATION REQUIRED. Rohan did not react to it. Reaction was not part of his job. Preparation was.
+He tapped each line only after reading it twice. Otto's unusual energy signature had placed a small red notation beside the final item: SUPPLEMENTAL OBSERVATION REQUIRED. Rohan logged it and moved on. His job was preparation.
 
 Daren's THRESHOLD display held all sixteen candidates at once. He checked ration allocations, medical reserves, transport windows, equipment wear, and acceptable-loss calculations. The Initiation was called a test, but tests required supplies, timing, and limits. Someone had to decide how much strain the system could absorb before it became waste.
 
-For several minutes, the only sounds in the room were the soft taps of their hands against glass and the measured chime that followed each completed line. Every confirmation closed one small door against uncertainty. Every unchecked box left one open.
+For several minutes, the only sounds in the room were the soft taps of their hands against glass and the measured chime that followed each completed line.
 
 Elara reached the final item in Gage's file.
 
@@ -81,8 +85,6 @@ Elara's primary feed divided into six views: a wide overhead image of the Initia
 
 "Environmental transition: successful," the console said.
 
-*Below, the first hours felt almost merciful. Each candidate carried a sealed pouch that smelled richer than anything Miner Town children had any right to expect. Gage tasted warmth, salt, and something like a promise before the metallic tang warned him the gift had teeth.*
-
 For the first hours, Elara's feed showed nothing worth flagging: Gage's intake and markers tracked the same curve as the other fifteen. Then, as the hours wore on, two alerts stacked beside his profile. He had split his food pouch with Ben and Otto, cutting his own intake below the recommended ration floor. Ben and Otto had remained inside his proximity band the entire time.
 
 RESOURCE DISTRIBUTION DEVIATION.
@@ -93,7 +95,7 @@ Ravi brought the two event logs onto the central grid. "He is identifying the ga
 
 Daren's gaze stayed on the loss projections. "The distinction changes nothing. He is creating instability in the cohort."
 
-Elara enlarged the overhead feed. Gage remained between Ben and Otto whenever the three shifted through the chamber. It could have been accident or instinct. But each time the surrounding candidates crowded closer, the other two turned toward him before they moved.
+Elara enlarged the overhead feed. Gage remained between Ben and Otto whenever the three shifted through the chamber. It could have been accident or instinct. But each time the surrounding candidates crowded closer, the other two turned toward him before they moved. Beneath the alerts sat a quieter symmetry she did not enter into the record: the boy someone had fed off the books was the first to feed someone else.
 
 Her console offered three actions: record the deviation, notify the floor wardens, or initiate corrective observation. Each would turn an incomplete interpretation into an official fact. Elara selected the first and left the other two inactive.
 
@@ -117,8 +119,20 @@ Daren joined Rohan at the counter. "You should have notified the wardens. Variab
 
 Rohan set down his cup. "Force has a purpose. It is not a way to make a report more useful."
 
+Daren turned to the room. "Sixteen intakes, three deviations, not one recommendation filed. Kubera will ask what this shift produced."
+
+"A record," Elara said. "Which is what it was assigned to produce."
+
+Ravi stirred his tea without drinking it. "The record worth reading is Ben's. A household that starves itself to keep alive the man who robbed it. The archive filed that as a compassion anomaly."
+
+"The archive is generous," Daren said. "I would have filed it as waste."
+
+"File it however you like. A family that decides care is worth starving for teaches a boy that loyalty outbids fear. That does not show up in blood, and it does not answer to force." Ravi glanced toward Rohan's back. "Which is why neither of your consoles saw them first."
+
 Ravi approached Elara after Rohan had gone. "Drona trains its representatives to observe before they alter a system," he said. "Will you hold to that?"
 
 Elara looked at the three synchronized readings on her screen: Gage's rising strain, Ben's erratic responses, and Otto's sudden force markers. "Until the evidence gives me a reason not to."
 
-After Elara spoke, Ravi did not react. That was not the Chanakya way. He let the sentence sit in the room the way a signal sat in the grid: not yet meaningful, but not yet dismissed. Ravi returned to his quarters and went through the reset Trinity required after a monitoring shift. The room's wash cycle cleared the body first — a quick rinse, a neutralizing spray, the removal of residual chamber heat — but the more important step was the mental reset. He stood in the center of the room, hands braced against the sink, and let the feed come apart in his mind one layer at a time: the pulse spikes, the proximity bands, the false calm of the system, the pattern he was not yet ready to name. Trinity called it decompression. It was a discipline designed to stop a representative from carrying the chamber back into the rest of the day. After the wash cycle, he took the regulated nutrient intake before bed, the bitter film settling across his tongue as the room dimmed into the quiet, mechanical hush of the after-hours ward. He lay still in the dark, staring at the ceiling, and the thought came to him with a suddenness that felt almost electric: if Ben looked ordinary by every measure and still carried the unassigned mark from Trinity, then perhaps he was not simply a man with a questionable history. Perhaps he was something more than a loose end. Perhaps he was the kind of person who could do more than keep the pack together — perhaps he could be the one to set a chain of disruptive events in motion, a small fracture that widened into a system-wide crack. The idea tightened in Ravi’s chest, not with fear, but with a strange, electric intrigue. If Ben was only a person, then he was an ordinary one. If he was something else, then he might be the first true variable in the pattern. Ravi let the thought linger a moment longer, then surrendered to it as sleep finally folded over him.
+After Elara spoke, Ravi held still. Stillness was the Chanakya way. He let the sentence sit in the room the way a signal sat in the grid: not yet meaningful, but not yet dismissed.
+
+In his quarters, Ravi went through the reset Trinity required after a monitoring shift — the wash cycle, the neutralizing spray, the regulated nutrient intake before bed. Trinity called it decompression, a discipline meant to stop a representative from carrying the chamber back into the rest of the day. It did not work. He lay in the dark while the pattern followed him: Ben, ordinary by every measure, carrying a mark the system reserved for what it could not read. An ordinary boy was a baseline. An unreadable one was a variable, and a variable placed at the center of a cohort could move the whole cohort. Ravi held the thought the way he held any asset he did not yet know how to spend, and sleep took him still holding it.

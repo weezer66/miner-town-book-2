@@ -1,5 +1,9 @@
 # Chapter 4: The First Report
 
+*Then, from the corner of his eye, a figure lunged. The pressure vanished. A single sharp crack — bone striking bone, calculated. Rosa’s head snapped sideways as she was tossed off him. Gage rolled over, gasping for air that tasted of copper. A line from Pappy’s stories pierced the fog: You can’t pipe the deep carbon, boy. You have to break it. Looking at Rosa’s crumpled form, Gage understood the Initiation. The Trinity didn’t want loyalty; they wanted to see if these kids would snap or turn into diamonds under pressure.*
+
+— Book 1, Chapter 4: Emily’s Not Talking
+
 ## Day Three: Threshold
 
 At forty-eight hours, the second mandated recovery interval ended.
@@ -18,13 +22,13 @@ But the three boys were not following the expected curve.
 
 Gage paced his breathing to mirror Ben’s whenever panic began to take over, giving Ben a steady rhythm to focus on until both of their heart rates slowed. Otto’s telemetry moved differently. He remained still, conserving his strength like a coiled spring, stepping in to physically anchor or steady whichever of the other two wavered near collapse before the system’s alert could even trigger.
 
-The pattern was not random. It was a loop.
+It was a loop.
 
 Elara separated the signals and ran the comparison again. The same result appeared: Gage carried the physical strain, Ben absorbed the emotional disruption, and Otto reacted when either of them approached collapse. None of the three was stable alone. Together, they were keeping one another inside the narrow band between function and failure.
 
 She named the pattern MUTUAL STABILIZATION.
 
-Across the room, Daren’s mouth twitched with silent satisfaction. He had not forgotten Elara’s public correction during the shift change, and in Kubera, debts were always settled. During the off-shift, Daren had called in a favor from his contacts in system programming, leveraging Kubera’s allocation oversight to quietly adjust the parameters on Elara’s console. He had dialed the interpretation sensitivity and anomaly detection to absolute maximum, transforming her station from an analytical tool into an over-sensitized trap. Now, any custom entry Elara attempted would be flagged as operator bias, triggering system warnings and automatically generating corrective recommendations that directly contradicted her inputs.
+Across the room, Daren’s mouth twitched with silent satisfaction.
 
 The system rejected the label.
 
@@ -50,7 +54,7 @@ Daren turned in his chair, taking immediate advantage of the red flag glowing on
 
 "It is worse. Instability can be isolated. Dependency creates leverage."
 
-Before Elara could answer, the artificially inflated sensitivity parameters from her station spilled across the shared network bridge. On the adjacent Ashoka console, Rohan's warning chime rang out sharply—triggered prematurely because Daren’s spiked threshold settings had forced the entire room's grid to flag even micro-fluctuations in candidate telemetry.
+Before Elara could answer, a warning chime rang out from the adjacent Ashoka console. The tampering had spread beyond her station: with the thresholds pinned at maximum, the whole grid had turned twitchy, and a flicker in the chamber now sounded like a breach.
 
 Rohan checked the force ladder, then the chamber feed, his brow furrowing at the sudden alert. "Otto's breathing has changed."
 
@@ -160,8 +164,6 @@ INTERPRETIVE DEVIATION DETECTED.
 
 Near sixty hours, Rosa's marker broke from the cohort pattern. The monitors received only fragments: Emily's vitals collapsing from repeated blunt trauma, Rosa dragging a second heat signature through the tunnel haze, and a violent surge of movement when she reached Gage's group. Elara could not see a chamber scene clearly enough to turn it into one. She had surveillance evidence, incomplete audio, and three monitors ready to make the fragments mean different things.
 
-*Below, Rosa moved through the orange haze with Emily tied to her back, a broken body made into a warning. Gage saw the pickaxe, felt the cold edge at his throat, and called for Ben and Otto before the chamber could decide what their answer meant.*
-
 Rohan froze the automated designation of subject-on-subject violence. "Partial surveillance is not a verdict," he said.
 
 "It is a liability," Daren replied.
@@ -202,11 +204,11 @@ The three boys were no longer waiting for a decision from the monitoring room. T
 
 Four hours was the estimated travel time from the guard chambers to Miner Town. The system did not ask Ravi, Daren, Rohan, or Elara whether the deployment was necessary. It sent the message and began preparing the transport.
 
-SWAT RESPONSE AUTHORIZED.
+INFINITY GUARD RESPONSE AUTHORIZED.
 
 The alert appeared on every console. Ravi's jaw tightened. Daren stared at the resource estimate. Rohan stood with both hands flat against the CORRECTION station, reading the order as though force alone might make it less final.
 
-Under standard Trinity procedure, their twelve-hour monitoring cycle should have ended as sixty hours approached. But the moment High Command issued the emergency assessment and the SWAT protocol engaged, the system initiated a mandatory shift lock. Shift rotations were frozen. All four representatives were required to remain at their consoles until the deployment resolved or the Initiation reached its seventy-two-hour mark.
+Under standard Trinity procedure, their twelve-hour monitoring cycle should have ended as sixty hours approached. But the moment High Command issued the emergency assessment and the Infinity Guard protocol engaged, the system initiated a mandatory shift lock. Shift rotations were frozen. All four representatives were required to remain at their consoles until the deployment resolved or the Initiation reached its seventy-two-hour mark.
 
 "They are exhausted children," Elara said.
 
@@ -224,13 +226,13 @@ Their proximity remained constant as fatigue overtook them. The system marked th
 
 By sixty-four hours, when the first guard transport cleared the lower launch platform, all three were asleep.
 
-The SWAT team arrived four hours later to find the candidates motionless beneath the tunnel wall. Their scanners swept over the chamber. Gage's pulse was slow. Ben's breathing was even. Otto's hands were open and empty.
+The Infinity Guard arrived four hours later to find the candidates motionless beneath the tunnel wall. Their scanners swept over the chamber. Gage's pulse was slow. Ben's breathing was even. Otto's hands were open and empty.
 
 "Candidates are asleep," the team leader reported. "No active threat."
 
 Rohan ordered a perimeter rather than an extraction. Daren objected to the cost. Ravi entered the lack of an active threat into the event record. Elara kept the group-risk field open. The survival result could not be recorded yet; the Initiation had not ended.
 
-At seventy-two hours, the gates reopened. The three signals moved before the guards crossed the threshold. Gage rose first, then waited. Ben found his feet beside him. Otto moved last, close enough to steady either of them but not leading them. The monitors recorded no rescue or command that brought them to the exit. The boys emerged together because they had endured together.
+At seventy-two hours, the gates reopened. One signal rose before the guards crossed the threshold. Gage's exertion markers climbed past anything the chamber had recorded as he lifted Otto across his shoulders and closed his free hand around Ben's collar. The overhead feed showed a single upright figure moving toward the light, carrying one boy and dragging the other. The monitors recorded no rescue and no command that brought them to the exit. The three crossed the threshold together because Gage refused to cross it any other way.
 
 PASSED: INITIATION SURVIVAL CRITERIA.
 

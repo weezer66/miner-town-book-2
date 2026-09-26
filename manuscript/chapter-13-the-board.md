@@ -1,5 +1,9 @@
 # Chapter 13: The Board
 
+*Otto listened without interrupting. When she finished, he sat still for a long time. Then he said: “Master Chan did something close to this once. His hand locked up after he overworked it — weeks of cramping, fingers that wouldn’t open even when he willed them. He didn’t try to force it. He sat cross-legged every morning and opened the hand in his mind — slowly, fully, every finger uncurling, an hour at a time. After a month the hand started answering him again. I never understood why it worked. But what you just described — the brain needing feedback to break the loop — that’s the same principle. You give the brain a mirror; Chan gave it attention.”*
+
+— Book 1, Chapter 17: Mirror Mirror in the Box
+
 Ravi began his day in a room designed to leave no thought unexamined.
 
 Chanakya quarters were not bare like Ashoka barracks or severe like Kubera's administrative cells. They were arranged for calculation. A narrow bed folded into the wall when not in use. A writing surface extended from the opposite side, covered in thin panes that could be layered, rearranged, and wiped clean without leaving a trace. The walls were lined with recessed shelves, each one holding policy briefs, debate records, old diplomatic failures, and annotated decisions from councils that had ended before Ravi was born.
@@ -381,8 +385,6 @@ For a while, his mind continued its work without mercy. Grandmaster. Demand for 
 Eventually even Chanakya's discipline could not keep the arguments standing.
 
 Ravi lay back with the black king still closed inside his hand. The room dimmed around him. His last waking thought was not gratitude and not fear, but the unfinished shape of a question he could no longer hold upright.
-
-*Below, in the shack, Camilla and Otto were turning Gerald's pain into a problem they could study. The Mirror Box was still only an idea, but the first principle had already surfaced: the brain needed something to answer it. In one room, attention was being demanded. In another, it was becoming a tool for repair.*
 
 Then sleep took him, and the king remained in his fist.
 

@@ -1,5 +1,9 @@
 # Chapter 11: The Weakening
 
+*Gage lowered the cup. The light caught a rainbow shimmer on the surface — a slick that hadn’t been there before. He could feel it now, a hum behind his eyes, his pulse climbing for no reason. A chemical warning he’d swallowed too late. The food hadn’t been a gift. It had been a delivery — though it would be hours before he’d know what it had delivered: a rainbow fuel designed to lock the nervous system into permanent wakefulness until the mind fractured. Icepick wasn’t feeding children. He was priming them.*
+
+— Book 1, Chapter 3: The Initiation
+
 Elara sat on the edge of her bed with the lights turned low.
 
 She had taken the library-wing transfer as far as Drona's records could carry her. Anandi had opened the doors her clearance could open. Kavik had rebuilt the ledger path the modern archive no longer displayed. Together, they had moved from the public approval to the departmental copy, from the fiscal ledger to the native authorization itself.
@@ -93,8 +97,6 @@ He closed his hand slowly, and the bracelet's surface answered with a thread of 
 Somewhere below him, in a room he had never seen and would likely never enter, a woman he had once accused in front of three watching consoles was awake at an hour meant for sleep, turning over the same two letters he had spent a month hiding from the modern archive.
 
 He did not know that. It did not matter. The foundation was already being chipped away, one approved requisition at a time, and the first stone had already been laid without a single alarm sounding anywhere in Trinity.
-
-*Below, the invitation had become a presence at the shack. Gerald had entered carrying the history of the mine on his body, and Camilla had begun asking what his pain was trying to say. The next danger would not come from a system they could simply evade. It would come from deciding whom to let inside.*
 
 Elara could not keep circling the same two letters inside Drona's archive.
 

@@ -1,5 +1,9 @@
 # Chapter 7: The Knocking
 
+*Ben looked between them — the Engine about to charge blindly into the dark, the Fighter about to collapse into himself — and said the only thing that mattered: “We stay together. We think. Then we move.”*
+
+— Book 1, Chapter 4: Emily’s Not Talking
+
 ## After the Shift
 
 While Daren faced his furnace in the Grandmaster's chamber, Elara stayed at the study table long after the shift had ended.
@@ -9,8 +13,6 @@ She bathed. She changed out of her monitoring uniform. She took the nutrient int
 She forced herself to stay upright. She drank water. She opened the second copy of the packet and pushed through another line, then another, until the letters blurred into one another. Sleep took her in short drops. Her head dipped. She jerked awake. The room smelled of cold metal and nutrient broth, and the clock near the wall had moved without her noticing. She read one more sentence, blinked once, and let her forehead fall against the table. The packet slid half-open beneath her hand. She woke with her cheek against the cool surface, the tip of her nose grazing the paper, and the taste of exhaustion still thick in her mouth. Wakefulness returned without restoring her. The hours passed in a shallow cycle that left her moving through the room as if she were under instruction from someone else.
 
 The last four days kept breaking through. Three names beneath a designation the system had not built. Gage splitting his ration. Ben holding him in place. Otto moving before the alarms could decide what his movement meant. The monitors had measured pulses, heat, proximity, force, and stress. None of those readings explained why the boys had kept choosing one another.
-
-*Below, Ben had said the only sentence that still held shape inside the dark: We stay together. We think. Then we move. The system had recorded proximity. It had missed the promise.*
 
 Elara rested her forehead against the heel of her hand. Her report, the altered record, and the order waiting above them had begun as professional decisions. By the end, she could no longer tell where procedure stopped and choice began.
 
