@@ -100,7 +100,7 @@ The physicians spoke in careful terms, but Elara heard the same terror underneat
 
 Teresa survived the first crisis, but the world they had shared was changed by the knowledge that her body could turn against her without warning. Elara stopped drawing sunsets for a while. When she began again, the light was always beautiful, but it was never innocent.
 
-Elara became obsessed with saving Teresa because Teresa was getting worse. The transfusions bought her time, but each crisis left her weaker than before. The bleeding returned more often. Headaches that once passed in an afternoon kept her awake through the night. She began losing feeling in her fingers, stumbling when she walked, and pausing halfway through a sentence while she searched for a word that had once come easily. Some days she could still laugh and argue with Elara about a passage from an old book. Other days, lifting her head from the pillow seemed to exhaust everything she had.
+Elara became obsessed with saving Teresa because Teresa was getting worse. Each crisis left her weaker than before. The bleeding returned more often. Headaches that once passed in an afternoon kept her awake through the night. She began losing feeling in her fingers, stumbling when she walked, and pausing halfway through a sentence while she searched for a word that had once come easily. Some days she could still laugh and argue with Elara about a passage from an old book. Other days, lifting her head from the pillow seemed to exhaust everything she had.
 
 Elara read medical journals in every Trinity archive that would grant her access, then requested the ones that required a supervisor's approval. She learned the language of vascular disorders, tissue failure, neural pressure, and experimental intervention. She copied treatment protocols into notebooks and filled their margins with questions the journals did not answer. Why had no one recorded a case like Teresa's? Why did Trinity's physicians speak as though the limits of their knowledge were the limits of the world?
 
@@ -118,7 +118,7 @@ She returned to Vishnu’s locked cabinet with a different kind of urgency, inte
 
 Teresa laughed when Elara first showed her the notebook. Then the laughter faded, because Elara was not pretending. They were teenagers, and their friendship had deepened into the kind of devotion that could make an almost extinct herb feel closer than a hospital bed. Elara would cross a dead world, climb a mountain, or search through a thousand false histories if there were even the smallest chance that Sanjeevani booti was real.
 
-Teresa made Elara promise to stay by her side. Elara promised. Then, three nights later, she hid inside a transport pod used to carry coal and fuel from the ground to Trinity. She waited beneath a maintenance tarp while the pod was loaded, holding the notebook against her chest as the engines engaged and the city receded above her.
+Teresa made Elara promise to stay by her side. Elara promised. Then, three nights later, she hid inside a freight pod that usually carried coal and fuel from the ground to Trinity. On its scheduled return run, crews loaded ration crates and replacement parts for Miner Town's processing equipment. Elara slipped beneath a maintenance tarp among them, clutching the notebook as the engines engaged and the city receded above her.
 
 The descent took less than an hour. It felt like the end of the world.
 
@@ -146,7 +146,7 @@ Her search changed the direction of her life. She wanted knowledge because someo
 
 At sixteen, Elara found an old educational archive that described Earth not as a dead origin point but as a living system. The record had been partially redacted, its images removed, its language reduced to approved summaries. She used her art to reconstruct what the archive had tried to flatten: not a paradise, but a world with more life, more danger, and more choices than Trinity's official history allowed.
 
-The reconstruction won a regional assessment. The security watchers marked it as a deviation risk; the Drona evaluators praised her ability to convert uncertain information into coherent models and offered her deeper archives, better instruments, and a path where observation could be treated as service. The same quality one department flagged as a liability earned her clearance in the other's eyes. Elara accepted at seventeen. It was the first time Trinity offered her a way to look beyond its walls without admitting that walls were there.
+The reconstruction won a regional assessment. The security watchers marked it as a deviation risk; the Drona evaluators praised her ability to convert uncertain information into coherent models and offered her deeper archives, better instruments, and a place on Drona's observation track. The same quality one department flagged as a liability earned her clearance in the other's eyes. At seventeen, Elara accepted Drona's offer and began the training that would lead her to the monitoring towers. It was the first time Trinity gave her a way to look beyond its walls without admitting that walls were there.
 
 Elara's own file did not carry a transfer. It carried something quieter and more permanent: a single administrative marker attached to her biometric baseline, the kind that would follow her onto every panel and every scanner for the rest of her career.
 
@@ -164,13 +164,13 @@ She did not entirely believe herself, and that, more than anything else, was wha
 
 Elara turned her attention back to Gage. The feed showed him where it had shown him all night, inside the pattern Trinity had designed and the watchers had failed to understand. For the first time since Teresa's death, Elara felt something that was not grief or anger. It was an opportunity.
 
-She did not yet know what she would do with it. She only knew she would not let injustice run rampant again while she stood behind a screen and called observation a duty.
+She did not yet know what she would do with it. She only knew she would not let the system's preventable harms pass unchallenged while she stood behind a screen and called observation a duty.
 
 On her console, Otto's supplemental flag blinked once and steadied. Beside it, Gage's proximity data still showed three linked signals refusing to separate, the way Iris's fingers had once tapped against her thigh before she reached for a strap no simulation should have let her touch.
 
 Elara closed the file before the thought could finish forming. Trinity had taught her exactly what happened to people who reached first and reported second. She intended to be the one holding the report this time, not the one who needed someone else to write it for her.
 
-Across the room, Ravi was watching her again. She did not look up to confirm it. She already knew what her own pulse would tell him if he checked.
+Across the room, Ravi was watching her again. She did not look up to confirm it. If he checked her telemetry, he would see that the choice had unsettled her — that the evidence mattered to her more than her careful report allowed.
 
 The second monitoring cycle came to an end under the steady hum of automated tracking. The blue status lights transitioned to white as the representatives logged off their consoles for the night, leaving the automated systems to record the hours between shifts.
 
