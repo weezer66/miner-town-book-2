@@ -110,7 +110,7 @@ Not Ashoka as a doctrine of force. Not the force ladder, not the uniforms, not t
 
 Then she thought of Rohan.
 
-She remembered his hand flat against Daren's chest, and the seven words that had followed it. *Whatever happens next, I will stand with you.* He had said it once, in a room lit blue, without knowing yet what it might cost him. Tonight she intended to learn whether the promise still held its shape.
+She remembered his hand flat against Daren's chest, and the eight words that had followed it. *Whatever happens next, I will stand with you.* He had said it once, in a room lit blue, without knowing yet what it might cost him. Tonight she intended to learn whether the promise still held its shape.
 
 If Drona and Ashoka ever stood side by side in the same frame, it would not resemble an alliance drawn on paper. It would look like a lantern set into an open palm still scarred from the last thing it had held without flinching, the patient blue light of one gana resting inside the disciplined grip of the other, neither one dimming the other, neither one willing to close.
 

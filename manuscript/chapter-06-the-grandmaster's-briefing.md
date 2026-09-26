@@ -36,7 +36,7 @@ At the far end of the hall, the earliest Kubera seal had been set into the floor
 
 Daren looked up from the ground level toward the Grandmaster's rooms. They occupied the highest gallery of the Great Hall, arranged in a perfect circle beneath the dome, far above him and separated from the lower floor by distance, silence, and the understanding that access was itself a form of rank. From below, he could see the chambers curving around the upper walls, each sealed with the insignia of the Grandmaster who had once occupied it. Kubera said the locks preserved the house's continuity. Everyone understood that they also guarded the decisions, compromises, and secrets those Grandmasters had carried to their graves.
 
-Only one chamber remained unsealed. Its doorway glowed with a muted gold aura that seemed to pulse beneath the glass, as though the room were alive. The current Grandmaster's chamber did not need a lock. It was the lock through which every other decision still passed.
+Only one chamber remained unsealed. Its doorway glowed with a muted gold aura that seemed to pulse beneath the glass. The current Grandmaster's chamber did not need a lock. It was the lock through which every other decision still passed.
 
 The glass device waited in the corner of his hand, its surface dimmed but still carrying the golden torch.
 
@@ -62,7 +62,7 @@ The guards moved apart.
 
 Daren stopped. "I have not been cleared by—"
 
-The guard on the left turned his helmet toward him. When he spoke, the voice came through the armor stripped of warmth, low and metallic, as though it had traveled through a room kept below freezing.
+The guard on the left turned his helmet toward him. When he spoke, the voice came through the armor stripped of warmth — low, metallic, and cold.
 
 "The Grandmaster awaits."
 
@@ -78,7 +78,7 @@ The Grandmaster reviewed the last hours of the Initiation with unmistakable plea
 
 Daren tried to keep his attention on the table, but the ceiling above it was plated in dark gold and polished to a depthless sheen. Its surface reflected the projections below: three linked signals, a red separation pathway, Elara's name appearing in the audit stream, and the Grandmaster standing above all of it like the owner of the outcome. Daren saw his own reflection at the edge of the gold, small and distorted beneath the approaching fury. He understood that the ceiling was not decoration. It was a second display, showing him the judgment gathering overhead before anyone spoke it.
 
-The Grandmaster's mouth lifted at the edges as though the footage had confirmed a private expectation. Daren's jaw tightened. He wanted to explain the sequence, to point out the altered parameters, the unauthorized interpretation, and the moment the system had moved beyond his control. But no one had asked him to speak. In Kubera, an unsolicited defense was often treated as an admission that the accusation had landed.
+The Grandmaster's mouth lifted at the edges. The footage had confirmed a private expectation. Daren's jaw tightened. He wanted to explain the sequence, to point out the altered parameters, the unauthorized interpretation, and the moment the system had moved beyond his control. But no one had asked him to speak. In Kubera, an unsolicited defense was often treated as an admission that the accusation had landed.
 
 Then another fragment appeared. The three signals remained linked. The separation protocol failed to complete. Elara's intervention surfaced in the audit layer as a narrow discrepancy between the executive order and the induction record.
 
@@ -88,7 +88,7 @@ He turned.
 
 His eyes found Daren immediately. They were red with anger, not the bright anger of a raised voice but the deeper, maddening kind that had been given time to become judgment. Daren stopped several paces from the desk, still absorbing the grandeur of the room, the wealth built into every surface, the control embedded in every silent device.
 
-The Grandmaster's face showed him what it meant to be Kubera. Enormous wealth. Ownership disguised as stewardship. Governance without accountability. Power polished until it resembled taste. Pride maintained as a public duty. And now, directed at Daren, disdain.
+The Grandmaster's face showed him what it meant to be Kubera: hands that had never lifted anything heavier than a seal, a stillness that expected rooms to arrange themselves around it. And now, directed at Daren, disdain.
 
 Daren had expected questions about the report. He had not expected to feel that the entire house had already measured him and found him insufficient. The Initiation footage was classified. The surrounding ganas were not meant to see it, and no formal review had yet been announced. But Trinity's closed chambers had never been as closed as their doors suggested. Secure relays, private archives, and politically sanctioned exchanges moved information between the houses whenever the information could be used against someone else.
 
@@ -110,19 +110,19 @@ The words were calm, almost gentle. That made them worse.
 
 The Grandmaster continued, and this time the Tamil rolled out in a measured, deliberate rhythm, each sentence carrying the authority of a man who had never once had to ask for silence. The device translated every phrase as it landed, the English arriving with cold exactness a beat behind the original.
 
-"உனக்கு அணுகல் வழங்கப்பட்டது, வளங்கள் வழங்கப்பட்டன, எல்லை நிலைமைகளை விளக்கும் அதிகாரமும் வழங்கப்பட்டது. மைனர் டவுனின் மூன்று இழிந்த குடிமக்களை — குபேரா கவனத்திற்கு உரியதாகக் கருதாத உழைப்பாளர் கூட்டத்திலிருந்து வந்த சிறார்களை — தீட்சையின் பொருளையே மாற்றிவிட நீ அனுமதித்தாய். அவர்களின் ஒற்றுமையை அச்சுறுத்தலாக நீ அடையாளம் கண்டாய், ஆனால் எதிர்வினையைக் கட்டுப்படுத்தத் தவறினாய். எலாரா நாதனுக்கு எதிராக நிலைநிறுத்தக்கூடிய ஒரு வழக்கை உருவாக்க உன்னிடம் தரவுகள் இருந்தன, தொடர்புகள் இருந்தன, நிறுவன அளவிலான அணுகலும் இருந்தது. நீ அதைச் செய்யவில்லை."
+"உனக்கு அணுகல் வழங்கப்பட்டது, வளங்கள் வழங்கப்பட்டன, எல்லை நிலைமைகளை விளக்கும் அதிகாரமும் வழங்கப்பட்டது. மைனர் டவுனின் மூன்று இழிந்த குடிமக்களை — குபேரா கவனத்திற்கு உரியதாகக் கருதாத உழைப்பாளர் கூட்டத்திலிருந்து வந்த சிறார்களை — தீட்சையின் பொருளையே மாற்றிவிட நீ அனுமதித்தாய். எலாரா நாதனுக்கு எதிராக நிலைநிறுத்தக்கூடிய ஒரு வழக்கை உருவாக்க உன்னிடம் தரவுகள் இருந்தன, தொடர்புகள் இருந்தன, நிறுவன அளவிலான அணுகலும் இருந்தது. நீ அதைச் செய்யவில்லை."
 
 The translation panel responded at once.
 
-"You were granted access, resources, and the authority to define the parameters of engagement. You allowed three lowly citizens of Minor Town—youths from the laboring class whom Kubera deemed unworthy of notice—to alter the very essence of the Initiation. You identified their unity as a threat but failed to contain the reaction. You possessed the data, the connections, and the institutional access to build a case against Elara Nathan. You did not."
+"You were granted access, resources, and the authority to define the parameters of engagement. You allowed three lowly citizens of Miner Town—youths from the laboring class whom Kubera deemed unworthy of notice—to alter the very essence of the Initiation. You possessed the data, the connections, and the institutional access to build a case against Elara Nathan. You did not."
 
 Daren's mouth went dry.
 
-The Grandmaster's next sentence came in Tamil with the same faultless calm. The chamber device translated it in the same exact register, as though it had already prepared the wording for him before the speech began.
+The Grandmaster's next sentence came in Tamil with the same faultless calm. The chamber device translated it in the same exact register, the wording already prepared before the speech began.
 
 "குபேரா பலவீனத்தைத் தண்டிப்பதில்லை, ஏனெனில் பலவீனம் தற்காலிகமானது. தன் போட்டியாளர்களின் கண்ணில் அது படும்போது குபேரா பலவீனத்தை அகற்றுகிறது. உன் சின்னம் மறுஆய்வில் உள்ளது. உன் அனுமதி நிலை மறுஆய்வில் உள்ளது. இந்த குலத்தின் சார்பாகப் பேசும் உன் உரிமை மறுஆய்வில் உள்ளது."
 
-The translated line arrived like a verdict.
+The translated line arrived like a verdict. The engine rendered the Grandmaster's word the way the founders had used it — Clan, not gana.
 
 "Kubera does not punish weakness, for weakness is temporary. Kubera eliminates weakness when it becomes visible to rivals. Your sigil is under review. Your clearance level is under review. Your right to speak on behalf of this Clan is under review."
 
@@ -130,13 +130,13 @@ The device paused. Behind the Grandmaster, the suspended panels replayed the boy
 
 Then the Grandmaster tilted his chin toward the same gold surface and continued with the final accusation, again in Tamil, and the machine repeated it in English without hesitation.
 
-"பிற கணங்களின் மூன்று தகுதியற்ற பிரதிநிதிகள் உன்னை மிஞ்சிவிட நீ அனுமதித்தாய்," — "ஒரு துரோண ஆய்வாளர், ஒரு சாணக்கிய விளக்குநர், ஒரு அசோகா அமலாக்குநர்; ஒவ்வொருவரும் தம் நிலையைக் கடந்து செயல்பட்டனர், குபேராவை வலிமையற்றதாகக் காட்ட நீ அவர்களை அனுமதித்தாய்."
+"பிற கணங்களின் மூன்று தகுதியற்ற பிரதிநிதிகள் உன்னை மிஞ்சிவிட நீ அனுமதித்தாய், குபேராவை வலிமையற்றதாகக் காட்ட நீ அவர்களை அனுமதித்தாய்."
 
 The translation came with ritual precision.
 
-"You allowed three unqualified representatives from other *Clans* to surpass you," — "a Drona Analyst, a Chanakya Illuminator, and an Ashoka Enforcer; each acted beyond their station, and you permitted them to make Kubera appear weak."
+"You allowed three unqualified representatives from other Clans to surpass you, and you permitted them to make Kubera appear weak."
 
-The Grandmaster did not look away from him. He looked through him, as though Daren were no longer a representative of Kubera but a failed component already marked for disposal. It was worse than being ignored. Daren had been seen, measured, and found unworthy.
+The Grandmaster did not look away from him. He looked through him: no longer a representative of Kubera, a failed component already marked for disposal. It was worse than being ignored. Daren had been seen, measured, and found unworthy.
 
 Daren understood then. The summons had not been a briefing or a warning. It was the declaration of his removal. The Grandmaster had brought him into the chamber so he could hear the house state that he no longer represented what Kubera believed itself to be.
 
