@@ -28,7 +28,7 @@ Elara touched the edge of her collar. The approval gave her access, not safety. 
 
 She left her quarters before she could find another reason to wait. The Drona insignia rested against her throat, clean and visible. Whatever happened in Review Room Two, she would enter as herself, carrying her gana's authority and the Ancient One's permission to use it.
 
-The Drona transit station opened beneath the research wing. Elara descended through three security gates to the Trinity-1 maglev, where the city's upper districts connected without streets, traffic, or visible engines. The train arrived without a sound, and the carriage accelerated before she felt it move.
+The Drona transit station opened beneath the research wing. Elara descended through three security gates to the Trinity maglev, where the three upper cities connected without streets, traffic, or visible engines. The train arrived without a sound, and the carriage accelerated before she felt it move.
 
 The carriage was not empty. Three ganas rode in their own silences: a Kubera allocation officer with a ledger pane balanced on one knee, a Chanakya representative whose jacket's small text panels shifted whenever she moved, and an Ashoka responder beside the central rail, broad enough to make the space around him seem narrower. He carried no visible weapon. The carriage did not need to see one.
 
@@ -40,7 +40,7 @@ Elara surprised herself by laughing softly. The child had identified her entire 
 
 Drona receded behind her in layers of pale stone and suspended laboratories. The train crossed a gap between towers, and Trinity opened beneath the carriage: gardens under transparent domes, residential tiers stacked above one another like a city that had learned to build upward rather than outward. Far below, the lower levels vanished beneath cloud and atmospheric shielding. Trinity made distance look beautiful. That was one of its oldest forms of concealment.
 
-The maglev curved toward the western section of Trinity-1. The architecture changed before the signs did. Drona's buildings invited the eye to pause. Ashoka's rose in hard planes, with reinforced bridges, sealed entrances, and landing platforms broad enough to receive armored transports. Red markers appeared along the carriage windows, each one identifying an emergency route, a response station, or a protected access point.
+The maglev left Trinity-1 behind and curved across open sky toward Trinity-3, Ashoka's platform. The architecture changed before the signs did. Drona's buildings invited the eye to pause. Ashoka's rose in hard planes, with reinforced bridges, sealed entrances, and landing platforms broad enough to receive armored transports. Red markers appeared along the carriage windows, each one identifying an emergency route, a response station, or a protected access point.
 
 The announcement came through the carriage in a calm administrative voice.
 
@@ -106,7 +106,7 @@ Then Rohan leaned forward by the smallest possible degree.
 
 Elara looked into Rohan's blue eyes, then met his gaze fully. She had the earnest expression of a student who needed one more minute after the bell before turning in the answer sheet.
 
-"We are stuck," she said. "Not just me. Not just Drona. Whatever this is, it is moving through the balance that keeps Trinity-1 functioning. If someone is trying to destabilize that balance, every gana will be pulled into its own crisis. Ashoka will be forced to spend its strength on containment instead of protecting the population. Drona will turn inward. Kubera will control the resources. Chanakya will control the explanation."
+"We are stuck," she said. "Not just me. Not just Drona. Whatever this is, it is moving through the balance that keeps Trinity functioning. If someone is trying to destabilize that balance, every gana will be pulled into its own crisis. Ashoka will be forced to spend its strength on containment instead of protecting the population. Drona will turn inward. Kubera will control the resources. Chanakya will control the explanation."
 
 She placed both hands on the table. "Once the ganas stop looking after the city and start defending themselves, the system will spiral faster than anyone can manage. Destabilization becomes chaos, and chaos has always favored the people who know how to profit from it."
 

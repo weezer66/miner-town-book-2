@@ -200,7 +200,7 @@ GRANDMASTER ASCENSION: EIGHTH DAN.
 
 ATTENDANCE REQUESTED.
 
-The message carried no explanation. It did not need one. The Grandmaster's ascension to the eighth dan was not an ordinary promotion. It was a ceremony of state, attended by key civic leaders, generals from the defense divisions, senior Ashoka commanders, and strategists whose decisions shaped the security of Trinity-1 long before those decisions became public policy.
+The message carried no explanation. It did not need one. The Grandmaster's ascension to the eighth dan was not an ordinary promotion. It was a ceremony of state, attended by key civic leaders, generals from the defense divisions, senior Ashoka commanders, and strategists whose decisions shaped the security of the three Trinitys long before those decisions became public policy.
 
 Rohan read the message twice. His request for counsel had not yet been sent, but the answer had arrived before the question.
 

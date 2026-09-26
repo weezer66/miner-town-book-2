@@ -12,6 +12,8 @@ At the Institute, this would have been the hour she went to sleep, full of caffe
 
 Everyone in Trinity had a schedule. The four ganas wrote the schedule for everyone else.
 
+Trinity was three cities wearing one name. Trinity-1 was Drona's: institutes, archives, and the monitoring towers. Trinity-2 was Chanakya's, where policy was drafted in rooms above its own manicured districts. Trinity-3 was Ashoka's, reinforced and drilled. Each platform housed its gana and the civilians who lived under its particular weather — clerks, technicians, teachers, families whose ordinary days ran on schedules written above them — and each presided over its matching sector of Miner Town below: three columns of labor holding up three islands of sky. And above them all hung Meru, Kubera's tier, where the gana lived among the only people in the world permitted to be merely rich — higher in every way the ledgers could record. Officially, Meru presided over nothing. It merely managed the resources of all three sectors, and called that service. Elara had never met anyone below Meru who believed the word merely.
+
 Elara came from Drona. That was both who she was and what she was for.
 
 She sat on the edge of her bed with the thought that returned every morning: Trinity trained its people to mistake pain for honesty. The workers who complained least were admired; the ones who endured longest were rewarded. Holding that thought had kept her from becoming complacent. It had also kept her from rising higher.

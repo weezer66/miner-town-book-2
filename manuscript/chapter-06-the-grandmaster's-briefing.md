@@ -16,6 +16,8 @@ The distinction mattered now.
 
 Daren arrived thirty minutes early, dressed impeccably. In Kubera, subordination took many forms, and clothing was one of the most reliable. A polished collar, an exact seam, a muted insignia aligned with the center of the body: each detail declared that the wearer understood his place inside the house. He checked the fall of his jacket once before entering, not because anyone would praise him for it, but because Kubera treated disorder as a confession.
 
+Kubera did not keep its house inside any of the three Trinitys. It kept Meru: the tier above all of them, higher physically, financially, and socially, built on the founders' claim that the reserve serving every city should belong to none. The sealed lift that carried Daren up out of Trinity-1's galleries took long enough to remind him how much higher service lived than the people it claimed to serve.
+
 He entered the Kubera premises through a security gate of dark glass and brushed metal. The scanner read his identity, his active review status, and the temporary clearance attached to the summons. A second scanner checked the first. A third confirmed that the order had not been altered between the central network and the house system.
 
 The doors opened into the Great Kubera Hall.

@@ -26,27 +26,17 @@ The Chamber of Spirits was larger than Rohan had imagined.
 
 It was not a shrine. It was a hall built around memory.
 
-Ten statues stood in recessed alcoves along the walls, each carved from a different stone and each facing the central floor. They were not arranged by century or kingdom. They were arranged by the quality of courage the elders believed each figure had carried into history.
+Ten statues stood in recessed alcoves along the walls, each carved from a different stone and each facing the central floor. They had been gathered from every corner of the buried world's memory, kept alive in Ashoka's archives when the rest of that history was sealed away. They were not arranged by century or continent. They were arranged by the quality of courage the elders believed each figure had carried into history.
 
-Chandragupta Maurya stood with one hand resting on the hilt of a plain sword, remembered as the founder who rose from uncertainty and built an empire through will, strategy, and disciplined force.
+Emperor Ashoka stood first, the gana's own namesake, a sword laid flat across his open palms rather than raised — remembered not for the empire he won but for the war at Kalinga that made him renounce conquest, the victor who judged his own victory and found it wanting.
 
-Samudragupta held no weapon at all. His statue carried the posture of a commander whose campaigns had made expansion into a political instrument and whose reach changed the map of ancient India.
+Cincinnatus stood beside a plow, the general of old Rome who had been handed absolute power in a crisis, used it to save his people, and given it back — remembered because the giving back was the rarer strength.
 
-Prithviraj Chauhan faced the entrance with a drawn bow, remembered for battlefield courage and the fierce independence of a ruler who refused to surrender his kingdom easily.
-
-Rani Durgavati stood beside a broken standard, honored for defending her kingdom against a stronger invading force rather than accepting survival at the cost of sovereignty.
-
-Maharana Pratap was carved with his shoulders turned toward an unseen enemy, remembered for refusing submission and sustaining resistance through years of hardship.
-
-Chhatrapati Shivaji Maharaj held a map beneath one arm and a sword at his side, honored for mobility, intelligence, fortification, and a style of warfare that made a smaller force impossible to dismiss.
-
-Baji Prabhu Deshpande stood at the mouth of a mountain pass, remembered for holding a position beyond the limits of the body so that his leader and people could escape.
-
-Rani Abbakka Chowta faced the sea, honored as a ruler who resisted Portuguese power and refused to let a larger empire decide the future of her coast.
-
-Velu Nachiyar held a torch in one hand and a blade in the other, remembered for organizing resistance, reclaiming her kingdom, and turning exile into preparation.
+Leonidas stood at the mouth of a narrow pass, shield locked, remembered for holding the gap at Thermopylae beyond the limits of the body so that others could live to fight.
 
 Rani Lakshmibai sat astride a stone horse, sword raised, remembered for leading from the front when surrender would have been safer and resistance had become the only honest answer.
+
+Between them stood the others, each keeping the single truth the elders had chosen to remember: Saladin, who took back a holy city and refused to let victory become massacre; Joan of Arc, who carried a banner into battle because conviction was her weapon; Yue Fei, whose loyalty belonged to his people rather than to the court that killed him; Kusunoki Masashige, who kept his duty knowing the cause was already lost; Tecumseh, who forbade cruelty to prisoners even in a war for his people's survival; Rani Durgavati, who defended her kingdom rather than accept survival at the cost of sovereignty.
 
 Rohan moved slowly between the statues. The hall did not ask him to worship them. It asked him to understand the burden beneath each legend. None had been fierce merely because they could hurt an enemy. They had become fierce because they had accepted responsibility for what their strength protected.
 

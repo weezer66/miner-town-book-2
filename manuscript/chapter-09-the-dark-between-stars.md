@@ -146,7 +146,7 @@ He turned the lights off. Without the overhead panels, the walls lost their clea
 
 In the dark, the band at his wrist disappeared. It did not reflect the weak light rising from the city; it swallowed it, becoming indistinguishable from the darkness around his skin. Only when he turned his hand toward the glass did a razor-thin edge catch the stars. No reflection moved across it. No seam or mark interrupted its perfect blackness. The Kubera bracelet had announced what he belonged to. The obsidian one announced nothing at all. It simply waited, powerful enough to remain unseen.
 
-The window occupied most of the far wall. Trinity floated high above the city, and the sealed pane offered a genuine view into the open sky. There was no projection behind it, no manufactured field of stars, and no ceiling pretending to be a horizon. Beyond the glass, the night was vast and indifferent.
+The window occupied most of the far wall. The monitors' residential tower stood at Trinity-1's upper rim, and the sealed pane offered a genuine view into the open sky, with Meru's dark underside hanging at the top of the frame like a lid the city pretended not to notice. There was no projection behind the glass, no manufactured field of stars, and no ceiling pretending to be a horizon. Beyond it, the night was vast and indifferent.
 
 Out of a lifetime's habit, Daren almost reached for the records — the reflex of a man who had always been able to open a ledger and point to the line that was himself. The entries still existed somewhere in Kubera's archives. Only his name had been removed from them. Whatever he did from this night forward, no record would carry it, and the part of him that had worshipped records grieved even as the rest of him understood that the grief was the price of what he had been given.
 
@@ -174,7 +174,7 @@ Daren crossed the room and read it twice. The house knew which room was his. Tha
 
 The corridor outside his room was quiet, but not empty. Two maintenance workers' wrist terminals pulsed at the same moment. They read the displays, then immediately dropped their eyes. One straightened and stepped aside before Daren reached them. Another lowered his head and made a small, careful gesture with his hand.
 
-Daren left the residential wing and crossed to the Kubera premises without speaking to anyone. At the security gate, the scanner opened before he reached it. The doors led into the Great Kubera Hall.
+Daren left the residential wing and rode the sealed lift up to Meru without speaking to anyone. At the Kubera security gate, the scanner opened before he reached it. The doors led into the Great Kubera Hall.
 
 At the Phoenix elevator, two guards were already waiting. One touched the control panel, and the doors of the waiting car slid open. The other gave Daren a nod that was almost a salute, then looked away.
 
