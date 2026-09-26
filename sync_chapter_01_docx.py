@@ -42,6 +42,9 @@ if "--verify" not in sys.argv:
     heading = doc.add_paragraph(style=title_style)
     heading.add_run(chapter_title)
 
+    # user formatting choice: one blank spacing paragraph after the title
+    doc.add_paragraph()
+
     for block in body_blocks:
         paragraph = doc.add_paragraph()
         is_italic_block = block.strip().startswith("*") and block.strip().endswith("*")
@@ -53,6 +56,8 @@ if "--verify" not in sys.argv:
     doc.save(output_path)
 
 actual_paragraphs = [paragraph.text for paragraph in Document(output_path).paragraphs]
+# ignore blank spacing paragraphs when comparing text content
+actual_paragraphs = [p for p in actual_paragraphs if p.strip()]
 
 if actual_paragraphs != expected_paragraphs:
     raise SystemExit("Verification failed: DOCX paragraphs differ from Markdown")

@@ -34,7 +34,7 @@ She stepped through with her pulse too fast and her face perfectly neutral, carr
 
 The biometric station waited between Residential Wing C and Surveillance Access. It was a silver cradle, a black glass reader, and one sterile needle beneath white light.
 
-Elara pressed her wrist to the plate. The panel lit, and, in a clipped administrative voice, it said, "Monitoring assignment confirmed. Initiation Observation Tier-2. Mandatory pre-shift blood validation."
+Elara pressed her wrist to the plate. The panel lit, and, in a clipped administrative voice, it said, "Monitoring assignment confirmed. Initiation Observation Tier-1. Mandatory pre-shift blood validation."
 
 The needle touched the side of her finger. A single drop appeared, bright and precise, then vanished into the reader.
 
@@ -60,7 +60,7 @@ Elara reached the monitoring tower with her pulse settled into the kind of rhyth
 
 The door hissed open on a green pulse. Across the circular antechamber, three other doors released pressure in perfect sync, as if the building itself had taken a single measured breath.
 
-One figure stepped from each threshold. For a moment, the four of them stood around the Initiation wing, each carrying a different doctrine in the same uniform.
+One figure stepped from each threshold. For a moment, the four of them stood around the Initiation wing, each carrying a different doctrine in the same uniform. This cycle's Initiation belonged to Sector 1, so Observation Tier-1 sat in Drona's tower and the other three ganas had sent their monitors to it — guests with full consoles and borrowed quarters, the way Drona's own representatives would travel to Tier-2 or Tier-3 when the cycle belonged to another sector.
 
 Ravi came first, Chanakya's representative to the monitoring team. His face held a calm that people trusted until they realized they had been studied, not seen. He nodded once at Elara. It was courtesy, and it was a warning: the room was an arrangement of control, not a meeting between equals.
 
