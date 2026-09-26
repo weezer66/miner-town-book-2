@@ -26,7 +26,12 @@ def plain_text(block: str) -> str:
     return text
 
 
-expected_paragraphs = [chapter_title, *[plain_text(block) for block in body_blocks]]
+def display_text(block: str) -> str:
+    text = plain_text(block)
+    return text[3:] if block.strip().startswith("## ") else text
+
+
+expected_paragraphs = [chapter_title, *[display_text(block) for block in body_blocks]]
 
 doc = Document(template_path)
 if not doc.paragraphs:
@@ -53,17 +58,22 @@ book_two_started = False
 
 for block_index, block in enumerate(body_blocks):
     paragraph = doc.add_paragraph()
-    is_recall_marker = block_index == 0 and block.strip().startswith("*") and block.strip().endswith("*")
+    stripped = block.strip()
+    is_recall_marker = block_index == 0 and stripped.startswith("*") and stripped.endswith("*")
+    is_attribution = stripped.startswith("\u2014")
+    is_subheading = stripped.startswith("## ")
     if block.startswith("Back in Drona,"):
         book_two_started = True
-    text = plain_text(block)
-    if is_recall_marker:
-        run = paragraph.add_run(text)
+    text = plain_text(block)[3:] if is_subheading else plain_text(block)
+    run = paragraph.add_run(text)
+    if is_recall_marker or is_attribution:
         run.italic = True
-    else:
-        run = paragraph.add_run(text)
-        if not book_two_started:
-            run.font.color.rgb = RGBColor(92, 107, 125)
+        run.font.color.rgb = RGBColor(92, 107, 125)
+    elif is_subheading:
+        run.bold = True
+        run.font.color.rgb = RGBColor(0, 0, 0)
+    elif not book_two_started:
+        run.font.color.rgb = RGBColor(92, 107, 125)
 
 doc.save(output_path)
 

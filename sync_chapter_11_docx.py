@@ -26,7 +26,12 @@ def plain_text(block: str) -> str:
     return text
 
 
-expected_paragraphs = [chapter_title, *[plain_text(block) for block in body_blocks]]
+def display_text(block: str) -> str:
+    text = plain_text(block)
+    return text[3:] if block.strip().startswith("## ") else text
+
+
+expected_paragraphs = [chapter_title, *[display_text(block) for block in body_blocks]]
 
 doc = Document(template_path)
 if not doc.paragraphs:
@@ -51,11 +56,17 @@ doc.add_paragraph()
 
 for block in body_blocks:
     paragraph = doc.add_paragraph()
-    is_italic_block = block.strip().startswith("*") and block.strip().endswith("*")
-    run = paragraph.add_run(plain_text(block))
-    if is_italic_block:
+    stripped = block.strip()
+    is_italic_block = stripped.startswith("*") and stripped.endswith("*")
+    is_attribution = stripped.startswith("\u2014")
+    is_subheading = stripped.startswith("## ")
+    run = paragraph.add_run(plain_text(block)[3:] if is_subheading else plain_text(block))
+    if is_italic_block or is_attribution:
         run.italic = True
         run.font.color.rgb = RGBColor(92, 107, 125)
+    elif is_subheading:
+        run.bold = True
+        run.font.color.rgb = RGBColor(0, 0, 0)
 
 doc.save(output_path)
 
