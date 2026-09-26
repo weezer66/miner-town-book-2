@@ -66,7 +66,7 @@ It was older than the tables around it, carved from dark stone and pale ceramic,
 
 Around the central floor, the elders of Chanakya had taken the front seats.
 
-They did not gather with the solemnity of Drona's council or the armored silence of Ashoka's instructors. They watched as people who loved a contest but knew better than to call it entertainment. Every elder carried a tablet, stylus, or folded sheet marked with probabilities. Some whispered opening lines before the game began. Others watched Ravi rather than the board, studying whether the young representative's breath changed under the weight of being seen.
+They gathered without the solemnity of Drona's council or the armored silence of Ashoka's instructors, watching as people who loved a contest but knew better than to call it entertainment. Every elder carried a tablet, stylus, or folded sheet marked with probabilities. Some whispered opening lines before the game began. Others watched Ravi rather than the board, studying whether the young representative's breath changed under the weight of being seen.
 
 The far doors opened without announcement.
 
@@ -92,7 +92,7 @@ At the edge of the gymnasium, a second arena came alive.
 
 The living board occupied the adjacent floor, sixty-four pale and dark squares large enough for bodies, animals, and silence. Sixteen footmen in white stood opposite sixteen in black, each carrying a short ceremonial spear. Behind them waited the elephants, real and immense, ridden by handlers in lacquered harness. Horses stamped at the corners, flanked by tall camels draped in geometric cloth. At each back rank, an adorned horseman represented the king, upright and expressionless beneath a high crested helm. Beside him, a lady of honor sat astride a dark mare, veiled in green and gold, representing the queen with a stillness more commanding than ornament.
 
-Chanakya did not stage the living board to make chess beautiful. It staged it to make consequence visible. A small move at the table became a body crossing open ground. A careless exchange became a footman stepping into capture. A patient strategy became an animal waiting in disciplined heat while every spectator imagined the cost of moving it too soon.
+Chanakya staged the living board not to make chess beautiful but to make consequence visible. A small move at the table became a body crossing open ground. A careless exchange became a footman stepping into capture. A patient strategy became an animal waiting in disciplined heat while every spectator imagined the cost of moving it too soon.
 
 The Grandmaster moved first.
 
