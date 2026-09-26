@@ -22,7 +22,7 @@ She aligned the small Drona mark at her throat, checked the closure at each wris
 
 Anandi had made that reason possible.
 
-She had drawn on the goodwill she had built with the Ancient One over years of teaching Elara, then asked for a narrow concession: a formal Ashoka review of the Initiation response protocols, with Elara permitted to present the unresolved findings directly to Rohan. The request had been endorsed, stamped, and released under the authority of the Grandmaster herself. No ordinary mentor could have opened that door. Anandi's standing with the Ancient One had made the difference.
+She had drawn on the goodwill she had built with the Ancient One over years of teaching Elara, then asked for a narrow concession: a formal Ashoka review of the Initiation response protocols, with Elara permitted to present the unresolved findings directly to Rohan. The request had been endorsed, stamped, and released under the Ancient One's own authority as Drona's Grandmaster. No ordinary mentor could have opened that door. Anandi's standing with her had made the difference.
 
 Elara touched the edge of her collar. The approval gave her access, not safety. It made the meeting official, but it did not make the questions harmless. Behind the procedural language waited the boys, the library wing, the two letters in the archive, and a threat Drona still could not name.
 

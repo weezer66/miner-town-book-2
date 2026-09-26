@@ -186,7 +186,7 @@ For several seconds, the chief instructor stood surrounded by small arms and war
 
 Only after he promised to see them at the next lesson did the children let him go.
 
-Later, in his quarters, Rohan stood by the narrow window and looked across the training court at Ashoka's red platforms. The city looked stable from above. Stability was one of Trinity's most convincing illusions.
+Later, in his quarters, Rohan stood by the narrow window and looked across the training court at Ashoka's red platforms. The calm below no longer reassured him. He had spent the evening teaching children that balance had to be rebuilt every time it was lost, and he was no longer certain the city remembered how.
 
 He thought of Elara's hand moving across the record. She had not thrown the first strike. She had stepped into the line of force and redirected it before it reached the boys.
 

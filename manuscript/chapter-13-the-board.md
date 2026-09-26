@@ -122,7 +122,7 @@ Now the Grandmaster smiled.
 
 An announcer's voice rose from the gallery, amplified just enough to carry over hoof, breath, and dust.
 
-"White knight to king's bishop three. Black camel to queen's knight five."
+"White horse to king's bishop three. Black camel to queen's knight five."
 
 The living board settled into the new shape. The white horse stamped once, proud and restless, its rider holding it in place by discipline rather than force. Across the diagonal, the black camel stood with its long neck lifted, aggressive without appearing hurried, the kind of piece that did not charge but arrived where it had no polite reason to be.
 
