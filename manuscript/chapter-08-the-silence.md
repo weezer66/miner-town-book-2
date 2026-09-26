@@ -6,7 +6,7 @@
 
 She had not even managed a sound.
 
-The moment the elder woman at the far end of the table lifted her hand, the room seemed to close around Elara with a silence so complete it felt physical. No one spoke or moved. She tried to breathe, but her breath caught in her throat, her chest tightened, and her lungs began to burn. Her face went cold, her vision blurred, and her lips tingled as panic narrowed the world to one terrible fact: she could not speak or draw enough air into herself. This was more than fear; it was the realization that she had been stopped before she had begun, denied the ability to answer—the one thing she had always assumed belonged to her.
+The moment the elder woman at the far end of the table lifted her hand, the room closed around Elara with a silence so complete it felt physical. No one spoke or moved. She tried to breathe, and her breath caught in her throat; her chest tightened and would not release. She could not speak or draw enough air into herself. She had been stopped before she had begun — denied the ability to answer, the one thing she had always assumed belonged to her.
 
 Then the elder woman lowered her hand.
 
@@ -84,7 +84,7 @@ Draṣṭā took it from her fingers and unfolded it with deliberate care. The c
 
 She touched one finger to the name on the card. "The word survived because some outcomes refuse to resolve."
 
-Elara thought of Gage, Otto, and Ben, each marked **UNASSIGNED** by the Initiation routing system. They had not fit the routes prepared for them. They had been held between designations, between decisions, between the life Trinity had measured and the life they had begun to choose. The card was not a prophecy. It was a recognition. Their condition was his condition.
+Elara thought of Gage, Otto, and Ben, each marked **UNASSIGNED** by the Initiation routing system. They had not fit the routes prepared for them. They had been held between designations, between decisions, between the life Trinity had measured and the life they had begun to choose. The card was a recognition. Their condition was his condition.
 
 Elara's eyes lifted. The connection had appeared too precisely to dismiss. For the first time, she understood why the cards were in the room. Draṣṭā had not needed to ask about the boys. She had seen the shape of their condition before Elara had spoken it aloud. The seer did not merely read the card. She read the life gathered around it.
 
@@ -134,7 +134,7 @@ Sarvajña's gaze returned to Elara. "We believe this is connected to the events 
 
 Before Elara could respond, every elder at the table rose. The movement was quiet, but it changed the room. They no longer looked like a committee waiting to question her. They stood like witnesses to a decision that had already been made.
 
-Their voices came one after another, measured but joined by the same grave certainty. "This is the conflict every Drona representative prepares for across an entire lifetime. We have each wished, at one time or another, that the burden would fall upon any of us instead. But you are the chosen one, Elara. You must persevere, and you must prevail."
+Their voices came one after another, measured but joined by the same grave certainty. "This is the conflict every Drona representative prepares for across an entire lifetime. We have each wished, at one time or another, that the burden would fall upon any of us instead. It has fallen to you, Elara — not by destiny, but because you acted while action still mattered, and what you set in motion cannot now be carried by anyone else. You must persevere, and you must prevail."
 
 The Grandmaster held her gaze. "What is at stake is not Drona alone. If you fail, the foundation of everything we know to be real and just will be cracked."
 
