@@ -140,7 +140,7 @@ She had chosen one small condition in a future she could not see.
 
 The decision did not quiet the question that had brought her to the cafeteria.
 
-That evening, Elara met Anandi and Kavik in the Drona administrative archive. The room sat behind the public research stacks, narrow and windowless, with three terminals built into a wall of pale glass. It was where Drona officers reconciled grants, access orders, and the old records that kept Trinity's institutions from openly contradicting themselves.
+Later that night, Elara met Anandi and Kavik in the Drona administrative archive. The room sat behind the public research stacks, narrow and windowless, with three terminals built into a wall of pale glass. It was where Drona officers reconciled grants, access orders, and the old records that kept Trinity's institutions from openly contradicting themselves.
 
 Anandi stood at the center terminal while Kavik opened the library-wing allocation file beside her. The public version was exact and useless: expansion approved, funding released, designation pending. Kubera's transfer appeared as a completed figure with no attached correspondence, as though the money had moved through the system without ever passing through a person's hand.
 

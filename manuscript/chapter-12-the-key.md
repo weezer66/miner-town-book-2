@@ -28,13 +28,9 @@ Elara touched the edge of her collar. The approval gave her access, not safety. 
 
 She left her quarters before she could find another reason to wait. The Drona insignia rested against her throat, clean and visible. Whatever happened in Review Room Two, she would enter as herself, carrying her gana's authority and the Ancient One's permission to use it.
 
-The Drona transit station opened beneath the research wing, its platforms hidden behind a wall of transparent glass. Elara descended through three security gates and entered the Trinity-1 maglev system, where the city's upper districts connected without streets, traffic, or visible engines.
+The Drona transit station opened beneath the research wing. Elara descended through three security gates to the Trinity-1 maglev, where the city's upper districts connected without streets, traffic, or visible engines. The train arrived without a sound, and the carriage accelerated before she felt it move.
 
-The train arrived without a sound. Its silver body hovered above the guideway, held in place by magnetic fields that never touched the rails. The doors opened, and Elara stepped into a carriage lined with dark glass and narrow bands of white light. The train accelerated before she felt it move.
-
-The carriage was not empty. A Kubera allocation officer sat near the front in a fitted charcoal coat edged with muted gold, a ledger pane balanced across one knee. Across from him, a Chanakya representative wore a high-collared green jacket covered in small text panels that shifted whenever she moved, as if even her clothing preferred to qualify what it said. Near the doors, two Drona researchers traveled in pale coats with ink-dark cuffs, their sleeves marked by the stains of work they had not stopped long enough to wash away.
-
-An Ashoka responder stood beside the central rail in red-black uniform, broad enough to make the space around him seem narrower. His boots were polished, his collar sealed, and every movement economical. He carried no visible weapon. The carriage did not need to see one to understand that he had been trained to become one when required.
+The carriage was not empty. Three ganas rode in their own silences: a Kubera allocation officer with a ledger pane balanced on one knee, a Chanakya representative whose jacket's small text panels shifted whenever she moved, and an Ashoka responder beside the central rail, broad enough to make the space around him seem narrower. He carried no visible weapon. The carriage did not need to see one.
 
 Between the representatives sat ordinary passengers: a pair of technicians sharing a packet of fruit, a mother with an infant wrapped against her chest, and three students arguing softly over a projected examination schedule. They glanced at Elara's Drona insignia, recognized its place, and returned to their own concerns. The ganas made status visible. Trinity made most people practice looking away from it.
 
@@ -42,9 +38,7 @@ The infant did not look away. The child stared at Elara's collar, pointed at the
 
 Elara surprised herself by laughing softly. The child had identified her entire authority in a single gesture and then asked for a second opinion. For one breath, the carriage held something untouched by allocation, doctrine, or fear.
 
-Drona receded behind her in layers of pale stone, glass bridges, and suspended laboratories. The train crossed a gap between towers, and Trinity opened beneath the carriage: gardens under transparent domes, schools arranged around quiet courtyards, medical districts glowing with controlled light, and residential tiers stacked above one another like a city that had learned to build upward rather than outward.
-
-Far below, the lower levels vanished beneath cloud and atmospheric shielding. Elara saw only brief openings in the haze: service towers, cargo elevators, launch platforms, and the thin silver lines that carried fuel and labor toward the city above. Trinity made distance look beautiful. That was one of its oldest forms of concealment.
+Drona receded behind her in layers of pale stone and suspended laboratories. The train crossed a gap between towers, and Trinity opened beneath the carriage: gardens under transparent domes, residential tiers stacked above one another like a city that had learned to build upward rather than outward. Far below, the lower levels vanished beneath cloud and atmospheric shielding. Trinity made distance look beautiful. That was one of its oldest forms of concealment.
 
 The maglev curved toward the western section of Trinity-1. The architecture changed before the signs did. Drona's buildings invited the eye to pause. Ashoka's rose in hard planes, with reinforced bridges, sealed entrances, and landing platforms broad enough to receive armored transports. Red markers appeared along the carriage windows, each one identifying an emergency route, a response station, or a protected access point.
 
@@ -62,9 +56,7 @@ The gate opened.
 
 Beyond it, Ashoka Headquarters rose around a central training court. Recruits moved through drills beneath the watch of silent instructors. A line of armored responders crossed an upper bridge. At the far end of the court, a red insignia had been set into the floor so deeply that it looked less like decoration than a wound the building had chosen to keep visible.
 
-Ashoka did not build upward to display knowledge or outward to display wealth. Its rooms were arranged around pressure. Corridors narrowed near the training courts, forcing movement into orderly lines. Observation balconies overlooked every exercise floor. Doors opened only after the person inside had been identified, measured, and assigned a level of authority. Even the windows were built high and narrow, giving the responders a view of the city without inviting the city to look back.
-
-The headquarters carried none of Drona's glass cases or Kubera's polished grandeur. Its walls were dark composite, its floors marked with red boundary lines, and its equipment stored behind numbered panels that could be opened in seconds. Nothing was ornamental unless the ornament carried a memory. Along one wall, names had been cut into the metal: responders who had died holding evacuation routes, containing fires, or standing between civilians and a force they could not defeat. Ashoka did not preserve its dead as founders. It preserved them as responsibilities still carried by the living.
+Ashoka's rooms were arranged around pressure. Corridors narrowed near the training courts, forcing movement into orderly lines, and doors opened only after the person inside had been identified, measured, and assigned a level of authority. Nothing was ornamental unless the ornament carried a memory. Along one wall, names had been cut into the metal: responders who had died holding evacuation routes, containing fires, or standing between civilians and a force they could not defeat. Ashoka did not preserve its dead as founders. It preserved them as responsibilities still carried by the living.
 
 Elara passed a recessed practice hall where two recruits faced one another with padded staffs lowered between them. An instructor watched from the edge of the mat.
 
@@ -90,7 +82,15 @@ Rohan was already inside, seated at the far side of the table in his usual stone
 
 It was exactly what Elara had expected from Ashoka. She did not need comfort. She needed a room where the truth could not be softened into procedure.
 
-She took the chair opposite him and allowed herself time to breathe before beginning. She told him what had happened during the Initiation from the monitoring room: the unassigned designation, the linked readings, Daren's sabotage, the separation order, and the decision she had made before the boys reached the gates. She explained what she had seen in the Drona review chamber afterward, including the elders' warnings, Draṣṭā's cards, and Sarvajña's account of the unexplained library wing and the Kubera transfer.
+She took the chair opposite him and allowed herself time to breathe before beginning. She told him what had happened during the Initiation from the monitoring room: the unassigned designation, the linked readings, Daren's sabotage, the separation order.
+
+Then she stopped, because the next part could not be reported. It had to be admitted.
+
+"Before the boys reached the gates, I altered the record," she said. "I kept them together. No one authorized it. I decided what they had chosen in that chamber was evidence, and I preserved it." Her voice stayed level, but her hands did not. "You should know that plainly before you agree to anything. The person asking for Ashoka's help has already broken procedure once."
+
+Rohan's expression did not change. "I stood three consoles away," he said. "I watched Daren accuse you, and I made you a promise anyway. Ashoka does not retract its word because the truth arrives with details."
+
+She let out a breath she had not noticed holding, and went on. She explained what she had seen in the Drona review chamber afterward, including the elders' warnings, Draṣṭā's cards, and Sarvajña's account of the unexplained library wing and the Kubera transfer.
 
 Rohan listened without interrupting. His expression remained fixed, as if every reaction had been placed behind a locked door. Elara continued anyway. She described the search through Drona's financial records, the public approval, the departmental copy, the fiscal ledger, and the native authorization. She told him how Anandi's clearance and Kavik's reconstructed path had taken her through layers of redaction until one fact remained: the system accepted a signing authority called OG, but no registry contained it.
 
@@ -116,7 +116,7 @@ Rohan did not answer immediately. He looked toward the narrow windows, where the
 
 When he turned back to Elara, his expression had not softened. It had become more deliberate.
 
-"While mighty Ashoka stands between Trinity and the incoming wave," he said, "you can be certain that not one drop of its damage will reach the people under our protection. We will hold the line. We will find where the pressure begins. We will not allow an unnamed power to turn our duty against the city."
+"Ashoka stands between Trinity and whatever is coming," he said. "The damage stops at our line. We will find where the pressure begins, and we will not let an unnamed power turn our duty against the city."
 
 The promise steadied something in Elara, but it did not erase the fear. Ashoka's resolve could hold a gate, protect a corridor, and stop a hand from striking. Trinity needed more than resolve to face a nameless power already moving through its permissions and institutions. It needed knowledge that could expose the pattern, judgment that could separate warning from panic, and allies who would not become weapons in the hands of the force they were trying to stop.
 

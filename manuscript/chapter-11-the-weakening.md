@@ -34,7 +34,7 @@ Three floors above the residential wing, Daren sat in the room Kubera had assign
 
 He knew that should have troubled him. He was moving against another gana in secret. He carried a power he did not yet understand. He was starting something that could not be easily undone.
 
-None of it frightened him.
+None of it frightened him. Fear, he understood when he went looking for it, had lived in the things Kubera could take away — the rank, the record, the name. All three were gone, and the erasure had taken his fear with them.
 
 What he felt instead was hunger. For the first time in his life, the limits he had spent years measuring did not seem to apply to him.
 
@@ -94,7 +94,7 @@ He did not think of himself as a crusader, though revenge still burned cleanly e
 
 He closed his hand slowly, and the bracelet's surface answered with a thread of light too faint to be called a glow.
 
-Somewhere below him, in a room he had never seen and would likely never enter, a woman he had once accused in front of three watching consoles was awake at an hour meant for sleep, turning over the same two letters he had spent a month hiding from the modern archive.
+Somewhere below him, in a room he had never seen and would likely never enter, a woman he had once accused in front of three watching consoles was awake at an hour meant for sleep, turning over the same two letters he had buried beneath a protocol too old to be questioned.
 
 He did not know that. It did not matter. The foundation was already being chipped away, one approved requisition at a time, and the first stone had already been laid without a single alarm sounding anywhere in Trinity.
 
@@ -112,7 +112,7 @@ Then she thought of Rohan.
 
 She remembered his hand flat against Daren's chest, and the eight words that had followed it. *Whatever happens next, I will stand with you.* He had said it once, in a room lit blue, without knowing yet what it might cost him. Tonight she intended to learn whether the promise still held its shape.
 
-If Drona and Ashoka ever stood side by side in the same frame, it would not resemble an alliance drawn on paper. It would look like a lantern set into an open palm still scarred from the last thing it had held without flinching, the patient blue light of one gana resting inside the disciplined grip of the other, neither one dimming the other, neither one willing to close.
+If Drona and Ashoka ever stood side by side in the same frame, it would not resemble an alliance drawn on paper. It would look like a lantern set into a scarred open palm — patient light resting inside a disciplined grip, neither one dimming the other, neither one willing to close.
 
 Elsewhere in Trinity, Daren had stopped measuring himself against the man he had been. The same calculation was working itself out in a different currency.
 
@@ -126,7 +126,7 @@ Daren thought of Ravi at the console on the first day, deciding what an incident
 
 If wealth could not bend the fabric of Trinity's law on its own, wealth married to policy could rewrite the loom entirely.
 
-If Kubera and Chanakya ever stood side by side in the same frame, it would not resemble conspiracy. It would look almost respectable, a hand heavy with gold resting on the shoulder of a hand that had spent years writing the rules gold was supposed to obey, both of them smiling at the exact moment a rule quietly changed what it meant.
+Kubera and Chanakya together would look nothing like conspiracy. Almost respectable, in fact: a hand heavy with gold resting on the shoulder of the hand that had spent years writing the rules gold was supposed to obey, both of them smiling at the exact moment a rule quietly changed what it meant.
 
 Two rooms. Two ganas each, moving on the same night toward the same unfinished war. Elara reached for a hand that had already promised to hold hers. Daren reached for a hand that had not yet realized how much of itself it stood to lose. Elara still did not know what the two letters meant. Daren knew exactly what they meant, but not yet how much of the road ahead had already been laid by the man who had taught him to sign them.
 
@@ -134,9 +134,9 @@ At 4:00 a.m., Rohan was awake in the Ashoka barracks.
 
 The room held nothing that did not serve discipline. A narrow bed. A folded uniform. A wash basin of brushed steel. A rack for boots and armor, each piece aligned to the edge of its mark on the floor. The walls were bare except for the Ashoka insignia above the door, rendered in matte red, not decorative enough to be admired and not subtle enough to be forgotten.
 
-Rohan moved through the final sequence of his morning routine without sound. He held a low horse stance until his thighs trembled, lowered through five controlled push-ups without letting his chest touch the floor, then settled into a forearm plank while counting each breath. It was not the kind of exercise designed to build muscle for display. Ashoka had no use for display. The movements were slow, punishing, and exact: holds that made the tendons tremble, controlled descents that denied the body momentum, breath measured against strain until the mind stopped asking when it would end. The purpose was not strength alone. Strength could be trained by machinery. This was obedience under pressure, pain without spectacle, the old lesson driven into bone one repetition at a time: failure might happen, but surrender was never permitted to arrive first.
+Rohan moved through the final sequence of his morning routine without sound: a low horse stance held until his thighs trembled, controlled descents that denied the body momentum, breath measured against strain until the mind stopped asking when it would end. Ashoka had no use for display. This was obedience under pressure, the old lesson driven into bone one repetition at a time: failure might happen, but surrender was never permitted to arrive first.
 
-His face did not change. Sweat moved along his temple and down the scar at his jaw, but his expression remained carved into the same hard stillness he carried into every room. Not anger. Not calm. Something more severe than both, as though the body had been given a command and the man inside it had agreed never to negotiate.
+Sweat moved down the scar at his jaw, but his expression kept the hard stillness he carried into every room, as though the body had been given a command and the man inside it had agreed never to negotiate.
 
 He lowered himself into the last hold when a pale rectangle slipped beneath the door.
 
