@@ -20,7 +20,7 @@ He watched her preserve the boys' connection in the official record.
 
 He watched the order appear, then vanish from the system.
 
-On the first review, her decision looked like personal judgment. She had seen three boys she could not bear to surrender to a procedure and had acted according to the truth she felt in the moment. That was not the same as authorization. It was not the same as law. It was not the same as proof.
+On the first review, her decision looked like personal judgment. She had seen three boys she could not bear to surrender to a procedure and had acted according to the truth she felt in the moment. That was not the same as authorization, or law, or proof.
 
 Rohan had been trained to notice that difference before anyone else could use it against him.
 
@@ -112,15 +112,11 @@ On the second evening, after completing the day's duties, Rohan taught the Littl
 
 The children were too young to know what the other ganas believed about Ashoka. They did not know that Drona considered Ashoka blunt, that Chanakya considered it unsophisticated, or that Kubera preferred to see only the uniform and the force behind it. They knew the dojo floor, the red boundary marks, the discipline of a bowed head, and the difference between a strike that stopped a threat and a strike thrown to display power. When Rohan entered, they straightened at once. When he smiled, they forgot to remain solemn.
 
-Rohan taught them an old Ashoka form called Wadō-ryū, the Way of Peace and Harmony. The name confused visitors. Ashoka was supposed to be the gana of force. Its answer was that force without harmony was only fear wearing a uniform.
+Rohan taught them Wadō-ryū, the Way of Peace and Harmony — one of the old fighting arts Ashoka had carried out of the Old Era when the rest of the world's knowledge was being sealed away. Other arts survived only as fragments in Ashoka's archives, attached to the names of masters no living person had met. The gana had chosen Wadō-ryū to keep alive because its principles suited the duty it wanted to embody: evade before meeting force, preserve balance under pressure, protect the person in front of you, and make defense strong enough that violence became unnecessary whenever another choice remained. The best offense was not the first strike. It was the position that made the first strike unnecessary.
 
-Other disciplines had their own truths. Muay Thai trained the body to use eight points of contact: fists, elbows, knees, and shins. Judo turned balance against itself through throws, grips, and controlled falls. Taekwondo made distance into a weapon through speed, timing, and precise kicks. Aikido emphasized redirection, using an attacker's momentum rather than meeting force with force. Brazilian jiu-jitsu taught leverage from the ground, allowing a smaller person to survive against a stronger one.
+The name confused visitors. Ashoka was supposed to be the gana of force. Its answer was that force without harmony was only fear wearing a uniform.
 
-Ashoka respected all of them. It had chosen Wadō-ryū because its principles suited the duty the gana wanted to embody: evade before meeting force, preserve balance under pressure, protect the person in front of you, and make defense strong enough that violence became unnecessary whenever another choice remained. The best offense was not the first strike. It was the position that made the first strike unnecessary.
-
-The Little Dragons practiced in pairs, each child carrying a different piece of Ashoka without knowing the names of the principles yet.
-
-Tavi watched the door so closely that he forgot his own stance; Rohan taught him that a guardian who fell every time someone else stumbled could not hold a line. Meera moved so quickly that she outran every correction; Rohan made her repeat the movement until she could stop her hand before contact, teaching her that power became discipline only when it could stop itself. Niko fell during every exercise but always stood, bowed, and tried again. Arjun obeyed every instruction until another child needed help, then broke formation to steady them. Rohan taught them all the same lesson: protection required balance, courage included recovery, and obedience without awareness was not guardianship.
+The Little Dragons practiced in pairs, each child carrying a different piece of Ashoka without knowing the names of the principles yet: Tavi, who watched the door so closely he forgot his own stance; Meera, who outran every correction until Rohan taught her that power became discipline only when it could stop itself; Niko, who fell during every exercise and always stood, bowed, and tried again. Rohan taught them all the same lesson: protection required balance, courage included recovery, and obedience without awareness was not guardianship.
 
 The final sparring pair of the day was five-year-old Claudia and seven-year-old Dev. Claudia was the smallest child in the class, with a purple belt tied around her waist, one rank below brown. Dev wore a brown belt. He had longer arms, stronger legs, and the confidence of a boy who had never needed to wonder whether his body would obey him.
 
@@ -174,9 +170,9 @@ Claudia looked down at the belt as if it had become heavier.
 
 "It means you are responsible for what your strength does next."
 
-That was the lesson Ashoka tried to preserve beneath every uniform and every weapon. The body could be powerful without becoming cruel. The mind had to remain clear when fear narrowed it. Spirit was not a distant mystery. It was the decision to keep strength answerable to a purpose.
+That was the lesson Ashoka tried to preserve beneath every uniform and every weapon. The body could be powerful without becoming cruel. The mind had to remain clear when fear narrowed it. Spirit was the decision to keep strength answerable to a purpose.
 
-The lesson had always been misunderstood outside Ashoka. The gana did not train aggressors. It trained defenders who could display violence only when violence was necessary, and restraint when it was not. Ashoka allowed other institutions to mistake discipline for simplicity. There was advantage in being underestimated. Beneath the hard rooms, the red uniforms, and the silence of its responders, the gana preserved an intellectual tradition of judgment, proportion, and responsibility that few outsiders had bothered to study.
+The lesson had always been misunderstood outside Ashoka. The gana trained defenders who could display violence only when violence was necessary, and restraint when it was not. Ashoka allowed other institutions to mistake discipline for simplicity. There was advantage in being underestimated. Beneath the hard rooms, the red uniforms, and the silence of its responders, the gana preserved an intellectual tradition of judgment, proportion, and responsibility that few outsiders had bothered to study.
 
 When the class ended, the children bowed. Then discipline dissolved into affection. Niko ran into Rohan's legs first. Tavi wrapped both arms around his waist. Meera and Arjun joined from either side, and Dev, after a moment of pretending he was too old for such things, pressed into the embrace as well. Claudia stood back with her new brown belt, trying to look composed until Rohan opened one arm toward her.
 
