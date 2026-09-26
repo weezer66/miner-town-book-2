@@ -1,4 +1,4 @@
-# Chapter 6: The Grandmaster's Briefing
+# Chapter 6: Marked for Removal
 
 *Then a new shadow appeared — heavy, slow, rhythmic. Gage walked out of the dark with a steady gait, his face changed in ways Camilla didn’t yet have names for. He was unbreakable — six-foot-five, carrying Otto across his shoulders and dragging a semi-conscious Ben by the collar of his shirt. He wasn’t the broken marionette the guards expected; he was the Engine that refused to red-line.*
 

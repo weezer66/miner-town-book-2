@@ -1,4 +1,4 @@
-# Chapter 10: The Pathways
+# Chapter 10: The Vacancy
 
 *“Don’t draw me a forest, Gage.” Her voice hardened, and for a moment she sounded like Pappy. “Draw me a way out.”*
 

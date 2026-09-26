@@ -6,9 +6,9 @@ from docx.shared import RGBColor
 
 
 manuscript_dir = Path("manuscript")
-markdown_path = manuscript_dir / "chapter-10-the-pathways.md"
+markdown_path = manuscript_dir / "chapter-10-the-vacancy.md"
 template_path = manuscript_dir / "chapter-01-assigned-to-witness.docx"
-output_path = manuscript_dir / "chapter-10-the-pathways.docx"
+output_path = manuscript_dir / "chapter-10-the-vacancy.docx"
 
 markdown_text = markdown_path.read_text(encoding="utf-8").strip()
 blocks = markdown_text.split("\n\n")

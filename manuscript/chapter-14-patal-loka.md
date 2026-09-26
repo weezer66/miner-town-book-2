@@ -1,4 +1,4 @@
-# Chapter 14: The Neutral Ground
+# Chapter 14: Patal Loka
 
 *This wasn’t ancient and it wasn’t accidental. It was being run, right now, by people who had built it knowing exactly what they were keeping from the colonies above. That was the terrible part — not the technology, but the choice behind it. A splinter of humanity that had built a parallel world beneath the wasteland, spending decades hoarding the world’s remaining knowledge, hiding behind the silence of the Junkyard while the rest of humanity rotted in soot. They weren’t from another planet; they were the ones who had kept the keys to the Old Era and locked the door behind them. Camilla wasn’t just a prisoner; she was an unauthorized witness to a crime that had lasted generations.*
 

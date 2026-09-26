@@ -4,9 +4,9 @@ from pathlib import Path
 MANUSCRIPT_DIR = Path("manuscript")
 CHAPTERS = [
     MANUSCRIPT_DIR / "chapter-01-assigned-to-witness.md",
-    MANUSCRIPT_DIR / "chapter-02-the-checklist.md",
-    MANUSCRIPT_DIR / "chapter-03-the-first-correction.md",
-    MANUSCRIPT_DIR / "chapter-04-the-first-report.md",
+    MANUSCRIPT_DIR / "chapter-02-intake.md",
+    MANUSCRIPT_DIR / "chapter-03-sanjeevani.md",
+    MANUSCRIPT_DIR / "chapter-04-mutual-stabilization.md",
     MANUSCRIPT_DIR / "chapter-05-the-altered-record.md",
 ]
 

@@ -1,4 +1,4 @@
-# Chapter 3: The First Correction
+# Chapter 3: Sanjeevani
 
 *By thirty-six, the bodies started to fail in different directions. Some kids collapsed where they stood and lay motionless, eyes open, breathing shallow, unresponsive when shaken. Others struck themselves — pulling at their own hair, biting their hands, running into the walls just to feel something other than the wakefulness. Otto held Ben back from one of these. Gage tried to call out and found his voice gone, swallowed by the same sandstone that was already collecting at the back of his throat.*
 

@@ -1,4 +1,4 @@
-# Chapter 2: The Checklist
+# Chapter 2: Intake
 
 *Gage tore into the heavy plastic, and a cloud of thick white steam billowed out, smelling so rich it made his head spin. Warm, buttery potatoes and the savory salt of poultry. To a boy who’d spent his life eating grey starch mush, it felt like holding an edible cloud in his blackened fingers. They ate like starving animals, washing it down with cool, clear water that felt like a lost memory of rain — though something at the back of the throat warned them, a thin metallic tang like a copper coin held under the tongue.*
 

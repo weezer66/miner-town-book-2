@@ -1,4 +1,4 @@
-# Chapter 4: The First Report
+# Chapter 4: Mutual Stabilization
 
 *Then, from the corner of his eye, a figure lunged. The pressure vanished. A single sharp crack — bone striking bone, calculated. Rosa’s head snapped sideways as she was tossed off him. Gage rolled over, gasping for air that tasted of copper. A line from Pappy’s stories pierced the fog: You can’t pipe the deep carbon, boy. You have to break it. Looking at Rosa’s crumpled form, Gage understood the Initiation. The Trinity didn’t want loyalty; they wanted to see if these kids would snap or turn into diamonds under pressure.*
 
