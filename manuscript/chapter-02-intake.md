@@ -103,7 +103,7 @@ Her console offered three actions: record the deviation, notify the floor warden
 
 "I am declining to make a conclusion before the evidence exists," Elara said.
 
-By the ten-hour mark, the chamber was still under watch, but the representatives had already completed the first manual monitoring cycle. The room emptied in staggered relief, their fatigue measured as an institutional resource and folded into the same system that had been recording the boys' readings since intake. Trinity did not pause for exhaustion. It simply shifted the burden of attention from human eyes to automated ones.
+By the twelve-hour mark, the chamber was still under watch, but the representatives had completed the first manual monitoring cycle. The room emptied in staggered relief, their fatigue folded into the same system that had been recording the boys' readings since intake. Trinity did not pause for exhaustion. It simply shifted the burden of attention from human eyes to automated ones.
 
 The blue bands in the monitoring room brightened to white. Every display dimmed except the central grid.
 

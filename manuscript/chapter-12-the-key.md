@@ -86,7 +86,7 @@ She took the chair opposite him and allowed herself time to breathe before begin
 
 Then she stopped, because the next part could not be reported. It had to be admitted.
 
-"Before the boys reached the gates, I altered the record," she said. "I kept them together. No one authorized it. I decided what they had chosen in that chamber was evidence, and I preserved it." Her voice stayed level, but her hands did not. "You should know that plainly before you agree to anything. The person asking for Ashoka's help has already broken procedure once."
+"Before the boys walked out of the mine gates, I altered the record," she said. "I kept them together. No one authorized it. I decided what they had chosen in that chamber was evidence, and I preserved it." Her voice stayed level, but her hands did not. "You should know that plainly before you agree to anything. The person asking for Ashoka's help has already broken procedure once."
 
 Rohan's expression did not change. "I stood three consoles away," he said. "I watched Daren accuse you, and I made you a promise anyway. Ashoka does not retract its word because the truth arrives with details."
 

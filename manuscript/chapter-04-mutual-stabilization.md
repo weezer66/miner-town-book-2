@@ -210,7 +210,7 @@ INFINITY GUARD RESPONSE AUTHORIZED.
 
 The alert appeared on every console. Ravi's jaw tightened. Daren stared at the resource estimate. Rohan stood with both hands flat against the CORRECTION station, reading the order as though force alone might make it less final.
 
-Under standard Trinity procedure, their twelve-hour monitoring cycle should have ended as sixty hours approached. But the moment High Command issued the emergency assessment and the Infinity Guard protocol engaged, the system initiated a mandatory shift lock. Shift rotations were frozen. All four representatives were required to remain at their consoles until the deployment resolved or the Initiation reached its seventy-two-hour mark.
+Under standard Trinity procedure, their twelve-hour monitoring cycle should have ended as sixty hours approached, the consoles dimming while the automated systems carried the next recovery interval alone. But the moment High Command issued the emergency assessment and the Infinity Guard protocol engaged, the system initiated a mandatory shift lock. The handoff to automation was suspended. All four representatives were required to remain at their consoles until the deployment resolved or the Initiation reached its seventy-two-hour mark — the end of the three-day trial itself, when the gates would open on whoever was left.
 
 "They are exhausted children," Elara said.
 
@@ -242,7 +242,7 @@ ESCALATE FOR EXECUTIVE REVIEW.
 
 The report named the committee: Icepick, Jung, and the other senior figures who had turned the survival of Miner Town into a governing practice. The three boys would not be treated as ordinary recruits. They would be presented as a problem requiring a decision at the highest level.
 
-Elara watched the final report print across her screen. Her recommendation had survived long enough to keep the boys together, but not long enough to protect them from the committee waiting above the city.
+Elara watched the final report print across her screen. Her recommendation had survived long enough to keep the boys together, but not long enough to protect them from the committee waiting for the gates to open — the men who governed Miner Town from inside it, backed by the authority watching from above.
 
 She opened the archive access panel.
 

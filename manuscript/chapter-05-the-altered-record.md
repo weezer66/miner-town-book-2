@@ -4,15 +4,15 @@
 
 — Book 1, Chapter 6: To Hell and Back
 
-Elara stood before her console, watching the executive escalation order seal itself into Trinity’s central ledger. Her operator status was already flagged as **UNDER REVIEW**, every input scrutinized by Drona evaluators and her peers. She could absorb the reprimand, let the system process Gage, Ben, and Otto through standard culling protocols, and keep what remained of her career. She could file a formal dissent and watch it drown in committees while the separation directives executed. Both roads ended in the same place: her record intact, and the machinery that had erased Teresa running exactly as designed.
+Elara stood before her console, watching the executive escalation order seal itself into Trinity’s central ledger. Her operator status was already flagged as **UNDER REVIEW**; from this moment, every input she made would be scrutinized by Drona evaluators and her peers. Two lawful roads remained open to her. She could accept the reprimand, stay silent, and let the system cull Gage, Ben, and Otto on schedule — keeping what was left of her career. Or she could file a formal dissent and watch it crawl through committees while the separation directives executed anyway. Both roads ended in the same place: her record intact, the boys lost, and the machinery that had erased Teresa running exactly as designed.
 
-The three boys were not Teresa, and Elara knew better than to confuse one loss with another. But the pattern was unmistakable: the system had identified a form of survival it could not control and was preparing to destroy it rather than learn from it. She had watched Trinity do the same thing to Teresa’s life, reducing uncertainty to a limitation and limitation to an excuse. She could not prevent what had happened to Teresa. She could decide what happened next.
+The three boys were not Teresa, and Elara knew better than to confuse one loss with another. But the pattern was unmistakable: faced with something outside its categories, the system did not learn — it disposed. Teresa's disease had no precedent, so Trinity filed her under the incurable and treated its own ignorance as a fact of the world. The boys' survival had no classification, so Trinity was preparing to destroy it. Different verdicts, same refusal. She could not prevent what had happened to Teresa. She could decide what happened next.
 
-That left direct, unauthorized intervention. Altering a protected governance document was high treason; if the system traced her override, she would lose her clearance, her freedom, and her place in Trinity — permanent containment, or exile to the ground she had once tried so desperately to reach. But as she watched the three linked signals pulsing on her screen, Elara knew that safety bought through inaction was no safety at all.
+If both lawful roads ended at the same wall, then deciding meant taking the one that appeared on no approved map: direct, unauthorized intervention. Altering a protected governance document was high treason; if the system traced her override, she would lose her clearance, her freedom, and her place in Trinity — permanent containment, or exile to the ground she had once tried so desperately to reach. But as she watched the three linked signals pulsing on her screen, Elara knew that safety bought through inaction was no safety at all.
 
-She could not simply walk away from her console. In a room monitored by three rival ganas—and with her own operator status flagged as **UNDER REVIEW**—an unannounced departure during post-Initiation processing would trigger an immediate security alert. Every move had to be covered by procedural logic.
+Choosing treason was the easy part. Committing it inside a room built to notice everything was another matter. The archive access panel she had opened at her console had already returned its verdict: the cohort file was a protected governance document, and it answered only to an administrative session in the restricted archive, a tier below the monitoring floor. She could not simply walk away from her console: with three rival ganas watching and her own operator status flagged as **UNDER REVIEW**, an unannounced departure during post-Initiation processing would trigger an immediate security alert. If she was going to do this, every move had to be covered by procedural logic.
 
-Elara initiated Drona’s mandatory post-shift audit protocol. She selected the option for physical ledger verification—a procedural requirement that allowed an operator facing administrative review twenty minutes to retrieve hard-copy archive documentation from the sub-tier vaults before executive lockouts took effect. On the room’s central display, her console status shifted from active monitoring to **TEMPORARY TRANSIT: AUDIT RETRIEVAL**.
+The review flag itself gave her the opening. Elara initiated Drona’s mandatory audit protocol — the provision that activated the moment an operator’s status was flagged for review — and selected the option for physical ledger verification, a procedural requirement that allowed her twenty minutes to retrieve hard-copy archive documentation from the sub-tier vaults before executive lockouts took effect. On the room’s central display, her console status shifted from active monitoring to **TEMPORARY TRANSIT: AUDIT RETRIEVAL**.
 
 Daren glanced up, a faint, smug smirk playing at the corner of his mouth; he assumed she was scurrying off to prepare her defense for the upcoming inquiry. Ravi watched her log the code without expression, satisfied that she was following protocol. Rohan merely nodded once, acknowledging her compliance with system procedures.
 
@@ -50,9 +50,9 @@ The alert remained active on Elara's console, her operator status still locked a
 
 Daren's report closed without comment. Rohan's force assessment remained pending. Ravi's cursor stayed over the group-risk field.
 
-Below them, the three candidates' biometric readings continued to move within the same narrow range. Their proximity data showed no separation.
+On the feeds, the three candidates' biometric readings continued to move within the same narrow range. Their proximity data showed no separation.
 
-Three linked signals appeared on Elara's screen.
+The three linked signals held their pattern on Elara's screen.
 
 For once, she did not reduce them to separate entries. She left the connection visible and allowed the system to record what it could not yet explain.
 
