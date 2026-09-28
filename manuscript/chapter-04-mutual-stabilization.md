@@ -10,6 +10,8 @@ At forty-eight hours, the second mandated recovery interval ended.
 
 RECOVERY INTERVAL COMPLETE. MANUAL OBSERVATION REQUIRED.
 
+The four representatives returned from their overnight recovery and took their stations as the monitoring room came back online.
+
 The message cleared from the central grid, but the room did not immediately return to normal. The four consoles brightened one after another. The blue light settled across the floor, the walls, and the faces of the four representatives. It made everyone look healthier than they were.
 
 Elara took her seat at VARIANCE, the Drona station, and brought Gage's feed back to full size. The overhead view showed the same chamber as before, but the pattern had changed. The children were no longer scattered. The ones still conscious had formed small groups near the tunnel walls, each cluster responding to the others without speaking.
@@ -54,7 +56,7 @@ Daren turned in his chair, taking immediate advantage of the red flag glowing on
 
 "It is worse. Instability can be isolated. Dependency creates leverage."
 
-Before Elara could answer, a warning chime rang out from the adjacent Ashoka console. The tampering had spread beyond her station: with the thresholds pinned at maximum, the whole grid had turned twitchy, and a flicker in the chamber now sounded like a breach.
+Before Elara could answer, a warning chime rang out from the adjacent Ashoka console. The sensitivity ceiling was not a local setting. It lived in the shared alert calibration that every station inherited, and whoever had raised it through her console had raised it for the entire room. With the thresholds pinned at maximum, the whole grid had turned twitchy, and a flicker in the chamber now sounded like a breach.
 
 Rohan checked the force ladder, then the chamber feed, his brow furrowing at the sudden alert. "Otto's breathing has changed."
 

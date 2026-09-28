@@ -44,7 +44,7 @@ The reader returned an estimated cortisol level above her thirty-day median. The
 
 A thin amber line flickered beside cortisol, then settled green. Not Are you healthy? Not Are you at risk? The real question was colder: Are you chemically aligned to observe suffering without destabilizing protocol?
 
-Then a second panel resolved beneath the first, in different type, with no units and no range.
+Then a second panel resolved beneath the first, in different type, with no units and no range. Nothing in her blood could say such things. This was the model speaking — her records, her ratings, her measured hesitations at checkpoints — dressed in the borrowed authority of the drop she had just surrendered.
 
 "Behavioral stability: within range," it said. "Empathy surge risk: low. Corrective intervention impulse: suppressed. Clearance granted." A green band lit across her wrist for three seconds and faded.
 
