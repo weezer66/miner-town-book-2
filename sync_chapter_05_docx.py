@@ -22,6 +22,7 @@ body_blocks = blocks[1:]
 
 def plain_text(block: str) -> str:
     text = re.sub(r"\*\*(.*?)\*\*", r"\1", block.replace("\n", " "))
+    text = re.sub(r"~~(.*?)~~", r"\1", text)
     if text.startswith("*") and text.endswith("*"):
         return text[1:-1]
     return text
@@ -59,13 +60,25 @@ if "--verify" not in sys.argv:
         is_italic_block = stripped.startswith("*") and stripped.endswith("*")
         is_attribution = stripped.startswith("\u2014")
         is_subheading = stripped.startswith("## ")
-        run = paragraph.add_run(plain_text(block)[3:] if is_subheading else plain_text(block))
-        if is_italic_block or is_attribution:
-            run.italic = True
-            run.font.color.rgb = RGBColor(92, 107, 125)
-        elif is_subheading:
-            run.bold = True
-            run.font.color.rgb = RGBColor(0, 0, 0)
+        if is_italic_block or is_attribution or is_subheading:
+            run = paragraph.add_run(plain_text(block)[3:] if is_subheading else plain_text(block))
+            if is_italic_block or is_attribution:
+                run.italic = True
+                run.font.color.rgb = RGBColor(92, 107, 125)
+            else:
+                run.bold = True
+                run.font.color.rgb = RGBColor(0, 0, 0)
+        else:
+            # render ~~text~~ segments as strikethrough runs
+            marked = re.sub(r"\*\*(.*?)\*\*", r"\1", block.replace("\n", " "))
+            for part in re.split(r"(~~.*?~~)", marked):
+                if not part:
+                    continue
+                if part.startswith("~~") and part.endswith("~~"):
+                    strike_run = paragraph.add_run(part[2:-2])
+                    strike_run.font.strike = True
+                else:
+                    paragraph.add_run(part)
 
     doc.save(output_path)
 
