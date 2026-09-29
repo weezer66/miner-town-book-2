@@ -282,7 +282,7 @@ Rohan looked at him.
 
 The answer was so completely Vayun's that Rohan could not tell whether it was a warning, a compliment, or both.
 
-The Grandmaster leaned back slightly. "We have an inkling of the storm that is coming. Elara will need every honest ally she can find if she is to preserve the balance between the ganas. Expect to hear more from us. Until then, do what seems right according to your code of honor."
+The Grandmaster leaned back slightly. "We have an inkling of the storm that is coming. Elara will need every honest ally she can find if she is to preserve the balance between the ganas." She glanced once at Vayun, and something already settled passed between them. "Four of Ashoka's investigators will be placed at your disposal — quiet ones, chosen for discretion rather than rank, answerable to you alone. Use them to follow the altered records, the permissions no one signed, and the resources that move without explanation. Expect to hear more from us. Until then, do what seems right according to your code of honor."
 
 Rohan bowed his head. "I will."
 

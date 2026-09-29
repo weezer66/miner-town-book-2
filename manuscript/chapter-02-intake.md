@@ -137,4 +137,8 @@ After Elara spoke, Ravi held still. Stillness was the Chanakya way. He let the s
 
 The recovery station held them for the prescribed half hour, and then Trinity released them to their quarters the way it did everything: by schedule. The next manual cycle would begin in the morning. Until then, the chamber belonged to the automated eyes, and the monitors' rest was not a kindness but a maintenance requirement, logged like every other input.
 
-In his quarters, Ravi went through the reset Trinity required after a monitoring shift — the wash cycle, the neutralizing spray, the regulated nutrient intake before bed. Trinity called it decompression, a discipline meant to stop a representative from carrying the chamber back into the rest of the day. It did not work. He lay in the dark while the pattern followed him: Ben, ordinary by every measure, carrying a mark the system reserved for what it could not read. An ordinary boy was a baseline. An unreadable one was a variable, and a variable placed at the center of a cohort could move the whole cohort. Ravi held the thought the way he held any asset he did not yet know how to spend, and sleep took him still holding it.
+In his quarters, Ravi went through the reset Trinity required after a monitoring shift — the wash cycle, the neutralizing spray, the regulated nutrient intake before bed. Trinity called it decompression, a discipline meant to stop a representative from carrying the chamber back into the rest of the day. It did not work. He lay in the dark while the pattern followed him: Ben, ordinary by every measure, carrying a mark the system reserved for what it could not read. An ordinary boy was a baseline. An unreadable one was a variable, and a variable placed at the center of a cohort could move the whole cohort.
+
+Ravi held the thought the way he held any asset he did not yet know how to spend.
+
+Sleep took him still holding it.

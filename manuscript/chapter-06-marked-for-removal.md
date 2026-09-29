@@ -8,17 +8,17 @@ Daren was summoned to Kubera shortly after the monitoring lock ended, before the
 
 It looked like an inert piece of transparent material until he touched it. Then light moved beneath its surface, the glass awakened, and a single insignia appeared: a golden torch rendered in fire-bright lines, the unmistakable mark of the Grandmaster's authority. The device was far beyond a regular representative's clearance or pay grade. Daren had no idea how it had entered his room. He only knew that no one left a device like that by accident.
 
-The message contained a time and a clearance instruction requiring him to report directly to the Grandmaster's chambers. No location was necessary. Everyone in Kubera knew where those chambers were. They had seen the black doors from the lower galleries, some with curiosity and others with the reverence reserved for rooms that decided the fate of people who would never enter them. The direct summons made him read it twice. Kubera representatives reported through handlers, and handlers reported through directors. Even among the directors, the hierarchy was severe: twenty held the title, but only five were permitted to request an audience with the Grandmaster. A regular representative did not walk into the Grandmaster's presence without passing through at least two people whose authority existed to keep such meetings from happening. Which left the question Daren could not answer: why him?
+The message contained a time, a clearance code, and one instruction in unadorned capitals: REPORT DIRECTLY. NO HANDLER PRESENT. No location was necessary. Everyone in Kubera knew where those chambers were. They had seen the black doors from the lower galleries, some with curiosity and others with the reverence reserved for rooms that decided the fate of people who would never enter them. The direct summons made him read it twice. Kubera representatives reported through handlers, and handlers reported through directors. Even among the directors, the hierarchy was severe: twenty held the title, but only five were permitted to request an audience with the Grandmaster. A regular representative did not walk into the Grandmaster's presence without passing through at least two people whose authority existed to keep such meetings from happening. Which left the question Daren could not answer: why him?
 
-Daren had spent his career inside those layers. He was a Kubera representative, not a director, not a house minister, and certainly not a successor to anyone who occupied the upper rooms. His value came from making accurate calculations under pressure and delivering conclusions that could survive review. He was trusted to measure limits. He was not trusted to decide what the limits meant.
+Daren had spent every year of his young career inside those layers. He was a Kubera representative, not a director, not a house minister, and certainly not a successor to anyone who occupied the upper rooms. His value came from making accurate calculations under pressure and delivering conclusions that could survive review. He was trusted to measure limits. He was not trusted to decide what the limits meant.
 
 The distinction mattered now.
 
 Daren arrived thirty minutes early, dressed impeccably. In Kubera, subordination took many forms, and clothing was one of the most reliable. A polished collar, an exact seam, a muted insignia aligned with the center of the body: each detail declared that the wearer understood his place inside the house. He checked the fall of his jacket once before entering, not because anyone would praise him for it, but because Kubera treated disorder as a confession.
 
-Kubera did not keep its house inside any of the three Trinitys. It kept Meru: the tier above all of them, higher physically, financially, and socially, built on the founders' claim that the reserve serving every city should belong to none. The sealed lift that carried Daren up out of Trinity-1's galleries took long enough to remind him how much higher service lived than the people it claimed to serve.
+Kubera did not keep its house inside any of the three Trinitys. It kept Meru: the tier above all of them, higher physically, financially, and socially, built on the founders' claim that the reserve serving every city should belong to none. The monitoring assignment had quartered Daren in Trinity-1 for the length of Sector 1's cycle, a guest among Drona's towers with a borrowed room and a full console. The sealed lift that carried him up out of Trinity-1's galleries — home, for the first time since the Initiation began — took long enough to remind him how much higher service lived than the people it claimed to serve.
 
-He entered the Kubera premises through a security gate of dark glass and brushed metal. The scanner read his identity, his active review status, and the temporary clearance attached to the summons. A second scanner checked the first. A third confirmed that the order had not been altered between the central network and the house system.
+He entered the Kubera premises through a security gate of dark glass and brushed metal. The gate read him first — identity, active review status, the temporary clearance attached to the summons — and then read the summons itself. Not the copy on the small glass pane Daren carried; he could have left that in his quarters for all the gate cared. It pulled the original order from the house ledger and matched it against the central network's record, confirming nothing had been altered in the passage between the two. Kubera examined its own instructions with the same suspicion it applied to the people who carried them.
 
 The doors opened into the Great Kubera Hall.
 
@@ -30,7 +30,7 @@ Along the walls, the history of Kubera unfolded in recessed panels. The earliest
 
 The captions did not describe them as wealthy. They described them as builders, consolidators, and custodians of continuity. Each panel showed an achievement beside a consequence. A new extraction field beside an expanded settlement. A transport network beside a population register. A private reserve beside the ration system that made the reserve possible.
 
-The history became more polished as it approached the founding of Trinity. The old corporations became public trusts. The trusts became emergency councils. The councils became the four ganas. In every transition, ownership changed its name before it changed its habits.
+The history became more polished as it approached the founding of Trinity. The old corporations became public trusts. The trusts became emergency councils. And when the four ganas were founded, the councils' wealth did not disperse — it consolidated into a single house, the one that named itself Kubera and took custody of the reserve. In every transition, ownership changed its name before it changed its habits.
 
 Daren had studied the official version as a child. He had memorized the dates, the production totals, and the names of the founders who had supposedly saved civilization from collapse. Seeing the images arranged across the hall, he noticed what the school texts had left out: the workers were present only as crowds in the background, their faces softened into texture beneath the machinery. Kubera's history celebrated the people who controlled the flow of resources. It did not preserve the people who carried them.
 
@@ -78,9 +78,9 @@ The Master of the Reserve stood at the far end of the chamber with his back to t
 
 Kubera could have purchased any technology Trinity possessed. The room displayed the result of purchasing more than that. Its surfaces were silent, seamless, and almost invisible until they carried information. The table showed the boys as heat, motion, chemical response, and risk. Nothing in the footage was allowed to remain a person for long.
 
-The Grandmaster reviewed the last hours of the Initiation with unmistakable pleasure. Daren remained where he had stopped, hands at his sides, while the room moved through the footage in slow, deliberate layers. He did not know whether ten minutes or an hour passed. The Grandmaster paused over the candidates' deterioration, enlarged the force response, and replayed the moment when the system classified their protection of one another as coordinated containment.
+The Grandmaster reviewed the Initiation's final hours with unmistakable pleasure — not the raw footage, but the extracts the system had already distilled from it, three days reduced to the minutes it judged significant. Daren remained where he had stopped, hands at his sides, while the room moved through the clips in slow, deliberate layers. He lost his hold on the clock; it might have been ten minutes, it might have been most of an hour. The Grandmaster paused over the candidates' deterioration, enlarged the force response, and replayed the moment when the system classified their protection of one another as coordinated containment.
 
-Daren tried to keep his attention on the table, but the ceiling above it was plated in dark gold and polished to a depthless sheen. Its surface reflected the projections below: three linked signals, a red separation pathway, Elara's name appearing in the audit stream, and the Grandmaster standing above all of it like the owner of the outcome. Daren saw his own reflection at the edge of the gold, small and distorted beneath the approaching fury. He understood that the ceiling was not decoration. It was a second display, showing him the judgment gathering overhead before anyone spoke it.
+Daren tried to keep his attention on the table, but light kept shifting at the upper edge of his vision, the projections repeating themselves somewhere overhead. When he finally looked up, he found the ceiling plated in dark gold and polished to a depthless sheen. Its surface reflected the projections below: three linked signals, a red separation pathway, Elara's name appearing in the audit stream, and the Grandmaster standing above all of it like the owner of the outcome. Daren saw his own reflection at the edge of the gold, small and distorted beneath the approaching fury. The ceiling was decoration — it had hung there polished and indifferent through generations of audiences. But for him, in this moment, it had become a second display, showing him the judgment gathering overhead before anyone spoke it.
 
 The Grandmaster's mouth lifted at the edges. The footage had confirmed a private expectation. Daren's jaw tightened. He wanted to explain the sequence, to point out the altered parameters, the unauthorized interpretation, and the moment the system had moved beyond his control. But no one had asked him to speak. In Kubera, an unsolicited defense was often treated as an admission that the accusation had landed.
 
@@ -90,7 +90,7 @@ The Grandmaster's face changed. Pleasure collapsed into disgust so complete that
 
 He turned.
 
-His eyes found Daren immediately. They were red with anger, not the bright anger of a raised voice but the deeper, maddening kind that had been given time to become judgment. Daren stopped several paces from the desk, still absorbing the grandeur of the room, the wealth built into every surface, the control embedded in every silent device.
+His eyes found Daren immediately. They were red with anger, not the bright anger of a raised voice but the deeper, maddening kind that had been given time to become judgment. Daren stood where he had halted on entering, several paces from the table, the room's grandeur pressing in on him now that there was nowhere else to look — the wealth built into every surface, the control embedded in every silent device.
 
 The Grandmaster's face showed him what it meant to be Kubera: hands that had never lifted anything heavier than a seal, a stillness that expected rooms to arrange themselves around it. And now, directed at Daren, disdain.
 
@@ -102,41 +102,41 @@ Daren had not yet spoken. The Grandmaster had already shown him the charge.
 
 The Master of the Reserve began to speak.
 
-His first words came in Tamil, the language of the ancient City of Gold, rich with the clipped rhythm of money, hierarchy, and judgment. Daren heard the vowels open and close with the precision of a language designed for command, but he did not know the meaning until the chamber device behind the Grandmaster reacted to the speech.
+His first words came in Tamil, the language of the ancient City of Gold, rich with the clipped rhythm of money, hierarchy, and judgment.
 
 "குபேராவின் டேரன். உன் பதவி மறுஆய்வு செய்யப்பட்டுள்ளது."
 
-A narrow band of gold illuminated across the rear device. The glass resolved into a two-way interface: the Grandmaster's image appeared in one plane while the chamber's translation engine opened beneath it, carrying the speech through the room in a voice stripped of all softness.
+Daren heard the vowels open and close with the precision of a language designed for command, but the meaning stayed sealed away from him — until the chamber device behind the Grandmaster reacted. A narrow band of gold illuminated across its glass, and the surface resolved into a two-way interface: the Grandmaster's image in one plane, the chamber's translation engine opening beneath it, carrying the speech through the room in a voice stripped of all softness.
 
 "Daren of Kubera. Your position is under review."
 
 The words were calm, almost gentle. That made them worse.
 
-The Grandmaster continued, and this time the Tamil rolled out in a measured, deliberate rhythm, each sentence carrying the authority of a man who had never once had to ask for silence. The device translated every phrase as it landed, the English arriving with cold exactness a beat behind the original.
+The Grandmaster continued, and this time the words rolled out in a measured, deliberate rhythm, each sentence carrying the authority of a man who had never once had to ask for silence.
 
 "உனக்கு அணுகல் வழங்கப்பட்டது, வளங்கள் வழங்கப்பட்டன, எல்லை நிலைமைகளை விளக்கும் அதிகாரமும் வழங்கப்பட்டது. மைனர் டவுனின் மூன்று இழிந்த குடிமக்களை — குபேரா கவனத்திற்கு உரியதாகக் கருதாத உழைப்பாளர் கூட்டத்திலிருந்து வந்த சிறார்களை — தீட்சையின் பொருளையே மாற்றிவிட நீ அனுமதித்தாய். எலாரா நாதனுக்கு எதிராக நிலைநிறுத்தக்கூடிய ஒரு வழக்கை உருவாக்க உன்னிடம் தரவுகள் இருந்தன, தொடர்புகள் இருந்தன, நிறுவன அளவிலான அணுகலும் இருந்தது. நீ அதைச் செய்யவில்லை."
 
-The translation panel responded at once.
+The device translated every phrase as it landed, the English arriving with cold exactness a beat behind the original.
 
 "You were granted access, resources, and the authority to define the parameters of engagement. You allowed three lowly citizens of Miner Town—youths from the laboring class whom Kubera deemed unworthy of notice—to alter the very essence of the Initiation. You possessed the data, the connections, and the institutional access to build a case against Elara Nathan. You did not."
 
 Daren's mouth went dry.
 
-The Grandmaster's next sentence came in Tamil with the same faultless calm. The chamber device translated it in the same exact register, the wording already prepared before the speech began.
+The Grandmaster's next sentence came with the same faultless calm.
 
 "குபேரா பலவீனத்தைத் தண்டிப்பதில்லை, ஏனெனில் பலவீனம் தற்காலிகமானது. தன் போட்டியாளர்களின் கண்ணில் அது படும்போது குபேரா பலவீனத்தை அகற்றுகிறது. உன் சின்னம் மறுஆய்வில் உள்ளது. உன் அனுமதி நிலை மறுஆய்வில் உள்ளது. இந்த குலத்தின் சார்பாகப் பேசும் உன் உரிமை மறுஆய்வில் உள்ளது."
 
-The translated line arrived like a verdict. The engine rendered the Grandmaster's word the way the founders had used it — Clan, not gana.
+The translated line arrived like a verdict, its wording seemingly prepared before the speech had ended. The engine rendered the Grandmaster's word the way the founders had used it — Clan, not gana.
 
 "Kubera does not punish weakness, for weakness is temporary. Kubera eliminates weakness when it becomes visible to rivals. Your sigil is under review. Your clearance level is under review. Your right to speak on behalf of this Clan is under review."
 
 The device paused. Behind the Grandmaster, the suspended panels replayed the boys emerging together, Gage carrying Otto and dragging Ben through the open gates.
 
-Then the Grandmaster tilted his chin toward the same gold surface and continued with the final accusation, again in Tamil, and the machine repeated it in English without hesitation.
+Then the Grandmaster tilted his chin toward the same gold surface and delivered the final accusation.
 
 "பிற கணங்களின் மூன்று தகுதியற்ற பிரதிநிதிகள் உன்னை மிஞ்சிவிட நீ அனுமதித்தாய், குபேராவை வலிமையற்றதாகக் காட்ட நீ அவர்களை அனுமதித்தாய்."
 
-The translation came with ritual precision.
+The machine repeated it in English without hesitation, with ritual precision.
 
 "You allowed three unqualified representatives from other Clans to surpass you, and you permitted them to make Kubera appear weak."
 
@@ -144,9 +144,9 @@ The Grandmaster did not look away from him. He looked through him: no longer a r
 
 Daren understood then. The summons had not been a briefing or a warning. It was the declaration of his removal. The Grandmaster had brought him into the chamber so he could hear the house state that he no longer represented what Kubera believed itself to be.
 
-Daren looked down at his right hand. Kubera had taught him that the hand was an instrument of value: it signed allocations, released reserves, authorized thresholds, and converted human lives into figures that could be moved across a ledger. Every operator carried that authority in the biometric pattern beneath the skin of the palm. The hand did not merely serve Kubera. It belonged to Kubera.
+Daren looked down at his right hand. Kubera had taught him that the hand was an instrument of value: it signed allocations, released reserves, authorized thresholds, and converted human lives into figures that could be moved across a ledger. The authority itself lived in the biometric pattern beneath the skin of the palm — or rather, in the house's registration of that pattern across every protected system. The bracelet on the wrist was its visible seal, the symbol that told a room what the hand was permitted to do. A hand could not be surrendered. The authority bound to it could.
 
-No operator had ever surrendered it willingly.
+No operator had ever given it up willingly.
 
 Daren stepped toward the founder seal set into the floor. The Grandmaster did not stop him. The Voice of Kubera remained silent as Daren placed his palm over the old gold mark. The system recognized his identity, his active clearance, and the removal order waiting behind the chamber walls.
 
@@ -158,7 +158,7 @@ Daren looked down at the Kubera bracelet encircling his right wrist. Its muted-g
 
 He unclasped the bracelet.
 
-The act was small enough to be mistaken for surrender. It was not. Daren placed the insignia on the founder seal and kept his right hand pressed beside it. The seal recognized both objects and opened a secondary authorization path.
+The act was small enough to be mistaken for defeat. It was not. Surrender was the word the system would print, but a surrender taken on his own initiative was the one form of the word the house could not own: he would give up the authority before Kubera could take it from him. Daren placed the insignia on the founder seal and kept his right hand pressed beside it. The seal recognized both objects and opened a secondary authorization path.
 
 VOLUNTARY AUTHORITY SURRENDER.
 
@@ -198,4 +198,4 @@ The gold panels behind the Grandmaster brightened, and the three linked signals 
 
 "It was only the first thing I needed you to give me."
 
-The doors sealed with a sound like a verdict.
+Behind Daren, the door release went dark, and the locks engaged with a sound like a verdict.
