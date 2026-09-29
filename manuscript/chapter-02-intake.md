@@ -12,7 +12,7 @@ Gage settled beneath Elara's Drona VARIANCE designation. Ben moved to Ravi's Cha
 
 Daren watched it disappear. "There," he said. "Sorted."
 
-It was Daren's word, not hers. Nothing about the three boys felt sorted. But the system had accepted the assignments, and that was what mattered inside Trinity. A problem became manageable the moment it could be given an owner.
+Sorted was Daren's word, not Elara's. Nothing about the three boys felt sorted to her. But the system had accepted the assignments, and that was what mattered inside Trinity. A problem became manageable the moment it could be given an owner.
 
 The four gana representatives returned to their consoles.
 
