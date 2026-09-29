@@ -18,13 +18,13 @@ It had summoned her to understand the terms of the question.
 
 Elara's breath shook in her chest as she forced herself upright. The room was still. The committee remained seated. The elder woman watched her with a steady, almost patient expression, as though this was merely the first part of a ritual she had already completed in her own mind.
 
-And then, at last, the elder woman said in Sanskrit, "मोनितोरा नातन, अधुना वक्तुं अर्हसि। अपि च, यानि अस्माभिः परिकल्पितानि प्रश्नानि तानि एव तेऽभ्युपगच्छन्तु, न तु स्वस्यात्मनः परिकल्पितानि।"
+And then, at last, the elder woman spoke, and the words came in Sanskrit — the oldest of the carried tongues, the language in which knowledge had first passed from teacher to student by voice alone, each syllable engineered for precision and kept alive through millennia of recitation. It was the language of the scriptures in Vishnu's cabinet, older than Trinity, older than the cities Trinity had replaced. "मोनितोरा नातन, अधुना वक्तुं अर्हसि। अपि च, यानि अस्माभिः परिकल्पितानि प्रश्नानि तानि एव तेओभ्युपगच्छन्तु, न तु स्वस्यात्मनः परिकल्पितानि।"
 
 The room did not wait for Elara to work through the sound. The elder woman inclined her head toward Mentor Kavik, and without any change in expression he rose to the surface of the room's silence with effortless composure. His voice followed immediately, clear and measured, as if he had been ready to translate before the final word was even spoken.
 
 "Monitor Nathan, you may now speak. Furthermore, let only those questions that have been devised by us be taken up by you — not ones devised by your own self."
 
-The words struck Elara with a second shock. They were not harsh, but they were older than Trinity's speech, and some part of her recognized them. The meaning stirred at the edge of her mind, familiar yet impossible to grasp.
+It was not the translation that struck Elara — it was the Sanskrit itself. The syllables were not harsh, but they were older than Trinity's speech, and some part of her recognized them. Even before Kavik had spoken, the meaning had stirred at the edge of her mind, familiar yet impossible to grasp.
 
 It was a sensation she had never known before.
 
@@ -38,7 +38,7 @@ It was only beginning.
 
 The elder woman at the end of the table did not break eye contact. She simply lifted her chin in a deliberate, measured gesture, and the rest of the chamber gave the smallest shift of attention that said the next moment had been anticipated long before Elara arrived.
 
-"प्रवृत्तेः पूर्वम्," the elder woman said in Sanskrit. "अद्य अस्यां सभायाम् उपविष्टेभ्यः आचार्येभ्यः उचितम् आदरं दर्शयत। आचार्याः एकैकशः स्वपरिचयं कुर्वन्तु।"
+"प्रवृत्तेः पूर्वम्," the elder woman said in the same ancient cadence. "अद्य अस्यां सभायाम् उपविष्टेभ्यः आचार्येभ्यः उचितम् आदरं दर्शयत। आचार्याः एकैकशः स्वपरिचयं कुर्वन्तु।"
 
 Mentor Kavik, who had translated for Elara earlier, gave the meaning in the language she understood: "Before getting involved, show due respect to the teachers sitting in this meeting today. Let the teachers introduce themselves one by one."
 
