@@ -18,7 +18,7 @@ Then a stack of trays crashed into the return belt.
 
 Kavik leaned forward as though he were only trying to hear her over the noise. "You have been carrying the council's words since you left the chamber."
 
-"I have been trying to decide whether they gave me words or a burden." Elara kept her voice low. "Sarvajña has an unexplained library wing and a transfer from Kubera that paused for conversations in closed rooms. Draṣṭā has cards and warnings. They both have a shape of danger, but neither has told me what it is."
+"I have been trying to decide whether they gave me words or a burden." Elara kept her voice low. "Sarvajña has an unexplained library wing and a transfer order from Kubera that paused for conversations in closed rooms. Draṣṭā has cards and warnings. They both have a shape of danger, but neither has told me what it is."
 
 "Because they do not know," Anandi said.
 
@@ -56,7 +56,7 @@ His plainness hurt, but it did not leave her alone with the hurt. Anandi placed 
 
 "You did not put courage into them," Anandi said. "You did not make them protect one another. You did not survive the Initiation in their bodies. What you did was refuse to let Trinity recast their own act of survival as a reason to punish them before they reached the gate. That may have consequences. It also has a moral shape. Do not confuse uncertainty with permission to abandon judgment."
 
-Elara looked beyond Anandi's shoulder toward the long windows, where the lights of Drona marked pale reflections over the night. Sarvajña's evidence returned to her: an old library expansion approved after years of refusal, funded beyond its stated purpose, and held for a moment in Kubera's hands before the money moved. It was a fact with too much empty space around it. Draṣṭā's warning lay beside it like the final card in a spread whose meaning had not yet appeared.
+Elara looked beyond Anandi's shoulder toward the long windows, where the lights of Drona marked pale reflections over the night. Sarvajñā's evidence returned to her: an old library expansion approved after years of refusal, then stalled in Kubera's hands while conversations took place behind closed doors. It was a fact with too much empty space around it. Draṣṭā's warning lay beside it like the final card in a spread whose meaning had not yet appeared.
 
 "The library wing," Elara said. "What if that is the beginning of it?"
 
@@ -142,7 +142,7 @@ The decision did not quiet the question that had brought her to the cafeteria.
 
 Later that night, Elara met Anandi and Kavik in the Drona administrative archive. The room sat behind the public research stacks, narrow and windowless, with three terminals built into a wall of pale glass. It was where Drona officers reconciled grants, access orders, and the old records that kept Trinity's institutions from openly contradicting themselves.
 
-Anandi stood at the center terminal while Kavik opened the library-wing allocation file beside her. The public version was exact and useless: expansion approved, funding released, designation pending. Kubera's transfer appeared as a completed figure with no attached correspondence, as though the money had moved through the system without ever passing through a person's hand.
+Anandi stood at the center terminal while Kavik opened the library-wing allocation file beside her. The public version was exact and useless: expansion approved, funding released, designation pending. Kubera's transfer appeared as a completed figure with no attached correspondence, as though the money had moved through the system without ever passing through a person's hand. And the figure was twice the size of the original request. When Sarvajñā had spoken to the council, the transfer was still frozen in Kubera's treasury. Somewhere between his warning and this night, someone had let the money move — and doubled it.
 
 "The approval trail was cleaned," Elara said.
 
@@ -152,7 +152,7 @@ She drew up the archive's record map: public copy, departmental copy, fiscal led
 
 Kavik studied the denial sequence. "It does not deny you because you lack authority," he said. "It denies you because the current archive does not recognize the older permission language."
 
-"The transfer happened this month," Elara said. "Why would it be filed in a language no one uses anymore?"
+"The transfer released only days ago," Elara said. "Why would it be filed in a language no one uses anymore?"
 
 "Because whoever filed it chose to," Anandi said. "The old protocol still authenticates. It simply predates every audit tool built since. A transaction entered through it is valid and almost invisible in the same motion."
 
@@ -176,7 +176,7 @@ Elara's pulse moved once at her throat.
 
 The native document opened.
 
-It was shorter than Elara expected. The additional funding had been authorized at the same moment as the library expansion, not added afterward. The destination field remained blank. The purpose field held only a single classification: CONTINUITY RESERVE. Every supporting note had been removed before the document entered the current archive.
+It was shorter than Elara expected. The additional funding had not been requested and then granted; it had been written into the authorization itself, as though doubling the sum had never been a separate decision. The destination field remained blank. The purpose field held only a single classification: CONTINUITY RESERVE. Every supporting note had been removed before the document entered the current archive.
 
 At the bottom, where a signing authority should have appeared, two letters remained.
 

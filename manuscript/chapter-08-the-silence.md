@@ -72,9 +72,11 @@ The Grandmaster gave a small signal toward Draṣṭā. The seer gathered the ca
 
 "Choose one," Draṣṭā said.
 
-Draṣṭā looked at her and smiled faintly. It was not an amused smile. It was the quiet expression of someone who had recognized Elara's confusion before Elara had found the words for it, as if the question had already crossed the space between them without being spoken.
+*Why?* The question rose at once — and stopped behind Elara's teeth. The elder woman's instruction still governed the room: only the questions the council had devised were hers to take up, none of her own. She had never felt the cost of that rule so precisely as now, holding a question she was not permitted to ask.
 
-Elara looked from the cards to the faces around the table. The request struck her as strange. If the elders had gathered to share news this grave, then something foul, difficult, or dangerous was already in motion. Perhaps something worse than that. Picking a card could not make the situation certain. It was a choice, and a choice was not certainty. It was only the act of placing her hand upon one possibility while the others remained hidden.
+Draṣṭā looked at her and smiled faintly. It was not an amused smile. It was the quiet expression of someone who had recognized the swallowed question, as if it had crossed the space between them without being spoken. She offered no answer. She only waited.
+
+Elara looked from the cards to the faces around the table. If the elders had gathered to share news this grave, then the danger already existed — a card would not create it, and refusing one would not cancel it. Whatever the drawing was for, it would cost her nothing the room had not already decided to take.
 
 She reached for the first card in the fan.
 
@@ -124,11 +126,13 @@ Elara understood the difference: Draṣṭā read patterns and possibilities, wh
 
 He glanced toward the three cards. "That work has kept old grievances from becoming open war, but balance is not resolution. While we have focused on the scales, something indescribable has begun to form beneath them. I agree with Draṣṭā. The danger is grave, and it is no longer contained by the arguments we have used to manage the past."
 
-Sarvajña's fingers rested against the stones at his wrist. "A new wing of the Drona library was sanctioned this month. The section had been blocked for more than a decade. The approval came with twice the amount originally allocated, but no clear designation for what the additional funds were meant to support. When we carried the order to the treasury, to Kubera, there was a pause before the transfer was released. Conversations took place in closed rooms."
+Sarvajñā's fingers rested against the stones at his wrist. "A proposal for a new wing of the Drona library cleared the gana's internal review this month. The section had been blocked for more than a decade. But when we carried the request to the treasury, to Kubera, the funds did not move. Conversations took place in closed rooms. The transfer has still not been released."
 
-"Our sources tell us that a new power is gathering inside Kubera. It has no name, no public office, and no designation that can be entered into a record. Yet every account describes the same impression: someone extraordinarily strong, almost omnipotent in reach, is being built behind the institution's visible structure. A person like that cannot exist without complete support. Not from one elder, or one department, but from the entire chain of authority in Kubera, all the way to its Grandmaster."
+"Our sources tell us that a new power is gathering inside Kubera. It has no name, no public office, and no designation that can be entered into a record. Yet every account describes the same impression: for months, something extraordinarily strong — almost omnipotent in reach — has been taking shape behind the institution's visible structure, waiting only for the hand that will wield it. A power like that cannot be built without complete support. Not from one elder, or one department, but from the entire chain of authority in Kubera, all the way to its Grandmaster."
 
-Sarvajña's gaze returned to Elara. "We believe this is connected to the events surrounding you during these past few days. The balance between the ganas held only because every action could still be weighed against an answering action. That balance has now slipped beyond anything ordinary judgment can restore, and what is coming will not arrive as a single act we can measure or contain. You will stand at the center of it, Elara, when the consequences of these days begin to unfold."
+Sarvajña's gaze returned to Elara. "Understand what a nameless power does to the balance. The scales the elders keep have held for generations because every action carried a name, and every action could be weighed against an answering action. A power that cannot be entered into a record cannot be weighed, and what cannot be weighed cannot be answered. Whatever this is, it has placed itself beyond the oldest instrument we possess."
+
+"And we believe your Initiation stands among its first concerns. Kubera's representative moved against your candidates and failed — in front of the other ganas, on footage every house has quietly seen. He has since disappeared from Kubera's rolls. Our library request sits frozen in Kubera's treasury. And in these same weeks, every account of the gathering power has grown firmer. Kubera does not record its humiliations as accidents, and a power built to leave no record will not answer this one through recorded channels. What is coming will not arrive as a single act we can measure or contain. You will stand at the center of it, Elara, when the consequences of these days begin to unfold."
 
 "That is why we are here: to prepare you and to ensure that Drona stands behind you. Your mentors will be your shadows from this moment onward, no matter what follows. Knowledge must not bow to wealth, strategy, or force. It must remain answerable to truth, even when every other gana has decided that truth is only another resource to be controlled."
 

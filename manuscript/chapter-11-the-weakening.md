@@ -66,6 +66,8 @@ In the gap between those two measures, he found the opening.
 
 **DRONA — LIBRARY EXPANSION, RESTRICTED WING — PRIORITY: HIGH (REQUESTING GANA) / PRIORITY: NEGLIGIBLE (RETURN PROJECTION).**
 
+Drona had approved the project. Kubera had not yet approved its funding. The request was waiting at the boundary between those two authorities, where a library could be a Drona obligation and a Kubera decision at the same time.
+
 He understood why Drona wanted it. Drona treated knowledge the way Kubera treated reserves: something to guard, expand, and never let run short. On the rare visits his old station had required, Daren had seen Drona's teachers stand before glass cases with the reverence Kubera reserved for gold. A sealed archive, a restored fragment, a wing closed for a decade: to Kubera, such things were expensive sentiment. To Drona, they were proof that the gana still served truth.
 
 That asymmetry was the entire weapon.
