@@ -12,25 +12,29 @@ The Master of the Reserve had not let him leave.
 
 His voice, when it came, was calm enough to make the sentence sound like a private kindness.
 
-"You have been marked."
-
-"Marked for removal from Kubera."
+"You have been marked," the Grandmaster said. "Marked for removal from Kubera."
 
 Daren heard the rest as if from the bottom of a well. His position. His clearance. His right to speak for the House. All of it placed beneath the same quiet blade. A promising career reduced to a failed calculation. A lifetime of obedience translated into a line on a disposal record.
 
 The sentence should have been the end of him.
 
-"You have been marked for removal," the Grandmaster said. "That would be the end of a promising career for most people. For you, it can be a second chance."
+"For most people, that would be the end," the Grandmaster said. "For you, it can be a second chance."
 
-The offer was a doorway into a power he had never been permitted to imagine possessing.
+A second chance. The phrase carried no title, no terms, and no price — only the fact that the Grandmaster had chosen to speak it instead of letting him walk out erased.
 
-Daren went still. He had been thrown out of one life and shown the door to another, and the Grandmaster was watching to see which one he would choose. He lifted his eyes and held the man's gaze. The decision had already begun inside him.
+Daren went still. He had been thrown out of one life, and something unnamed was being held open behind those words. The Grandmaster was watching to see whether he would reach for it. He lifted his eyes and held the man's gaze. The decision had already begun inside him, though he could not yet have said what he was deciding toward.
 
-"Kubera will not be ridiculed again," he said. "It will not be pressured by another gana. It will not be directed by them, negotiated into obedience, or dominated by their claims of moral authority. The four houses have mistaken cooperation for equality. They have forgotten which House keeps the city alive."
+"Kubera will not be ridiculed again," the Grandmaster said. "It will not be pressured by another gana. It will not be directed by them, negotiated into obedience, or dominated by their claims of moral authority. The four houses have mistaken cooperation for equality. They have forgotten which House keeps the city alive."
 
-Daren did not move. The man who had entered the chamber seeking to defend his position had not disappeared; he had hardened into something the old Kubera hierarchy could no longer contain. His humiliation, his fear, and his hunger for recognition had fused into a colder purpose. When he finally spoke, his voice carried the first trace of the force he was becoming. "What do you want me to do?"
+Daren did not move. But something began to settle inside him, the way metal settles into a mold. He had carried his humiliation into this chamber as a verdict on himself. The Grandmaster's words gave it a different shape: not his failure to absorb alone, but a grievance belonging to the whole House — and a House that intended to answer it. Nothing about him was transformed in that moment. He was only given a direction, and every broken thing in him turned toward it at once.
+
+"What do you want me to do?"
 
 "Become what no House has been able to name."
+
+Daren waited.
+
+"Every power in Trinity exists because it is recorded," the Grandmaster said. "A title. A registry. A designation. That is what makes authority real to the other Houses — and it is also what lets them answer it. Whatever can be named can be measured, weighed, and countered. For a century, the Houses have fought one another through their records. None of them has ever learned to fight what refuses to enter one."
 
 "You will be our weapon," the Grandmaster continued. "Invisible to the structures that were built to contain us. You will move through their records without belonging to them, and alter decisions before anyone knows a decision was made."
 
@@ -128,7 +132,7 @@ Daren looked down at the bracelet. The place where his old authority had been re
 
 The Grandmaster closed the gold box. He did not look away from Daren. The expression on his face was the same cold, deliberate one Daren had seen only moments before, when the Grandmaster had spoken of the ruling gana and the city as a thing that could be pried open. They were of different orders entirely, yet they stood, for the first time, on the same plane.
 
-"I have given you a way to be seen by the city as more than a servant of Kubera," he said.
+"The city will never see you again," he said. "It will only answer you. That is the difference between a servant of Kubera and what you have just become."
 
 Daren raised his eyes.
 
@@ -138,17 +142,17 @@ The dark wall panel reflected him now. His face, his bare collar, and the obsidi
 
 He understood the first lesson without asking: Trinity was never as quiet as it seemed.
 
-He returned to his room with the obsidian bracelet at his wrist and the weight of the chamber still pressing against the back of his eyes. He had expected Kubera members to stop him in the corridor, to question the black band or demand an explanation. No one did. The representatives and attendants he passed stepped aside without speaking. None held his gaze.
+He left the chamber with the obsidian bracelet at his wrist and the weight of the audience still pressing against the back of his eyes. Through the Great Hall's galleries and down the Phoenix, he had expected Kubera members to stop him, to question the black band or demand an explanation. No one did. The representatives and attendants he passed stepped aside without speaking. None held his gaze.
 
-The narrow bed, the dormant wall display above it, and the single table looked identical to what they had before, but something in the geometry of the room had changed. He changed into a plain dark shirt and trousers, leaving the bracelet uncovered. The room was no longer a place where he lived. It was a place he had been released to, as if Trinity had already started deciding where to place him next.
+From Meru he descended to Trinity-1, back to the borrowed quarters the monitoring assignment had allocated him — a room he no longer had any right to, and which Kubera had never formally reclaimed. The narrow bed, the dormant wall display above it, and the single table looked identical to what they had before, but something in the geometry of the room had changed. He changed into a plain dark shirt and trousers, leaving the bracelet uncovered. The room was no longer a place where he lived. It was a place he had been released to, as if Trinity had already started deciding where to place him next.
 
-He turned the lights off. Without the overhead panels, the walls lost their clean Kubera geometry, and the narrow quarters became a box suspended above the city. He sat on the edge of his bed and watched the window.
+He turned the lights off. With the overhead panels dark, the walls lost their clean Kubera geometry, and the narrow quarters became a box suspended above the city. He sat on the edge of his bed and watched the window.
 
 In the dark, the band at his wrist disappeared. It did not reflect the weak light rising from the city; it swallowed it, becoming indistinguishable from the darkness around his skin. Only when he turned his hand toward the glass did a razor-thin edge catch the stars. No reflection moved across it. No seam or mark interrupted its perfect blackness. The Kubera bracelet had announced what he belonged to. The obsidian one announced nothing at all. It simply waited, powerful enough to remain unseen.
 
 The window occupied most of the far wall. The monitors' residential tower stood at Trinity-1's upper rim, and the sealed pane offered a genuine view into the open sky, with Meru's dark underside hanging at the top of the frame like a lid the city pretended not to notice. There was no projection behind the glass, no manufactured field of stars, and no ceiling pretending to be a horizon. Beyond it, the night was vast and indifferent.
 
-Out of a lifetime's habit, Daren almost reached for the records — the reflex of a man who had always been able to open a ledger and point to the line that was himself. The entries still existed somewhere in Kubera's archives. Only his name had been removed from them. Whatever he did from this night forward, no record would carry it, and the part of him that had worshipped records grieved even as the rest of him understood that the grief was the price of what he had been given.
+Out of a lifetime's habit, Daren's hand moved toward the glass pane resting beside the bed — the reflex of a man who had always been able to open a ledger and point to the line that was himself. He stopped before touching it. The entries still existed somewhere in Kubera's archives. Only his name had been removed from them. Whatever he did from this night forward, no record would carry it, and the part of him that had worshipped records grieved even as the rest of him understood that the grief was the price of what he had been given.
 
 Tonight, the stars looked too orderly.
 
@@ -158,7 +162,7 @@ His gaze stopped on the dark place between the stars.
 
 It was not a cloud but a darkness fixed among the stars, no larger than a fingernail against the sky. The lights around it bent into thin arcs and followed tight, unnatural paths, one vanishing at its edge before reappearing above it while another fell around something no eye could see. Daren leaned forward as his eyes adjusted and the pattern sharpened. He knew what he was looking at: a black hole, its lightless center concealed by the mass that had taken control of the sky around it, hiding in plain sight between the stars.
 
-Daren placed his palm against the glass. The black hole held the stars in its orbit without appearing among them, ruling the sky by remaining unseen. He understood the resemblance with a clarity that stilled him: his Kubera identity had been stripped away, yet the power placed upon him remained hidden, unmarked, and capable of bending every visible structure around it. He was no longer meant to stand at the center of the system. He was meant to become the force other people arranged themselves around.
+Daren placed his palm against the glass. The black hole held the stars in its orbit without appearing among them, ruling the sky by remaining unseen. He understood the resemblance with a clarity that stilled him: his Kubera identity had been stripped away, and the power placed upon him remained hidden and unmarked — and the Grandmaster had promised that the city would answer it the way this sky answered the darkness, bending around a force it could not see. He was no longer meant to stand at the center of the system. He was meant to become the force other people arranged themselves around.
 
 The smile that touched his face was recognition, and it gave his features a sinister calm — relief and grief fused into a single expression, the look of a man who had lost his name and found the sky's own way of ruling without one.
 
@@ -171,6 +175,10 @@ REPORT TO THE GRANDMASTER'S CHAMBER. IMMEDIATE.
 No routing code. No signature. No clearance stamp.
 
 Daren crossed the room and read it twice. The house knew which room was his. That was enough.
+
+The Kubera uniform hung in the alcove where he had placed it on the first night of the assignment — the exact seams, the polished collar, the muted insignia aligned to the center of the body, every detail that had once declared his place inside the house. Out of habit, his hand went toward it, and stopped for the second time that night. He had no right to wear it now. Standing there in the grey light, he discovered he also had no wish to. The uniform announced a rank, and a rank was an entry in a registry — something that could be measured, weighed, and countered. What he had become had no entry. Putting on Kubera's colors would not have been an impersonation. It would have been a demotion.
+
+He dressed in plain clothes, folded the uniform once with the care owed to a thing that had finished its work, and left it on the bed for the house to reclaim along with the room.
 
 The corridor outside his room was quiet, but not empty. Two maintenance workers' wrist terminals pulsed at the same moment. They read the displays, then immediately dropped their eyes. One straightened and stepped aside before Daren reached them. Another lowered his head and made a small, careful gesture with his hand.
 

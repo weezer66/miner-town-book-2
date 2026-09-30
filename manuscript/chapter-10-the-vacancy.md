@@ -10,7 +10,7 @@ Trays struck the return belt at one end of the room. The drink dispenser hissed 
 
 Anandi had chosen a table near the center of the room, where no one could approach without being seen. A mentor sharing dinner with a monitor would usually draw notice, but the evening rush gave everyone else a reason to mind their own meal. Kavik sat with his back to the service line, turning a mug of nutrient stew between his hands. Elara had not touched the food in front of her. The braised grain and protein cake had cooled into a surface she could not bring herself to disturb.
 
-For several minutes, they spoke about nothing that mattered. Anandi asked whether Elara's wrist still hurt from the monitoring brace. Kavik complained that the cafeteria had thinned the stew again to stretch the ration. Drona never went hungry, not the way Miner Town did, but it never enjoyed Kubera's abundance either. Its allocations were fixed and precisely accounted, and by the final week of a cycle, the kitchens grew frugal, watering broth and shaving portions to make the ledger close cleanly.
+For several minutes, they spoke about nothing that mattered. Anandi asked whether Elara had managed to sleep since the extended cycle, and whether her shoulders still ached from the days spent held upright at the console. Kavik complained that the cafeteria had thinned the stew again to stretch the ration. Drona never went hungry, not the way Miner Town did, but it never enjoyed Kubera's abundance either. Its allocations were fixed and precisely accounted, and by the final week of a cycle, the kitchens grew frugal, watering broth and shaving portions to make the ledger close cleanly.
 
 Elara pushed her spoon through the cold grain without lifting it.
 
@@ -18,7 +18,7 @@ Then a stack of trays crashed into the return belt.
 
 Kavik leaned forward as though he were only trying to hear her over the noise. "You have been carrying the council's words since you left the chamber."
 
-"I have been trying to decide whether they gave me words or a burden." Elara kept her voice low. "Sarvajña has an unexplained library wing and a transfer order from Kubera that paused for conversations in closed rooms. Draṣṭā has cards and warnings. They both have a shape of danger, but neither has told me what it is."
+"I have been trying to decide whether they gave me words or a burden." Elara kept her voice low. "Sarvajña has a library wing his own gana debated for a decade before finally approving, and a funding request that stopped moving the moment it reached Kubera's treasury — paused, he said, for conversations in closed rooms. Draṣṭā has cards and warnings. They both have a shape of danger, but neither has told me what it is."
 
 "Because they do not know," Anandi said.
 
@@ -56,7 +56,7 @@ His plainness hurt, but it did not leave her alone with the hurt. Anandi placed 
 
 "You did not put courage into them," Anandi said. "You did not make them protect one another. You did not survive the Initiation in their bodies. What you did was refuse to let Trinity recast their own act of survival as a reason to punish them before they reached the gate. That may have consequences. It also has a moral shape. Do not confuse uncertainty with permission to abandon judgment."
 
-Elara looked beyond Anandi's shoulder toward the long windows, where the lights of Drona marked pale reflections over the night. Sarvajñā's evidence returned to her: an old library expansion approved after years of refusal, then stalled in Kubera's hands while conversations took place behind closed doors. It was a fact with too much empty space around it. Draṣṭā's warning lay beside it like the final card in a spread whose meaning had not yet appeared.
+Elara looked beyond Anandi's shoulder toward the long windows, where the lights of Drona marked pale reflections over the night. Sarvajñā's evidence returned to her: an old library expansion the gana had argued over for a decade and finally approved, then stalled in Kubera's hands while conversations took place behind closed doors. It was a fact with too much empty space around it. Draṣṭā's warning lay beside it like the final card in a spread whose meaning had not yet appeared.
 
 "The library wing," Elara said. "What if that is the beginning of it?"
 
@@ -82,13 +82,13 @@ Elara did not touch it. "Thorton's slot. Gage's father."
 
 "Yes," Kavik said. "When a worker dies, the ledger does not erase the household. It flags the household's registered dependents as eligible for the vacancy. Eligible, not chosen. The intake queue still pools every open slot against every incoming worker and assigns them blind. Gage is as likely to land on some other number as this one. Our contacts found the flag. They did not act on it."
 
-"The system does not retain it as a father's slot," Anandi said. "It retains a position. A shift, a shaft, a sequence of access and labor records. When a worker is removed, the number waits for another body."
+"To the system it is not a father's slot," Anandi said. "It is a number waiting for another body."
 
 The words made the page look colder. Elara remembered the reports she had read after the Initiation: Gage's resistance, the bruised steadiness of him, the way he had carried the others without pretending that carrying them made him unbreakable. A tag could not return anything to him. It could not make the mine less hungry.
 
 "Why bring this to me?" she asked.
 
-Kavik did not answer at once. "Our contacts identified Thorton's vacancy. A death shaft is held for hazard reclassification before it can be refilled. That hold has kept it from cycling to someone else. It happens to still be open. If you choose, our contacts can route it into Gage's assignment batch before the hold lifts. It requires no false record and no named exception. The clerk will receive an ordinary vacancy in an ordinary batch."
+Kavik did not answer at once. "Our contacts identified Thorton's vacancy. When a worker dies at his post, the slot is set aside while the hazard is reviewed. No one can be assigned to it until the review closes. That is the only reason it has not already gone to someone else. If you choose, our contacts can route it into Gage's assignment batch before the hold lifts. It requires no false record and no named exception. The clerk will receive an ordinary vacancy in an ordinary batch."
 
 "And the clerk will stamp it onto him without knowing why."
 
