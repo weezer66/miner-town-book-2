@@ -82,11 +82,11 @@ That was where the weakening began. Once Drona accepted abundance from Kubera wi
 
 Drona called itself the conscience of the city. Daren did not need to destroy that conscience. He needed to make it busy explaining why the gift was righteous.
 
-He went further than the ledger required. The original request had asked for an expansion. Daren authorized double the sum.
+He had gone further than the ledger required. The original request had asked for an expansion. Daren had authorized double the sum.
 
-The transfer moved through the Continuity Reserve, the same channel the Grandmaster had taught him to use. Ordinary Kubera spending required layers of approval. Continuity Reserve transfers did not. They had been built for founder-tier authority, old enough that the system did not ask the modern questions: Which director requested this? Which office signed? Which account gains? Daren no longer held a Kubera title, but the ledger recognized what the bracelet made him. It released the funds without challenge. Drona's accounts received the doubled sum as confirmation, not anomaly.
+The transfer had moved through the Continuity Reserve, the same channel the Grandmaster had taught him to use. Ordinary Kubera spending required layers of approval. Continuity Reserve transfers did not. They had been built for founder-tier authority, old enough that the system did not ask the modern questions: Which director requested this? Which office signed? Which account gains? Daren no longer held a Kubera title, but the ledger recognized what the bracelet made him. It had released the funds without challenge. Drona's accounts had received the doubled sum as confirmation, not anomaly.
 
-At the base of the transfer, where a signature was required by a protocol too old to demand a name, the field accepted two letters he had used before.
+At the base of the transfer, where a signature was required by a protocol too old to demand a name, the field had accepted two letters he had used before.
 
 OG.
 

@@ -88,7 +88,7 @@ The words made the page look colder. Elara remembered the reports she had read a
 
 "Why bring this to me?" she asked.
 
-Kavik did not answer at once. "Our contacts identified Thorton's vacancy. When a worker dies at his post, the slot is set aside while the hazard is reviewed. No one can be assigned to it until the review closes. That is the only reason it has not already gone to someone else. If you choose, our contacts can route it into Gage's assignment batch before the hold lifts. It requires no false record and no named exception. The clerk will receive an ordinary vacancy in an ordinary batch."
+Kavik did not answer at once. "Our contacts identified Thorton's vacancy. When a worker dies at his post, his slot is not refilled right away. A safety inspection is opened first, to establish what killed him, and no new worker can be assigned to the slot until the inspection is finished. That is the only reason it has not already gone to someone else. And that inspection is the one thing our contacts can reach. Assignment is blind, but it is not random: the clerk works down the intake line and stamps each worker with whatever open number the queue holds. The mine never lets a number sit open — there are always more waiting workers than slots, and an opening is stamped onto someone within minutes of appearing. So the queue is almost always empty. Finish the inspection at the moment Gage reaches the clerk, and his father's number is not the next slot available. It is the only one. No one chooses him for it. The queue simply has nothing else to give. It requires no false record and no named exception. The clerk will see an ordinary vacancy in an ordinary queue."
 
 "And the clerk will stamp it onto him without knowing why."
 
@@ -106,9 +106,9 @@ Elara read the number again. #4055. Thorton's former work slot, emptied by a sac
 
 "Then why this line?"
 
-Anandi watched the workers clearing tables around them. "Because it carries a history he already knows. A worker tag is meant to reduce a person to a location and a task, this one no differently than any other. Gage may see more in it than that. He may use it for purpose. He may reject it. He may decide it means only grief. Those decisions must remain his."
+Anandi watched the workers clearing tables around them. "Because the intake queue will stamp a number on him whether we act or not. That part we cannot prevent. Every other slot in the pool would reduce him to a location and a task that mean nothing. This one carries his father — the place he worked, the record of what he did, the history Trinity filed as a disposal. If the city insists on giving him a dead man's position, it can give him his own dead. Gage may see more in it than that. He may use it for purpose. He may reject it. He may decide it means only grief. Those decisions must remain his."
 
-Kavik added, "The available opening is a condition, not an instruction. We can make it possible for him to inherit the number. We cannot decide what he makes of it, and we should not pretend otherwise."
+Kavik added, "The available opening is a condition, not an instruction. Our intention is small: that the number he carries should mean something to him instead of nothing. We can make it possible for him to inherit it. We cannot decide what he makes of it, and we should not pretend otherwise."
 
 Elara thought of the boys walking out together beneath the gate lights, each of them carrying what the chamber had done to him. She had never seen their future. She had only seen what Trinity intended to do next and refused to accept it. This was smaller than a future and more dangerous than a certainty. It was a number on a routine form, a dead man's labor position, a thin connection to a map Gage might someday learn to read.
 
@@ -128,7 +128,7 @@ Elara folded the notice once along its existing crease. The paper made almost no
 
 She could still refuse. She could leave #4055 to the blind rotation of the intake queue and tell herself that restraint was cleaner than intervention. But clean hands had never been the same as harmless hands. The pathway before her was narrow, uncertain, and real.
 
-"Then let it go into his intake batch," she said. "I choose that."
+"Then do it the way you described," she said. "Keep the safety inspection on his father's slot unfinished until Gage stands at the head of the intake line, and finish it in that moment — when the queue is empty and #4055 is the only number it can offer him. Nothing forged. Nothing named. Only timing." She set the folded notice down between them. "I choose that."
 
 Kavik gave a single nod. He took back the folded notice and slipped it beneath his cup.
 
@@ -142,7 +142,9 @@ The decision did not quiet the question that had brought her to the cafeteria.
 
 Later that night, Elara met Anandi and Kavik in the Drona administrative archive. The room sat behind the public research stacks, narrow and windowless, with three terminals built into a wall of pale glass. It was where Drona officers reconciled grants, access orders, and the old records that kept Trinity's institutions from openly contradicting themselves.
 
-Anandi stood at the center terminal while Kavik opened the library-wing allocation file beside her. The public version was exact and useless: expansion approved, funding released, designation pending. Kubera's transfer appeared as a completed figure with no attached correspondence, as though the money had moved through the system without ever passing through a person's hand. And the figure was twice the size of the original request. When Sarvajñā had spoken to the council, the transfer was still frozen in Kubera's treasury. Somewhere between his warning and this night, someone had let the money move — and doubled it.
+The library wing was the one piece of Sarvajñā's evidence that lived in records Drona could lawfully open. If the request was still frozen in Kubera's treasury, the allocation file would show the hold — and a hold had to be entered by someone. A name, an office, a date: any of them would give the closed-room conversations an address. That was all Elara had come for. A fact with less empty space around it.
+
+Anandi stood at the center terminal while Kavik opened the library-wing allocation file beside her. The file did not show a hold. It showed the opposite: expansion approved, funding released, designation pending. Kubera's transfer appeared as a completed figure with no attached correspondence, as though the money had moved through the system without ever passing through a person's hand. And the figure was twice the size of the original request. The record was exact about everything except what they had come to find: no name, no office, no date of decision — nothing to say who had freed the money, or why. When Sarvajñā had spoken to the council, the transfer was still frozen in Kubera's treasury. Somewhere between his warning and this night, someone had let the money move — and doubled it.
 
 "The approval trail was cleaned," Elara said.
 
@@ -160,7 +162,7 @@ Kavik studied the denial sequence. "It does not deny you because you lack author
 
 "Not through," Anandi said. "Around."
 
-She named the original Drona filing convention, one Elara had encountered only in training exercises: every authorization created a mirrored audit path, preserved for disputes between the ganas. The path no longer appeared in the modern interface, but it still existed beneath the redactions.
+"The Sākṣī path," she said — the witness path, the original Drona filing convention, a name Elara had encountered only in training exercises. In the gana's first century, no authorization had been trusted on its own word: every record created a second, mirrored copy of itself, written in parallel and kept apart from the hands that made the original, so that a dispute between the ganas could always be judged against a witness no single house controlled. The witness path no longer appeared in the modern interface, but it had never been decommissioned. It still existed beneath the redactions.
 
 Kavik began entering a string of old ledger intervals. He was not guessing at a password. He was rebuilding the sequence that linked the library request, Kubera's transfer, and the final approval. One number followed another across the screen until a second prompt opened beneath the first.
 
@@ -176,7 +178,7 @@ Elara's pulse moved once at her throat.
 
 The native document opened.
 
-It was shorter than Elara expected. The additional funding had not been requested and then granted; it had been written into the authorization itself, as though doubling the sum had never been a separate decision. The destination field remained blank. The purpose field held only a single classification: CONTINUITY RESERVE. Every supporting note had been removed before the document entered the current archive.
+It was shorter than Elara expected. No one had asked for the additional funding, and no one had granted it; the doubled sum had been written into the authorization itself, as though it had never been a separate decision. The destination field remained blank. The purpose field held only a single classification: CONTINUITY RESERVE. Every supporting note had been removed before the document entered the current archive.
 
 At the bottom, where a signing authority should have appeared, two letters remained.
 
