@@ -62,13 +62,14 @@ for block_index, block in enumerate(body_blocks):
     is_recall_marker = block_index == 0 and stripped.startswith("*") and stripped.endswith("*")
     is_attribution = stripped.startswith("\u2014")
     is_subheading = stripped.startswith("## ")
-    if block.startswith("Back in Drona,"):
-        book_two_started = True
     text = plain_text(block)[3:] if is_subheading else plain_text(block)
     run = paragraph.add_run(text)
     if is_recall_marker or is_attribution:
         run.italic = True
         run.font.color.rgb = RGBColor(92, 107, 125)
+        if is_attribution:
+            # grey cold-open styling ends with the epigraph attribution
+            book_two_started = True
     elif is_subheading:
         run.bold = True
         run.font.color.rgb = RGBColor(0, 0, 0)
