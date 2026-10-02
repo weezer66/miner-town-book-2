@@ -178,7 +178,7 @@ Daren crossed the room and read it twice. The house knew which room was his. Tha
 
 The Kubera uniform hung in the alcove where he had placed it on the first night of the assignment — the exact seams, the polished collar, the muted insignia aligned to the center of the body, every detail that had once declared his place inside the house. Out of habit, his hand went toward it, and stopped for the second time that night. He had no right to wear it now. Standing there in the grey light, he discovered he also had no wish to. The uniform announced a rank, and a rank was an entry in a registry — something that could be measured, weighed, and countered. What he had become had no entry. Putting on Kubera's colors would not have been an impersonation. It would have been a demotion.
 
-He dressed in plain clothes, folded the uniform once with the care owed to a thing that had finished its work, and left it on the bed for the house to reclaim along with the room.
+He dressed in plain clothes, folded the uniform once with the care owed to a thing that had finished its work, and left it on the bed for the house to reclaim.
 
 The corridor outside his room was quiet, but not empty. Two maintenance workers' wrist terminals pulsed at the same moment. They read the displays, then immediately dropped their eyes. One straightened and stepped aside before Daren reached them. Another lowered his head and made a small, careful gesture with his hand.
 

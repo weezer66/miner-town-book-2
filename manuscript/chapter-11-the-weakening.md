@@ -6,19 +6,19 @@
 
 Elara sat on the edge of her bed with the lights turned low.
 
-She had taken the library-wing transfer as far as Drona's records could carry her. Anandi had opened the doors her clearance could open. Kavik had rebuilt the ledger path the modern archive no longer displayed. Together, they had moved from the public approval to the departmental copy, from the fiscal ledger to the native authorization itself.
+She had taken the library-wing transfer as far as Drona's records could carry her. Anandi had known what no clearance could replace: the Sākṣī path, the old witness convention the modern interface had forgotten. Kavik had rebuilt the ledger sequence that led down it. Together, they had moved from the public approval to the departmental copy, from the fiscal ledger to the native authorization itself.
 
 At the center, they had found only two letters.
 
 OG.
 
-No registry entry. No retired title. No office, elder, committee, or forgotten designation matched it. The archive accepted the signature, but it would not explain it.
+Every signature in the archive was a door that led back to a person — an office, an elder, a chain of succession. This one led back to nothing. The system obeyed the two letters without being able to say whom it was obeying.
 
-That was the wall. Not a locked door she had failed to open, but a wall with no visible top and no visible end.
+That was the wall. Not a locked door she had failed to open, but a wall that ran farther than she could see in any direction, with nothing to climb and no edge to walk around.
 
 Her breath came shorter than the room required.
 
-She recognized the sensation before she named it. It was not the panic the Ancient One's raised hand had forced into her body in the council chamber, but it came from the same place: the fear of a system that could take away air, answers, or standing whenever it chose.
+She recognized the sensation before she named it. It was not the panic the Ancient One's raised hand had forced into her body in the council chamber, but it came from the same place. There, the system had taken her air. Here, it simply declined to give her an answer — and the refusal frightened her the same way, because both told her the same thing: what she received was never hers. It was issued, and it could be withheld.
 
 Sarvajña's warning returned first. *Something indescribable has begun to form beneath the scales.*
 
@@ -30,9 +30,9 @@ Elara still did not know what she was preparing for. She only knew it had a shap
 
 She pulled her knees up and wrapped her arms around them, an old habit from a childhood spent memorizing the difference between a fear she could act on and a fear she could only carry. Tonight, for the first time since the Initiation, she could not tell which one this was.
 
-Three floors above the residential wing, Daren sat in the room Kubera had assigned to him when he was still a representative. After his removal, no one had formally reclaimed it. The institution no longer acknowledged him as its occupant, but the room remained available, and Daren had returned because he had nowhere else to go. He was not afraid of anything.
+Three floors above the residential wing, Daren sat in the room Kubera had assigned to him when he was still a representative. After his removal, no one had formally reclaimed it. Meru had made him into its weapon, but a weapon is stored, not housed: no quarters could be assigned to a man who no longer appeared in any record. Meru could have found him an unlisted corner nearer the Grandmaster, and that was exactly why it would not. Proximity was a record of its own, and too many faces on Kubera's tier had watched his removal. A weapon was kept where it was aimed: his work lay down here, among the ganas, and in a monitor tower whose guests rotated away every cycle, no one looked twice at a man who stayed. He was not afraid of anything.
 
-He knew that should have troubled him. He was moving against another gana in secret. He carried a power he did not yet understand. He was starting something that could not be easily undone.
+It was the absence itself that should have troubled him. He was moving against another gana in secret. He carried a power he did not yet understand. He was starting something that could not be easily undone. Any man doing these things ought to feel fear.
 
 None of it frightened him. Fear, he understood when he went looking for it, had lived in the things Kubera could take away — the rank, the record, the name. All three were gone, and the erasure had taken his fear with them.
 
@@ -48,7 +48,7 @@ Daren set the pane on his knee.
 
 He had spent his career at THRESHOLD reading limits other people pretended did not exist: intervention bands, cost triggers, acceptable-loss curves. He had believed that work was restraint. The Master of the Reserve had shown him another use for it. A man who knew how much pressure a system could survive also knew how much excess it could be given before the excess became a weakness.
 
-The only question left was which gana to test the method on first.
+In the first hours after the chamber, only one question had remained: which gana to test the method on first.
 
 Drona had been the obvious answer before he had finished asking it.
 
@@ -60,9 +60,9 @@ Revenge did not need to announce itself. It only needed patience and the right i
 
 He had gone looking for the exact meal.
 
-The cross-gana requisition ledger was not truly classified. It was merely tedious, which made it almost as safe as secrecy. Daren cross-checked Drona's open requests against Kubera's internal return projections. Drona ranked a thing by what it could teach. Kubera ranked it by what it would return.
+The cross-gana requisition ledger was not truly classified. It was merely tedious, which made it almost as safe as secrecy. Daren had cross-checked Drona's open requests against Kubera's internal return projections. Drona ranked a thing by what it could teach. Kubera ranked it by what it would return.
 
-In the gap between those two measures, he found the opening.
+In the gap between those two measures, he had found the opening.
 
 **DRONA — LIBRARY EXPANSION, RESTRICTED WING — PRIORITY: HIGH (REQUESTING GANA) / PRIORITY: NEGLIGIBLE (RETURN PROJECTION).**
 
@@ -114,13 +114,17 @@ Then she thought of Rohan.
 
 She remembered his hand flat against Daren's chest, and the eight words that had followed it. *Whatever happens next, I will stand with you.* He had said it once, in a room lit blue, without knowing yet what it might cost him. Tonight she intended to learn whether the promise still held its shape.
 
-If Drona and Ashoka ever stood side by side in the same frame, it would not resemble an alliance drawn on paper. It would look like a lantern set into a scarred open palm — patient light resting inside a disciplined grip, neither one dimming the other, neither one willing to close.
+If Drona and Ashoka ever stood side by side in the same frame, it would not resemble an alliance drawn on paper. It would look like a lantern set into a scarred open palm — patient light resting inside a disciplined grip: the hand never closing over the flame, the flame never asking the hand to soften.
 
 Elsewhere in Trinity, Daren had stopped measuring himself against the man he had been. The same calculation was working itself out in a different currency.
 
 Gold could open a door. It could buy delay, gratitude, and silence. But money could not decide what a thing meant once it entered the record. Kubera could fund the library wing. Chanakya could make that funding look inevitable, reasonable, even necessary. Daren had watched his own gana lose enough arguments to understand the difference: Kubera moved resources, but Chanakya moved the story around them.
 
-The bracelet gave Daren reach. It did not give him cover. If he pushed too openly, Trinity would feel the pressure and harden around it. Ravi offered a different kind of force: the ability to turn a pressure into an interpretation, and an interpretation into policy.
+The bracelet gave Daren reach. It did not give him cover. If he pushed too openly, Trinity would feel the pressure and harden around it. What he needed lived in the other house: someone inside Chanakya who could turn a pressure into an interpretation, and an interpretation into policy.
+
+Then he thought of the EVENT console in the Tier-1 monitoring room, one station along from his own, and the man who had run it through the whole Initiation watch.
+
+Ravi.
 
 There were older Chanakya officers, sharper ones perhaps, and certainly ones with more authority. Daren did not know them. He knew Ravi. He had watched Ravi work inside a crisis, and that mattered more than rank.
 
@@ -132,11 +136,13 @@ Kubera and Chanakya together would look nothing like conspiracy. Almost respecta
 
 Two rooms. Two ganas each, moving on the same night toward the same unfinished war. Elara reached for a hand that had already promised to hold hers. Daren reached for a hand that had not yet realized how much of itself it stood to lose. Elara still did not know what the two letters meant. Daren knew exactly what they meant, but not yet how much of the road ahead had already been laid by the man who had taught him to sign them.
 
-At 4:00 a.m., Rohan was awake in the Ashoka barracks.
+One of those reaches was already moving. Elara's letter — a single folded sheet of paper — was on its way to a door in the Ashoka barracks.
+
+At 4:00 a.m., Rohan was awake behind that door.
 
 The room held nothing that did not serve discipline. A narrow bed. A folded uniform. A wash basin of brushed steel. A rack for boots and armor, each piece aligned to the edge of its mark on the floor. The walls were bare except for the Ashoka insignia above the door, rendered in matte red, not decorative enough to be admired and not subtle enough to be forgotten.
 
-Rohan moved through the final sequence of his morning routine without sound: a low horse stance held until his thighs trembled, controlled descents that denied the body momentum, breath measured against strain until the mind stopped asking when it would end. Ashoka had no use for display. This was obedience under pressure, the old lesson driven into bone one repetition at a time: failure might happen, but surrender was never permitted to arrive first.
+Rohan was finishing his morning conditioning without sound: a low horse stance held until his thighs trembled, controlled descents that denied the body momentum, breath measured against strain until the mind stopped asking when it would end. Ashoka had no use for display. This was obedience under pressure, the old lesson driven into bone one repetition at a time: failure might happen, but surrender was never permitted to arrive first.
 
 Sweat moved down the scar at his jaw, but his expression kept the hard stillness he carried into every room, as though the body had been given a command and the man inside it had agreed never to negotiate.
 
@@ -144,11 +150,11 @@ He lowered himself into the last hold when a pale rectangle slipped beneath the 
 
 Rohan did not move toward it at once.
 
-The paper came to rest just inside the threshold, white against the dark floor. No chime followed. No guard announced a summons. No official seal lit the reader beside the door. Whoever had delivered it had chosen paper because paper did not require the system to admit it had carried a message.
+The paper came to rest just inside the threshold, white against the dark floor. No chime followed. No guard announced a summons. No official seal lit the reader beside the door.
 
 Only when the final breath count ended did Rohan rise.
 
-He crossed the room and picked up the letter. The paper was plain, not Kubera's heavy stock with its hidden fibers and quiet expense. It was handwritten, which ruled out Ashoka's clipped typed orders. It carried no Chanakya routing language, no policy frame soft enough to mean three things at once. That left Drona.
+He crossed the room and picked up the letter. Paper, not a pane — whoever had sent it had chosen the one carrier that did not require the system to admit a message had moved. The paper was plain, not Kubera's heavy stock with its hidden fibers and quiet expense. It was handwritten, which ruled out Ashoka's clipped typed orders. It carried no Chanakya routing language, no policy frame soft enough to mean three things at once. That left Drona.
 
 Ashoka taught its representatives to check the signature before the order. Authority mattered more than instruction; an order could be questioned, but the person who accepted responsibility for it could not be mistaken.
 
@@ -167,7 +173,7 @@ I will report to Review Room Two in the Ashoka administrative wing tomorrow at 1
 Elara Nathan
 - Drona
 
-Before he finished reading the message, he had already decided to stand with her. No order required it. He saw no strategic advantage in it. He simply knew that leaving her to face it alone would be wrong. Ashoka called that instinct Dhamma (supreme duty).
+Before he finished reading the message, the decision was already made. No order required it, and he did not search for one. He had given his word in a room lit blue, with three ganas watching, and he had given it for a reason he could have defended before any tribunal in Ashoka: he had watched a representative hold the line for three boys who had held it for each other, and then watched the system turn on her for it while Daren, his judgment run through with anger, advanced on her station. Ashoka existed for exactly that moment — to stand between a person and an accusation until fairness, not anger, decided the outcome. He had said eight words and walked away before she could ask what they would cost him, because the cost was not her concern. A word did not expire because keeping it had become inconvenient. Ashoka called that obligation Dhamma (supreme duty): the duty that stood above orders, owed not to the chain of command but to what was right.
 
 The letter did not surprise him. He had been waiting for her to choose a door the system could not close behind her. She had chosen paper, a public room, and a procedural reason that would survive anyone else's inspection. The details told him what the words did not: she was afraid enough to be careful, and determined enough to act.
 
@@ -178,9 +184,11 @@ Before turning away, he checked the Ashoka room register.
 Review Room Two was already reserved for 19:00.
 
 REQUESTING GANA: DRONA.
-PURPOSE: PROCEDURAL CONSULTATION.
-AUTHORITY: UNLISTED.
 
-Rohan read the final line twice. Elara had sent a letter to arrange a meeting that the room had already been prepared to receive.
+PURPOSE: PROCEDURAL CONSULTATION.
+
+AUTHORITY: OFFICE OF THE GRANDMASTER, DRONA.
+
+Rohan read the final line twice. A handwritten letter slipped beneath a door, touching no system — and beneath the letter, the stamped authority of Drona's own Grandmaster. Elara had not merely chosen her door carefully. Someone far above her had quietly agreed to hold it open.
 
 For the first time that day, anticipation touched Rohan's otherwise plain, steel-like face.

@@ -4,17 +4,9 @@
 
 — Book 1, Chapter 6: To Hell and Back
 
-During the week of recovery, Gage turned the walls of his room into a live billboard, scribbling a sprawling map with charcoal. He was no longer tracing dream worlds; he was mapping a war.
+Far above the mine, in Drona's tower, Elara prepared for the meeting.
 
-"Cami," he rasped, holding out the tag. "You read the system better than I do. Tell me what we can do with this."
-
-Camilla turned the tag over in her fingers. "It tells us how they track everyone. Numbers don't belong to people, Gage — they belong to positions. Father had this number; now you have it. That means the system knows where every position is. Every shaft, every shift, every body. If we can read what the numbers mean, we can read the whole labor force."
-
-She paused.
-
-"The tag the system gave you is a key to its own map."
-
-Back in Drona, Elara prepared for the meeting.
+She stood before the narrow mirror in her quarters and fastened the gray-blue collar of her Drona uniform. The fabric was plain beside Kubera's muted gold and Ashoka's red authority, but every seam had been cut for movement between observation rooms, archive stacks, and laboratories. Drona did not dress its representatives to intimidate. It dressed them to be trusted near knowledge.
 
 She stood before the narrow mirror in her quarters and fastened the gray-blue collar of her Drona uniform. The fabric was plain beside Kubera's muted gold and Ashoka's red authority, but every seam had been cut for movement between observation rooms, archive stacks, and laboratories. Drona did not dress its representatives to intimidate. It dressed them to be trusted near knowledge.
 
