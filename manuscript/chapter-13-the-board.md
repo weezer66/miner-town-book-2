@@ -6,9 +6,9 @@
 
 Ravi began his day in a room designed to leave no thought unexamined.
 
-Chanakya quarters were not bare like Ashoka barracks or severe like Kubera's administrative cells. They were arranged for calculation. A narrow bed folded into the wall when not in use. A writing surface extended from the opposite side, covered in thin panes that could be layered, rearranged, and wiped clean without leaving a trace. The walls were lined with recessed shelves, each one holding policy briefs, debate records, old diplomatic failures, and annotated decisions from councils that had ended before Ravi was born.
+Chanakya quarters were not bare like Ashoka barracks or severe like Kubera's administrative cells. They were arranged for calculation. A narrow bed folded into the wall when not in use. A writing surface extended from the opposite side, covered in thin panes that could be layered, rearranged, and wiped clean without leaving a trace. The walls were lined with recessed shelves, and what sat on them was not the resident's choice. Chanakya issued records to its representatives the way other houses issued equipment: a working set curated to each person's current assignments, logged to the room, and rotated by the archive office whenever duties changed. Ravi's shelves held the library of an incident interpreter — policy briefs on monitoring doctrine, debate records on intervention thresholds, old diplomatic failures between the ganas, and annotated council decisions from disputes settled before he was born. The archive office kept such decisions in circulation because the disputes were never truly over: the same arguments returned in every generation wearing new names, and Chanakya expected its representatives to recognize an old argument before mistaking it for a new one.
 
-Nothing in the room was accidental. The mirror was placed beside the door, not above the wash basin, so a representative saw himself at the moment of departure rather than the moment of grooming. The light came from two angles, making it difficult for a face to hide behind a single expression. Even the floor pattern served a purpose: a grid of dark and pale squares, subtle enough to be mistaken for decoration until a person stood still and realized he had been placed on a board.
+Nothing in the room was accidental. A mirror hung above the wash basin, and a second one beside the door, so that the last face a representative saw before the corridor was not the one he had groomed but the one he was about to show. The light came from two angles, making it difficult for a face to hide behind a single expression. Chanakya did not decorate its rooms. It rehearsed its people in them.
 
 Ravi woke before the room brightened.
 
@@ -28,9 +28,7 @@ The Grandmaster's table.
 
 Every year, Chanakya ranked its top ten players across policy simulation, adversarial debate, probability games, and classical chess. The ranking did not honor talent alone. Talent was common in Chanakya; discipline was useful; victory was only evidence if the method survived scrutiny. The top ten entered a round-robin lottery for the privilege of playing one formal chess match against the Grandmaster. Most lost quickly. A few lasted long enough to earn a comment. Once in a generation, someone forced the Grandmaster to think before moving.
 
-Ravi had not expected his name to be called this year.
-
-He did not smile.
+This year, the lottery had fallen to Ravi.
 
 He rose, washed, and dressed in the green-gray uniform of Chanakya's representative class. The coat fastened high at the throat and carried no ornament except a thin line of script along the inner cuff, visible only when the hand moved: the old maxim every Chanakya student learned before being trusted with a document.
 
@@ -48,11 +46,13 @@ Twenty rounds were mandatory. They were not meant to build speed or muscle. Chan
 
 Ravi ran without music, without conversation, and without letting his gaze rest too long on any one person. Around him, other representatives moved in disciplined silence. Some counted breath. Some rehearsed arguments under their tongues. One young analyst mouthed treaty clauses between strides. Chanakya turned even exercise into rehearsal for pressure.
 
-By the fifteenth round, Ravi's lungs had begun to burn.
+Ravi gave his own rounds to the Grandmaster. He held a chessboard in his head and replayed the old man's recorded matches across it, one position per lap: the queenside collapse that had ended last year's challenger, the famous forty-move siege that had never once hurried, the trap that looked like a blunder until the third move after it.
 
-By the eighteenth, he had stopped noticing them.
+By the fifteenth round, Ravi's lungs had begun to burn, and the board in his head had begun to blur at the edges.
 
-By the twentieth, the room had narrowed to the line of the track, the rhythm of his footfalls, and the single knowledge waiting at the center tables.
+By the eighteenth, he had stopped noticing his lungs. The board held.
+
+By the twentieth, the room had narrowed to the line of the track, the rhythm of his footfalls, and a single position suspended in his mind — and the knowledge waiting at the center tables.
 
 The Grandmaster would be there.
 
@@ -60,7 +60,9 @@ When the final tone sounded, the runners slowed as one body. No one collapsed. N
 
 Ravi took water, dried his face, and turned toward the central floor.
 
-A chessboard waited beneath the overhead light.
+While the runners had circled the outer ring, the gymnasium's heart had been remade. The strategy tables had been drawn back to form a wide square of open floor, and rows of seats now faced its center from all four sides. The hall's working lights had been brought low; a single bright cone fell on the middle of the square, so that everything outside it — the seats, the retired tables, the track — receded into a listening dimness. At the center of the light stood one table and two chairs.
+
+A chessboard waited on the table.
 
 It was older than the tables around it, carved from dark stone and pale ceramic, its edges worn smooth by generations of hands that had reached for victory and found instruction instead. The pieces were arranged already. Black and white armies faced one another in perfect stillness.
 

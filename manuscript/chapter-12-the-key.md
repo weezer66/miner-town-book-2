@@ -112,7 +112,7 @@ Rohan did not answer immediately. He looked toward the narrow windows, where the
 
 When he turned back to Elara, his expression had not softened. It had become more deliberate.
 
-"Ashoka stands between Trinity and whatever is coming," he said. "The damage stops at our line. We will find where the pressure begins, and we will not let an unnamed power turn our duty against the city."
+"Ashoka stands between the city and whatever is coming," he said. "All of it — the three Trinitys and every sector beneath them. Our platform is where we live, not where our duty ends. The damage stops at our line. We will find where the pressure begins, and we will not let an unnamed power turn our duty against the people we exist to protect."
 
 The promise steadied something in Elara, but it did not erase the fear. Ashoka's resolve could hold a gate, protect a corridor, and stop a hand from striking. Trinity needed more than resolve to face a nameless power already moving through its permissions and institutions. It needed knowledge that could expose the pattern, judgment that could separate warning from panic, and allies who would not become weapons in the hands of the force they were trying to stop.
 
@@ -136,14 +136,14 @@ He did not look away from her.
 
 Elara looked inward. She found Anandi's patience, Kavik's precision, Sarvajña's warning, Draṣṭā's cards, and the Ancient One's unbearable stillness. None of them had given her certainty. They had given her the discipline to act without it.
 
-She nodded.
+"No," she said. "I am not certain. If I waited for certainty, it would arrive in the form of the damage itself." She kept her eyes on his. "What I am certain of is what I have seen, what the records show, and what it will cost if we are slow. I will put my name to every word I have said in this room. That is what I have to offer."
 
 Rohan rose.
 
-"Very well, Monitor Nathan. Ashoka does not abandon its duties or its allies. I will request an audience with the Grandmaster and give you an update within forty-eight hours."
+"Very well, Monitor Nathan. Ashoka does not abandon its duties or its allies. I will request an audience with the Grandmaster and bring you word as soon as I am heard."
 
 He extended his right hand across the table.
 
-Elara took it. His grip was firm, brief, and without ceremony. For the first time that evening, she felt the possibility that all might not be lost. Drona and Ashoka had not formed an alliance yet, but if they did, it might be Trinity's best chance to survive what was coming.
+Elara took it. His grip was firm, brief, and without ceremony. For the first time that evening, she felt a little less alone with what she carried. Drona and Ashoka had not formed an alliance yet. But two houses looking at the same danger together saw more than either saw alone — and tonight, two were better than one.
 
-Drona was reaching toward Ashoka before either gana knew whether the other would take its hand. Somewhere beyond the walls, the new threat was moving in the opposite direction, slipping closer to the control centers of both institutions through approvals, permissions, and quiet acts of trust. It did not arrive like an attack. It moved like a shadow with a serpentine patience, entering through doors people had opened themselves.
+Drona was reaching toward Ashoka before either gana knew whether the other would take its hand. And somewhere in Drona's own ledgers, the doubled transfer sat where it had landed — approved, accepted, already turning into shelves and scaffolding. Whatever had signed it had not needed to force a single door. Every door it had passed through had been opened from the inside.
