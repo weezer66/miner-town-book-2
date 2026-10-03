@@ -58,15 +58,17 @@ The Grandmaster would be there.
 
 When the final tone sounded, the runners slowed as one body. No one collapsed. No one celebrated. Sweat was permitted. Display was not.
 
-Ravi took water, dried his face, and turned toward the central floor.
+Ravi took water, dried his face, and followed the escort waiting at the gymnasium doors.
 
-While the runners had circled the outer ring, the gymnasium's heart had been remade. The strategy tables had been drawn back to form a wide square of open floor, and rows of seats now faced its center from all four sides. The hall's working lights had been brought low; a single bright cone fell on the middle of the square, so that everything outside it — the seats, the retired tables, the track — receded into a listening dimness. At the center of the light stood one table and two chairs.
+The match was not played in the gymnasium. Once a year, Chanakya opened its arena — a sunken bowl at the heart of the platform, ringed by tiers of seats that climbed into shadow. By the time Ravi entered through the players' tunnel, the tiers were full: representatives and archivists, clerks and translators, teachers with rows of students, thousands of Chanakya's people settling into a hush that was not silence but attention. They had not come to watch two men at a table; from the upper tiers, a table would be a speck. They had come for the arena floor, where the game would be made large enough to see.
+
+At the edge of the floor, raised half a level above it, stood the players' enclosure: a stone platform open toward the arena, with a ring of seats behind it for the few permitted to watch the players instead of the game. At the center of the enclosure stood one table and two chairs.
 
 A chessboard waited on the table.
 
 It was older than the tables around it, carved from dark stone and pale ceramic, its edges worn smooth by generations of hands that had reached for victory and found instruction instead. The pieces were arranged already. Black and white armies faced one another in perfect stillness.
 
-Around the central floor, the elders of Chanakya had taken the front seats.
+In the enclosure, the elders of Chanakya had taken the ringed seats.
 
 They gathered without the solemnity of Drona's council or the armored silence of Ashoka's instructors, watching as people who loved a contest but knew better than to call it entertainment. Every elder carried a tablet, stylus, or folded sheet marked with probabilities. Some whispered opening lines before the game began. Others watched Ravi rather than the board, studying whether the young representative's breath changed under the weight of being seen.
 
@@ -90,11 +92,11 @@ For the first time that morning, Ravi allowed himself to feel the honor of it.
 
 Then he sat down across from the Grandmaster, and the board became the only world that mattered.
 
-At the edge of the gymnasium, a second arena came alive.
+Beyond the enclosure's rail, half a level down, the arena floor came alive.
 
-The living board occupied the adjacent floor, sixty-four pale and dark squares large enough for bodies, animals, and silence. Sixteen footmen in white stood opposite sixteen in black, each carrying a short ceremonial spear. Behind them waited the elephants, real and immense, ridden by handlers in lacquered harness. Horses stamped at the corners, flanked by tall camels draped in geometric cloth. At each back rank, an adorned horseman represented the king, upright and expressionless beneath a high crested helm. Beside him, a lady of honor sat astride a dark mare, veiled in green and gold, representing the queen with a stillness more commanding than ornament.
+The living board filled it: sixty-four pale and dark squares, each large enough to hold a mounted rider or a waiting elephant. Sixteen footmen in white stood opposite sixteen in black, each carrying a short ceremonial spear. Behind them waited the elephants, real and immense, ridden by handlers in lacquered harness. Horses stamped at the corners, flanked by tall camels draped in geometric cloth. At each back rank, an adorned horseman represented the king, upright and expressionless beneath a high crested helm. Beside him, a lady of honor sat astride a dark mare, robed in green and gold beneath a slender circlet, representing the queen with a stillness more commanding than ornament.
 
-Chanakya staged the living board not to make chess beautiful but to make consequence visible. A small move at the table became a body crossing open ground. A careless exchange became a footman stepping into capture. A patient strategy became an animal waiting in disciplined heat while every spectator imagined the cost of moving it too soon.
+Chanakya staged the living board not to make chess beautiful but to make consequence visible. The thousands in the tiers could not read the small board in the enclosure; they read this one. A small move at the table became a body crossing open ground. A piece traded away carelessly became a man walking to the square where he would be taken, standing in it, and being led off the board while everyone watched. A patient strategy became an animal waiting in disciplined heat while every spectator imagined the cost of moving it too soon.
 
 The Grandmaster moved first.
 
@@ -160,17 +162,17 @@ Ravi did not answer. He moved again after the Grandmaster's next quiet pawn adva
 
 For six moves, the game seemed to belong to him.
 
-The announcer's calls came faster: black pawn to queen four, white camel to king two, black horse takes center pawn, white queen to queen two. Each move crossed from the carved board into the arena — footmen vanishing into capture with bowed heads, camels cutting diagonals through unsettled dust. The ladies of honor remained still on their mounts, veils unmoving, waiting for the moment when a queen's silence would become the most dangerous thing in the room.
+The announcer's calls came faster: black pawn to queen four, white camel to king two, black horse takes center pawn, white queen to queen two. Each move crossed from the carved board into the arena — footmen vanishing into capture with bowed heads, camels cutting diagonals through unsettled dust. The ladies of honor remained still on their mounts, robes unmoving, waiting for the moment when a queen's silence would become the most dangerous thing in the room.
 
-Ravi won material first.
+Ravi struck first.
 
-His black horse took a white footman near the center. The living horse surged into the square, forelegs lifting, the rider's green pennant snapping once before the captured footman stepped back from the board. The elders murmured approval. Ravi had not only taken a piece; he had taken a tempo. The Grandmaster had to respond.
+His black horse took a white footman near the center. The living horse surged into the square, forelegs lifting, the rider's green pennant snapping once before the captured footman stepped back from the board. The elders murmured approval. Ravi had not only taken a piece without losing one; he had seized the initiative. The Grandmaster had to respond.
 
 He did.
 
 Not with force.
 
-With a quiet rook move that seemed, at first, almost administrative.
+With a quiet move of his rook — the straight-line piece the living board rendered as an elephant — that seemed, at first, almost administrative.
 
 "White elephant to king's file," the announcer said.
 
@@ -194,7 +196,7 @@ The Grandmaster looked at the camel for the first time.
 
 He moved the queen.
 
-The lady of honor in white guided her mare forward from stillness into motion. It was not a charge. It was a revelation. She crossed the board along a line Ravi had counted and dismissed four moves earlier, her veil lifting as the mare turned through the square. When she stopped, the arena seemed to tighten around her.
+The lady of honor in white guided her mare forward from stillness into motion. It was not a charge. It was a revelation. She crossed the board along a line Ravi had counted and dismissed four moves earlier, her robe lifting as the mare turned through the square. When she stopped, the arena seemed to tighten around her.
 
 "White queen to king's knight four," the announcer called. "Counter-threat."
 
@@ -250,7 +252,7 @@ Ravi saw the square before the piece moved. The queen would cross to the open fi
 
 Then the Grandmaster's side of the chess clock flashed red.
 
-No one in the gymnasium breathed.
+No one in the arena breathed.
 
 The signal did not sound through the room. Chanakya did not embarrass urgency by making it loud. A narrow line of text opened across the Grandmaster's private display, visible only to him. His face changed before the message finished appearing. The softness vanished. The eyes that had been studying Ravi and the board turned alert in a way that made several elders sit straighter.
 
@@ -258,7 +260,7 @@ The Grandmaster released the queen without moving it.
 
 “We stop here,” he said.
 
-The words struck the gymnasium harder than any declaration of checkmate could have. The game was not resigned. Not drawn. Not won. Not lost.
+The words struck the arena harder than any declaration of checkmate could have. The game was not resigned. Not drawn. Not won. Not lost.
 
 Ravi stood as the Grandmaster rose.
 
@@ -278,11 +280,11 @@ No Chanakya representative had ever defeated the Grandmaster. No one had ever be
 
 That was enough to change the room.
 
-Ravi left the gymnasium without waiting to be congratulated.
+Ravi left the arena without waiting to be congratulated.
 
 He was too disciplined to smile in the corridor, and too honest with himself to pretend he did not want to. The feeling inside him was divided cleanly in two. One half knew he had been one move from collapse. The other knew the record would not say that. Chanakya respected the difference between what happened and what could be entered into history, and Ravi had just become a living example of it.
 
-The corridor beyond the gymnasium curved into the Hall of Arguments.
+The corridor beyond the arena curved into the Hall of Arguments.
 
 Chanakya did not preserve victories there. It preserved disputes: suspended panels showing famous negotiations in layered sequence, some holding transcripts, others only empty chairs and the date of a meeting whose true record had been sealed. Beneath each case, a short notation named the consequence rather than the speaker.
 
@@ -290,17 +292,7 @@ A famine avoided. A border redrawn. A rebellion delayed by nine years. A law pas
 
 Ravi slowed before the last one. After the match, he understood it differently: the board did not always end when the strongest move was made. Sometimes it ended when one side controlled how the move would be remembered.
 
-In the narrower Corridor of Unsaid Things, black glass cases held blank paper, sealed envelopes, and unsigned drafts — the old lesson that most power lived in what was never written down. Two apprentices stood before a blank sheet while an instructor questioned them.
-
-"What does it say?" the instructor asked.
-
-"Nothing," one apprentice answered.
-
-The instructor waited.
-
-The second apprentice corrected him. "It says someone chose not to speak here."
-
-"Better," the instructor said.
+In the narrower Corridor of Unsaid Things, black glass cases held blank paper, sealed envelopes, and unsigned drafts — the old lesson that most power lived in what was never written down. An instructor stood with two apprentices before one of the cases, teaching them to read a blank sheet not as nothing, but as a decision someone had made.
 
 By the time Ravi reached the residential wing, the confusion had not left him. It had sharpened.
 
@@ -382,7 +374,7 @@ East Policy Conservatory.
 
 Come alone.
 
-Daren turned toward the narrow window above the writing surface. Beyond the glass, Trinity's artificial night held its ordered field of stars. For one breath, the dark place between them seemed to answer him again: the black hole, unseen until the light around it began to bend. He saw himself there, not as a man standing in another gana's room, but as the hidden mass already changing the paths of bodies that still believed they moved freely.
+Daren turned toward the narrow window above the writing surface. Beyond the glass, the night sky held its field of stars over Chanakya's sleeping platform. For one breath, the dark place between them seemed to answer him again: the black hole, unseen until the light around it began to bend. He saw himself there, not as a man standing in another gana's room, but as the hidden mass already changing the paths of bodies that still believed they moved freely.
 
 Then he left.
 
@@ -402,6 +394,10 @@ He stood at the dark end of the last carriage and watched Chanakya's platform as
 
 The train crossed the open dark between platforms, and Trinity-2 fell away beneath the cloud line.
 
-Meru received him the way it received everything: from below. The lift rose past the terrace districts where Kubera's wealthy kept their residences — gardens fed by water the sectors had lifted a kilometer against gravity, galleries of private collections no public archive would ever index, windows that looked down on the three Trinitys the way the Trinitys looked down on the mines. The people who lived on Meru did not call themselves rulers. They called themselves stewards, and the word had lasted a century because no one below had ever been given the standing to laugh at it.
+Meru received him the way it received everything: from below. The lift rose past the terrace districts where Kubera's wealthy kept their residences — gardens fed by water the sectors had lifted a kilometer against gravity, orchards ripening out of season under tuned light, galleries of private collections no public archive would ever index, windows that looked down on the three Trinitys the way the Trinitys looked down on the mines.
+
+Even at this hour, the tier was awake in its own muted way. Lit terraces held late gatherings where conversation never rose above the sound of water; attendants moved along the garden paths with trays and lamps, people who rode the lifts up each morning from the three Trinitys and rode them down again at night, permitted to keep Meru beautiful but not to sleep in it. There were no markets here, no clinics, no school courtyards — nothing bought in public, nothing needed urgently, nothing learned by children who would not inherit it anyway. Meru's residents were trustees and account-holders, heirs of the founding houses, keepers of portfolios older than some of the ganas' own archives — families who had converted money into permanence so long ago that wealth no longer looked like anything at all. It looked like quiet.
+
+The people who lived on Meru did not call themselves rulers. They called themselves stewards, and the word had lasted a century because no one below had ever been given the standing to laugh at it.
 
 Daren stepped off the lift into Kubera's silence and felt the bracelet settle against his wrist, cool as the mountain the tier was named for. Somewhere below him, on a platform whose rules meant nothing to what he was becoming, Ravi slept with a black king closed in his fist and an appointment he did not yet know he would keep.

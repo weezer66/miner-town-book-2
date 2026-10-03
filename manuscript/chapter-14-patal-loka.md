@@ -14,13 +14,13 @@ The facility had not begun as a prison.
 
 It had begun as an agreement.
 
-Nearly a century earlier, before the lower districts had been reorganized into the Miner Town administration and before the three Trinitys had finished sealing their upper boundaries, the space between them had been treated as a problem no gana wanted to own. It lay beneath the city's civic platforms and above the deepest extraction levels, close enough to both worlds to be reached quickly and far enough from both to be denied when something went wrong.
+More than a century earlier, before the lower districts had been reorganized into the Miner Town administration and before the three Trinitys had finished sealing themselves off from everything beneath them, the space between the two worlds had been treated as a problem no gana wanted to own. It lay beneath the city's civic platforms and above the deepest extraction levels, close enough to both worlds to be reached quickly and far enough from both to be denied when something went wrong.
 
 The first plans called it the Interchange Station.
 
 Its purpose was practical. Representatives from the upper cities could meet labor delegates from the mines without allowing either side to claim that the meeting had taken place inside the other's territory. Drona would provide medical staff. Kubera would provide materials. Chanakya would write the rules. Ashoka would secure the perimeter and remain outside the room unless someone broke those rules.
 
-The arrangement lasted eleven months.
+The arrangement held for several decades, long enough for two generations to mistake it for something permanent. Then greed and corruption entered it the way water enters a mine: not through any door, but through hairline cracks no one thought worth sealing — a favor here, a falsified inspection there, a rule bent once and then bent again because the first bending had gone unpunished — seeping drop by drop into the supports until timbers that looked solid had been rotting for years.
 
 The war that followed was not declared by any gana. No elder stood before a public chamber and announced an enemy. No official record named a battlefield. The violence began in smaller acts: a shipment diverted, a foreman beaten, a patrol route altered, a ledger copied and sold, a family threatened because someone wanted access to a shaft.
 
@@ -53,6 +53,12 @@ The factions had gone beyond obedience. They controlled weapons, routes, money, 
 Kubera cut their supplies. Ashoka closed the routes. Drona disabled the systems that kept the factions connected. Chanakya offered selected leaders safe passage and protection from the others. One by one, the factions lost the ability to act as armies.
 
 The fighting ended not because the factions obeyed, but because they could no longer sustain the war.
+
+For several years afterward, the ruined Interchange Station stayed ruined. No gana proposed rebuilding it; proposing anything in that space meant explaining what had happened there, and no institution wanted its name in that explanation. The boundary zone was left to rubble and silence, and for a while the ganas told themselves the lesson had been learned.
+
+The years of silence taught a different lesson. Without any neutral ground at all, every dispute between the ganas now had to be settled in one house's territory or another's — and every settlement carried the suspicion of the host's advantage. Small grievances that the old station would have absorbed in an afternoon festered for seasons. The hidden wings, officially dissolved, began to re-form under new names, because the work they had done still needed doing and there was no longer anywhere to do it in the open. The Grandmasters watched the same cracks spreading through the same timbers and understood that the choice was not between having a neutral ground and not having one. It was between a neutral ground they designed and one that would grow back wild.
+
+So they rebuilt — but not what had stood before. The old station had failed because it was neutral ground that belonged to everyone, which in practice meant anyone could corrupt it. Its successor would belong to no one, answer to no gana, and never again depend on the four houses' good behavior.
 
 The facility would be rebuilt beneath the same boundary and assigned no public gana. Its entrances would be hidden from ordinary maps. Its power systems would be independent. Its rooms would be designed for containment, treatment, interrogation, and emergency shelter, though no document would use all four words together. The official explanation called it a shared disaster-response site.
 
