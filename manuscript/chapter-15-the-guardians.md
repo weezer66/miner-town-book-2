@@ -14,15 +14,15 @@ Then Rohan watched it with sound.
 
 The alarms were worse than the images. They gave every moment a command: separate, contain, escalate, correct. The system spoke in the language Ashoka had taught him to distrust when it was used without judgment. A warning became a target. A target became a threat. A threat became permission.
 
-He watched Elara override the separation order.
+He watched the separation order appear.
 
-He watched her preserve the boys' connection in the official record.
+He watched it vanish from the system, as if it had never been issued.
 
-He watched the order appear, then vanish from the system.
+He watched the official record settle around the boys' connection, calm and complete, as if preserving it had been the system's intention all along.
 
 On the first review, her decision looked like personal judgment. She had seen three boys she could not bear to surrender to a procedure and had acted according to the truth she felt in the moment. That was not the same as authorization, or law, or proof.
 
-Rohan had been trained to notice that difference before anyone else could use it against him.
+Ashoka had trained Rohan to find that gap — between what was right and what was authorized — because the gap was where an accusation would strike first. If he could see it, so could anyone building a case against her.
 
 On the second review, the distinction held.
 
@@ -48,7 +48,7 @@ Never confuse obedience with order.
 
 Rohan had repeated those principles until they had become physical. They shaped how he entered a room, where he placed his hands, and how long he waited before drawing a weapon. Ashoka did not praise force for being force. It praised force that remained accountable to a purpose beyond itself.
 
-Elara had not been an Ashoka officer. She had not worn its red-black uniform or passed through its response academy. Like Rohan, Ravi, and Daren, she had been assigned to monitor the Initiation, interpret what they observed, and help shape the system's next response. But the monitors could recommend a course of action; they could not unilaterally cancel a Trinity order. Elara had crossed that boundary when she preserved the boys' connection instead of allowing the separation directive to proceed.
+Elara had not been an Ashoka officer. She had not worn its red-black uniform or passed through its response academy. Like Rohan, Ravi, and Daren, she had been assigned to monitor the Initiation, interpret what they observed, and help shape the system's next response. But the monitors could recommend a course of action; they could not unilaterally cancel a Trinity order. No console on the Observation Tier carried that authority. That was why Elara had not canceled the directive — she had gone beneath it. By her own admission, she had reached into the governance record itself and rewritten what the system believed about the three boys, so that the separation order was never refused, never challenged, never argued. It simply no longer applied to anyone. A monitor had disagreed with Trinity, and instead of losing the argument, she had edited the premise.
 
 But what had she done?
 
@@ -66,11 +66,11 @@ How could preserving that be wrong?
 
 Rohan closed the file and opened it again.
 
-The question changed shape each time he asked it. When he viewed the incident as Ashoka's representative, the footage suggested that another gana's officer had altered the record inside a shared operation. Rohan did not yet know whether Elara had acted alone, whether the system had concealed the change, or whether anyone else had authorized it. If Rohan intervened every time he believed another institution had made a poor decision, Ashoka would become an unelected court over the other ganas. Protection would become jurisdiction. Judgment would become ownership.
+The question changed shape each time he asked it. When he viewed the incident as Ashoka's representative, the facts were not in question — Elara had given them to him herself, standing in front of him, claiming the act with her own voice: she had altered the record, alone, with no authorization behind her. The certainty did not make the question easier. It made it heavier. A representative of another gana had confessed an unlawful act inside a shared operation, to his face, and he had answered her with a pledge. If Rohan took it upon himself to judge every poor decision another institution made, Ashoka would become an unelected court over the other ganas. Protection would become jurisdiction. Judgment would become ownership.
 
 When he viewed the incident as a citizen of Trinity, the line moved.
 
-The city did not belong only to the ganas. It belonged to the miners below the cloud line, the children in the intake chambers, the technicians who kept the platforms alive, and the families whose names appeared in records only when something had gone wrong. If the four institutions claimed authority over the whole city, then duty could not end at the edge of one gana's jurisdiction.
+The city liked to say it belonged to everyone it governed. It did not. The miners below the cloud line, the children in the intake chambers, the technicians who kept the platforms alive, the families whose names appeared in records only when something had gone wrong — they carried the city without owning any part of it. But that was exactly the point. If the four institutions claimed authority over all of those lives, then the duty ran the other way: authority over everyone was a debt owed to everyone, and it could not end at the edge of one gana's jurisdiction.
 
 A citizen could not watch a vulnerable person be crushed by an unfair process and call silence respect for boundaries.
 
@@ -100,13 +100,13 @@ She had done it because authority had already become part of the danger.
 
 Rohan stood and crossed to the narrow window of his quarters. Beyond the glass, the red lights of Ashoka's platforms blinked through the artificial night. The city looked stable from above. Stability was one of Trinity's most convincing illusions.
 
-He thought of the three boys walking out of the mine together. He thought of the separation order. He thought of Elara's hand moving across the record while every procedural voice in the room told her to stop.
+He thought of the three boys walking out of the mine together. He thought of the separation order. He thought of Elara alone at an archive terminal, her hand steady on the record while the system's warnings told her to stop.
 
 He thought of the words he had not said during their meeting.
 
-You did what we were supposed to do.
+You stood where Ashoka should have been standing.
 
-The thought frightened him because it did not feel like praise. It felt like an accusation directed at Ashoka.
+The thought frightened him because it did not feel like praise. It felt like an accusation directed at Ashoka. Standing between force and the people who could not meet it was his house's entire purpose — and on the night it mattered, that ground had been held by a records officer with no oath, no training, and no right, while the house built for it watched through its consoles and logged what it saw.
 
 On the second evening, after completing the day's duties, Rohan taught the Little Dragon's dojo class. He was a second-dan Wadō-ryū black belt and the chief instructor, though the children rarely used either title when he was close enough to touch. To them, he was simply Rohan: the enormous man who could correct a stance with two fingers, lift a crying child onto his shoulder, and make the hardest exercise feel like a secret they were learning together.
 
@@ -210,7 +210,7 @@ He lay down with the question still open. Sleep took him before he could close i
 
 At exactly 4:00 a.m., his room panel brightened.
 
-Rohan woke at once. He rose, washed, and dressed with the care the occasion required. He wore the traditional Ashoka Wadō-ryū kimono: white cloth, black trim, and a black belt embroidered with 二段 [second dan] beside his name in Japanese, ローハン [Rohan]. He checked the fold of the collar, the knot at his waist, and the fall of the sleeves. Today he would stand among people who moved armies, directed divisions, and decided which dangers the public was permitted to know. He would not arrive looking as though he had been surprised into importance.
+Rohan woke at once. He rose, washed, and dressed with the care the occasion required. His red-black duty uniform hung ready beside the door — the one the city knew, the one that meant Ashoka had arrived. He left it hanging. The summons was not to a deployment but to a dan ascension, a rite that belonged to the art itself, and within the art a man presented his rank, not his office. He wore the traditional Ashoka Wadō-ryū kimono: white cloth, black trim, and a black belt embroidered with 二段 [second dan] beside his name in Japanese, ローハン [Rohan]. The generals would wear their stars and the ministers their formal dress, because they stood outside the art and could only watch it. A black belt entered it. He checked the fold of the collar, the knot at his waist, and the fall of the sleeves. Today he would stand among people who moved armies, directed divisions, and decided which dangers the public was permitted to know. He would not arrive looking as though he had been surprised into importance.
 
 By dawn, the ceremony filled Ashoka's central hall. Red standards hung from the upper galleries. Generals stood in formal rows beneath the insignias of their divisions. Ministers, state leaders, and strategic advisers occupied the front tiers. Their presence made the ceremony more than a martial-arts promotion. It became a public declaration that the state trusted the Grandmaster to hold and direct power.
 
@@ -228,13 +228,13 @@ At the far end of the floor, an interior door opened.
 
 Master Vayun entered without an escort.
 
-He was ancient in the way mountains were ancient: not frail, not slow, but stripped of everything unnecessary. His hair fell white to his shoulders. His face was narrow and deeply lined, the skin drawn tight over high cheekbones and a jaw that seemed carved rather than grown. He wore a plain ivory kimono with no crest, no decoration, and no belt rank visible from a distance. His hands hung loosely at his sides.
+He was ancient in the way mountains were ancient: not frail, not slow, but stripped of everything unnecessary. His hair fell white to his shoulders. His face was narrow and deeply lined, the skin drawn tight over high cheekbones and a jaw that seemed carved rather than grown. He wore a plain ivory kimono with no crest and no decoration, and at his waist, what looked from a distance like no rank at all: a belt so old that its black had worn away, thread by thread over the decades, fading back toward the white it had begun as. Those who knew the art understood what they were seeing. A beginner's belt turned white again meant the circle had been walked to its end. Rohan's own belt was embroidered with his rank. Vayun's no longer needed to say anything. His hands hung loosely at his sides.
 
 Then he moved across the floor.
 
-The impression of age vanished. He crossed the distance without appearing to hurry, his feet sliding over the boards with such economy that the body seemed to arrive before the motion had begun. He was small beside the Grandmaster, but the entire hall adjusted around him. Generals stopped whispering. Strategists lowered their tablets. Even the state leaders watched with the careful attention of people who understood that the old man could cross a room before any guard had time to decide whether he was dangerous.
+The impression of age vanished. He crossed the distance without appearing to hurry, his feet sliding over the boards with such economy that the body seemed to arrive before the motion had begun. He was small beside the Grandmaster, but the entire hall adjusted around him. Generals stopped whispering. Strategists lowered their tablets. Even the state leaders sat straighter, with the careful attention of people who understood that nothing they commanded — divisions, budgets, protocols — carried any weight on this floor. The art kept its own hierarchy, older than the city's, and its summit had just entered the room.
 
-Master Vayun was the presiding tenth-dan practitioner of Wadō-ryū, the last living master permitted to judge whether a candidate understood the art beyond its movements. He had trained responders before Ashoka's modern divisions existed. Some said he had never lost a full-contact bout. Others said that was the wrong measure, because he had ended every serious encounter before it became a bout at all.
+Master Vayun was the last living tenth dan of Wadō-ryū — not appointed to judge the ascension, but the only person alive whose judgment could confer it. Lower ranks could be examined by boards of instructors. The eighth dan could not. It asked whether a candidate understood the art beyond its movements, and only someone who had walked the art to its end could recognize that understanding in another. He had trained responders before Ashoka's modern divisions existed. Some said he had never lost a full-contact bout. Others said that was the wrong measure, because he had ended every serious encounter before it became a bout at all.
 
 Rohan had seen him only in old recordings.
 
@@ -262,7 +262,7 @@ The walk to the front of the dojo seemed longer than the entire hall. Every step
 
 Up close, the old master was even more striking. His eyes were dark and bright beneath heavy brows, alert with an almost unsettling youth. His shoulders were narrow, his body spare, but the stillness inside him felt compressed rather than diminished. He looked like someone who had spent a lifetime removing weakness from every movement until even breathing had become a form of discipline.
 
-Master Vayun returned the bow with a slight inclination of his head.
+Master Vayun returned Rohan's bow with a slight inclination of his head.
 
 "Rohan," he said.
 

@@ -152,13 +152,13 @@ The Chief Architect opened a second sealed roster.
 
 The search was not Flitzberg's invention. It was a standing duty of the office, handed from each Chief Architect to the next along with the sealed rolls: find people who could resist the ganas without becoming another gana's instrument. They had always been difficult to find. Most gifted candidates wanted protection, status, revenge, or permission to use the same power that had harmed them. Patal Loka needed something rarer: people who could enter a system, understand its pressure, and refuse to belong entirely to the hand that offered them access. For most of his tenure, Flitzberg had run the search the way his predecessors had — patiently, prepared to wait ten years for one right person. The four streams on the glass — Daren's fingerprints in all four houses at once — had ended that patience. The threat now had a name and a slope, and the champions it would take to answer it had still not been found.
 
-The current Chief Architect, Mr. Flitzberg, understood why the search mattered better than anyone alive. At the peak of their power, rogue gana agents would not yield to their own Grandmasters, and no rival gana could defeat them without turning correction into open war. Once an agent reached that height, the four institutions could only negotiate around the danger or feed it until it became stronger. The last hope had to come from people who stood outside the old pattern.
+And the answer could not come from the houses themselves. Daren's own had built him and could no longer unbuild him, and a rival gana that moved against him would turn correction into open war. Whatever stood against him would have to come from outside the old pattern entirely.
 
 According to Flitzberg's calculations, only candidates from Miner Town could defeat the unknown power emerging from the ganas. The people of the three Trinitys, and of Meru above them, had been measured from childhood, assigned to systems, rewarded for serving them, and taught to mistake permission for freedom. Daren had become so powerful because the upper cities already knew how to route resources, permissions, surveillance, and obedience toward him. Miner Town's candidates had been neglected by those systems instead. They were not cleanly indexed. They had not been trained to seek approval from the ganas. Their instincts had formed in the gaps between official categories, where survival required judgment before permission.
 
 That made them harder to control, but it also made them harder to predict. The same absence that the upper cities called deprivation could become resistance. Flitzberg believed that a power built inside the system could only be opposed by people the system had failed to fully absorb.
 
-For years, Mr. Flitzberg had taken in miners who had lost their way, survived the wrong kind of attention, or simply come into Patal Loka's hands before the ganas could claim them. He trained them, tested them, and placed them under pressures designed to reveal more than strength. He wanted judgment without obedience, courage without hunger for status, and the ability to resist power even after power had begun answering them.
+For years, Flitzberg had taken in miners who had lost their way, survived the wrong kind of attention, or simply come into Patal Loka's hands before the ganas could claim them. He trained them, tested them, and placed them under pressures designed to reveal more than strength. He wanted judgment without obedience, courage without hunger for status, and the ability to resist power even after power had begun answering them.
 
 There had been promising cases. Some were brave but too eager to be praised. Some were clever but could not resist control once it was offered. Some survived every physical trial and failed the first moral one.
 
@@ -166,7 +166,7 @@ What happened to those who failed was a sentence Flitzberg never finished aloud,
 
 And there had been successes. Down the long lineage of Chief Architects, such people had been found before, and the balance had survived its worst hours because of them. They had carried out the quiet missions no gana could be asked to perform, and many had given their lives doing it — never in ignorance, never as pieces spent by a hand they could not see, but knowing exactly what they protected and choosing the cost. Their names appeared on no public wall. They were written in Patal Loka's own sealed rolls, the only monument the work permitted, and every Chief Architect since the first had read those rolls before accepting the office.
 
-But nothing in those rolls matched what was rising now. A man with founder-tier access, slipping past the reach of his own Grandmaster, moving on channels older than every audit built to watch them — against that, capable agents would not be enough. Now, as it had come to every Chief Architect in the hour the balance tipped, it was Mr. Flitzberg's turn to find his warriors. And none of his candidates had yet emerged with the extraordinary combination he needed. None had shown the capacity to become an unlikely hero instead of another weapon waiting for an owner.
+But nothing in those rolls matched what was rising now. A man with founder-tier access, slipping past the reach of his own Grandmaster, moving on channels older than every audit built to watch them — against that, capable agents would not be enough. Now, as it had come to every Chief Architect in the hour the balance tipped, it was Flitzberg's turn to find his warriors. And none of his candidates had yet emerged with the extraordinary combination he needed. None had shown the capacity to become an unlikely hero instead of another weapon waiting for an owner.
 
 The old facility had been built to contain the consequences of institutional failure. Over time, it had also become a place where Patal Loka could test and receive potential recruits beyond the sight of the four ganas. The crisis gathering around Daren had produced another opportunity. Flitzberg had opened a provisional roster for four candidates. Survival was only the first measure. The Chief Architect wanted to know whether this group could become a resistance capable of countering the ganas when the next critical event arrived.
 
@@ -194,7 +194,7 @@ He closed the roster.
 
 The guard hesitated. "As recruits?"
 
-Mr. Flitzberg looked once more toward the junkyard.
+Flitzberg looked once more toward the junkyard.
 
 "As possibilities."
 
@@ -216,8 +216,8 @@ The guard lowered his head and left.
 
 Behind the dark glass, the junkyard lights shifted one row at a time, closing certain paths and opening others. The three figures moved deeper into the field of wreckage without realizing that the route ahead had already been selected for them.
 
-Mr. Flitzberg watched the first trial begin.
+Flitzberg watched the first trial begin.
 
-Flitzberg did not mistake their arrival for proof. But it gave him a question worth answering: could people the system had failed to absorb become the resistance Patal Loka had been waiting for?
+Flitzberg did not mistake their arrival for proof. The question they carried was not new — he had asked it of every recruit Miner Town had ever put into his hands, and every answer so far had been the same: not yet. What was new was the clock. For the first time in his tenure, the question had a deadline, and the deadline was moving through four houses at once.
 
 The trials would show whether they needed to be taught resistance—or whether they already carried the beginnings of it.

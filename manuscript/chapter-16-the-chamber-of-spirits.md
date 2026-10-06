@@ -10,11 +10,11 @@ The applause faded. The generals resumed their guarded conversations. Ministers 
 
 She walked toward Rohan.
 
-"Come with me," she said.
+"Come with me," she said. "To the Chamber of Spirits."
 
 Rohan rose at once and followed.
 
-The invitation struck him with a force greater than the ceremony. He had heard of the Chamber of Spirits, but only in the way Ashoka representatives heard of places they were not meant to enter: through unfinished stories, lowered voices, and warnings that became less useful the more seriously they were given.
+The name struck him with a force greater than the ceremony. He had heard of the Chamber of Spirits, but only in the way Ashoka representatives heard of their house's most sacred ground: through unfinished stories, lowered voices, and the way senior officers ended a conversation rather than speak of the place carelessly. No one had ever warned him away from it. No one had needed to. It was not a place one feared entering. It was a place one did not expect to be worthy of.
 
 The Chamber of Spirits was where the Ashoka Grandmasters received no delegations. It was where old decisions were remembered, where the names of the dead were kept without being carved into public walls, and where Ashoka's most trusted guardians could speak without an audience turning their words into a weapon.
 
@@ -26,9 +26,9 @@ The Chamber of Spirits was larger than Rohan had imagined.
 
 It was not a shrine. It was a hall built around memory.
 
-Ten statues stood in recessed alcoves along the walls, each carved from a different stone and each facing the central floor. They had been gathered from every corner of the buried world's memory, kept alive in Ashoka's archives when the rest of that history was sealed away. They were not arranged by century or continent. They were arranged by the quality of courage the elders believed each figure had carried into history.
+The chamber was round, and the ten statues stood in a ring around it, each in its own recessed alcove, each carved from a different stone and each facing the central floor. The alcoves were set above the floor, and the figures within them stood larger than life, so that anyone who came to look had to lift his head — the elders had built the room so that no one could study these lives without raising his eyes to do it. From the center of the floor, Rohan could turn in a slow, single circle and meet all ten, the way a person stands surrounded by witnesses. They had been gathered from every corner of the buried world's memory, kept alive in Ashoka's archives when the rest of that history was sealed away. They were not arranged by century or continent. They were arranged by the kind of courage each figure had carried into history — not ranked, for the elders taught that no one courage stood above another, only beside it, and a ring has no head and no foot.
 
-Emperor Ashoka stood first, the gana's own namesake, a sword laid flat across his open palms rather than raised — remembered not for the empire he won but for the war at Kalinga that made him renounce conquest, the victor who judged his own victory and found it wanting.
+Emperor Ashoka stood nearest the doors, the gana's own namesake and every visitor's first meeting, a sword laid flat across his open palms rather than raised — remembered not for the empire he won but for the war at Kalinga that made him renounce conquest, the victor who judged his own victory and found it wanting.
 
 Cincinnatus stood beside a plow, the general of old Rome who had been handed absolute power in a crisis, used it to save his people, and given it back — remembered because the giving back was the rarer strength.
 
@@ -44,6 +44,8 @@ Each statue answered the same question differently: how could strength remain an
 
 At the center of the chamber, a low table had been prepared for three.
 
+Cushions were set on three of its sides, and the food was already waiting, steam still rising from the dishes — someone had timed the ceremony's end to the minute. The Grandmaster lowered herself onto the cushion facing the doors as if the room were an old friend, and gestured Rohan toward the place across from her.
+
 The meal was lavish but carefully arranged: saffron rice, lentils scented with cardamom, vegetables layered with herbs, fresh flatbread, spiced fruit, sweets glazed with honey, and water served in dark crystal cups. Nothing was placed for spectacle. Every dish had been chosen, prepared, and carried into the chamber by people who understood that abundance could be offered without becoming display. Rohan understood the honor precisely because of that. The Grandmaster had invited him into a room where status was stripped down to presence, appetite, and the willingness to sit across from someone without an audience.
 
 He took his place opposite her. Master Vayun sat at the Grandmaster's right, his hands resting loosely on his knees.
@@ -54,13 +56,13 @@ Rohan tried to keep his attention on the food. He failed. The ceremony kept retu
 
 Master Vayun set down his cup first.
 
-"I am a great admirer of Tara," he said.
+"I am a great admirer of Claudia," he said.
 
-Rohan looked up. "Tara?"
+Rohan looked up. "Claudia?"
 
-For one absurd second, he wondered whether the old master was speaking of a strategist, a commander, or some forgotten practitioner whose name he should have recognized. Then the answer arrived. Vayun meant Tara, Rohan's senior disciple, the girl whose clarity of thought had made her stand out among the younger students at the dojo.
+For one absurd second, he wondered whether the old master was speaking of a strategist, a commander, or some forgotten practitioner whose name he should have recognized. Then the answer arrived. Vayun meant Claudia — the five-year-old from the Little Dragon's class, the smallest child on the mat, who two evenings ago had stopped chasing the point, found the correct movement on her own, and earned the brown belt Rohan had tied at her waist himself.
 
-Rohan stared at him. Master Vayun had never been introduced to Tara. He had not attended her lessons. He had not watched her spar, corrected her stance, or heard the questions she asked after the others had gone. Yet he spoke her name with the quiet certainty of someone who had already measured the shape of her mind.
+Rohan stared at him. Master Vayun had never been introduced to Claudia. He had not attended her lessons. He had not watched her spar, corrected her stance, or seen her bow to Dev after losing an exchange. Yet he spoke her name with the quiet certainty of someone who had already measured the shape of her mind.
 
 Vayun's eyes brightened with amusement. He had understood the entire path of Rohan's thoughts.
 
@@ -68,7 +70,7 @@ Vayun's eyes brightened with amusement. He had understood the entire path of Roh
 
 Heat rose into Rohan's face.
 
-He lowered his eyes to the rice bowl, then realized he was being foolish. Blushing suggested embarrassment, and embarrassment suggested that he believed the praise belonged to him. The words belonged to Tara. If he accepted them as an honor, he also accepted the responsibility they carried.
+He lowered his eyes to the rice bowl, then realized he was being foolish. Blushing suggested embarrassment, and embarrassment suggested that he believed the praise belonged to him. The words belonged to Claudia. If he accepted them as an honor, he also accepted the responsibility they carried.
 
 He kept silent.
 
@@ -182,6 +184,8 @@ The Grandmaster had not overpowered the steel. She had found the precise moment 
 
 Master Vayun's mouth moved by less than a smile. "It measured whether she could stop after the correct action."
 
+It was not a correction, Rohan realized — it was a whetstone. He had named the virtue. The old master had named the exact instant in which the virtue lived or failed: not holding back before the cut, but ending cleanly after it.
+
 The Grandmaster set down her cup.
 
 "The third test was the one most likely to be misunderstood," she said. "It was not a contest to prove that I could defeat Master Vayun. It was a test of whether I could remain present when mastery exposed my limits."
@@ -190,7 +194,7 @@ Rohan knew which memory came next.
 
 Master Vayun stepped into the dojo.
 
-He did not remove his ivory kimono. He did not stretch. He did not bow toward the officials seated around the hall. He simply positioned himself across from the Grandmaster, one foot slightly forward, hands open, spine loose.
+He did not remove his ivory kimono. He did not stretch. He did not bow toward the officials seated around the hall — the bow belonged to the art, and of everyone present, only two people stood inside it. He walked to his mark, faced the Grandmaster, and bowed to her: the full, unhurried bow of one practitioner to another, the courtesy that outranked every title in the room. She returned it to the same depth. Then he simply settled into position, one foot slightly forward, hands open, spine loose.
 
 The Grandmaster steadied herself.
 
@@ -262,9 +266,15 @@ At last, the Grandmaster folded her hands before her.
 
 Rohan did not move.
 
-"We have seen its pressure in altered records, unexplained permissions, redirected resources, and decisions that arrive before the danger they claim to answer. Elara has seen enough of the pattern to understand what it may do to the balance. If one gana gains control of the others through a power no institution can name, competition will become domination before anyone is willing to admit that the balance has failed."
+"So far it has shown itself three times. A transfer that doubled in flight, which no one requested and no one granted. A signature of two letters that the system obeys without being able to say whom it is obeying. And during the Initiation, a calibration pushed to its ceiling through a monitor's console by a hand no inquiry has identified. Three instances, and each one explainable on its own — an error, an old authorization, a malfunction. That is what makes them dangerous. A power that can be explained away at every step does not have to hide. Elara has seen enough of the pattern to understand what it may do to the balance. If one gana gains control of the others through a power no institution can name, competition will become domination before anyone is willing to admit that the balance has failed."
 
 Her voice held none of the ceremony's public authority now. She spoke as the keeper of a burden that had been carried from one Grandmaster to the next, growing heavier each time the ganas mistook stability for safety.
+
+She paused then, and for a moment seemed to weigh something she had decided long ago never to say aloud.
+
+"This city has safeguards older than Ashoka," she said at last. "I will not tell you what they are, and you will not ask me. Perhaps they are already watching what we have seen. Perhaps they will act. But a Grandmaster who leaves the balance for someone else to keep has already failed her own house. If other hands are moving, let them move. Dhamma does not wait its turn."
+
+Rohan understood that he had just been told something and denied it in the same breath. He filed the words away and did not ask.
 
 "I am glad you have already decided to help Elara," she continued. "Not because Ashoka should take Drona's place, and not because you should become an instrument of her judgment. She needs someone who can test what she sees without dismissing it, and act when the evidence requires action. The balance may depend on whether you are willing to stand between duty and obedience."
 
@@ -312,7 +322,7 @@ Vayun smiled and returned to his tea.
 
 Rohan left the Chamber of Spirits alone.
 
-On the walk back to his quarters, the last few days played through him in fragments: Elara's hand over the record, the three candidates marked UNASSIGNED, the separation order that had followed, and the library transfer authorized under the letters OG. Each clue pointed toward a design larger than any single administrative decision, but none yet revealed who was moving the pieces or why.
+On the walk back to his quarters, the last few days played through him in fragments: Elara's hand over the record, the three candidates marked UNASSIGNED, the separation order that had followed, and the library transfer he had never seen with his own eyes — the one Elara had traced to a signing authority of two letters that no registry could name. Each clue pointed toward a design larger than any single administrative decision, but none yet revealed who was moving the pieces or why.
 
 The events did not arrange themselves into a pattern. They accumulated into a responsibility.
 
