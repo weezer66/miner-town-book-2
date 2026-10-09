@@ -1,0 +1,548 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<title>Indic Respelling Checker</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gentium+Plus:ital,wght@0,400;0,700;1,400&family=Source+Sans+3:wght@400;600;700&family=Tiro+Devanagari+Hindi&family=Noto+Serif+Tamil:wght@400;700&display=swap">
+<style>
+/* Layout: a dictionary's pronunciation-key page. One column (max 820px): a word tester laid out as
+   three "entries" (what the guide makes a reader say / the word itself / a corrected guide), then a
+   glossary table for batch checks, then the key. Serif for words and IPA, sans for the controls. */
+:root{
+  --bg:#eceef2; --surface:#ffffff; --fg:#1a1d24; --muted:#5d6572; --line:#d3d7de; --soft:#f4f5f8;
+  --accent:#2b3a8a; --accent-ink:#ffffff;
+  --ok:#1d6f47; --ok-bg:#e3f1ea; --near:#9a5b05; --near-bg:#fbefd9; --bad:#b02a26; --bad-bg:#f9e3e1;
+  --font-ui:'Source Sans 3',system-ui,-apple-system,"Segoe UI",sans-serif;
+  --font-word:'Gentium Plus','Gentium Book Plus',"Charis SIL","Doulos SIL",Georgia,serif;
+  --font-dev:'Tiro Devanagari Hindi','Noto Serif Tamil','Noto Serif Devanagari','Noto Sans Devanagari',"Mangal","Latha",serif;
+}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+  --bg:#15181e; --surface:#1d2129; --fg:#e7e9ee; --muted:#9aa3b2; --line:#333a46; --soft:#232833;
+  --accent:#9fb0ff; --accent-ink:#0f1322;
+  --ok:#6fcf97; --ok-bg:#173327; --near:#e8b25a; --near-bg:#3a2d12; --bad:#f28b85; --bad-bg:#3b1d1c; color-scheme:dark } }
+:root[data-theme="dark"]{
+  --bg:#15181e; --surface:#1d2129; --fg:#e7e9ee; --muted:#9aa3b2; --line:#333a46; --soft:#232833;
+  --accent:#9fb0ff; --accent-ink:#0f1322;
+  --ok:#6fcf97; --ok-bg:#173327; --near:#e8b25a; --near-bg:#3a2d12; --bad:#f28b85; --bad-bg:#3b1d1c; color-scheme:dark }
+
+body{background:var(--bg);color:var(--fg);font-family:var(--font-ui);font-size:16px;line-height:1.45;margin:0;padding-block:24px 56px;padding-inline:16px}
+.wrap{max-width:820px;margin:0 auto;display:grid;gap:28px}
+h1{font-family:var(--font-word);font-weight:700;font-size:2rem;line-height:1.15;margin:0 0 6px;text-wrap:balance}
+h2{font-family:var(--font-word);font-weight:700;font-size:1.3rem;margin:0 0 10px}
+h3{font-family:var(--font-word);font-weight:700;font-size:1.05rem;margin:14px 0 6px}
+.lede{color:var(--muted);margin:0;max-width:62ch}
+section{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:20px}
+.row{display:flex;flex-wrap:wrap;gap:12px;align-items:end}
+.field{display:grid;gap:4px;min-width:0;flex:1 1 220px}
+.field label,.legend{font-size:.8rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:600}
+input[type=text],textarea{font:inherit;color:var(--fg);background:var(--soft);border:1px solid var(--line);border-radius:6px;padding:9px 11px;width:100%;box-sizing:border-box;min-width:0}
+input.dev,textarea.dev{font-family:var(--font-dev),var(--font-word);font-size:1.15rem}
+input:focus,textarea:focus,button:focus-visible{outline:2px solid var(--accent);outline-offset:1px}
+textarea{min-height:190px;resize:vertical;line-height:1.5}
+button{font:inherit;font-weight:600;border:1px solid var(--line);background:var(--soft);color:var(--fg);border-radius:6px;padding:9px 14px;cursor:pointer}
+button.primary{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+button.play{padding:4px 9px;font-size:.9rem;line-height:1;border-radius:20px;white-space:nowrap}
+button.play::before{content:"▶ ";font-size:.75em}
+button.play.copy::before{content:""}
+button:disabled{opacity:.5;cursor:default}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:6px;overflow:hidden}
+.seg button{border:0;border-radius:0;background:transparent}
+.seg button[aria-pressed="true"]{background:var(--accent);color:var(--accent-ink)}
+.entries{display:grid;gap:10px;margin-top:18px}
+.entry{display:grid;grid-template-columns:128px 1fr auto;gap:8px 14px;align-items:center;padding:12px 14px;border:1px solid var(--line);border-radius:8px;background:var(--soft)}
+.entry .lab{font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:600}
+.entry .word{font-family:var(--font-word);font-size:1.5rem;line-height:1.2;min-width:0;overflow-wrap:anywhere}
+.entry .word .dev{font-family:var(--font-dev),var(--font-word)}
+.entry .ipa{font-family:var(--font-word);color:var(--muted);font-size:1.05rem;margin-left:10px;white-space:nowrap}
+.entry.suggest{border-color:var(--accent)}
+.btns{display:inline-flex;gap:6px;flex-wrap:wrap}
+.verdict{margin-top:14px;padding:12px 14px;border-radius:8px;border:1px solid var(--line);display:grid;gap:6px}
+.verdict.ok{background:var(--ok-bg);border-color:var(--ok)} .verdict.near{background:var(--near-bg);border-color:var(--near)} .verdict.bad{background:var(--bad-bg);border-color:var(--bad)}
+.verdict .head{font-weight:700}
+.verdict ul{margin:0;padding-left:18px} .verdict li{margin:2px 0}
+.pill{display:inline-block;font-size:.78rem;font-weight:700;letter-spacing:.04em;padding:2px 9px;border-radius:20px;border:1px solid}
+.pill.ok{color:var(--ok);border-color:var(--ok);background:var(--ok-bg)} .pill.near{color:var(--near);border-color:var(--near);background:var(--near-bg)} .pill.bad{color:var(--bad);border-color:var(--bad);background:var(--bad-bg)}
+.help{font-size:.9rem;color:var(--muted);margin:8px 0 0}
+.help code,.fine code{font-family:var(--font-word);background:var(--soft);padding:0 4px;border-radius:3px}
+.rules{font-size:.85rem;color:var(--muted);margin-top:8px}
+.tablewrap{overflow-x:auto;margin-top:14px;border:1px solid var(--line);border-radius:8px}
+table{border-collapse:collapse;width:100%;min-width:740px;font-size:.95rem}
+th,td{text-align:left;padding:9px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);background:var(--soft);position:sticky;top:0}
+tr:last-child td{border-bottom:0}
+td.w{font-family:var(--font-word);font-size:1.1rem} td.w .dev{font-family:var(--font-dev),var(--font-word)}
+td .ipa{font-family:var(--font-word);color:var(--muted);display:block;font-size:.92rem}
+td .note{display:block;color:var(--muted);font-size:.85rem;margin-top:3px;max-width:34ch}
+td.sug{font-family:var(--font-word);font-weight:700;font-size:1.05rem}
+.actions{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin-top:12px}
+.status{font-size:.88rem;color:var(--muted)}
+.status b{color:var(--fg);font-weight:600}
+.key{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:8px 18px;margin:0;padding:0;list-style:none}
+.key li{display:flex;gap:8px;align-items:baseline;font-size:.95rem}
+.key .k{font-family:var(--font-word);font-weight:700;min-width:2.4em}
+.key .d{font-family:var(--font-dev),var(--font-word);color:var(--muted)}
+.fine{font-size:.88rem;color:var(--muted)}
+.toast{position:fixed;left:50%;bottom:calc(20px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);background:var(--fg);color:var(--bg);padding:8px 14px;border-radius:20px;font-size:.9rem;opacity:0;transition:opacity .2s;pointer-events:none}
+.toast.show{opacity:1}
+@media (max-width:520px){ .entry{grid-template-columns:1fr;gap:4px} .entry .ipa{margin-left:0;display:block;white-space:normal} h1{font-size:1.6rem} }
+@media (prefers-reduced-motion: reduce){ .toast{transition:none} }
+</style>
+
+<div class="wrap">
+  <header>
+    <h1>Indic Respelling Checker</h1>
+    <p class="lede">Type a name in Devanagari or Tamil script, paste the pronunciation guide your book prints, and hear three things: what that guide makes an English reader say, how the word sounds in its own language, and a corrected guide in the same style.</p>
+  </header>
+
+  <section aria-labelledby="one-h">
+    <h2 id="one-h">One word</h2>
+    <div class="row">
+      <div class="field"><label for="word">Word (Devanagari, Tamil, or simple Latin)</label><input id="word" class="dev" type="text" value="नयन" autocomplete="off" spellcheck="false"></div>
+      <div class="field"><label for="guide">Guide as printed in the book</label><input id="guide" type="text" value="NAH-yahn" autocomplete="off" spellcheck="false"></div>
+      <div class="field" style="flex:0 0 auto"><span class="legend">Rules</span>
+        <div class="seg" role="group" aria-label="Language rules">
+          <button type="button" id="mode-hindi" aria-pressed="true">Hindi</button>
+          <button type="button" id="mode-sanskrit" aria-pressed="false">Sanskrit / Pali</button>
+          <button type="button" id="mode-tamil" aria-pressed="false">Tamil</button>
+        </div></div>
+      <div class="field" style="flex:0 0 auto"><button type="button" class="primary" id="check">Check</button></div>
+    </div>
+    <p class="help">Tamil script always uses Tamil rules; Devanagari uses Hindi or Sanskrit as chosen. Hindi drops unwritten short <code>a</code> sounds (नयन → <i>nayan</i>); Sanskrit, Pali and Tamil keep every vowel. In Latin input a plain <code>a</code> is short; write <code>aa</code>/<code>ā</code> for the long one, <code>ee</code> for ई, <code>oo</code> for ऊ, and in Tamil <code>zh</code> for ழ, <code>th</code> for த. Script input is more reliable than Latin.</p>
+
+    <div class="entries" id="entries"></div>
+    <div id="verdict"></div>
+  </section>
+
+  <section aria-labelledby="gl-h">
+    <h2 id="gl-h">Glossary</h2>
+    <p class="help" style="margin:0 0 10px">One name per line: <code>word | guide as printed | label</code>. The guide and label are optional. The lines below are examples; replace them with your own. The Rules switch above applies to every Devanagari and Latin line.</p>
+    <textarea id="batch" class="dev" spellcheck="false">नयन | NAH-yahn | Nayan
+नैना | NAY-nah | Naina
+देव | DEV | Dev
+युग | YUG | Yug
+रीना | REE-nah | Reena
+संजीवनी | sun-jee-VAH-nee | Sanjeevani
+पाताल | puh-TAHL | Patal
+Kamla | KAM-la | Kamla (Latin input)
+தமிழ் | TAH-mil | Tamil
+குபேரா | koo-BAIR-uh | Kubera (Tamil)
+ஒன்று | ON-roo | onru</textarea>
+    <div class="actions">
+      <button type="button" class="primary" id="check-all">Check all</button>
+      <button type="button" id="copy-tsv">Copy table</button>
+      <span class="status" id="voice-status"></span>
+    </div>
+    <div class="tablewrap"><table id="results"><thead><tr><th>Word</th><th>Book guide</th><th>A reader says</th><th>The language</th><th>Suggested</th><th>Verdict</th></tr></thead><tbody></tbody></table></div>
+  </section>
+
+  <section aria-labelledby="key-h">
+    <h2 id="key-h">The guide style this tool writes</h2>
+    <h3>Vowels</h3>
+    <ul class="key">
+      <li><span class="k">uh</span><span class="d">अ · அ</span><span>as in <i>about</i>, <i>cut</i></span></li>
+      <li><span class="k">ah</span><span class="d">आ · ஆ</span><span>as in <i>father</i></span></li>
+      <li><span class="k">ih</span><span class="d">इ · இ</span><span>as in <i>bit</i></span></li>
+      <li><span class="k">ee</span><span class="d">ई · ஈ</span><span>as in <i>see</i></span></li>
+      <li><span class="k">oo</span><span class="d">उ ऊ · உ ஊ</span><span>as in <i>book</i> / <i>boot</i></span></li>
+      <li><span class="k">ay</span><span class="d">ए · ஏ</span><span>as in <i>day</i></span></li>
+      <li><span class="k">eh</span><span class="d">ऐ · எ</span><span>as in <i>bed</i></span></li>
+      <li><span class="k">ai</span><span class="d">ஐ</span><span>as in <i>eye</i> (Tamil only)</span></li>
+      <li><span class="k">oh</span><span class="d">ओ · ஒ ஓ</span><span>as in <i>go</i></span></li>
+      <li><span class="k">aw</span><span class="d">औ</span><span>as in <i>law</i></span></li>
+      <li><span class="k">ow</span><span class="d">ஔ</span><span>as in <i>cow</i></span></li>
+      <li><span class="k">ri</span><span class="d">ऋ</span><span>as in <i>rib</i></span></li>
+    </ul>
+    <h3>Consonants worth knowing</h3>
+    <ul class="key">
+      <li><span class="k">kh th ph</span><span class="d">ख थ फ</span><span>a puff of breath after the consonant</span></li>
+      <li><span class="k">th</span><span class="d">த</span><span>in Tamil, a plain t with the tongue on the teeth</span></li>
+      <li><span class="k">zh</span><span class="d">ழ</span><span>between l and r, tongue curled back; most readers say l</span></li>
+      <li><span class="k">CAPS</span><span></span><span>the stressed syllable</span></li>
+    </ul>
+    <p class="fine">Stress is approximate: Hindi stress is light and weight-based, Tamil leans on the first syllable. Vowel length and quality are what English readers get wrong, and those are what the verdicts check. The voices are your browser's own, so a Hindi or Tamil voice gives the truest reading of the word; Hindi voices drop a final <code>a</code> even in Sanskrit mode, where the suggested guide is the better reference. In Tamil, consonants soften between vowels and after nasals (கம்பன் → <i>Kamban</i>); the tool applies that. Dental and retroflex t/d are both written <code>t</code>/<code>d</code>.</p>
+  </section>
+</div>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+<script>
+/*CORE-START*/
+// ================= Devanagari =================
+var NUKTA='़', VIRAMA='्', ANUSVARA='ं', CHANDRABINDU='ँ', VISARGA='ः';
+var CONS={
+ 'क':['k','k'],'ख':['kʰ','kh'],'ग':['ɡ','g'],'घ':['ɡʱ','gh'],'ङ':['ŋ','ng'],
+ 'च':['tʃ','ch'],'छ':['tʃʰ','chh'],'ज':['dʒ','j'],'झ':['dʒʱ','jh'],'ञ':['ɲ','ny'],
+ 'ट':['ʈ','t'],'ठ':['ʈʰ','th'],'ड':['ɖ','d'],'ढ':['ɖʱ','dh'],'ण':['ɳ','n'],
+ 'त':['t̪','t'],'थ':['t̪ʰ','th'],'द':['d̪','d'],'ध':['d̪ʱ','dh'],'न':['n','n'],
+ 'प':['p','p'],'फ':['pʰ','ph'],'ब':['b','b'],'भ':['bʱ','bh'],'म':['m','m'],
+ 'य':['j','y'],'र':['ɾ','r'],'ल':['l','l'],'व':['ʋ','v'],'श':['ʃ','sh'],'ष':['ʂ','sh'],'स':['s','s'],'ह':['ɦ','h'],'ळ':['ɭ','l'],
+ 'क़':['q','q'],'ख़':['x','kh'],'ग़':['ɣ','g'],'ज़':['z','z'],'ड़':['ɽ','r'],'ढ़':['ɽʱ','rh'],'फ़':['f','f'],'य़':['j','y'],'ऩ':['n','n'],'ऱ':['ɾ','r']
+};
+var VOW_IND={'अ':'ə','आ':'aː','इ':'ɪ','ई':'iː','उ':'ʊ','ऊ':'uː','ऋ':'rɪ','ए':'eː','ऐ':'ɛː','ओ':'oː','औ':'ɔː','ऑ':'ɒ','ऍ':'æ','ऌ':'lɪ'};
+var MATRA={'ा':'aː','ि':'ɪ','ी':'iː','ु':'ʊ','ू':'uː','ृ':'rɪ','ॄ':'rɪ','े':'eː','ै':'ɛː','ो':'oː','ौ':'ɔː','ॉ':'ɒ','ॅ':'æ','ॢ':'lɪ'};
+// ================= Tamil =================
+var PULLI='்';
+var TAM_C={'க':['k','k'],'ங':['ŋ','ng'],'ச':['tʃ','ch'],'ஞ':['ɲ','ny'],'ட':['ʈ','t'],'ண':['ɳ','n'],'த':['t̪','t'],'ந':['n̪','n'],'ப':['p','p'],'ம':['m','m'],'ய':['j','y'],'ர':['ɾ','r'],'ல':['l','l'],'வ':['ʋ','v'],'ழ':['ɻ','zh'],'ள':['ɭ','l'],'ற':['r','r'],'ன':['n','n'],'ஜ':['dʒ','j'],'ஷ':['ʂ','sh'],'ஸ':['s','s'],'ஹ':['h','h'],'ஶ':['ʃ','sh']};
+var TAM_VI={'அ':'a','ஆ':'aː','இ':'ɪ','ஈ':'iː','உ':'ʊ','ஊ':'uː','எ':'e','ஏ':'eː','ஐ':'aɪ','ஒ':'o','ஓ':'oː','ஔ':'aʊ'};
+var TAM_VS={'ா':'aː','ி':'ɪ','ீ':'iː','ு':'ʊ','ூ':'uː','ெ':'e','ே':'eː','ை':'aɪ','ொ':'o','ோ':'oː','ௌ':'aʊ'};
+// ================= shared =================
+var VRESP={'ə':'uh','a':'uh','aː':'ah','ɪ':'ih','iː':'ee','ʊ':'oo','uː':'oo','rɪ':'ri','eː':'ay','ɛː':'eh','e':'eh','oː':'oh','o':'oh','ɔː':'aw','ɒ':'aw','æ':'a','lɪ':'li','aɪ':'ai','aʊ':'ow'};
+var LONG={'aː':1,'iː':1,'uː':1,'eː':1,'ɛː':1,'oː':1,'ɔː':1,'aɪ':1,'aʊ':1};
+var VNAME={'ə':'the short a of <i>about</i>','a':'the short a of <i>cut</i>','aː':'the long a of <i>father</i>','ɪ':'the i of <i>bit</i>','iː':'the ee of <i>see</i>','ʊ':'the oo of <i>book</i>','uː':'the oo of <i>boot</i>','eː':'the ay of <i>day</i>','ɛː':'the e of <i>bed</i>, held long','e':'the e of <i>bed</i>','oː':'the o of <i>go</i>','o':'a short o as in <i>go</i>','ɔː':'the aw of <i>law</i>','ɒ':'the o of <i>hot</i>','æ':'the a of <i>cat</i>','aɪ':'the i of <i>eye</i>','aʊ':'the ow of <i>cow</i>'};
+var RNAME={'ɑː':'the a of <i>father</i>','ʌ':'the u of <i>but</i>','ə':'the a of <i>about</i>','æ':'the a of <i>cat</i>','ɪ':'the i of <i>bit</i>','iː':'the ee of <i>see</i>','ʊ':'the oo of <i>book</i>','uː':'the oo of <i>boot</i>','eɪ':'the ay of <i>day</i>','ɛ':'the e of <i>bed</i>','oʊ':'the o of <i>go</i>','ɔː':'the aw of <i>law</i>','ɑ':'the o of <i>hot</i>','aɪ':'the i of <i>eye</i>','aʊ':'the ow of <i>cow</i>','ɔɪ':'the oy of <i>boy</i>','ɜ':'the er of <i>her</i>'};
+
+function isDevanagari(s){ return /[ऀ-ॿ]/.test(s); }
+function isTamil(s){ return /[஀-௿]/.test(s); }
+
+function parseDev(word){
+  var s=word.normalize('NFD'), units=[], i=0;
+  while(i<s.length){
+    var ch=s[i], key=ch;
+    if(s[i+1]===NUKTA) key=ch+NUKTA;
+    var c=CONS[key]||CONS[ch];
+    if(c){
+      i+=CONS[key]?key.length:1;
+      if(!CONS[key]&&s[i]===NUKTA) i++;
+      units.push({t:'C',ipa:c[0],resp:c[1]});
+      var nx=s[i];
+      if(nx===VIRAMA){ units[units.length-1].virama=true; i++; }
+      else if(MATRA[nx]){ units.push({t:'V',ipa:MATRA[nx]}); i++; }
+      else units.push({t:'V',ipa:'ə',inherent:true});
+      continue;
+    }
+    if(VOW_IND[ch]){ units.push({t:'V',ipa:VOW_IND[ch]}); i++; continue; }
+    if(ch===ANUSVARA){ units.push({t:'N'}); i++; continue; }
+    if(ch===CHANDRABINDU){ var last=units[units.length-1]; if(last&&last.t==='V') last.nasal=true; else units.push({t:'N'}); i++; continue; }
+    if(ch===VISARGA){ units.push({t:'C',ipa:'h',resp:'h'}); i++; continue; }
+    i++;
+  }
+  return resolveNasals(fixConjuncts(units));
+}
+function fixConjuncts(units){ // ज्ञ → gy
+  for(var k=0;k<units.length-1;k++){
+    if(units[k].t==='C'&&units[k].ipa==='dʒ'&&units[k].virama&&units[k+1].t==='C'&&units[k+1].ipa==='ɲ'){
+      units[k]={t:'C',ipa:'ɡ',resp:'g',virama:true}; units[k+1]={t:'C',ipa:'j',resp:'y'}; } }
+  return units;
+}
+function resolveNasals(units){
+  for(var k=0;k<units.length;k++){
+    if(units[k].t!=='N') continue;
+    var nxt=units[k+1], ipa='n', resp='n';
+    if(nxt&&nxt.t==='C'){
+      var c=nxt.ipa;
+      if(/^(k|ɡ|ŋ|x|q|ɣ)/.test(c)){ipa='ŋ';resp='ng';}
+      else if(/^(p|b|m|f)/.test(c)){ipa='m';resp='m';}
+      units[k]={t:'C',ipa:ipa,resp:resp};
+    } else {
+      var prev=units[k-1];
+      if(prev&&prev.t==='V'){ prev.nasal=true; units.splice(k,1); k--; }
+      else units[k]={t:'C',ipa:'n',resp:'n'};
+    }
+  }
+  return units;
+}
+
+function parseTamil(word){
+  var s=word.normalize('NFC'), units=[], i=0;
+  while(i<s.length){
+    var ch=s[i], c=TAM_C[ch];
+    if(c){
+      units.push({t:'C',ipa:c[0],resp:c[1],tam:ch}); i++;
+      var nx=s[i];
+      if(nx===PULLI){ units[units.length-1].virama=true; i++; }
+      else if(nx==='ெ'&&s[i+1]==='ா'){ units.push({t:'V',ipa:'o'}); i+=2; }
+      else if(nx==='ே'&&s[i+1]==='ா'){ units.push({t:'V',ipa:'oː'}); i+=2; }
+      else if(nx==='ெ'&&s[i+1]==='ௗ'){ units.push({t:'V',ipa:'aʊ'}); i+=2; }
+      else if(TAM_VS[nx]){ units.push({t:'V',ipa:TAM_VS[nx]}); i++; }
+      else units.push({t:'V',ipa:'a',inherent:true});
+      continue;
+    }
+    if(TAM_VI[ch]){ units.push({t:'V',ipa:TAM_VI[ch]}); i++; continue; }
+    if(ch==='ஃ'){ units.push({t:'C',ipa:'h',resp:'h'}); i++; continue; }
+    i++;
+  }
+  return units;
+}
+function tamilVoicing(units){
+  var VOICE={'k':['ɡ','g'],'tʃ':['s','s'],'ʈ':['ɖ','d'],'t̪':['d̪','d'],'p':['b','b']};
+  var NASV={'k':['ɡ','g'],'tʃ':['dʒ','j'],'ʈ':['ɖ','d'],'t̪':['d̪','d'],'p':['b','b']};
+  var NAS={'ŋ':1,'ɲ':1,'ɳ':1,'n̪':1,'n':1,'m':1};
+  var out=[];
+  for(var k=0;k<units.length;k++){
+    var u=Object.assign({},units[k]), prev=units[k-1], next=units[k+1];
+    if(u.t==='C'){
+      if(u.ipa==='r'&&prev&&prev.t==='C'&&prev.ipa==='r'){ out[out.length-1]=Object.assign({},out[out.length-1],{ipa:'t̺',resp:'t'}); out.push({t:'C',ipa:'r',resp:'r'}); continue; }
+      if(u.ipa==='r'&&prev&&prev.t==='C'&&prev.ipa==='n'){ out.push({t:'C',ipa:'d̪',resp:'d',virama:true}); out.push({t:'C',ipa:'r',resp:'r'}); continue; }
+      if(VOICE[u.ipa]){
+        if(prev&&prev.t==='V'&&next&&next.t==='V'){ u.ipa=VOICE[u.ipa][0]; u.resp=VOICE[units[k].ipa][1]; }
+        else if(prev&&prev.t==='C'&&NAS[prev.ipa]){ u.ipa=NASV[u.ipa][0]; u.resp=NASV[units[k].ipa][1]; }
+      }
+    }
+    out.push(u);
+  }
+  return out;
+}
+
+// ================= Latin input =================
+var LAT_V=[['aa','aː'],['ā','aː'],['ai','ɛː'],['au','ɔː'],['ee','iː'],['ii','iː'],['ī','iː'],['oo','uː'],['uu','uː'],['ū','uː'],['ē','eː'],['ō','oː'],['ṛ','rɪ'],['a','ə'],['i','ɪ'],['u','ʊ'],['e','eː'],['o','oː']];
+var LAT_C=[['chh',['tʃʰ','chh']],['ksh',null],['kh',['kʰ','kh']],['gh',['ɡʱ','gh']],['ch',['tʃ','ch']],['jh',['dʒʱ','jh']],['jñ',null],['gy',null],['ny',['ɲ','ny']],['ñ',['ɲ','ny']],['ṅ',['ŋ','ng']],['ng',['ŋ','ng']],['ṭh',['ʈʰ','th']],['ṭ',['ʈ','t']],['ḍh',['ɖʱ','dh']],['ḍ',['ɖ','d']],['ṇ',['ɳ','n']],['th',['t̪ʰ','th']],['dh',['d̪ʱ','dh']],['ph',['pʰ','ph']],['bh',['bʱ','bh']],['sh',['ʃ','sh']],['ś',['ʃ','sh']],['ṣ',['ʂ','sh']],
+ ['k',['k','k']],['g',['ɡ','g']],['c',['tʃ','ch']],['j',['dʒ','j']],['t',['t̪','t']],['d',['d̪','d']],['n',['n','n']],['p',['p','p']],['b',['b','b']],['m',['m','m']],['y',['j','y']],['r',['ɾ','r']],['l',['l','l']],['v',['ʋ','v']],['w',['ʋ','v']],['s',['s','s']],['h',['ɦ','h']],['f',['f','f']],['z',['z','z']],['q',['q','q']]];
+var TLAT_V=[['aa','aː'],['ā','aː'],['ai','aɪ'],['au','aʊ'],['ee','iː'],['ii','iː'],['ī','iː'],['oo','uː'],['uu','uː'],['ū','uː'],['ē','eː'],['ō','oː'],['a','a'],['i','ɪ'],['u','ʊ'],['e','e'],['o','o']];
+var TLAT_C=[['zh',['ɻ','zh']],['ng',['ŋ','ng']],['ny',['ɲ','ny']],['ch',['tʃ','ch']],['sh',['ʃ','sh']],['th',['t̪','t']],['dh',['d̪','d']],['kh',['k','k']],['gh',['ɡ','g']],['ph',['p','p']],['bh',['b','b']],['ll',['ɭ','l']],['rr',['r','r']],['ṟ',['r','r']],['ḻ',['ɻ','zh']],['ḷ',['ɭ','l']],['ṭ',['ʈ','t']],['ḍ',['ɖ','d']],['ṇ',['ɳ','n']],['ṉ',['n','n']],['ñ',['ɲ','ny']],['ṅ',['ŋ','ng']],['ś',['ʃ','sh']],['ṣ',['ʂ','sh']],
+ ['k',['k','k']],['g',['ɡ','g']],['c',['tʃ','ch']],['j',['dʒ','j']],['t',['t̪','t']],['d',['d̪','d']],['n',['n','n']],['p',['p','p']],['b',['b','b']],['m',['m','m']],['y',['j','y']],['r',['ɾ','r']],['l',['l','l']],['v',['ʋ','v']],['w',['ʋ','v']],['s',['s','s']],['h',['h','h']],['f',['f','f']],['z',['z','z']]];
+function parseLatin(word, tamil){
+  var CT=tamil?TLAT_C:LAT_C, VT=tamil?TLAT_V:LAT_V;
+  var s=word.normalize('NFC').toLowerCase().replace(/[^a-zāīūēōṛñṅṭḍṇśṣṟḻḷṉ]/g,''), units=[], i=0, k;
+  while(i<s.length){
+    var hit=false;
+    for(k=0;k<CT.length;k++){ var g=CT[k][0]; if(s.startsWith(g,i)){
+      if(g==='ksh'){ units.push({t:'C',ipa:'k',resp:'k',virama:true},{t:'C',ipa:'ʂ',resp:'sh'}); }
+      else if(g==='jñ'||g==='gy'){ units.push({t:'C',ipa:'ɡ',resp:'g',virama:true},{t:'C',ipa:'j',resp:'y'}); }
+      else units.push({t:'C',ipa:CT[k][1][0],resp:CT[k][1][1]});
+      i+=g.length; hit=true; break; } }
+    if(hit) continue;
+    for(k=0;k<VT.length;k++){ var v=VT[k][0]; if(s.startsWith(v,i)){ var ph=VT[k][1]; units.push({t:'V',ipa:ph,inherent:(ph==='ə'||ph==='a')}); i+=v.length; hit=true; break; } }
+    if(!hit) i++;
+  }
+  for(k=0;k<units.length-1;k++) if(units[k].t==='C'&&units[k+1].t==='C') units[k].virama=true;
+  return units;
+}
+
+// ================= Hindi schwa deletion =================
+function deleteSchwas(units){
+  var n=units.length;
+  if(n>2){
+    var last=units[n-1];
+    if(last.t==='V'&&last.inherent){ var before=units[n-3]; if(before&&before.t==='C') last.keepCluster=true; else last.del=true; }
+    for(var i=n-2;i>0;i--){
+      var u=units[i]; if(!(u.t==='V'&&u.inherent&&!u.del)) continue;
+      var p1=units[i-1],p2=units[i-2],f1=units[i+1],f2=units[i+2];
+      if(p1&&p1.t==='C'&&p2&&p2.t==='V'&&!p2.del&&f1&&f1.t==='C'&&f2&&f2.t==='V'&&!f2.del) u.del=true;
+    }
+  }
+  return units.filter(function(u){return !u.del;});
+}
+
+// ================= syllables, stress, output =================
+function syllabify(units){
+  var syls=[], i=0, onset=[];
+  while(i<units.length&&units[i].t==='C'){onset.push(units[i]);i++;}
+  while(i<units.length){
+    var v=units[i]; i++;
+    var cons=[]; while(i<units.length&&units[i].t==='C'){cons.push(units[i]);i++;}
+    var atEnd=i>=units.length, coda, next;
+    if(atEnd){coda=cons;next=[];} else if(cons.length<=1){coda=[];next=cons;} else {coda=cons.slice(0,1);next=cons.slice(1);}
+    syls.push({onset:onset,nucleus:v,coda:coda}); onset=next;
+  }
+  if(!syls.length&&onset.length) syls.push({onset:onset,nucleus:null,coda:[]});
+  syls.forEach(function(s){ if(s.nucleus&&s.nucleus.ipa==='rɪ'){ s.onset=s.onset.concat([{t:'C',ipa:'ɾ',resp:'r'}]); s.nucleus={t:'V',ipa:'ɪ'}; }
+    else if(s.nucleus&&s.nucleus.ipa==='lɪ'){ s.onset=s.onset.concat([{t:'C',ipa:'l',resp:'l'}]); s.nucleus={t:'V',ipa:'ɪ'}; } });
+  return syls;
+}
+function assignStress(syls, rules){
+  if(!syls.length) return syls;
+  if(syls.length===1||rules==='tamil'){ syls[0].stress=true; return syls; }
+  if(rules==='sanskrit'){ var pen=syls[syls.length-2], heavy=pen.nucleus&&(LONG[pen.nucleus.ipa]||pen.coda.length>0); var si=(syls.length>=3&&!heavy)?syls.length-3:syls.length-2; syls[si].stress=true; return syls; }
+  var w=syls.map(function(s,idx){ if(!s.nucleus) return 0; var wt=LONG[s.nucleus.ipa]?2:1; var coda=s.coda.length-(idx===syls.length-1?1:0); if(coda>0) wt+=1; return wt; });
+  var max=Math.max.apply(null,w), idx=-1;
+  for(var k=syls.length-2;k>=0;k--) if(w[k]===max){idx=k;break;}
+  if(idx<0) idx=w.indexOf(max);
+  syls[idx].stress=true; return syls;
+}
+function ipaOf(syls){ return syls.map(function(s){ return (s.stress?'ˈ':'')+s.onset.map(function(c){return c.ipa;}).join('')+(s.nucleus?s.nucleus.ipa+(s.nucleus.nasal?'̃':''):'')+s.coda.map(function(c){return c.ipa;}).join(''); }).join('.'); }
+function respOf(syls){ return syls.map(function(s,idx,arr){ var v=''; if(s.nucleus){ var ip=s.nucleus.ipa; v=VRESP[ip]||ip;
+    var closed=s.coda.length>0, rCoda=closed&&s.coda[0].resp.charAt(0)==='r';
+    if(closed&&!rCoda&&(ip==='ə'||ip==='a')) v='u';
+    if(closed&&!rCoda&&ip==='ɪ') v='i';
+    if(ip==='ɪ'&&idx===arr.length-1&&!closed) v='ee';
+    if(s.nucleus.nasal) v+='n'; }
+  var str=s.onset.map(function(c){return c.resp;}).join('')+v+s.coda.map(function(c){return c.resp;}).join(''); return s.stress?str.toUpperCase():str; }).join('-'); }
+function toDevanagari(units){
+  var RC={}; Object.keys(CONS).forEach(function(k){ RC[CONS[k][0]]=RC[CONS[k][0]]||k; }); RC['h']='ह';
+  var RM={'aː':'ा','ɪ':'ि','iː':'ी','ʊ':'ु','uː':'ू','rɪ':'ृ','eː':'े','ɛː':'ै','oː':'ो','ɔː':'ौ','ɒ':'ॉ','æ':'ॅ','lɪ':'ॢ'};
+  var RI={'ə':'अ','aː':'आ','ɪ':'इ','iː':'ई','ʊ':'उ','uː':'ऊ','rɪ':'ऋ','eː':'ए','ɛː':'ऐ','oː':'ओ','ɔː':'औ','ɒ':'ऑ','æ':'ऍ','lɪ':'ऌ'};
+  var out='';
+  for(var k=0;k<units.length;k++){ var u=units[k], nx=units[k+1];
+    if(u.t==='C'){ out+=RC[u.ipa]||''; if(!nx) continue; if(nx.t==='C') out+=VIRAMA; else if(nx.ipa!=='ə') out+=RM[nx.ipa]||''; if(nx.t==='V'&&nx.nasal) out+=CHANDRABINDU; if(nx.t==='V') k++; }
+    else { out+=RI[u.ipa]||''; if(u.nasal) out+=CHANDRABINDU; } }
+  return out;
+}
+function toTamil(units){
+  var RC={'k':'க','ɡ':'க','ŋ':'ங','tʃ':'ச','dʒ':'ஜ','ɲ':'ஞ','ʈ':'ட','ɖ':'ட','ɳ':'ண','t̪':'த','d̪':'த','n̪':'ந','p':'ப','b':'ப','m':'ம','j':'ய','ɾ':'ர','l':'ல','ʋ':'வ','ɻ':'ழ','ɭ':'ள','r':'ற','n':'ன','ʂ':'ஷ','s':'ஸ','h':'ஹ','ʃ':'ஶ','f':'ஃப','z':'ஜ','t̺':'ற'};
+  var RM={'aː':'ா','ɪ':'ி','iː':'ீ','ʊ':'ு','uː':'ூ','e':'ெ','eː':'ே','aɪ':'ை','o':'ொ','oː':'ோ','aʊ':'ௌ'};
+  var RI={'a':'அ','aː':'ஆ','ɪ':'இ','iː':'ஈ','ʊ':'உ','uː':'ஊ','e':'எ','eː':'ஏ','aɪ':'ஐ','o':'ஒ','oː':'ஓ','aʊ':'ஔ'};
+  var out='';
+  for(var k=0;k<units.length;k++){ var u=units[k], nx=units[k+1];
+    if(u.t==='C'){ out+=RC[u.ipa]||''; if(!nx||nx.t==='C') out+=PULLI; else { if(nx.ipa!=='a') out+=RM[nx.ipa]||''; k++; } }
+    else out+=RI[u.ipa]||''; }
+  return out;
+}
+function analyzeWord(word, mode){
+  var script=isTamil(word)?'tamil':isDevanagari(word)?'dev':'latin';
+  var rules=script==='tamil'?'tamil':script==='dev'?(mode==='tamil'?'sanskrit':mode):mode;
+  var units=script==='tamil'?parseTamil(word):script==='dev'?parseDev(word):parseLatin(word,rules==='tamil');
+  if(rules==='tamil') units=tamilVoicing(units);
+  var native=script==='latin'?(rules==='tamil'?toTamil(units):toDevanagari(units)):word.normalize('NFC');
+  var kept=rules==='hindi'?deleteSchwas(units.map(function(u){return Object.assign({},u);})):units;
+  var syls=assignStress(syllabify(kept),rules);
+  return {word:word, native:native, lang:rules==='tamil'?'ta':'hi', rules:rules, syls:syls, ipa:ipaOf(syls), resp:respOf(syls)};
+}
+function analyze(text, mode){
+  var words=text.trim().split(/\s+/).filter(Boolean).map(function(w){return analyzeWord(w,mode);});
+  return {words:words, native:words.map(function(w){return w.native;}).join(' '), lang:words.length?words[0].lang:'hi', rules:words.length?words[0].rules:mode,
+    ipa:words.map(function(w){return w.ipa;}).join(' '), resp:words.map(function(w){return w.resp;}).join(' '),
+    syls:words.reduce(function(a,w){return a.concat(w.syls);},[])};
+}
+
+// ================= what an English reader makes of a guide =================
+var READ=[['augh','ɔː','V'],['ough','oʊ','V'],['eigh','eɪ','V'],['igh','aɪ','V'],['tch','tʃ','C'],['chh','tʃ','C'],
+ ['air','ɛr','V'],['ear','ɪr','V'],['eer','ɪr','V'],['oor','ʊr','V'],
+ ['ah','ɑː','V'],['aw','ɔː','V'],['au','ɔː','V'],['ay','eɪ','V'],['ai','aɪ','V'],['ar','ɑːr','V'],['ae','eɪ','V'],
+ ['ee','iː','V'],['ea','iː','V'],['eh','ɛ','V'],['ey','eɪ','V'],['er','ɜr','V'],['ew','uː','V'],
+ ['ie','iː','V'],['ih','ɪ','V'],['ir','ɜr','V'],
+ ['oh','oʊ','V'],['oo','uː','V'],['ow','aʊ','V'],['oy','ɔɪ','V'],['oi','ɔɪ','V'],['or','ɔːr','V'],['oa','oʊ','V'],['ou','aʊ','V'],
+ ['uh','ʌ','V'],['ue','uː','V'],['ur','ɜr','V'],
+ ['sh','ʃ','C'],['ch','tʃ','C'],['th','θ','C'],['kh','k','C'],['gh','ɡ','C'],['bh','b','C'],['dh','d','C'],['ph','f','C'],['ng','ŋ','C'],['ny','nj','C'],['zh','ʒ','C'],['wh','w','C'],['ck','k','C'],['qu','kw','C'],
+ ['a','æ','V'],['e','ɛ','V'],['i','ɪ','V'],['o','ɑ','V'],['u','ʌ','V'],['y','j','Y'],
+ ['b','b','C'],['c','k','C'],['d','d','C'],['f','f','C'],['g','ɡ','C'],['h','h','C'],['j','dʒ','C'],['k','k','C'],['l','l','C'],['m','m','C'],['n','n','C'],['p','p','C'],['q','k','C'],['r','r','C'],['s','s','C'],['t','t','C'],['v','v','C'],['w','w','C'],['x','ks','C'],['z','z','C']];
+var MAGIC={'æ':'eɪ','ɪ':'aɪ','ɑ':'oʊ','ʌ':'uː','ɛ':'iː'};
+function readGuide(guide){
+  var toks=guide.trim().split(/[\s\-‐-―·]+/).filter(Boolean), syls=[];
+  toks.forEach(function(tok){
+    var letters=tok.replace(/[^A-Za-z]/g,''); if(!letters) return;
+    var stressed=letters===letters.toUpperCase();
+    var t=letters.toLowerCase(), magic=false;
+    if(/[aeiou][^aeiou]+e$/.test(t)&&t.length>2){ magic=true; t=t.slice(0,-1); }
+    var segs=[], i=0;
+    while(i<t.length){ var hit=null;
+      for(var k=0;k<READ.length;k++){ if(t.startsWith(READ[k][0],i)){hit=READ[k];break;} }
+      if(!hit){i++;continue;}
+      var g=hit[0], ph=hit[1], kind=hit[2];
+      if(kind==='Y'){ var next=t[i+1]; var hasV=segs.some(function(s){return s.kind==='V';}); if(next&&/[aeiou]/.test(next)){kind='C';ph='j';} else {kind='V'; ph=(i===t.length-1&&hasV)?'iː':(i===t.length-1?'aɪ':'ɪ');} }
+      if(kind==='V'&&g==='o'&&i===t.length-1) ph='oʊ';
+      if(kind==='V'&&ph.slice(-1)==='r'&&ph.length>1){ segs.push({kind:'V',ph:ph.slice(0,-1),g:g}); segs.push({kind:'C',ph:'r',g:'r'}); }
+      else segs.push({kind:kind,ph:ph,g:g});
+      i+=g.length; }
+    if(magic){ for(var m=segs.length-1;m>=0;m--){ if(segs[m].kind==='V'){ if(segs[m].g.length===1&&MAGIC[segs[m].ph]) segs[m].ph=MAGIC[segs[m].ph]; break; } } }
+    var j=0, onset=[], made=0;
+    while(j<segs.length&&segs[j].kind==='C'){onset.push(segs[j]);j++;}
+    while(j<segs.length){ var v=segs[j]; j++; var cons=[]; while(j<segs.length&&segs[j].kind==='C'){cons.push(segs[j]);j++;}
+      var atEnd=j>=segs.length, coda, next2; if(atEnd){coda=cons;next2=[];} else if(cons.length<=1){coda=[];next2=cons;} else {coda=cons.slice(0,1);next2=cons.slice(1);}
+      syls.push({onset:onset,v:v.ph,coda:coda,stress:stressed,tok:tok}); onset=next2; made++; }
+    if(!made&&onset.length) syls.push({onset:onset,v:null,coda:[],stress:stressed,tok:tok});
+  });
+  var ipa=syls.map(function(s){return (s.stress?'ˈ':'')+s.onset.map(function(c){return c.ph;}).join('')+(s.v||'')+s.coda.map(function(c){return c.ph;}).join('');}).join('.');
+  return {syls:syls, ipa:ipa};
+}
+
+// ================= compare =================
+var GRADE={'ə':{'ʌ':2,'ə':2,'æ':1,'ɑ':1},'a':{'ʌ':2,'ə':2,'æ':1,'ɑ':1},'aː':{'ɑː':2,'ɑ':2},'ɪ':{'ɪ':2,'iː':1},'iː':{'iː':2,'ɪ':1},'ʊ':{'ʊ':2,'uː':2},'uː':{'uː':2,'ʊ':2},
+ 'eː':{'eɪ':2,'ɛ':1},'ɛː':{'ɛ':2,'eɪ':1,'æ':1},'e':{'ɛ':2,'eɪ':1,'æ':1},'oː':{'oʊ':2,'ɔː':1},'o':{'oʊ':2,'ɔː':1,'ɑ':1},'ɔː':{'ɔː':2,'ɑ':1,'oʊ':1},'ɒ':{'ɑ':2,'ɔː':2},'æ':{'æ':2},'aɪ':{'aɪ':2,'eɪ':1},'aʊ':{'aʊ':2,'ɔː':1}};
+function cclass(ipa){
+  var s=ipa.replace(/[ʰʱ̪̺]/g,'');
+  var map={'tʃ':'ch','dʒ':'j','ʈ':'t','ɖ':'d','ɳ':'n','ɲ':'n','ʋ':'v','w':'v','ʃ':'sh','ʂ':'sh','ɦ':'h','ɾ':'r','j':'y','ɡ':'g','ɣ':'g','q':'k','x':'k','ɭ':'l','ɽ':'r','θ':'th','ʒ':'zh','ɻ':'zh','nj':'n','ks':'k','kw':'k','ŋ':'ng'};
+  return map[s]||s;
+}
+function compare(target, read){
+  var notes=[], worst=2, T=target.syls, R=read.syls;
+  if(!R.length) return {grade:0, notes:['No guide to check.']};
+  if(T.length!==R.length){ notes.push('The guide has '+R.length+' syllable'+(R.length===1?'':'s')+'; the word has '+T.length+'.'); worst=0; }
+  var n=Math.min(T.length,R.length);
+  function cls(list,key){ return list.map(function(c){return cclass(c[key]);}).join(''); }
+  for(var i=0;i<n;i++){
+    var t=T[i], r=R[i], tv=t.nucleus?t.nucleus.ipa:null, rv=r.v;
+    if(tv&&rv){ var g=(GRADE[tv]||{})[rv]; if(g===undefined) g=0;
+      if(g<2) notes.push('Syllable '+(i+1)+': “'+r.tok+'” is read with '+(RNAME[rv]||rv)+'; the word has '+(VNAME[tv]||tv)+'. Write “'+syllableResp(t)+'”.');
+      worst=Math.min(worst,g); }
+    var tI=cls((i>0?T[i-1].coda:[]).concat(t.onset),'ipa'), rI=cls((i>0?R[i-1].coda:[]).concat(r.onset),'ph');
+    if(tI!==rI){
+      var where=i===0?'The guide starts with “'+rI+'”; the word starts with “'+tI+'”.':'Between syllables '+i+' and '+(i+1)+' the guide has “'+rI+'”; the word has “'+tI+'”.';
+      if(rI.replace(/th/g,'t')===tI){ notes.push('Syllable '+(i+1)+': “th” will be read as in <i>thin</i>; the sound is a t'+(target.rules==='tamil'?' with the tongue on the teeth':' with a puff of breath')+'. Most readers land close enough.'); worst=Math.min(worst,1); }
+      else if(rI.replace(/zh/g,'l')===tI||tI.replace(/zh/g,'l')===rI){ worst=Math.min(worst,1); notes.push('Syllable '+(i+1)+': ழ is written “zh” here; most English readers say l, which is close.'); }
+      else { notes.push(where); worst=Math.min(worst,0); } }
+  }
+  if(T.length===R.length&&n){ var tE=cls(T[n-1].coda,'ipa'), rE=cls(R[n-1].coda,'ph');
+    if(tE!==rE&&!(rE.replace(/th/g,'t')===tE)&&!(rE.replace(/zh/g,'l')===tE||tE.replace(/zh/g,'l')===rE)){ notes.push('The guide ends in “'+rE+'”; the word ends in “'+tE+'”.'); worst=Math.min(worst,0); } }
+  var ts=T.findIndex(function(s){return s.stress;}), rs=R.findIndex(function(s){return s.stress;});
+  if(worst>0&&T.length===R.length&&rs>=0&&ts!==rs){ notes.push('Stress: the guide weights syllable '+(rs+1)+'; this tool puts it on syllable '+(ts+1)+' (minor; stress is light in these languages).'); worst=Math.min(worst,1); }
+  return {grade:worst, notes:notes};
+}
+function syllableResp(s){ return respOf([Object.assign({},s,{stress:false})]); }
+/*CORE-END*/
+
+// ================= UI =================
+var mode='hindi';
+var $=function(id){return document.getElementById(id);};
+function esc(s){ return String(s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];}); }
+function gradeClass(g){ return g>=2?'ok':g===1?'near':'bad'; }
+function gradeLabel(g){ return g>=2?'Matches':g===1?'Close':'Fix'; }
+var RULE_NAME={hindi:'Hindi rules',sanskrit:'Sanskrit / Pali rules',tamil:'Tamil rules'};
+var LANG_NAME={hi:'Hindi',ta:'Tamil'};
+
+var voices=[];
+function loadVoices(){ try{ voices=window.speechSynthesis?speechSynthesis.getVoices():[]; }catch(e){ voices=[]; } updateVoiceStatus(); }
+function pickVoice(lang){ var list=voices.filter(function(v){return (v.lang||'').toLowerCase().replace('_','-').indexOf(lang)===0;});
+  list.sort(function(a,b){ var sa=(a.localService?2:0)+(/natural|google|premium|enhanced/i.test(a.name)?1:0), sb=(b.localService?2:0)+(/natural|google|premium|enhanced/i.test(b.name)?1:0); return sb-sa; }); return list[0]||null; }
+function updateVoiceStatus(){ var el=$('voice-status'); if(!el) return;
+  if(!window.speechSynthesis){ el.innerHTML='Speech is not available in this browser.'; return; }
+  var en=pickVoice('en'), hi=pickVoice('hi'), ta=pickVoice('ta');
+  var tip='Add voices in your system’s speech settings: Windows — Settings › Time &amp; Language › Speech (add Hindi or Tamil). macOS — System Settings › Accessibility › Spoken Content › System voice › Manage voices. Chrome also offers online Google voices for both.';
+  el.innerHTML='Voices — English: <b>'+(en?esc(en.name):'none')+'</b> · Hindi: <b>'+(hi?esc(hi.name):'none')+'</b> · Tamil: <b>'+(ta?esc(ta.name):'none')+'</b>'+((hi&&ta)?'':' <span title="'+tip+'">(how to add)</span>'); }
+function speak(text, lang){
+  if(!window.speechSynthesis){ toast('Speech is not available in this browser'); return; }
+  try{ speechSynthesis.cancel(); var u=new SpeechSynthesisUtterance(text); var v=pickVoice(lang); if(v) u.voice=v; u.lang=v?v.lang:(lang==='hi'?'hi-IN':lang==='ta'?'ta-IN':'en-US'); u.rate=lang==='en'?0.85:0.9; speechSynthesis.speak(u); if(!v&&lang!=='en') toast('No '+LANG_NAME[lang]+' voice installed; using the browser default'); }catch(e){ toast('Could not play speech'); }
+}
+function guideToSpeech(g){ return g.replace(/[\-‐-―·]+/g,' ').toLowerCase(); }
+function toast(msg){ var t=$('toast'); t.textContent=msg; t.classList.add('show'); clearTimeout(toast.tm); toast.tm=setTimeout(function(){t.classList.remove('show');},1800); }
+function copyText(text){ var done=function(){toast('Copied');}; var fail=function(){ var ta=document.createElement('textarea'); ta.value=text; document.body.appendChild(ta); ta.select(); try{document.execCommand('copy');done();}catch(e){toast('Select and copy manually');} document.body.removeChild(ta); };
+  if(navigator.clipboard&&navigator.clipboard.writeText){ navigator.clipboard.writeText(text).then(done,fail); } else fail(); }
+function playButton(text, lang, label){ var b=document.createElement('button'); b.type='button'; b.className='play'; b.textContent=label||'Play'; b.addEventListener('click',function(){speak(text,lang);}); return b; }
+
+function renderOne(){
+  var word=$('word').value.trim(), guide=$('guide').value.trim();
+  var box=$('entries'), vbox=$('verdict'); box.innerHTML=''; vbox.innerHTML='';
+  if(!word){ box.innerHTML='<p class="help">Type a word to check.</p>'; return; }
+  var tgt=analyze(word,mode), rd=readGuide(guide);
+  function entry(lab, html, ipa, btn, cls){ var d=document.createElement('div'); d.className='entry'+(cls?' '+cls:''); d.innerHTML='<div class="lab">'+lab+'</div><div class="word">'+html+(ipa?'<span class="ipa">/'+esc(ipa)+'/</span>':'')+'</div>'; if(btn) d.appendChild(btn); box.appendChild(d); }
+  if(guide) entry('Your guide says', esc(guide), rd.ipa, playButton(guideToSpeech(guide),'en','Hear a reader'));
+  entry('The word', '<span class="dev">'+esc(tgt.native)+'</span>', tgt.ipa, playButton(tgt.native,tgt.lang,'Hear '+LANG_NAME[tgt.lang]));
+  var btns=document.createElement('span'); btns.className='btns'; btns.appendChild(playButton(guideToSpeech(tgt.resp),'en','Hear a reader')); var cp=document.createElement('button'); cp.type='button'; cp.className='play copy'; cp.textContent='Copy'; cp.addEventListener('click',function(){copyText(tgt.resp);}); btns.appendChild(cp);
+  entry('Suggested guide', '<b>'+esc(tgt.resp)+'</b>', null, btns, 'suggest');
+  var rl=document.createElement('p'); rl.className='rules'; rl.textContent=RULE_NAME[tgt.rules]+(tgt.rules!==mode?' (set by the script you typed)':''); box.appendChild(rl);
+  if(guide){ var c=compare(tgt,rd), cls=gradeClass(c.grade); var head=c.grade>=2?'The guide matches the word.':c.grade===1?'Close. A reader will land near the sound; the notes say what drifts.':'The guide will mislead an English reader.';
+    vbox.innerHTML='<div class="verdict '+cls+'"><div class="head"><span class="pill '+cls+'">'+gradeLabel(c.grade)+'</span> &nbsp;'+head+'</div>'+(c.notes.length?'<ul>'+c.notes.map(function(n){return '<li>'+n+'</li>';}).join('')+'</ul>':'')+'</div>'; }
+}
+
+function parseBatch(text){ return text.split(/\r?\n/).map(function(l){return l.trim();}).filter(Boolean).map(function(l){ var f=l.split(/\s*[|\t]\s*/); return {word:f[0]||'', guide:f[1]||'', label:f[2]||''}; }).filter(function(r){return r.word;}); }
+var lastRows=[];
+function renderBatch(){
+  var rows=parseBatch($('batch').value), tb=$('results').querySelector('tbody'); tb.innerHTML=''; lastRows=[];
+  rows.forEach(function(r){
+    var tgt=analyze(r.word,mode), rd=r.guide?readGuide(r.guide):null, c=rd?compare(tgt,rd):null;
+    var tr=document.createElement('tr');
+    var tdW=document.createElement('td'); tdW.className='w'; tdW.innerHTML='<span class="dev">'+esc(tgt.native)+'</span><span class="note">'+esc(r.label?r.label+' · ':'')+RULE_NAME[tgt.rules]+'</span>'; tr.appendChild(tdW);
+    var tdG=document.createElement('td'); tdG.innerHTML=r.guide?esc(r.guide):'<span class="note">—</span>'; tr.appendChild(tdG);
+    var tdR=document.createElement('td'); if(rd){ tdR.innerHTML='<span class="ipa">/'+esc(rd.ipa)+'/</span>'; tdR.appendChild(playButton(guideToSpeech(r.guide),'en','Hear')); } else tdR.innerHTML='<span class="note">—</span>'; tr.appendChild(tdR);
+    var tdH=document.createElement('td'); tdH.innerHTML='<span class="ipa">/'+esc(tgt.ipa)+'/</span>'; tdH.appendChild(playButton(tgt.native,tgt.lang,'Hear')); tr.appendChild(tdH);
+    var tdS=document.createElement('td'); tdS.className='sug'; tdS.textContent=tgt.resp; tdS.appendChild(document.createElement('br')); tdS.appendChild(playButton(guideToSpeech(tgt.resp),'en','Hear')); tr.appendChild(tdS);
+    var tdV=document.createElement('td'); if(c){ var cls=gradeClass(c.grade); tdV.innerHTML='<span class="pill '+cls+'">'+gradeLabel(c.grade)+'</span>'+(c.notes.length?'<span class="note">'+c.notes.join(' ')+'</span>':''); } else tdV.innerHTML='<span class="note">no guide given</span>'; tr.appendChild(tdV);
+    tb.appendChild(tr);
+    lastRows.push([tgt.native, r.label, RULE_NAME[tgt.rules], r.guide, rd?rd.ipa:'', tgt.ipa, tgt.resp, c?gradeLabel(c.grade):'', c?c.notes.join(' ').replace(/<[^>]+>/g,''):'']);
+  });
+  try{ localStorage.setItem('respelling.batch', $('batch').value); localStorage.setItem('respelling.mode', mode); }catch(e){}
+}
+function copyTSV(){ if(!lastRows.length){ toast('Run “Check all” first'); return; } var head=['Word','Label','Rules','Book guide','Reader says','Language','Suggested','Verdict','Notes']; copyText([head].concat(lastRows).map(function(r){return r.join('\t');}).join('\n')); }
+
+function setMode(m){ mode=m; ['hindi','sanskrit','tamil'].forEach(function(x){ $('mode-'+x).setAttribute('aria-pressed',String(m===x)); }); renderOne(); renderBatch(); }
+
+$('check').addEventListener('click',renderOne);
+$('word').addEventListener('keydown',function(e){if(e.key==='Enter')renderOne();});
+$('guide').addEventListener('keydown',function(e){if(e.key==='Enter')renderOne();});
+$('mode-hindi').addEventListener('click',function(){setMode('hindi');});
+$('mode-sanskrit').addEventListener('click',function(){setMode('sanskrit');});
+$('mode-tamil').addEventListener('click',function(){setMode('tamil');});
+$('check-all').addEventListener('click',renderBatch);
+$('copy-tsv').addEventListener('click',copyTSV);
+try{ var saved=localStorage.getItem('respelling.batch'); if(saved) $('batch').value=saved; var sm=localStorage.getItem('respelling.mode'); if(sm==='sanskrit'||sm==='tamil') mode=sm; }catch(e){}
+['hindi','sanskrit','tamil'].forEach(function(x){ $('mode-'+x).setAttribute('aria-pressed',String(mode===x)); });
+if(window.speechSynthesis){ speechSynthesis.onvoiceschanged=loadVoices; } loadVoices();
+renderOne(); renderBatch();
+</script>
+
+</body></html>
