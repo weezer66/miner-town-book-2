@@ -62,7 +62,7 @@ She let the name sit a moment, then explained it for the room. "The Annex is Cha
 
 Elara came around the table. "I know this petition." The others looked at her. "It lives in the band of mirrors I have been reading. A tripwire only works if you know how still the wire lies — so before I watched for anything new, I read the band's history. Years of it, until I could recite its habits. Chanakya has petitioned for that expansion every cycle for eleven years. Kubera has refused it every cycle for eleven years. The refusal was so regular that I stopped reading past its first line. It was the stillest water in the band."
 
-"Approved this morning," Nayan said. "The council acted on an analysis memorandum demonstrating the cost of Chanakya's retrieval delays. The memorandum is signed by a third-grade analyst named Ravi. The bulletin calls it" — she consulted the sheet — "exemplary. Every figure sourced. Every objection anticipated. Eleven years of refusal answered in nine pages."
+"Approved this morning," Nayan said. "The council acted on an analysis memorandum demonstrating the cost of Chanakya's retrieval delays. The memorandum is signed by an analyst named Ravi. The bulletin calls it" — she consulted the sheet — "exemplary. Every figure sourced. Every objection anticipated. Eleven years of refusal answered in nine pages."
 
 "Houses change their minds," Baju said. It did not sound like disagreement. It sounded like a man testing the ice before the unit walked on it.
 
