@@ -100,27 +100,51 @@ He believed her. That was what scared him.
 
 ---
 
-Mr. Flitzberg watched the three of them watch the wall, and did not watch the wall himself, because he had seen it four hundred times.
+Mr. Flitzberg did not watch the wall. He knew what was on it. He watched the three of them watching it.
 
-The room was the plain one — chairs, a table, a long blank wall, the one the office used for this and nothing else. They had come in together. They had sat with the sister in the middle, which was interesting, and the small one had put his chair where he could see the door, which was also interesting. Then the lights had gone down without anyone touching anything, and the wall had become a window into a century.
+The room was a plain one — chairs, a table, one long blank wall — and the office used it for this and nothing else. The three had come in together and sat down with Camilla in the middle. Ben had turned his chair so he could see the door. Flitzberg noted both. Then the lights went down on their own, and the wall lit up, and a century began to play across it.
 
 The office had made this account for its recruits long before Flitzberg's time, and he had changed only the ending. Ten minutes. The Interchange Station and the agreement that founded it, with the old deeds and signatures shown plainly, because recruits from Miner Town had been lied to with pictures before and deserved to see paper. The decades it held. The greed that came in afterward like water into a mine — his own phrase, from the ending he had rewritten. The six days of fighting. The founding of a ring beneath the boundary, with no house's mark on its walls, to keep the balance the houses would not keep themselves. And then almost a century of corrections, each one dressed as ordinary cause and effect, so that the city above never knew it had been corrected at all.
 
 He knew the faces of the dead on the wall by name. He did not need to look at them. He looked at the living.
 
-Camilla watched the dates. He saw her lips move once or twice, checking the arithmetic of the century against itself, and saw her find it sound, and saw that this did not reassure her in the least. Ben watched the faces — every face that appeared, as if he were counting the people this story had cost. Gage watched the wall for the first minute, and the door for the second, and then the wall again, and his hands stayed open on his knees the whole time, which Flitzberg suspected was costing him.
+Camilla watched the dates. He saw her lips move once or twice, checking the years against each other, and saw her find that they added up. It did not comfort her. A story that added up had been built with care, and a century of care had gone into the lie she had grown up inside. Ben watched the faces — every face that appeared, as if he were counting the people this story had cost. Gage watched the wall for the first minute, and the door for the second, and then the wall again. His hands lay open on his knees the whole time. Flitzberg had seen the file on what those hands did when they closed, and he did not think keeping them open was coming easily.
 
 The wall went dark. The lights came up.
 
-He was standing at the end of the table when they could see again, where he had been for the last two minutes. Camilla looked at his jaw first. She had seen him wear another man's face, and she checked, every time, which one he had on. He let her look.
+He was standing at the end of the table. Camilla looked at his jaw first. She had seen him wear a dead man's face once, and she was checking which face he had on today. He let her look.
 
 "You asked me last night what this place is," he said. "Now you have seen it. Not all of it. A century does not fit in ten minutes. But enough to weigh. I will answer any question you have about what you have just watched, and then I will tell you what this office wants with you, and then I will tell you what you may do about it. In that order. Ask."
 
-They asked. Camilla asked how the ring was powered and who paid for it, and he told her. Ben asked how many people the office had and whether they had families, and he told him. Gage asked only one thing: "Who watches you?"
+Camilla went first. He had expected that.
 
-"The four Grandmasters," Flitzberg said, "once a year, in a room with no record. And one another, every day. And a set of ledgers that open to every representative of every house if anything happens to me — which means that the only people in the city who could stop me are also the people who would be ruined by my death. It is not a clean arrangement. I told you last night that I would not lie to you. It is not clean. It is only better than every other arrangement on offer."
+"The lights," she said. "The heat. The machines in those rooms. The drones." Her good hand was flat on the table; the metal one lay in her lap, still. "In Miner Town they ration candles. Where does this place get its power? And who pays for it?"
 
-Gage nodded slowly. It was not agreement. It was a man filing something.
+"Underneath you," Flitzberg said. "This ring was built to run when both cities above it had gone dark. There are generators buried below the lowest level — old ones, built in a time when people still knew how to build things to last — and reserve banks that could keep every light you have seen burning for a year without being touched. Water from its own wells. Air from its own scrubbers. The men who built this ring had just watched their world catch fire, and they built the one place that would not need to ask anyone for anything when it happened again." He paused. "As for who pays — no one, and everyone. This office has no treasury. It has never needed one. When the ring was founded, the four houses wrote a single line into their own foundations, beneath every rule they have made since: that what this office requires, it may take. Not request. Take. When I need a thing from Drona, Drona's own records show that Drona bought it for itself. When I need money from Kubera, Kubera's own ledgers show Kubera spending it on Kubera. No clerk is ever asked. No one ever signs. The consent is older than the clerks, older than the signatures — older than any Grandmaster now living. It cannot be revoked, because no one alive can find where it was given."
+
+Camilla's lips had parted slightly. It was, Flitzberg thought, the look of an engineer who had just been shown a machine that ran on its own weight.
+
+"So they're paying for you," she said slowly, "and they can't see it."
+
+"They can see the money leave. What they cannot see is where it goes. Every house looks at its own books and sees itself spending on itself. None of them has ever looked at the four sets of books side by side — and if one did, it would find the same small leak in all four, and no one to blame for it."
+
+Ben had been waiting with his hands folded, the way a boy waits when he has been taught that his questions come after the important ones. Flitzberg turned to him deliberately. He knew this one's file too. A household that had taken in the man who robbed it and fed him from its own rations until he could walk. The city had written that down as a defect. Flitzberg had read it twice.
+
+"How many of you are there?" Ben said. "Down here. And —" he hesitated — "do they have families? People who are waiting for them?" He said the next part quickly, as if it embarrassed him. "I have a sister. She'll be at the gates every day until somebody tells her to stop. I want to know if that's what it's like for everyone down here, or if it's just us."
+
+Flitzberg could see which of the two questions Ben really wanted answered. He took them in order anyway.
+
+"Fewer than you would guess. Fewer than two hundred, in the ring and above it both. The office has never been large. A large thing can be found." He let that settle, and then he answered the real question. "Some have families. Up there, in the three cities, living ordinary lives — a wife who thinks her husband keeps late hours in an archive, children who think their mother is a transit clerk. Those people go home at night and say nothing about this place — not to a wife, not to a child, not once, for the rest of their lives. That is a hard way to live with people you love. I will not tell you it is not. Some have no one, and never did. And some — " He stopped, and chose to say it. "Some came from where you came from. Miner Town does not record its missing. A family that loses a child to the Initiation grieves once, and does not expect the child back, and does not look. The ones who came to us from the ground have no one above who is waiting. That is not a thing this office arranged. It is only a thing this office has made use of. You asked. That is the answer."
+
+Ben nodded once, slowly, the way a person nods when a thing they already suspected has been confirmed. He did not look away, and he did not ask anything else. But Flitzberg saw him glance at Gage, and then at Camilla, and understood that the boy had just counted the people in the room who still had someone at the gates, and had come up with the same number for all three.
+
+Gage asked only one thing: "Who watches you?"
+
+Flitzberg nodded slowly, as if a piece he had been waiting for had finally been placed.
+
+"The four Grandmasters," he said, "once a year, in a room with no record. Not this room — never here. Each year a different place, chosen by this office and told to no one until the day. They come alone, without escort, and they leave their wrist instruments behind at the first door, because the last part of the journey is the part they must not be able to retrace. A closed car. A lift that does not show its floors. A corridor with no markings. They sit with me for a day, they see what I have done and argue over what I should do next, and they go back the same way they came. They know they met me. They could not lead anyone to where. That is the first watch. The second is the four of them watching each other. Any one of them could try to end this office. But if he did, the other three would know at once who had done it, and he would be standing alone against all three of them, with nothing left to shield him. So none of them moves. The third watch is a set of ledgers." He said the next part plainly, the way a man reports the weather. "A century of them. Every quiet correction, every buried failure, every secret this office has kept for every house. If anything happens to me — if I am killed, or taken, or simply do not return from a meeting — those ledgers open. Not to the four Grandmasters, who might trade silence for silence. To every representative of every house, all at once. Thousands of people who could not all be bought. Which means that the only people in the city with the power to end me are also the people who would be ruined by my death." He spread his hands slightly. "You will notice that nothing in that answer is trust. It is fear, arranged carefully, pointing in four directions at once. I told you last night I would not lie to you, so I will not call it anything better than that. It is only the best arrangement anyone has found."
+
+Gage nodded slowly. He was not agreeing. He was remembering it, for later.
 
 "Then the offer," Flitzberg said, and he sat down, because he had learned long ago that an offer made standing sounded like an order.
 
@@ -132,7 +156,7 @@ Gage nodded slowly. It was not agreement. It was a man filing something.
 
 "What does watched look like," Ben said, "at the end?"
 
-Flitzberg considered the small one for a moment. It was a good question. He had never been asked it so directly.
+Flitzberg looked at Ben for a moment. No one had ever asked him that.
 
 "Forty years ago," he said, "a man sat in that chair and said no. He went home. He worked the seams for thirty-one years and raised two children and died of what miners die of. He never spoke. When they buried him, two of our people stood at the back. He never knew their names. They put flowers on the grave." He let that sit. "That is what watched looks like, at the end. The door of this office opens in both directions, and we do not forget the people who walked out of it."
 
@@ -142,13 +166,13 @@ Then Gage said, "Three things."
 
 Flitzberg waited.
 
-"Otto stays with us. Wherever we are, he is. He gets what he is getting now, and better if better exists, and nobody decides he's finished without us in the room."
+"Otto stays with us. Wherever we are, he is. He gets what he is getting now, and better if better exists. And nobody turns that tank off — not for cost, not because somebody gives up on him — unless the three of us are standing there and say so."
 
 "Yes."
 
-"Camilla decides for herself. Not now. When she's strong. If she says no, she goes home, with the story and the flowers and all of it, and nothing we do here changes that."
+"I speak for myself. Not for Ben. Not for Camilla." He glanced at each of them in turn. "You get three answers in this room, not one. And Camilla's you wait for. Ben and I walked into your rooms through a lottery line — she didn't. She never stood in that line. She gets to decide this with a clear head, when the arm's hers and not still arriving. Whatever she says then, you take it as hers alone — and if it's no, she goes home, with the story and the flowers and all of it."
 
-Camilla did not look at her brother. She looked at Flitzberg, and said nothing, and let the condition stand.
+Camilla did not look at her brother. She looked at Flitzberg, and nodded once, and let the condition stand.
 
 "Yes."
 
