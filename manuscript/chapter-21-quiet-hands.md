@@ -162,7 +162,7 @@ Flitzberg looked at Ben for a moment. No one had ever asked him that.
 
 Nobody said anything for a while.
 
-Then Gage said, "Three things."
+Then Gage said, "Two things."
 
 Flitzberg waited.
 
@@ -170,13 +170,19 @@ Flitzberg waited.
 
 "Yes."
 
-"I speak for myself. Not for Ben. Not for Camilla." He glanced at each of them in turn. "You get three answers in this room, not one. And Camilla's you wait for. Ben and I walked into your rooms through a lottery line — she didn't. She never stood in that line. She gets to decide this with a clear head, when the arm's hers and not still arriving. Whatever she says then, you take it as hers alone — and if it's no, she goes home, with the story and the flowers and all of it."
-
-Camilla did not look at her brother. She looked at Flitzberg, and nodded once, and let the condition stand.
+"And you never lie to us." Gage's voice did not rise. "Not once. Not to spare us, not to move us, not because it's quicker. The first lie ends it — all of it, for all of us — and we walk, and you don't stop us. And it goes both ways. We don't lie to you either."
 
 "Yes."
 
-"And you never lie to us." Gage's voice did not rise. "Not once. Not to spare us, not to move us, not because it's quicker. The first lie ends it — all of it, for all of us — and we walk, and you don't stop us. And it goes both ways. We don't lie to you either."
+"Three," Camilla said.
+
+Gage turned. She was not looking at him. She had lifted the metal arm onto the table, and the fingers lay open on the wood, and she was looking at Flitzberg over them.
+
+"Nothing in this place stays closed to me. Not the rooms we walked. Not the drones. Not whatever is in that tank keeping Otto warm. Not this." She turned the arm over, slowly, and the wrist followed her a heartbeat behind. "You put a machine on me that I did not build and cannot yet open. I will carry it. I will not carry it blind. When I ask how a thing works, you show me — all of it, down to the last wire. I don't work with anything I'm not allowed to take apart."
+
+It was, Flitzberg thought, the first condition anyone had ever set him that the office would have asked for itself.
+
+"Yes," he said, and then, because she had earned the whole of it: "There is a workshop two levels down. It has been waiting for someone like you for longer than you have been alive."
 
 Flitzberg had made a great many agreements in a long life, most of them with men in rings, and he had never been offered one he liked better.
 
@@ -184,9 +190,17 @@ Flitzberg had made a great many agreements in a long life, most of them with men
 
 He let a breath pass. Then he said the thing he had been carrying since the night before, when he had looked at an intake record and seen a number on it that should not have been possible.
 
-"One more matter, before the work. Not a condition. A debt." He looked at Gage. "You came to us by a road no one in Miner Town builds. The slot you carry on your chest — your father's number — did not fall to you by chance, whatever the clerk believed. Someone helped you toward it. I do not know who, and I do not know why. One day I will ask you to help me find out whose hand that was. Not today. Today I only want you to know that it is there, so that when I ask, you will not think I am lying about having wondered."
+"You have just made me promise never to lie to you," he said. "So I will begin by telling you a thing I would rather have kept until I understood it." He looked at Gage. "The number you wear. Your father's slot. It did not come to you by chance."
 
-Gage's hand had gone to his chest, where the tag usually hung, and found the clean shirt they had given him instead, and stayed there anyway.
+Gage went very still.
+
+"The mine gives out numbers blind — whatever is open when you reach the clerk. Your father's slot should not have been open. A dead man's slot is held until an inspection closes it, and that inspection should have taken weeks. It closed in the minute you reached the head of the line. The minute. I have seen the record. Someone, somewhere above you, arranged for you to carry your father's number — and did it so well that the clerk who stamped it on you will never know he was anyone's instrument."
+
+"Who?" Gage's voice had gone flat.
+
+"I do not know. That is the truth, and it is the part that concerns me. There is a hand in this city that moves people the way you moved charges on that map — quietly, and from a distance, and always with a reason. I have been hunting it for some time. I do not know whether the hand that gave you that number is the same hand, or a different one, or whether it meant you kindness or meant you for something. I do not know whether it steered you toward this ring, or whether you arrived here in spite of it." He let that stand. "I hope that one day you find out who did this for you. And when you do, I hope you will tell me. Today I only wanted you to hear it from me, before you heard it from anyone else."
+
+Gage's hand had gone to his chest, where the tag usually hung, and found the clean shirt they had given him instead, and stayed there anyway. He did not say anything. But Flitzberg saw the look that passed between him and his sister — she had told him once, over a copper tag, that numbers belonged to positions, not to people — and saw them both understand, at the same moment, that someone had used that rule to reach him.
 
 "Now," said Mr. Flitzberg. "What this office wants of you."
 
@@ -196,11 +210,17 @@ Then he told them.
 
 It took eleven minutes. No one interrupted. Twice he used the word balance, because it was the office's word and he owed them the office's reasons. Once — near the end, and quietly — he used a word the office did not use, and that he had not planned to use, which was salvation. He used it about Sector One. He meant it.
 
-When he was finished, Ben was crying again and not hiding it, and Camilla's metal hand had closed around the edge of the table hard enough that the wood had marked — a heartbeat after her face had.
+When he was finished, no one spoke. Ben had gone very still, the way he went still when a pattern had finished forming and he did not like its shape. Camilla's metal hand had closed around the edge of the table hard enough that the wood had marked — a heartbeat after her face had.
 
 Gage said, "When?"
 
-"When your sister's arm stops being late," Flitzberg said. "And not an hour before."
+Flitzberg looked at the three of them — the boy who had held his throat, the boy who counted the dead, the girl with a hand that had just marked his table — and did not give them the answer he would have liked to give.
+
+"Sooner than you are ready," he said. "I will not pretend otherwise. There is a clock on this, and it is not mine. Something is moving in the city above us — through all four houses at once — and it is tipping a balance that has held for almost a century. I do not yet know what it wants. I know what happens when that balance breaks, because the wall just showed you. It does not break on the houses. It breaks on the ground. It always has. I cannot stop that clock to finish teaching you. I can only decide how much of it I spend on you before I send you." He stood. "So you will train hard, and you will train now, and I will keep you here exactly as long as I can and not one day longer. When I send you, you will not feel ready. No one ever has. You will go anyway, because by then you will understand what happens to Sector One if you do not. And when it is done, Sector One will never know your names — which is how you will know you did it right."
+
+He walked to the door, and it opened for him, and he paused in it.
+
+"Eat. Then the workshop. Two levels down, third door. I expect your sister will have it half taken apart by evening."
 
 ---
 
@@ -208,11 +228,15 @@ Far above, in Drona's monitor tower, Elara was doing the one thing she had promi
 
 She was not touching the boys' record. She had sworn that, across a cafeteria table, to two people who had taken her at her word. She was only reading it. Her own cycle, her own console, her own Initiation — every line of it hers by right to review, under the review code the Ancient One had placed her beneath. If anyone asked, and someone would, she was a monitor reading her monitoring.
 
-The boys' lines had gone quiet.
+The boys' lines had ended.
 
-Not closed. Quiet. Gage's slot showed assigned — 4055, stamped the day he reached the head of the intake line, exactly as a queue with nothing else to give had been always going to stamp it. Ben's and Otto's showed their own numbers. And then, in the same week, all three stopped. No disposition. No transfer. No death. Not even the small cold word the city used when it had thrown something away. The lines simply ended, the way a record ends when someone has decided it should not speak.
+Gage's record showed his slot: 4055, his father's number, stamped on the day he reached the head of the intake line — exactly as she had arranged. Ben's and Otto's showed their own numbers. Shift after shift of gate scans ran down each record like stitches, every morning in, every evening out. And then, a few mornings ago, the stitches stopped. Ben's and Otto's on one morning. Gage's the next.
 
-She sat with that a long moment, and then she did what she always did with a silence. She went back to before it.
+The mine had done what the mine did. It flagged the missed shifts, waited the days its rules required, and then wrote the small cold word the city used when it had thrown something away. Absconded. Slots released. Three boys had stopped walking through the mine gates, and the city had shrugged and moved on. Gage's father's number was already back in the pool, waiting for the next body.
+
+She could not follow them forward. The city had stopped looking, and the records had stopped with it. So she did the only other thing an investigator can do with a trail that ends: she went back along it, looking for anyone who had ever stood close to these three — anyone who might know where they had gone, or might have gone with them.
+
+She did not have to look far. There had been someone close to them from the very first day, and the record had shown it to her, and she had read past it.
 
 The water test.
 
@@ -224,7 +248,9 @@ The object had its own line, as objects did. Reagent strip, chemical, single-use
 
 No action taken. Three boys had stopped drinking poison because of a strip of plastic a miner should never have had, and the city had written down that it did not know where the strip came from and had not bothered to find out.
 
-Elara found out. It took her twenty minutes, and all of it was in the household archive, where the city kept the parts of a family it did not think were worth reading.
+But the strip proved something the city had not bothered to notice either. Gage had not found it in the chamber. He had carried it in. Someone at home had put it in his sleeve before the gates closed — someone who knew what was in the water, or guessed, and cared enough to arm him against it. The boys had not walked into the Initiation alone. Someone in that shack had been standing behind them.
+
+Elara went looking for who. It took her twenty minutes, and all of it was in the household archive, where the city kept the parts of a family it did not think were worth reading.
 
 Thorton — deceased. Rita — spouse, surviving. Dependents of record: Gage. And a second line beneath his, which Elara had seen before and never opened, because it had never been on her screen as anything but a name.
 
@@ -242,17 +268,23 @@ Elara's own words, across the cafeteria table. She had put one number where a bo
 
 She knew, then, why the girl's face on the household record — a flat intake photograph, unsmiling, eyes already busy with something out of frame — had been hard to look at.
 
-She had been that age once, with a notebook full of a plant that did not exist, hiding under a tarp in a freight pod because the people with the authority to help had explained, patiently, why they would not. Three days on the ground. She had come back with the notebook and nothing in it, and Teresa had died on the second night.
+She had been that age once. Her best friend had been dying, and every adult with the power to help had told her, kindly, that nothing could be done. So she had hidden in a freight pod and gone down to the ground alone, with a notebook full of notes on a plant that did not exist, to find a cure herself. Three days. She had come back with nothing, and Teresa had died on the second night.
 
-Camilla had gone up instead of down, and had come back with the thing itself.
+Camilla had gone out to the Heights alone, the same way, for the same reason. The difference was that Camilla had come back with something that worked.
 
 Elara did not know the girl. She knew the shape. A person who would not wait to be given permission to read what was killing someone she loved, and who went and got the instrument herself, and did not ask to be thanked. The city had a category for that. It called it a compassion anomaly and filed it under risk.
 
 She closed the household record, and before she did, she looked at the girl's line one more time.
 
-It ended in the same week as the other three.
+Her ration card — the only way the city kept count of a child too young for the mine — had stopped being used the same morning Ben's and Otto's scans stopped.
 
-Four lines. One week. No disposition. Wherever the boys had gone, the sister had gone with them — the sister who read the system better than any of them. And Elara, who had promised not to touch, sat at a console she was permitted to sit at and hoped, with no right at all to hope it, that whoever had the four of them had noticed which one was holding the instrument.
+So that was the answer to the question she had gone back along the trail to ask. The one person who had stood behind the boys from the first day had not been left behind when they vanished. She had vanished with them — the same morning, into the same silence. Four people from three shacks, gone within a day of each other, and a city that had looked once and moved on.
+
+Elara still did not know where they were, or whether they had gone or been taken. But she knew now that wherever the boys were, the sister was with them — the one who had armed them before anyone else knew they needed arming.
+
+She closed the record. She had promised not to touch their lives, and she had kept the promise; she had only looked. There was a hand loose in the city that signed itself with two letters, and finding it was her work, and nothing in these files brought her an inch closer to it. But she had needed to know whether the three boys she had kept together were still together. They were. And the girl who had once gone two days into the Heights to keep them alive had gone with them.
+
+It would have to be enough. She went back to the hunt.
 
 ---
 
