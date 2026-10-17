@@ -142,7 +142,7 @@ He wanted to know.
 
 Far above, at the hour when Ashoka's training halls went dark and its corridors learned to be quiet, Rohan knelt opposite the Dhammapala in a room that held two cushions, one oil lamp burning with a true flame, and nothing that recorded. The lamp was not decoration. A flame needs no power, reports to no grid, and leaves nothing behind but a little smoke — the oldest unrecorded light there is.
 
-He reported the way he fought: nothing wasted. The dead room. The wall and its four panels. The cell, by their working names only — the eye, the arm, the ear, the voice — and the rule that made him the body's single door. And last, the bulletin that had arrived mid-meeting: a fourth instance. Same direction, same disguise, same perfection. Generosity as fingerprint.
+He reported the way he fought: nothing wasted. The dead room. The wall and its four panels. The cell, by their working names only — the eye, the arm, the ear, the tongue — and the rule that made him the body's single door. And last, the bulletin that had arrived mid-meeting: a fourth instance. Same direction, same disguise, same perfection. Generosity as fingerprint.
 
 He told her all of it for a simple reason: the charge had come from her, so the unit was Ashoka's — and a secret unit that answered to no Grandmaster would make him the very thing he was hunting. But he gave her the body's shape, not its faces. No names, even here. Even for her, the door held.
 
