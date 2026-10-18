@@ -50,13 +50,13 @@ He did not sleep much. He had stopped expecting to.
 
 ---
 
-"He is in Drona's tower," Elara said. "Every night. Whatever else he does, he ends there."
+"It is in Drona's tower," Elara said. "Every night. Whatever else it does, it ends there."
 
 They had the paper spread across the dead-room table — not the Sākṣī's grey columns, which could never leave the chamber beneath the archive, but what the two of them had rebuilt from memory and from the tower's own public records, by another road, as the Ancient One had required. Lift schedules. Corridor maintenance logs that anyone with a Drona review code could read. Four weeks of them. Where the archive had shown an order to look away, the public logs showed a maintenance interval; the two agreed in every case, and the public logs could be cited, and the archive could not. It had taken three nights. It was the dullest work Elara had ever done, and the most important.
 
 "Fourth level," Rohan said. "The pattern is on the fourth level more than anywhere else. But a floor is not a room."
 
-"No. And the room is the one thing we will never find on paper. A room that tells every instrument near it to forget has no address. It is a hole in the plan shaped like a door." She set her finger on the fourth-level corridor, the one with the service panels, the one where a man had died. "But a man is not a hole. He walks into the hole every night. He walks out of it every morning. And between the lift and the hole there are eleven doors, and he passes every one of them. We do not need to find the room. We need to stand in one of the doorways."
+"No. And the room is the one thing we will never find on paper. A room that tells every instrument near it to forget has no address. It is a hole in the plan shaped like a door." She set her finger on the fourth-level corridor, the one with the service panels, the one where a man had died. "But a hand is not a hole. It walks into the hole every night. It walks out of it every morning. And between the lift and the hole there are eleven doors, and it passes every one of them. We do not need to find the room. We need to stand in one of the doorways."
 
 "Then we stand in the corridor."
 
@@ -64,21 +64,31 @@ They had the paper spread across the dead-room table — not the Sākṣī's gre
 
 Rohan did not answer at once. He turned his own left hand over and looked at the terminal strapped there, the thing every citizen of the three cities had worn since childhood, the thing that told the city who he was and told him what the city wanted him to see.
 
-"The man in the corridor had no terminal," Elara said. "That is the only reason he saw it. The band talks to instruments. A wrist terminal is an instrument. If we stand there wearing these, the band will tell them we are maintenance, or cleared, or not there, and we will believe it, because we have believed our terminals our whole lives. We will stand three feet from him and look straight through him. Bare, we are two people with eyes. That is all we are. But it is the one thing it cannot lie to."
+"The man in the corridor had no terminal," Elara said. "That is the only reason he saw it. Think of what the band does. It does not hide the one who wears it. It answers every instrument nearby and tells each one there is nothing here worth a second look — and the instrument tells its owner, and the owner looks away without knowing he was told to. People see the hand. They simply do not keep it."
 
-"Bare, we are also deaf and mute," Rohan said. "No signal in. No signal out. If it goes wrong, no one knows where we are. If one of us falls, the other cannot call. And a tower full of sensors will see two bare wrists in a service corridor at night, and that is not a thing the sensors are used to."
+"We would know better."
+
+"Your man knew better. That is why his wrist was bare."
+
+Rohan said nothing.
+
+"And there is the other thing. A terminal answers every gate it passes. Wear them into that corridor, and Drona's logs will hold our two names, at its hour, in its corridor, for anyone who reads logs to find. It reads records. Everything it has done, it has done inside them." She turned her own wrist over. "Bare, we are two people with eyes. That is all we are. Nothing for the band to talk to. Nothing for it to read afterward."
+
+"Bare, we are also deaf and mute," Rohan said. "No signal in. No signal out. If it goes wrong, no one knows where we are. If one of us falls, the other cannot call. And every sensor in that tower will ask who we are and get no answer. Two people it cannot name, in a service corridor, at night. Nothing in this city goes unnamed for long. Someone will be sent to find out why."
 
 "Yes."
 
-"And we will have nothing in our hands. You are a monitor. I am a commander who has not drawn a weapon in anger in nine years. Whatever that man is wearing can tell a service panel to kill. We will be standing beside service panels."
+"And I go in with my hands empty."
 
-"Yes."
+"You are a commander. You could carry — "
+
+"No." He said it without heat. "We have seen what it does when it is afraid. Baju had nothing in his hands but a panel frame, and that was enough. If I stand in that corridor with a blade, I am bringing the one thing most likely to make it fire. Whatever it wears can tell a service panel to kill, and we will be standing beside service panels. The only thing that protects us there is not being worth killing."
 
 He was quiet.
 
-"I am not asking you to take him," Elara said. "I am asking you to see him. One night. One face. The archive gives us the hour. The logs give us the corridor. We give it two pairs of eyes it cannot talk to, and we learn what the hand looks like when it walks home. Then we leave, and we never come back to that corridor, and the next step is the Grandmasters' and not ours."
+"I am not asking you to take it," Elara said. "I am asking you to see it. One night. One face. The archive gives us the hour. The logs give us the corridor. We give it two pairs of eyes it cannot talk to, and we learn what the hand looks like when it walks home. Then we leave, and we never come back to that corridor, and the next step is the Grandmasters' and not ours."
 
-"And if he sees us."
+"And if it sees us."
 
 "Then we are a Drona reviewer and an Ashoka liaison on an Ashoka security posting, which the Annex review gave you, in a Drona tower, which my code gives me. We are standing where we are allowed to stand. We are simply not wearing our terminals, and there is no law in the city that says a person must." She almost smiled. "I checked."
 
@@ -88,15 +98,15 @@ Rohan looked at the paper a while longer. Then he looked at her.
 
 "Two."
 
-"And we do not stand where the man stood. We stand where he could not see us from where the man stood — and where the panels are not."
+"And we do not stand where the man stood. We stand out of the line it walks — and where the panels are not."
 
 "Agreed."
 
 He reached across the table and, with the back of one finger, touched the clasp of her terminal. Not to open it. To be sure she understood what she was asking of herself.
 
-"Tomorrow is the council," he said. "He will go up to Meru for it. Whatever he is, he will want to see his work pass. And then he will come home."
+"Tomorrow is the council," he said. "It will be on Meru for that. Whatever it is, it will want to see its work pass. And then it will come home."
 
-"Then tomorrow night," Elara said, "we are in the corridor when he does."
+"Then tomorrow night," Elara said, "we are in the corridor when it does."
 
 ---
 
