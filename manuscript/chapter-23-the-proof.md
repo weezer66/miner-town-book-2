@@ -144,7 +144,7 @@ Rohan did not look away from it. He looked at it until Elara thought he would ne
 
 "There is one more thing," Sarvajña said. "Because you will need it, and because the Guard's makers understood it better than any wearer ever has." He touched the stones. "The band reads a hand. Not a mind — a hand. It acts on what the hand is about to do, a heartbeat before the hand would do it. That makes it very fast, and very quiet, and it makes it something else, which the four Grandmasters who sealed it understood. It is only as calm as the hand that wears it. A careful man wearing the Guard is invisible. A frightened man wearing the Guard is a weapon that fires itself." He looked at Rohan. "I cannot tell you what happened in that corridor. No one in this room was there. But I can tell you what the makers wrote down a century ago, because I have read it: the band acts on fear as readily as on intent, and faster, because fear is the louder signal. If your man came close enough to be truly seen by the hand itself, then the hand did not need to decide anything. It only needed to be afraid of him. Remember that. You will not find this thing while it is careful. You will find it when it is afraid."
 
-Rohan said nothing. But Elara saw his jaw set, and knew that he had already decided to make it afraid, and that Sarvajña had just told him the hand's own instrument would help.
+Rohan said nothing. But Elara saw his jaw set, and understood what he had just been handed. A frightened hand made the band act — and every act the band made was written on this wall. Frighten the hand, and it would not only stumble. It would tell them, order by order, exactly where it was stumbling. The thing that made it invisible would be the thing that gave it away.
 
 She turned back to the wall. The columns were still filling — the query was live, Anandi had left it running — and as she watched, a new line appeared at the bottom, with tonight's date and an hour only minutes old.
 
@@ -162,25 +162,25 @@ No one in the room moved. On the grey wall, in the ugliest font in the city, the
 
 Meru at night was the quietest place Daren had ever stood, and tonight the quiet was unbearable.
 
-He stood in a public gallery above the lifted-water gardens, where the terraces stepped down toward the lights of the three cities below and the stewards' households sat behind their long windows, each with its panel glowing softly in a study or a hall. The two he wanted were in his sight. He had chosen this gallery because the bracelet's channels into a household panel were strongest within a few hundred paces, and because a man standing alone at a railing at this hour was a thing Meru had been built to ignore.
+He stood in a public gallery above the lifted-water gardens, where the terraces stepped down toward the lights of the three cities below and the stewards' households sat behind their long windows, each with its panel glowing softly in a study or a hall. The two he wanted were in his sight. He had chosen this gallery for two reasons. The first he had learned by doing: the bracelet could reach a panel across the city if it had to, but the closer he stood, the less it had to borrow from the lines between, and the fewer places it had to ask to look away. A few hundred paces was close enough to need almost nothing. The second reason he had learned in his years as a Kubera officer. Meru's stewards were wealthy people who valued their privacy above almost everything, and the terraces had been built to give it to them — no one on Meru looked at anyone else, and no one asked a man standing alone at a railing what he was doing there. It was considered the worst kind of manners. Tonight it was cover.
 
 The work was simple. He had done harder things a dozen times. Open the first household's panel through the lines the bracelet kept warm. Place a briefing note in the councilman's morning queue, under the staff's own header, in the staff's own dull phrasing — Ashoka presence at eastern platforms, decline over four cycles, two complaints from the trade districts. Close the panel. Leave no trace. Do it again, two terraces over.
 
 He could not make his hand be still.
 
-That was the first thing. He had put his right hand on the railing to steady it and it would not steady. There was a fine tremor in it that had started in the corridor and had not stopped on the Skylark or the maglev or the long walk up through the terraces, and every time he looked at it, he saw a man's open eyes.
+He had put his right hand on the railing to steady it and it would not steady. There was a fine tremor in it that had started in the corridor and had not stopped on the Skylark or the maglev or the long walk up through the terraces, and every time his eyes fell on the black band at his wrist, he saw a man's open eyes.
 
-He had not looked at the eyes for long. He had made himself turn away. But the turning away had not worked the way turning away usually worked, because the eyes had come with him — up the lift, across the dark between platforms, into this garden full of quiet water. They were here now. They were fixed on nothing. One boot half off.
+He had not looked at the eyes for long. He had made himself turn away. But the turning away had not worked the way turning away usually worked, because the eyes had come with him — up the lift, across the dark between platforms, into this garden full of quiet water. He kept seeing the man exactly as he had left him: on his side, eyes open and fixed on nothing, one boot half off his foot. Of all of it, the boot was the detail he could not stop returning to. It was such a small, ordinary, undignified thing. It made the man a person.
 
 Daren had done his work all his working life with numbers that were people, and he had known they were people, and he had never once felt it. A requisition denied was a clinic that closed. A quota raised was a man who did not come home. He had signed those, in a good hand, and gone to lunch. He had thought that was strength. He understood now that it had only been distance, and that distance was a thing you had until the day you did not.
 
 The bracelet lay warm against his wrist, and it was listening to the tremor.
 
-That was the second thing, and it was worse. He had learned in the corridor what the band did with a frightened hand. He was standing in a garden on Meru with a frightened hand, and every nerve in his forearm was telling the band the same confused story — flinch, grip, get away — and the band was reading all of it, a heartbeat early, the way it read everything. If he let the fear run, it would act on something. He did not know what. A steward's pane. A garden pump. A lift. Someone else's hand on someone else's steel.
+That was worse than the tremor itself. He had learned in the corridor what the band did with a frightened hand. He was standing in a garden on Meru with a frightened hand, and every nerve in his forearm was telling the band the same confused story — flinch, grip, get away — and the band was reading all of it, a heartbeat early, the way it read everything. If he let the fear run, it would act on something. He did not know what. A steward's pane. A garden pump. A lift. Someone else's hand on someone else's steel.
 
 So Daren stood at the railing and did the hardest thing he had done since a chamber with black doors: nothing at all, on purpose.
 
-He breathed. He made his shoulders drop. He unclenched the hand on the railing one finger at a time, the way a man opens a hand that has been holding something too long, and he thought of nothing — not the councilmen, not the vote, not the eyes — only the hand, and the air around it, and the band growing cooler against his wrist as the nerves beneath it quieted. It took a long time. Meru's water ran. Somewhere below, a steward's household dimmed its lights for the night and did not know that a man in the gallery above had just spent all his strength making sure he did not kill them.
+He breathed. He made his shoulders drop. He unclenched the hand on the railing one finger at a time, the way a man opens a hand that has been holding something too long, and he thought of nothing — not the councilmen, not the vote, not the eyes — only the hand, and the air around it, and the band growing cooler against his wrist as the nerves beneath it quieted. It took a long time. Meru's water ran. Somewhere below, a steward's household dimmed its lights for the night and did not know that a man in the gallery above had just spent all his strength making sure nothing in their house did anything it was not told to.
 
 When the tremor was gone, he did the work.
 
@@ -188,15 +188,17 @@ He did it differently than he would have four nights ago. He did not let the ban
 
 When it was done he stayed at the railing a while longer, because he was not sure his legs would carry him and because there was nowhere he wanted to go.
 
-He thought about the man. He had never thought about any of them before — the clinics, the quotas, the faces on the other end of a line in a ledger — and now he could not stop, and the man in the corridor had become all of them. A weathered face. Climber's hands. A notebook soft with handling, which meant years of handling, which meant a life. The man had had a name. Daren did not know it and never would. He had put that name in a column and the column had said maintenance interval and that was the whole of the record, and Daren, who had spent his life believing that the record was the thing, understood for the first time that the record was the least of it.
+He thought about the man. A weathered face. Climber's hands. A notebook worn soft from years of carrying, which meant years, which meant a life. The man had a name once. Daren did not know it and never would. The only record of his death said maintenance interval. Daren had spent his whole life believing the record was what mattered. Standing here, he understood that it was the least of it.
 
-He had wanted to be the force the city arranged itself around. The Grandmaster had promised him that, and the band had made it true. He had never once asked what a force did to the things it moved. A force did not get to choose. It moved what was in its path. He had been proud of that. He had called it being unseen.
+He had wanted to be the force the city arranged itself around. The Grandmaster had promised him that, and the band had made it true. He had never once asked what a force did to the things it moved. A force did not get to choose. It moved what was in its path. He had thought that was the whole point. He had called it power. He had not understood that it was only the absence of anyone able to tell him no.
 
-He looked down at the band. It was cool now. It was waiting. It would do, tonight and tomorrow and for as long as he wore it, exactly what his hand told it, including the things his hand told it that he never heard. He could not take it off. He had tried. He could only be still — still enough, careful enough, calm enough, every hour of every day, that it never again heard anything he did not mean.
+He looked down at the band. It was cool now. It was waiting. It would do, tonight and tomorrow and for as long as he wore it, exactly what his hand told it, including the things his hand told it that he never heard.
 
-He did not think he was strong enough for that. He had never been asked to be.
+He could not take it off. He had tried, in the corridor, with a dead man at his feet, and his own fingers had refused him. Not because the band held them. Because without it he was a man with no house, no name, and no door in the city that would open for him — a man the Grandmaster had emptied out and then filled with this. Take the band away and there was nothing underneath. He had made sure of that himself, one quiet correction at a time, until the instrument was the only part of him that still did anything.
 
-Below him, on a terrace he could not see, a councilman's panel accepted a routine briefing note from his own staff and filed it for the morning. Above him, on a grey wall in a basement he had never heard of, two lines appeared with his hour on them, and someone read them.
+So he could not take it off. He could only be still — still enough, careful enough, calm enough, every hour of every day, that it never again heard anything he did not mean.
+
+Below him, on a terrace he could not see, a councilman's panel accepted a routine briefing note from his own staff and filed it for the morning. Further below, in a chamber beneath Drona's archive that he had never heard of, two lines appeared on a grey wall with his hour on them, and someone read them.
 
 Daren turned from the railing and went to find the Skylark, slowly, with his right hand held carefully still at his side, like a man carrying something that could spill.
 
@@ -204,9 +206,9 @@ Daren turned from the railing and went to find the Skylark, slowly, with his rig
 
 In the blue, there was no time.
 
-Otto knew that the way one knows things in dreams — completely, and without being able to say how. There was warm and there was cool. There was a pull in his arms that came and went, as if someone far away kept asking his muscles to lift something and then letting them rest. There was a sound, very faint, which might have been his own heart or might have been a machine pretending to be it. And there was the blue, everywhere, holding him the way water holds a man who has stopped swimming.
+Otto knew that the way one knows things in dreams — completely, and without being able to say how. There was warm and there was cool. There was a pull in his arms that came and went, as if someone far away kept asking his muscles to lift something and then letting them rest. He did not know who was asking, or what the weight was. There was a sound, very faint and very steady, which might have been his own heart or might have been something else keeping time for it. And there was the blue. He could not have said whether he saw it or only knew it — light through closed eyes, perhaps, or the color his mind gave to the deep place Master Chan had taught him to go, the color of the breath at an old man's skin. It did not matter which. It was everywhere, and it held him the way water holds a man who has stopped swimming.
 
-He had stopped swimming a long time ago. He remembered that much. There had been a ring of stones and a floor of fire and three people who needed the stones to stay up, and he had gone down into the stillness Master Chan had taught him, deeper than he had ever gone, to find the strength to hold them. He had found it. He had held them. And then the trial had ended and the others had gone out through the door, and Otto had turned to follow, and found that he could not find the way back up.
+He had stopped swimming a long time ago. He remembered that much. There had been a ring of stones and a floor of fire and three people who needed the stones to stay up, and he had gone down into the stillness Master Chan had taught him, deeper than he had ever gone, to find the strength to hold them. He had found it. He had held them. And then the trial had ended and the others had gone out through the door, and Otto had tried to come back out of the stillness the way he always had — and it had not let him go.
 
 It was not that something held him. He had looked for that — for a wall, a hand, a weight, something to push against. There was nothing. The stillness was his own. He had made it, the way Master Chan had taught him to make it, breath by breath, until it was deep enough to carry three lives, and he had made it so well that it had closed over his head.
 
@@ -220,7 +222,7 @@ Blue on blue. He almost did not see it. Then its wings opened and closed, slowly
 
 "You taught me to be."
 
-"I did. You were a loud boy. All fists. I taught you that the fist is the last thing, not the first, and that most fights are won by the man who can be still long enough to see where the other man is going to be." The old man's eyes were kind and not at all soft. "You learned it better than I did. I have been watching you hold those stones. I have never seen anyone go so deep."
+"I did. You were a loud boy. All fists. I taught you that the fist is the last thing, not the first, and that most fights are won by the man who can be still long enough to see where the other man is going to be." The old man's eyes were kind, the way they had always been kind — the way a good teacher is kind, which has nothing to do with being gentle. "You learned it better than I did. I have been watching you hold those stones. I have never seen anyone go so deep."
 
 "I can't come back up."
 
@@ -286,4 +288,6 @@ Then she looked at his right hand, and stopped breathing.
 
 The first finger had curled. On its own. Against nothing. And as she watched, a single thread of red left the boy's nose and unspooled slowly upward through the blue, the way smoke rises in still air, and the finger — slowly, with what she would later swear was effort — curled again.
 
-She did not call for anyone yet. She stood with her palm against the glass and watched a boy who had been nowhere for three days fight his way back one finger at a time, and she found that she was saying his name, quietly, over and over, as if he might hear it.
+She watched the finger curl a third time. Then she did what the office had trained her to do: she marked the time on the panel, noted the phase of the cycle, and keyed the night medic's alert for the room two levels down where three people had asked to be woken for anything.
+
+Then she went back to the glass. She had sat with enough of the unconscious to know the order things came back in — a finger first, then the eyes, sometimes within the hour, sometimes not for days. There was no telling which this would be. But someone should be standing there if it was the hour, and there was no one else awake to do it.
