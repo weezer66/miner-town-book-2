@@ -176,7 +176,7 @@ Daren had done his work all his working life with numbers that were people, and 
 
 The bracelet lay warm against his wrist, and it was listening to the tremor.
 
-That was worse than the tremor itself. He had learned in the corridor what the band did with a frightened hand. He was standing in a garden on Meru with a frightened hand, and every nerve in his forearm was telling the band the same confused story — flinch, grip, get away — and the band was reading all of it, a heartbeat early, the way it read everything. If he let the fear run, it would act on something. He did not know what. A steward's pane. A garden pump. A lift. Someone else's hand on someone else's steel.
+That was worse than the tremor itself. He had learned in the corridor what the band did with a frightened hand. He was standing in a garden on Meru with a frightened hand, and every nerve in his forearm was telling the band the same confused story — flinch, grip, get away — and the band was reading all of it, a heartbeat early, the way it read everything. If he let the fear run, it would act on something. He did not know what. A steward's terminal. A garden pump. A lift. Someone else's hand on someone else's steel.
 
 So Daren stood at the railing and did the hardest thing he had done since a chamber with black doors: nothing at all, on purpose.
 

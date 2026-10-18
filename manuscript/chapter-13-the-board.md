@@ -378,7 +378,7 @@ Daren turned toward the narrow window above the writing surface. Beyond the glas
 
 Then he left.
 
-The storage recess sealed behind him. The corridor outside Ravi's quarters carried the green-gray quiet of Chanakya's residential wing. Representatives passed in both directions, some returning from analysis rooms, others beginning the next rotation of morning work. Each time Daren approached, a wrist pane flickered, a wall sensor dimmed, or a route marker shifted by a fraction. No one stopped. No one challenged him. Eyes lowered to tablets, cuffs, floor grids, anything except the figure moving through their midst.
+The storage recess sealed behind him. The corridor outside Ravi's quarters carried the green-gray quiet of Chanakya's residential wing. Representatives passed in both directions, some returning from analysis rooms, others beginning the next rotation of morning work. Each time Daren approached, a wrist terminal flickered, a wall sensor dimmed, or a route marker shifted by a fraction. No one stopped. No one challenged him. Eyes lowered to tablets, cuffs, floor grids, anything except the figure moving through their midst.
 
 They walked as though he were invisible.
 
