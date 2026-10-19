@@ -154,7 +154,7 @@ Meru. A household panel on the upper terraces. Look away.
 
 And a second, two terraces over. Look away.
 
-"It is up there now," Elara said. "Right now. It is walking."
+"The hand is up there now," Elara said. "Right now. It is walking."
 
 No one in the room moved. On the grey wall, in the ugliest font in the city, the Obsidian Guard went about its evening's work, and for the first time in a century, someone was watching it do so.
 

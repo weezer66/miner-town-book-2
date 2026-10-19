@@ -50,13 +50,13 @@ He did not sleep much. He had stopped expecting to.
 
 ---
 
-"It is in Drona's tower," Elara said. "Every night. Whatever else it does, it ends there."
+"The hand is in Drona's tower," Elara said. "Every night. Whatever else it does, it ends there."
 
 They had the paper spread across the dead-room table — not the Sākṣī's grey columns, which could never leave the chamber beneath the archive, but what the two of them had rebuilt from memory and from the tower's own public records, by another road, as the Ancient One had required. Lift schedules. Corridor maintenance logs that anyone with a Drona review code could read. Four weeks of them. Where the archive had shown an order to look away, the public logs showed a maintenance interval; the two agreed in every case, and the public logs could be cited, and the archive could not. It had taken three nights. It was the dullest work Elara had ever done, and the most important.
 
 "Fourth level," Rohan said. "The pattern is on the fourth level more than anywhere else. But a floor is not a room."
 
-"No. And the room is the one thing we will never find on paper. A room that tells every instrument near it to forget has no address. It is a hole in the plan shaped like a door." She set her finger on the fourth-level corridor, the one with the service panels, the one where a man had died. "But a hand is not a hole. It walks into the hole every night. It walks out of it every morning. And between the lift and the hole there are eleven doors, and it passes every one of them. We do not need to find the room. We need to stand in one of the doorways."
+"No. And the room is the one thing we will never find on paper. A room that tells every instrument near it to forget has no address. It is a hole in the plan shaped like a door." She set her finger on the fourth-level corridor, the one with the service panels, the one where a man had died. "But a hand is not a hole. It walks into the hole every night. It walks out of it every morning. And between the lift and the hole there are eleven doors, and the hand passes every one of them. We do not need to find the room. We need to stand in one of the doorways."
 
 "Then we stand in the corridor."
 
@@ -72,7 +72,7 @@ Rohan did not answer at once. He turned his own left hand over and looked at the
 
 Rohan said nothing.
 
-"And there is the other thing. A terminal answers every gate it passes. Wear them into that corridor, and Drona's logs will hold our two names, at its hour, in its corridor, for anyone who reads logs to find. It reads records. Everything it has done, it has done inside them." She turned her own wrist over. "Bare, we are two people with eyes. That is all we are. Nothing for the band to talk to. Nothing for it to read afterward."
+"And there is the other thing. A terminal answers every gate it passes. Wear them into that corridor, and Drona's logs will hold our two names, at the hand's hour, in the hand's corridor, for anyone who reads logs to find. The hand reads records. Everything it has done, it has done inside them." She turned her own wrist over. "Bare, we are two people with eyes. That is all we are. Nothing for the band to talk to. Nothing for the hand to read afterward."
 
 "Bare, we are also deaf and mute," Rohan said. "No signal in. No signal out. If it goes wrong, no one knows where we are. If one of us falls, the other cannot call. And every sensor in that tower will ask who we are and get no answer. Two people it cannot name, in a service corridor, at night. Nothing in this city goes unnamed for long. Someone will be sent to find out why."
 
@@ -82,47 +82,55 @@ Rohan said nothing.
 
 "You are a commander. You could carry — "
 
-"No." He said it without heat. "We have seen what it does when it is afraid. Baju had nothing in his hands but a panel frame, and that was enough. If I stand in that corridor with a blade, I am bringing the one thing most likely to make it fire. Whatever it wears can tell a service panel to kill, and we will be standing beside service panels. The only thing that protects us there is not being worth killing."
+"No." He said it without heat. "We have seen what the hand does when it is afraid. Baju had nothing in his hands but a panel frame, and that was enough. If I stand in that corridor armed, I am bringing the one thing most likely to make it fire. Whatever the hand wears can tell a service panel to kill, and we will be standing beside service panels. The only thing that protects us there is not being worth killing."
 
-He was quiet.
+She was quiet a moment.
 
-"I am not asking you to take it," Elara said. "I am asking you to see it. One night. One face. The archive gives us the hour. The logs give us the corridor. We give it two pairs of eyes it cannot talk to, and we learn what the hand looks like when it walks home. Then we leave, and we never come back to that corridor, and the next step is the Grandmasters' and not ours."
+"I am not asking you to take the hand down," Elara said. "I am asking you to see it. One night. One face."
 
-"And if it sees us."
+She laid her hand flat on the paper.
+
+"The archive gives us the hour. The logs give us the corridor. We give the hand two pairs of eyes it cannot talk to. We learn what it looks like when it walks home. Then we leave, and we never go back to that corridor. What comes after is for the Grandmasters, not for us."
+
+"And if the hand sees us."
 
 "Then we are a Drona reviewer and an Ashoka liaison on an Ashoka security posting, which the Annex review gave you, in a Drona tower, which my code gives me. We are standing where we are allowed to stand. We are simply not wearing our terminals, and there is no law in the city that says a person must." She almost smiled. "I checked."
 
-Rohan looked at the paper a while longer. Then he looked at her.
+Rohan looked at the corridor drawn on the table a while longer. Then he looked at her.
 
-"Two," he said. "No one else. Not my people. Not yours. The more bodies in that corridor, the more a frightened hand has to be frightened of, and we have seen what it does when it is frightened."
+"Two," he said. "No one else. Not my people. Not yours. Every body in that corridor is one more thing for the hand to be afraid of, and we have seen what it does when it is afraid."
 
 "Two."
 
-"And we do not stand where the man stood. We stand out of the line it walks — and where the panels are not."
+"And we do not stand where the man stood. We stand out of the line the hand walks — and where the panels are not."
 
 "Agreed."
 
-He reached across the table and, with the back of one finger, touched the clasp of her terminal. Not to open it. To be sure she understood what she was asking of herself.
+He looked at her wrist. "Have you ever been outside without it?"
 
-"Tomorrow is the council," he said. "It will be on Meru for that. Whatever it is, it will want to see its work pass. And then it will come home."
+"No."
 
-"Then tomorrow night," Elara said, "we are in the corridor when it does."
+"Then that is the part you have not thought about yet."
+
+"Tomorrow is the council," he said. "The hand will be on Meru for that. Whoever it is, it will want to see its work pass. And then it will come home."
+
+"Then tomorrow night," Elara said, "we are in the corridor when the hand comes home."
 
 ---
 
 The Kubera council sat at the tenth hour, as it had every tenth day for a century, in the hall beneath the founders' eyes.
 
-Daren watched from the public gallery, in a seat at the rail with his right hand lying open on his knee. A man with no house had no business in that gallery, and the gallery's own gate had asked him, as every gate in the city asked, and had been answered in Kubera's dialect by something at his wrist, and had let him through. He had chosen the seat for its view of the floor and for its distance from the Grandmaster's chair. He had chosen the open hand because he could no longer trust a closed one.
+Daren watched from the public gallery, in a seat at the rail with his right hand lying open on his knee. A man with no house had no business in that gallery, and the gallery's own gate had asked him, as every gate in the city asked, and had been answered in Kubera's dialect by something at his wrist, and had let him through. He had chosen the seat for its view of the floor and for its distance from the Grandmaster's chair. He kept the hand open because the band read the hand, and a hand that closed was a hand that wanted something. He did not know what it would want. He did not intend to find out in a room full of councilmen.
 
-The sponsorship came fourth on the docket. The first councilman rose — a careful, grey man who had read a briefing note from his own staff that morning and had found in it exactly the figures he had been privately worrying about — and spoke for eleven minutes without once looking at his notes. He spoke of Ashoka's thinning presence at the eastern platforms. He spoke of complaints from the trade districts. He spoke of the charter, and of the city's debt to its guardians, and of Kubera's long and regrettable stinginess, and he did it with the mild, self-correcting warmth of a man who has arrived at a conclusion by himself and is a little embarrassed not to have arrived sooner. It was very good. It was better than Daren had written it. The second councilman rose and said less, and said it more plainly, and sat down, and the hall was already nodding.
+The sponsorship came fourth on the docket. The first councilman rose — a careful, grey man who had found a briefing note in his morning queue under his own staff's header, and had found in it exactly the figures he had been privately worrying about — and spoke for eleven minutes without once looking at his notes. He spoke of Ashoka's thinning presence at the eastern platforms. He spoke of complaints from the trade districts. He spoke of the charter, and of the city's debt to its guardians, and of Kubera's long and regrettable stinginess, and he did it with the mild, self-correcting warmth of a man who has arrived at a conclusion by himself and is a little embarrassed not to have arrived sooner. It was very good. It was better than the note Daren had written for him the night before. The second councilman rose and said less, and said it more plainly, and sat down, and the hall was already nodding.
+
+One councilwoman asked, mildly, whether the house had considered the cost over ten cycles. The first councilman had. He read her Ashoka's own charter line — a guardian within reach of every citizen — and asked whether she proposed that Kubera continue to fund the promise at a fraction. She did not. The question went into the record as a question, and nothing else.
 
 The vote took four minutes.
 
-Daren felt it pass the way he had felt the Annex pass and the doubled transfer before it — as a line moving from one column to another, clean, with nothing left over. Ashoka's duties were law now. The flood had a seal on it. In an hour it would be in every commander's folder in that house, and no one would ever be able to say who had opened the gate, because the gate had been opened by two sincere men on a public floor with the whole council watching.
+Daren felt it pass the way he had felt the Annex pass and the doubled transfer before it — as a line moving from one column to another, clean, with nothing left over. Every promise that had slept in Ashoka's charter for a century was a funded duty now, and a house built on duty could not refuse one. The flood had a seal on it. In an hour it would be in every commander's folder in that house, and no one would ever be able to say who had opened the gate, because the gate had been opened by two sincere men on a public floor with the whole council watching.
 
-He should have felt what he had felt the other times.
-
-He did not. He felt his hand on his knee, and he watched it not move, and he thought about a boot half off a dead man's foot, and he understood that the line had moved from one column to another and that somewhere at the bottom of the second column there would be a man he had never met standing guard in a doorway because of this, and that the man would be tired, and that this was what the arithmetic had always meant and he had simply never done the subtraction.
+The councilwoman's question had been the analyst's. He had seen it coming in Room Four, weeks before she thought of it, and closed it with Ashoka's own words, so that the only answer left to her was the one she gave. Daren had chosen well there. He allowed himself that much.
 
 He did not look at the Grandmaster's chair. He did not need to. He felt the Grandmaster look at him.
 
@@ -134,23 +142,25 @@ Daren said nothing. The Grandmaster did not slow.
 
 "And your hand is wrong. Put down whatever you are carrying before the next one."
 
-Then he was gone, into the hall, into the rings and the seals and the bowing attendants, and Daren stood alone in a corridor on Meru with the thing he was carrying, which could not be put down, which had been fastened to him in a chamber with black doors by the same man who had just told him to put it down.
+Then he was gone, into the hall, into the rings and the seals and the bowing attendants.
 
-He understood then that the Grandmaster did not know. He had given Daren the band and the office and the city's blindness, and he had never once asked what it cost to wear, because the man who gave a thing was not the man who wore it. The Master of the Reserve saw an instrument that had gone off-true, and told it to true itself, and walked on. He would not have understood if Daren had tried to tell him. There was no column for it.
+Daren stood alone in the corridor. The thing he was carrying could not be put down. The man who had just told him to put it down was the man who had fastened it on.
+
+He understood then that the Grandmaster did not know what it cost to wear. He had given the band and never asked. He saw an instrument that had gone off-true, told it to true itself, and walked on. Daren could not have explained it to him if he had tried. There was no column for it.
 
 Daren went down to the Skylark. His hand lay still at his side the whole way. He made it lie still. It was the only thing he still did himself.
 
 ---
 
-They took them off in the dead room, because there was nowhere else.
+They left the dead room with their terminals on. The gates and lifts on the way to Drona accepted their credentials under the Annex posting.
 
-Elara unclasped hers first. It came away from her wrist with a small, final click she had never heard in her life, because she had never in her life removed it — not to sleep, not to bathe, not once since the day a Drona clerk had fastened it on a child's arm and told her it would keep her safe. The skin beneath was pale and soft and strange, like something that had been underground. She put the terminal in the locker with the paper. She did not look at her wrist again.
+At the fourth-level corridor, they stepped into the cart recess Rohan had chosen. No panel within four strides. No sensor housing above it. There, they unclasped their terminals.
 
-Rohan's came off the way he did everything, without ceremony, and went into the locker beside hers, and he closed the door and turned his key and waited for her to turn hers, and the two instruments that had told the two of them who they were for their whole lives were sealed in a wall with four weeks of their handwriting.
+Elara had taken hers off before, of course — to wash, to sleep, in the few minutes of a day when a person was alone behind her own door. She had never once walked out of a door without it. Not since the day a Drona clerk had fastened the first one on a child's arm and told her it would keep her safe; the band had been changed out a dozen times since, for size and then for age, and the child's wrist had grown into a woman's, and never once in all those years had the city lost sight of it. The skin beneath was pale where the strap had lain. She switched the terminal off and slipped it into her coat pocket.
 
-The silence was immediate.
+Rohan switched his off and put it in his pocket. The silence was immediate.
 
-Not the room's silence. Theirs. Elara had not known, until it stopped, how much of her attention had lived in the small weight on her wrist — the pulses she did not notice noticing, the faint warmth when a message arrived, the sense, constant as breathing, of being inside a conversation with the city. It was gone. The city had stopped talking to her. She was standing in a room with one other person and a lantern, and that was all she was.
+Not the corridor's silence. Theirs. Elara had not known, until it stopped, how much of her attention had lived in the small weight on her wrist — the pulses she did not notice noticing, the faint warmth when a message arrived, the sense, constant as breathing, of being inside a conversation with the city. It was gone. The city had stopped talking to her. She was standing in the recess with one other person, and that was all she was.
 
 "It feels like going deaf," she said.
 
@@ -186,7 +196,7 @@ Ten strides. Eight.
 
 The half-light in that corridor came from above and behind him, from the lift, and it did what such light does: it gave her the shape of a man and kept his face. A dark coat. A collar turned up against nothing. Head down — not furtive, only tired, the way a man walks home when there is no one at home to walk toward. She saw the line of a jaw for half a second and lost it. She saw the right hand, held so carefully still at his side that the stillness itself was a kind of movement. She saw that he was not tall and not short and not anything, and she understood that this was the point of him — that someone had chosen him, or made him, to be the kind of man a corridor forgets.
 
-He passed the recess without turning his head. His right hand did not move. Six strides past them, at a door that stood on every plan of the tower and in none of its records, he stopped, and the door opened before his hand had risen toward it, and the corridor sensor above it — Elara watched it happen with her own bare eyes — did nothing at all.
+He passed the recess without turning his head. His right hand did not move. Six strides past them, at a door marked on every floor plan but absent from every access log, he stopped. His fingers tightened once against his coat, then he held the arm still. The door opened before his hand had risen toward it, and the corridor sensor above it — Elara watched it happen with her own bare eyes — did nothing at all.
 
 For one moment, in the light from the opening door, she saw the side of his face.
 
@@ -210,9 +220,9 @@ Neither of them moved for a long time. Then Rohan let out a breath she had not h
 
 "You will see him again," Rohan said. "He lives here."
 
-They stood a moment longer in the recess, two people with eyes and nothing else, in the one place in the city the Obsidian Guard had just walked past without knowing. Then they went back the way they had come, by the service stair, without a word, and did not put their terminals back on until the dead-room door was closed behind them.
+They stood a moment longer in the recess, two people with eyes and nothing else, in the one place in the city the Obsidian Guard had just walked past without knowing. Then they went back by the service stair. At its foot, before the first gate, they switched their terminals on and fastened them back to their wrists.
 
-Elara's terminal woke against her skin with a dozen small pulses, the city resuming its conversation as if nothing had happened. She did not read any of them.
+Elara's terminal woke with a dozen small pulses, the city resuming its conversation as if nothing had happened. She did not read any of them.
 
 She did not have a name. She had a door, and an hour, and the shape of a man, and the memory of a right hand held still the way one holds a thing that might go off. It was less than she had wanted. It was more than anyone in the city had had in a hundred years. And somewhere behind it, in a place she could not reach tonight, a half-seen face was waiting to be remembered.
 
