@@ -146,7 +146,7 @@ Then he was gone, into the hall, into the rings and the seals and the bowing att
 
 Daren stood alone in the corridor. The thing he was carrying could not be put down. The man who had just told him to put it down was the man who had fastened it on.
 
-He understood then that the Grandmaster did not know what it cost to wear. He had given the band and never asked. He saw an instrument that had gone off-true, told it to true itself, and walked on. Daren could not have explained it to him if he had tried. There was no column for it.
+He understood then that the Grandmaster did not know what it cost to wear. He had given the band and never asked. He could price every project the city undertook, but had never asked what the band was costing Daren. Daren had no words for it anyway.
 
 Daren went down to the Skylark. His hand lay still at his side the whole way. He made it lie still. It was the only thing he still did himself.
 
