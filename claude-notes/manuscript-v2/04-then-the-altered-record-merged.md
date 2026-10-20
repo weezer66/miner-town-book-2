@@ -108,7 +108,7 @@ Teresa had been her best friend since the morning a five-year-old Elara walked h
 
 Years later it was still happening. The evening after a transfusion that was supposed to buy her a good week, Teresa closed her fingers around a cup of water and couldn't bring it off the table. Elara reached across and steadied it. Teresa looked at her over the rim with gratitude and fear and something underneath both that was already letting go.
 
-At fifteen she'd stowed away alone in a freight pod with a notebook against her chest: everything the Ramayana said about Sanjeevani, the herb that brought the dying back, copied from the scriptures in her father's cabinet. Three days on the ground by herself, and no mountain and no herb. Teresa died on the second night, in a hospital bed in Trinity-1, and the last word she said was *Elara*, to a room with nobody in it who answered to it.
+At fifteen she'd stowed away alone in a freight pod with a notebook against her chest: everything the Ramayana said about Sanjeevani, the herb that brought the dying back, copied from the scriptures in her father's cabinet. Three days on the ground by herself, and no mountain and no herb. Teresa died on Elara's second night on the ground, in a hospital bed in Trinity-1, and the last word she said was *Elara*, to a room with nobody in it who answered to it.
 
 Elara changed the category to cooperative compensation. The system held the phrase for less than a second before a red notation replaced it, calling her interpretation interference.
 
@@ -174,7 +174,7 @@ Rohan froze the automatic designation of subject-on-subject violence. "Partial s
 
 "It's a liability," Daren said.
 
-Ravi flagged the event for contextual review. Elara added that no separation order should issue from partial data.
+Ravi flagged the event for contextual review. Elara added that no separation order should issue from partial data. Rosa's marker held where it had fallen, faint and steady, still breathing.
 
 Then Gage's pulse leapt.
 
@@ -198,7 +198,7 @@ Ground personnel were marked insufficient for the combined strength profiles of 
 
 INFINITY GUARD RESPONSE AUTHORIZED.
 
-Four hours from the guard chambers to Miner Town. Ravi's jaw set. Daren studied the cost estimate. Rohan stood with both hands flat on CORRECTION, the split knuckles gone pale across the tops.
+Only the final extraction would route back down, to CORRECTION. Four hours from the guard chambers to Miner Town. Ravi's jaw set. Daren studied the cost estimate. Rohan stood with both hands flat on CORRECTION, the split knuckles gone pale across the tops.
 
 Their twelve-hour watch should have ended there. Instead the handoff to automation was suspended, and a shift lock closed over the room: all four of them at their stations until the deployment resolved or the gates opened.
 
@@ -234,7 +234,7 @@ Beneath the escalation, the ordinary Sector One induction file waited to go out 
 
 ---
 
-She was on her feet before she'd finished deciding. She'd done that once before, at fifteen.
+She was on her feet before she'd finished deciding. She'd done that once before, at fifteen. Someone above this floor had dosed the children's water, and the same people would read that file at first light.
 
 There were two lawful roads, and she had walked both to the end in her head while the seals were still releasing: accept the reprimand and watch the directives execute, or file a dissent and watch them execute while it crawled through committee. Both ended at the same wall. The third road was treason.
 
@@ -273,7 +273,9 @@ REF: AUDIT RETRIEVAL. OPERATOR: NATHAN, E.
 
 Her name sat at the end of it. She left it there.
 
-A governance warning about record tampering bloomed over the screen. She confirmed through it and watched the status turn to saved.
+A governance warning about record tampering bloomed over the screen. She confirmed through it and watched the status turn to saved. The tamper flag filed itself to the superintendent's weekly queue and waited there.
+
+At first light the induction file would go down to every supervisor in Sector One with three ordinary names on it. No separate housing. No restricted work. No approval needed for the three of them to cross a corridor together. Icepick and Jung could still call them up for executive review, but the file that reached the floor first would put them on the same shift and send them down the same shaft.
 
 She closed the session. The self-minted token expired, and the working log purged with it. The door sensors and the register were out of her reach. They would keep what they kept.
 
@@ -317,7 +319,7 @@ He stopped close enough that she felt his breath.
 
 "You made the system lie for you."
 
-The answer was ready in her mouth. *Somebody pushed my calibration to the ceiling on the third day, through my console, while the machine had the room. Shall we ask the system who?* She looked at him and held it. Asking the system would open her console to an inquiry, and an inquiry would read every line she'd touched tonight, and look twice at the one two levels down that was meant to look like nothing. She closed her mouth.
+The answer was ready in her mouth. *Somebody pushed my calibration to the ceiling, through my console, while the machine had the room. Shall we ask the system who?* She looked at him and held it. Asking the system would open her console to an inquiry, and an inquiry would read every line she'd touched tonight, pull the tamper flag forward out of the superintendent's queue, and look twice at the one two levels down that was meant to look like nothing. She closed her mouth.
 
 Daren watched her not say it. Something in his face settled, and he leaned in.
 

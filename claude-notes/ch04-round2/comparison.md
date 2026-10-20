@@ -71,3 +71,30 @@ Both reviewers said B stalls right after she stands, and A runs to the terminal.
 The editor's majority stands on both lines.
 
 **Round 3 adopted (2026-10-20):** the author approved it. `r3-candidate.md` is now the live chapter, and the `.docx` has been regenerated and checked. The previous version is backed up as `04-before-r3.md` in the session scratchpad.
+
+# Round 4: what the forgery gets her (2026-10-20)
+**The review:** 6.4. The editor advised keeping the backstory and accepting the reviewers' general dislike of backstory in Then chapters. This round fixes one clarity gap.
+
+**The fixes:**
+- **What it wins**, a new paragraph after the save: *"At first light the induction file would go down to every supervisor in Sector One with three ordinary names on it. No separate housing. No restricted work. No approval needed for the three of them to cross a corridor together. Icepick and Jung could still call them up for executive review, but the file that reached the floor first would put them on the same shift and send them down the same shaft."* I changed Fable's "same row of bunks"; in Book 1 the boys go home after the Initiation.
+- **Why it isn't caught:** *"The tamper flag filed itself to the superintendent's weekly queue and waited there."* Her silence then fears an inquiry that would *"pull the tamper flag forward."* Following the fork's caution, it doesn't say nobody can see the flag; Kubera reads the audit stream in Ch5.
+- **Her tipping point:** *"She'd done that once before, at fifteen. Someone above this floor had dosed the children's water, and the same people would read that file at first light."*
+
+**Small fixes:**
+- "on the third day" is cut;
+- *"on Elara's second night on the ground"*;
+- *"Only the final extraction would route back down, to CORRECTION."*;
+- Rosa: *"Rosa's marker held where it had fallen, faint and steady, still breathing."* Both reviewers found "stayed down" ambiguous. No later chapter mentions Rosa.
+
+**The merge:** Fable's draft is the base, for the tipping-point placement the editor asked for and the concrete paragraph on what the forgery wins. Opus's draft was nearly identical.
+
+**Blind comparison** (A = current, B = combined):
+
+| Reviewer | A | B | Would send |
+|---|---|---|---|
+| Sonnet | 7.5 | **8.5** | B |
+| Haiku | 6 | **8** | B |
+
+Both reviewers said B answers all three questions (what it wins, why it isn't caught, what pushes her), and A leaves them implied. Sonnet said "Rohan nodded once" had been cut. It hadn't; it's in both versions.
+
+**Round 4 adopted (2026-10-20):** the author approved it. `r4-candidate.md` is now the live chapter, and the `.docx` has been regenerated and checked. The previous version is backed up as `04-before-r4.md` in the session scratchpad.
