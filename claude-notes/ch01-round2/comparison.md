@@ -62,3 +62,39 @@ The tic scan is clean: no "the way" similes, "for the first time", "eleven" or "
 
 ## Adopted (2026-10-20)
 The author approved it. `ch01-candidate.md` is now `manuscript-v2/01-then-assigned-to-witness-merged.md`, and the `.docx` has been regenerated and checked paragraph by paragraph. The previous version is backed up in the session scratchpad as `01-before-r2.md`. Ch21's echoes are re-checked against the branch: "beside that face… close enough to hear him hum," "tapped his pen twice on the console's edge," and "rounding errors."
+
+# Round 3: the seating fix (2026-10-20)
+**The review** found that Ch1 sat Daren *beside* Elara while Ch4 has him *across the grid* three times ("lifted her eyes across the grid," "Across the room Daren," "He was crossing the floor now"). The fix: Daren sits across from her. "Beside him" also pointed grammatically at Rohan.
+
+**Drafts:**
+- `r3-draft-opus.md` split the seating sentence, so "Drona's station" no longer reads as describing the four notes.
+- `r3-draft-fable.md` used "Daren had already scrolled past him" (avoiding a repeated "next") and "as if some other Nathan."
+
+**Combined:** Opus's seating and pen lines, plus Fable's ledger and Nathan lines.
+
+**Blind comparison** (current = A, combined = B; the order is the reverse of round 2):
+
+| Reviewer | A (current) | B (combined) | Would send |
+|---|---|---|---|
+| Sonnet | 8.0 | **8.5** | B |
+| Haiku | 7.0 | **8.0** | B |
+
+- **Sonnet preferred B** on all four changed lines.
+- **Haiku preferred B** on three lines. On the ledger line it preferred A's theme statement, which is the line your review asked to cut, so I kept B's.
+
+**Taken from the reviewers into `r3-candidate.md`:**
+- **Ravi placed** (Haiku). Elara catches his wrist, so he has to be near her: *"with Ravi's console at her elbow and Daren across the grid, still close enough to hear the four notes."*
+- *"VARIANCE was Drona's station"*, so "It" no longer reads as the notes (Haiku).
+- *"worn down by the time you were seventeen"* (both reviewers).
+
+**Not taken:**
+- Haiku: make the Nathan joke more deliberately ironic.
+- Sonnet: trim "It's our first day…" (the wrist-catch line later chapters depend on).
+- "bled into a machine."
+- Defining "the model."
+
+These are minor, and the review called this chapter ready to send.
+
+**Knock-on:** Ch21:195, *"She had sat beside that face for three days at THRESHOLD,"* needs to become "across the grid from that face." That's the fork's file; it was asked to change it once Ch1 is pushed. Ch14's "one station along" puts Daren next to Ravi's EVENT, which still works on a four-console ring.
+
+**Round 3 adopted (2026-10-20):** the author approved it. `r3-candidate.md` is now the live chapter, and the `.docx` has been regenerated and checked. The previous version is backed up as `01-before-r3.md` in the session scratchpad.

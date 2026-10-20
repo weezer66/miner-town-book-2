@@ -18,7 +18,7 @@ Nothing in a drop of blood could say that. That was the model talking — her re
 
 "Clearance granted. Initiation Observation, Tier One. Operational lead: Nathan, E."
 
-Elara looked over her shoulder, as if the Nathan it meant might be standing in the corridor behind her. The corridor was empty. Nobody had told her.
+Elara looked over her shoulder, as if some other Nathan might be standing in the corridor behind her. The corridor was empty. Nobody had told her.
 
 Her terminal warmed against the bone of her wrist, and a green band ran across it and faded. She slept with it off, face down on the shelf by her bed. This morning she'd stood in her doorway with it in her hand for twelve seconds before she buckled it on, and for those twelve seconds the city hadn't been able to hear her. Now it could. Her pulse came down toward sixty-five, the number the towers liked their watchers to hold, and she held it there.
 
@@ -50,7 +50,7 @@ Rohan came last, in Ashoka's red-black, broad through the shoulders, a scar alon
 
 "That's the lesson."
 
-Inside, four curved consoles faced a suspended grid where Miner Town glowed in pulse-lines and coordinates. Each console carried one word in plain white. Ravi took EVENT. Daren took THRESHOLD and sat down at it like it owed him money. Rohan stood a moment before CORRECTION woke under his hand, all force ladders and escalation paths. Elara sat at VARIANCE, beside him, close enough to hear the hum: Drona's station, built to notice when the system's story and the data stopped agreeing.
+Inside, four curved consoles faced a suspended grid where Miner Town glowed in pulse-lines and coordinates. Each console carried one word in plain white. Ravi took EVENT. Daren took THRESHOLD and sat down at it like it owed him money. Rohan stood a moment before CORRECTION woke under his hand, all force ladders and escalation paths. Elara sat at VARIANCE, with Ravi's console at her elbow and Daren across the grid, still close enough to hear the four notes. VARIANCE was Drona's station, built to notice when the system's story and the data stopped agreeing.
 
 The grid flickered, and sixteen names came up in a column.
 
@@ -94,7 +94,7 @@ Elara turned to Rohan. "Can you keep the primary feeds while we sort the excepti
 
 He looked at her for a second. The same line had come up on his own screen, she guessed: *operational lead, Nathan, E.* Then he nodded and turned back to CORRECTION.
 
-Beside her, Daren tapped his pen twice on the edge of THRESHOLD and wrote something down. "Drona chairs the first anomaly of the cycle," he told his screen. "Noted."
+Across the grid, Daren tapped his pen twice on the edge of THRESHOLD and wrote something down. "Drona chairs the first anomaly of the cycle," he told his screen. "Noted."
 
 Elara let it go. She had three names to read.
 
@@ -104,7 +104,7 @@ Elara pulled up the first profile.
 
 "Male. Six feet five. Two hundred twenty pounds."
 
-She ran the numbers again. A Miner Town ration built one kind of body: lean, tough, worn down by seventeen. It didn't build this. Somebody had spent years putting food into this boy that the ledger had never issued.
+She ran the numbers again. A Miner Town ration built one kind of body: lean, tough, worn down by the time you were seventeen. It didn't build this. Somebody had spent years putting food into this boy that the ledger had never issued.
 
 "That mass doesn't close against his ration history," she said. "Someone's been feeding him off the books since he was a kid, and the system never flagged it."
 
@@ -114,7 +114,7 @@ The prompt sat under her thumb. FILE. She kept her thumb where it was and didn't
 
 "Assign Gage to me."
 
-Nobody argued. To the others he was a big number on a ration ledger.
+Nobody argued. Daren had already scrolled past him.
 
 Ben's profile came next, and the data was such a relief it was almost funny. "Five feet eight. One sixty. Every value inside the reference band."
 
