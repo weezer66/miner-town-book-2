@@ -134,9 +134,13 @@ She didn't file it. Somewhere between the numbers and the question, Gage had sto
 
 No one objected. They saw a lowly miner. Elara saw the outline of a family the ledger had missed, and she buried the thought under protocol as she claimed him.
 
+She turned to Rohan. "Keep the primary feeds while we sort the exceptions."
+
+He held her gaze a moment, then nodded and turned back to CORRECTION. The morning debrief had named her operational lead, and Ashoka honored a chain of command it had agreed to.
+
 "Drona chairs the first anomaly of the cycle," Daren said to his screen. "Noted."
 
-An objection, filed as agreement. Elara let it stand.
+An objection, filed as agreement. Elara let it stand. Her lead was real, and in Kubera's accounting it would be billed.
 
 Ben's profile came next, and the relief in the data was immediate. "Five feet eight. One hundred sixty pounds. Every value inside the reference band."
 

@@ -6,7 +6,7 @@
 
 ## Then: Meru
 
-The pane of glass was lying on his pillow when Daren got back from the shift lock, square in the dent his head had left three nights ago.
+The pane of glass was lying on his pillow when Daren got back from the shift lock, square in the dent his head had left the night before last.
 
 It looked like nothing until he touched it. Then light moved under the surface and drew a golden torch in thin, fire-bright lines, and he stopped breathing through his nose. The torch was the Grandmaster's mark. No representative at his grade had ever been sent one, and nobody had asked the room's lock for permission to leave it.
 
@@ -82,7 +82,15 @@ Behind the Master the panels were replaying the end. The gates opening. A shape 
 
 Daren had sorted that boy. He'd read the name off the grid and called him a rounding error. Now the rounding error filled the panel to the ceiling, and the gold overhead doubled him, and he didn't even look tired. He looked like he'd carried heavier. Heat climbed Daren's neck and went nowhere. Elara had typed the lie; he'd known what she was from the first hour. But a ration-fed miner who hadn't known enough to put down what he was carrying had made the lie worth typing. The miners had walked through the door she opened, the three of them with their unindexed families and their shared rations, and it was their walk the other houses had laughed at, every step of it charged to his name. Nobody upstairs would ever say Gage's.
 
-The Master kept speaking, and the device kept translating, the Tamil and the English laid over each other like two copies of one ledger. Kubera did not punish weakness, because weakness was temporary. Kubera removed weakness when it became visible to rivals. His sigil was under review. His clearance was under review. His right to speak for this Clan was under review. The machine used the founders' word, *Clan*, and let it ring. Then the last charge, flatter than the rest: he had let three unqualified representatives from other Clans surpass him, and make Kubera look weak.
+The Master kept speaking, and the device kept translating, the Tamil and the English laid over each other like two copies of one ledger. Kubera did not punish weakness, because weakness was temporary. Kubera removed weakness when it became visible to rivals. His sigil was under review. His clearance was under review. His right to speak for this Clan was under review. The machine used the founders' word, *Clan*, and let it ring.
+
+Then the Master tilted his chin toward the gold surface and gave the last charge in the old tongue, flatter than the rest.
+
+"பிற கணங்களின் மூன்று தகுதியற்ற பிரதிநிதிகள் உன்னை மிஞ்சிவிட நீ அனுமதித்தாய், குபேராவை வலிமையற்றதாகக் காட்ட நீ அவர்களை அனுமதித்தாய்."
+
+The machine repeated it without hesitation.
+
+"You allowed three unqualified representatives from other Clans to surpass you, and you permitted them to make Kubera appear weak."
 
 The device fell silent. The Master looked at Daren a while longer, and then through him, at a component already logged for disposal.
 
@@ -190,7 +198,7 @@ The stars looked too orderly tonight. He counted them without meaning to. Seven 
 
 A darkness between the stars, no larger than a fingernail against the sky. The lights near it bent into thin arcs and ran on tight, wrong paths, one vanishing at its edge and coming back above it, another falling around something nobody could see. He leaned in, and his breath fogged a small circle on the glass, and the pattern sharpened. A black hole, its center hidden by the mass that had taken the sky around it.
 
-Daren put his palm flat against the pane, over the fog. The black hole held the stars in orbit without appearing among them, and the sky bent around a force it couldn't see. That was what he had been given, and what he would become.
+Daren put his palm flat against the pane, over the fog. The black hole held the stars in orbit without appearing among them, and the sky bent around a force it couldn't see. He wasn't meant to stand at the center of the system anymore. He was meant to become the force other people arranged themselves around.
 
 The smile came on its own, slow, relief and grief welded into one expression, with nobody in the room to see it.
 

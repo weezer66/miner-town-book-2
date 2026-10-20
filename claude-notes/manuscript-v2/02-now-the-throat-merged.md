@@ -48,7 +48,7 @@ Behind him the crystal, which had been in every room because there had only ever
 
 She counted. Four of them, if she counted herself, and she did. One Flitzberg. One door, with glass in it, and shapes behind the glass that weren't moving. No controls. No hourglass. No voice. The room had finished with them.
 
-Then she looked at Flitzberg's jaw, because that was where it had shown both times before: a shimmer at the hinge, skin not quite agreeing with bone. Nothing moved there that shouldn't have. Smooth, pale, the full cheeks going dark now under Gage's hand. His own face, then, or the one he had decided to call his own. He'd spent a dead grandfather on her and a lame friend on all four of them. He wasn't going to waste a good trick on people who'd already seen it.
+Then she looked at Flitzberg's jaw, because that was where it had shown both times before: a shimmer at the hinge, skin not quite agreeing with bone. Nothing moved there that shouldn't have. Smooth, pale, the full cheeks going dark now under Gage's hand. His own face, then, or the one he had decided to call his own. He'd spent a dead grandfather on her, and Gerald's face, limp and all, on the four of them. He wasn't going to waste a good trick on people who'd already seen it.
 
 No guards in the room. Nobody behind the glass moving to help him. The man who had sealed corridors with electricity and dropped her into a tank of eels had walked in here alone, on purpose, and let the strongest boy in Sector One put a hand on his windpipe. A man who did that had either lost his mind or wanted to be within reach.
 
