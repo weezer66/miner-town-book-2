@@ -44,7 +44,7 @@ Kavik's eyes didn't leave her face. "Because you acted."
 
 The dispenser let go a burst of steam. Somewhere behind them a chair scraped hard on the floor, and Elara spoke into the cover it made.
 
-"I altered the record." It nearly went under. "I kept Gage, Ben and Otto in the same Sector One cohort. I told myself I was keeping what they chose in that chamber. I don't know what I kept. It might protect them. It might make them easy to see. Three boys who could've survived apart, and I've tied them into one thing every office in Trinity will want to break."
+"I altered the record." It nearly went under. "I kept Gage, Ben and Otto in the same Sector One cohort. I told myself I was keeping what they chose in that chamber. I don't know what I kept. It might protect them. It might make them easy to see. Three boys who could've survived apart, and I've tied them into one thing every office in Trinity will want to break. And now they're mine. Monitor of record, for as long as this lasts. Every eye that turns toward them finds me first."
 
 Across the room someone laughed too loudly. The sound hit the ceiling and came apart.
 
