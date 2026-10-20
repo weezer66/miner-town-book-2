@@ -72,6 +72,8 @@ Flitzberg didn't rub his throat. He left the marks where they could see them.
 
 He raised one hand where they could all see it and beckoned at the glass. "If a stranger had reached her before I did, you would have broken him. So they waited, and I came first."
 
+*Waited.* While she lay on the metal with Ben's sealant still wet on her stump. Camilla added it to the count.
+
 Three people came in fast, two with a wheeled stretcher, one with cases, sleeves pushed up. Ben was between them and Camilla before the door finished opening, the can held up like a weapon.
 
 The oldest of them, a woman with grey at her temples and hands scrubbed pink, stopped dead. She set her case on the floor, opened it and turned it so Ben could see inside.
@@ -200,7 +202,7 @@ Flitzberg went to the inner doors. They opened on a corridor, and the lights wok
 
 From the stretcher, flat on her back, Camilla got the room one last time.
 
-Gage went to Otto. He said Otto's name once and got nothing back. Then he bent, took Otto's arm across his shoulders, and lifted him, and Camilla had the strangest feeling of the world folding over on itself. She'd seen this before: months ago, at the end of the Initiation, outside the mine gates on the fourth morning, Gage walking up out of the dark with Otto across his shoulders and Ben by the collar, while the guards waited for a broken boy who never came.
+Gage went to Otto. He said Otto's name once and got nothing back. Then he bent, took Otto's arm across his shoulders, and lifted him. She'd seen this before: months ago, at the end of the Initiation, outside the mine gates on the fourth morning, Gage walking up out of the dark with Otto across his shoulders and Ben by the collar, while the guards waited for the broken boy they'd been told to expect.
 
 He was carrying Otto out again. This time Otto didn't know it.
 

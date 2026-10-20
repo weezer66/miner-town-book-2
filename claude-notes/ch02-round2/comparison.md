@@ -122,3 +122,29 @@ These are small, and the editor recommended stopping after this round.
 - The aphorisms both reviewers flagged as shared: "the map stays drawn…" and "the rooms do not get gentler."
 
 **Round 5 adopted (2026-10-20):** the author approved it. `r5-candidate.md` is now the live chapter, and the `.docx` has been regenerated and checked. The previous version is backed up as `02-before-r5.md` in the session scratchpad.
+
+# Round 6: three one-liners (2026-10-20)
+**The edits:**
+1. **After Flitzberg's "So they waited, and I came first."**, a new beat: *"\*Waited.\* While she lay on the metal with Ben's sealant still wet on her stump. Camilla added it to the count."*
+   - This is Opus's wording. "Still wet" matches the opening's sealant that "hadn't set yet."
+   - Fable's "going cold… filed it with the counting" was close.
+2. **The gates memory:** *"…while the guards waited for the broken boy they'd been told to expect."*
+3. **Cut** "and Camilla had the strangest feeling of the world folding over on itself."
+
+**Blind comparison** (A = current, B = combined):
+
+| Reviewer | A | B | Would send |
+|---|---|---|---|
+| Sonnet | 8.0 | **8.7** | B |
+| Haiku | 8 | **8.5** | B |
+
+Both reviewers preferred B on all three edits.
+
+**Both reviewers also noted (not acted on):**
+- "Swallow" appears four times in Flitzberg's lines.
+- The Absconded speech is long, at about 150 words.
+- Camilla's peak speech could break after "I can't."
+
+These are optional.
+
+**Round 6 adopted (2026-10-20):** the author approved it. `r6-candidate.md` is now the live chapter, and the `.docx` has been regenerated and checked. The previous version is backed up as `02-before-r6.md` in the session scratchpad.
