@@ -98,3 +98,34 @@ These are minor, and the review called this chapter ready to send.
 **Knock-on:** Ch21:195, *"She had sat beside that face for three days at THRESHOLD,"* needs to become "across the grid from that face." That's the fork's file; it was asked to change it once Ch1 is pushed. Ch14's "one station along" puts Daren next to Ravi's EVENT, which still works on a four-console ring.
 
 **Round 3 adopted (2026-10-20):** the author approved it. `r3-candidate.md` is now the live chapter, and the `.docx` has been regenerated and checked. The previous version is backed up as `01-before-r3.md` in the session scratchpad.
+
+# Round 4: final polish (2026-10-20)
+The review gave the chapter 7/10 from all four models, and the editor gave it 8. It asked for three fixes.
+
+**The fixes, as made by both drafters:**
+1. **Elara's reason for not calling High Command** is now *"Wait. It says* operator. *That's us. That's me. If we call up before we've even looked, the first line in my file is that I couldn't."* The wrist-catch is kept; Ch16 is the only chapter that calls back to it.
+2. **The epigraph** is now *"[Gage] looked at the silver needles… for the elite … this Initiation was just a high-stakes strategy game…"*. "In their isolated ecospheres" is cut with an ellipsis, and the rest is verbatim from Book 1.
+3. **Heart-rate variability** now comes from the station's cradle reading her pulse, not from the blood drop.
+4. **Optional, both taken:**
+   - Ravi's objection loses *"Chanakya wanted the call made at minute ten"*, which no longer had anything to refer to.
+   - *"Nobody ever watches the normal one"* replaces Ravi's two-line aphorism.
+
+**The drafts differed only in the heart-rate sentence.** Opus's version is used ("The cradle under her finger took her pulse: variability under baseline"), with "read" changed to "took" to avoid repeating "She knew how to read those."
+
+**Blind comparison** (A = combined, B = current):
+
+| Reviewer | A | B | Would send |
+|---|---|---|---|
+| Sonnet | **8.5** | 7.5 | A |
+| Haiku | **8.5** | 8.0 | A |
+
+- **Sonnet preferred A** on all five lines, with only a slight edge on the epigraph.
+- **Haiku preferred A** on three lines. It wanted B's heart-rate list item and "minute ten" back. **I didn't take either:** one is the factual error this round fixes, and Sonnet called "minute ten" nonsensical.
+
+**Not taken from the reviewers** (minor, and the editor recommends stopping here):
+- "ten minutes into her first posting" timing;
+- setting up Otto's scanner reading;
+- varying the "look and hold" beats;
+- "Nobody over twenty-one" (Elara is 19–21, so this is canon).
+
+**Round 4 adopted (2026-10-20):** the author approved it. `r4-candidate.md` is now the live chapter, and the `.docx` has been regenerated and checked. The previous version is backed up as `01-before-r4.md` in the session scratchpad.

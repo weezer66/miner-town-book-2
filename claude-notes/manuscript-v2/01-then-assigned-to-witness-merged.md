@@ -1,6 +1,6 @@
 # Chapter 1: Assigned to Witness
 
-*He looked at the silver needles on the horizon and realized that for the elite in their isolated ecospheres, this Initiation was just a high-stakes strategy game, and he, Ben, and Otto were finally on the board.*
+*[Gage] looked at the silver needles on the horizon and realized that for the elite … this Initiation was just a high-stakes strategy game, and he, Ben, and Otto were finally on the board.*
 
 — Book 1, Chapter 3: The Initiation
 
@@ -8,7 +8,7 @@
 
 The needle found the side of Elara's finger at four in the morning, and the machine started reading her before she'd decided how she felt.
 
-One drop, bright red, gone into the black glass. Cortisol above her thirty-day median. Heart-rate variability under baseline. Glucose and C-reactive protein exactly where they always sat. She knew how to read those: a body under strain. It was her first day, it was four in the morning, and something had just stabbed her.
+One drop, bright red, gone into the black glass. Cortisol above her thirty-day median. Glucose and C-reactive protein exactly where they always sat. The cradle under her finger took her pulse: variability under baseline. She knew how to read those: a body under strain. It was her first day, it was four in the morning, and something had just stabbed her.
 
 A second panel came up under the first, in a different typeface, with no units and no range.
 
@@ -76,7 +76,7 @@ Daren was already paging through the printed manual beside his station. "The rou
 
 All four of them looked at the High Command call button at once. Ravi's hand went toward it, and Elara caught his wrist.
 
-"Wait. It's our first day. If we call for help in the first ten minutes, they'll never stop supervising us. Let's at least try to classify it ourselves."
+"Wait. It says *operator*. That's us. That's me. If we call up before we've even looked, the first line in my file is that I couldn't. Let's at least try to classify it ourselves."
 
 His pulse jumped under her fingers. So did hers. Ravi looked down at her hand until she let go, and she realized, too late, that she'd just grabbed another house's representative without leave, ten minutes into her first posting, and somewhere a sensor had written it down.
 
@@ -86,7 +86,7 @@ His pulse jumped under her fingers. So did hers. Ravi looked down at her hand un
 
 Daren shrugged. Rohan nodded once. Ravi lowered his hand and rubbed the wrist where she'd held it.
 
-"Then I'm logging an objection," he said, and typed it while he spoke, no heat in it at all. "Formal. Chanakya wanted the call made at minute ten. If this goes wrong, the record should say who sat on it."
+"Then I'm logging an objection," he said, and typed it while he spoke, no heat in it at all. "Formal. If this goes wrong, the record should say who sat on it."
 
 Her terminal ticked once against her wrist. She turned it over under the console. *Conduct note: unauthorized physical contact, cross-house representative. Pending review.* She didn't open it, and it didn't go away.
 
@@ -118,7 +118,7 @@ Nobody argued. Daren had already scrolled past him.
 
 Ben's profile came next, and the data was such a relief it was almost funny. "Five feet eight. One sixty. Every value inside the reference band."
 
-"Which is why he matters," Ravi said. "Exceptions tell you where a system breaks. The baseline tells you how it runs." His hand closed over the assignment console. "I'll take Ben."
+"Which is why he matters," Ravi said. "Nobody ever watches the normal one." His hand closed over the assignment console. "I'll take Ben."
 
 "He's in band on every line," Elara said. "So why didn't it route him?"
 
