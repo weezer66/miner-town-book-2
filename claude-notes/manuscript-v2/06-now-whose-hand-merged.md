@@ -32,11 +32,11 @@ Camilla's lips moved. She was checking the dates against each other.
 
 "Greed came in," the voice said, "the way water enters a mine."
 
-He'd have written that sentence himself. Hairline cracks nobody thought worth sealing, a bent rule, a falsified inspection, drop by drop into the timbers until wood that looked whole had been rotting for years. The wall showed ledgers, columns that drifted. He found the first bad entry before the voice pointed at it, a figure that didn't carry, and his thumb pressed into his kneecap. That was where the load had shifted. Everything after it was the crack doing what cracks do.
+He'd have written that sentence himself. Hairline cracks nobody thought worth sealing, drop by drop into the timbers. The wall showed ledgers, columns that drifted. He found the first bad entry before the voice pointed at it, a figure that didn't carry, and his thumb pressed into his kneecap. That was where the load had shifted. Everything after it was the crack doing what cracks do.
 
 Ben wasn't watching the paper. Ben was watching faces. Every time a face came up on the wall, a clerk, a woman at a checkpoint, a boy with a sack, Ben's eyes went to it and stayed until it was gone, and his lips moved too, a different count from Camilla's.
 
-Six days of fighting. Smoke in corridors he almost recognized. Doors closing from both sides at once. Neutral markings torn down and something painted over them by a hand in a hurry. Gage looked at the door again. Still shut.
+Six days of fighting. Smoke in corridors he almost recognized. Neutral markings torn down and painted over. Gage looked at the door again. Still shut.
 
 Then the dead. Rows of them laid out in a transfer corridor, under sheets that ran out before the bodies did, and the voice said no house had written them down. Each of the four had published its losses: its officers by name, its warehouses to the last crate. Not one line for the people between. And one woman going down the rows in a medic's coat with the sleeves cut off at the elbow, carrying them out one at a time, not fast, arms full.
 
@@ -44,13 +44,13 @@ Then the dead. Rows of them laid out in a transfer corridor, under sheets that r
 
 Ben's count stopped. Gage saw his throat move.
 
-After that, the ring. Drawings of it going up beneath the boundary, a circle with no head and no foot, walls left bare on purpose. It would belong to no house, the voice said, so that no house could rot it. Gage felt the shape settle in his chest the way a good arch does. A ring couldn't fall to one side. There wasn't one.
+After that, the ring. A post on the boundary first, a handful of guards in long coats set to watch from outside; then a later map with the post rubbed off it. Ben's count caught on one of the coats, an old man's, and didn't let go until the wall moved on. Then drawings of the ring going up beneath the boundary, a circle with no head and no foot, walls left bare on purpose. It would belong to no house, the voice said, so that no house could rot it. Gage felt the shape settle in his chest the way a good arch does. A ring couldn't fall to one side. There wasn't one.
 
 "They called it Patal Loka," the voice said. "The world beneath the world."
 
 Camilla's head came round a fraction. Once a thing had a name, she could ask for it.
 
-The last stretch went fast. Almost a century of small things: an audit that started from a typo, a shipment late by a day, a meeting that came out the other way. Each one dressed as plain cause and effect, so the city above never knew it had been touched. Gage couldn't hold the pile of them. It was like counting the props in a deep gallery from the lift. You knew they were there because the roof was.
+The last stretch went fast. Almost a century of small things: an audit that started from a typo, a shipment late by a day. Each one dressed as plain cause and effect, so the city above never knew it had been touched.
 
 The wall went dark. The lights came up. The door was still shut.
 
@@ -70,7 +70,7 @@ Camilla's lips had parted. Gage knew the look. It was the one she'd given Pappy'
 
 "So they're paying for you," she said, "and they can't see it."
 
-"They see money leave. None of them has ever laid four sets of books side by side."
+"They see money leave. None of them has ever laid four sets of books side by side. If one did, it would find the same small leak in all four, and no one to blame for it."
 
 Ben had his hands folded, waiting his turn the way he'd been raised to. Flitzberg turned to him.
 
@@ -80,11 +80,15 @@ Ben had his hands folded, waiting his turn the way he'd been raised to. Flitzber
 
 Ben nodded once. He didn't ask anything else. His eyes went to Gage, then to Camilla, and Gage watched him count the people in the room who still had somebody at the gates. Gretchen for him, Rita for the other two. Three out of three.
 
+Then he asked one more after all. "The woman in the coat. The Chief Architect." He glanced at the dark wall. "Is that you now?"
+
+"It is the chair I sit in."
+
 "Who watches you?" Gage said.
 
 Flitzberg looked at him a while.
 
-"Three things." He held up one finger. "The Balance Review. Once a year the four Grandmasters sit with me, a different room each time, told to no one until the day. They leave their wrist instruments at the first door. A closed car, a lift with no floors marked. They arrive blind and they leave blind. They could not lead anyone to where." A second finger. "The second watch is the four of them watching each other. Any one could move against this office. The other three would know at once who had, and he would stand alone against all three." A third. "And the ledgers. A century of every correction and buried failure, for every house. If I am killed, or taken, or do not come back from a meeting, they open. To every representative of every house at once. Thousands of people, who could not all be bought." He let his hand fall. "You will notice that nothing in that answer is trust. It is fear, arranged carefully, pointing in four directions at once. I promised I would not lie to you, so I will not call it anything better."
+"Three things." He held up one finger. "The Balance Review. Once a year the four Grandmasters sit with me, a different room each time, told to no one until the day. They come alone, without escort. It is the one summons none of them may refuse. They leave their wrist instruments at the first door. A closed car, a lift with no floors marked. They arrive blind and they leave blind. They could not lead anyone to where." A second finger. "The second watch is the four of them watching each other. Any one could move against this office. The other three would know at once who had, and he would stand alone against all three." A third. "And the ledgers. A century of every correction and buried failure, for every house. If I am killed, or taken, or do not come back from a meeting, they open. To every representative of every house at once. Thousands of people, who could not all be bought." He let his hand fall. "You will notice that nothing in that answer is trust. It is fear, arranged carefully, pointing in four directions at once. I promised I would not lie to you, so I will not call it anything better."
 
 Gage turned it over. Three props, none of them good timber, each one leaning on the other two. He'd seen galleries held up like that. He'd seen what happened when somebody kicked the wrong one.
 
@@ -108,7 +112,7 @@ Flitzberg didn't answer straight away. Gage got the sense nobody had ever asked.
 
 Nobody said anything.
 
-Gage thought about flowers. He'd never seen one outside Pappy's stories. Somebody had carried them down to a miner's grave, and the man's children had probably wondered for years who'd paid.
+Gage thought about flowers. He'd never seen one outside Pappy's stories.
 
 "Two things," Gage said.
 
@@ -200,7 +204,7 @@ Camilla's breath went out of her. Gage felt it beside him more than he heard it.
 
 "Why?" Ben said. "Why now? Why us?"
 
-"Because the city above is pushing the crews toward the silver nearest the lake. Ground that kills. They have the survey, and they have priced it. And because if Miner Town rises, the city bills the neighbors. A wall that fails is maintenance. No one is punished for a fault in the rock." He paused, and Gage saw him pick the next word up and look at it before he used it. "For Sector One, it would be salvation."
+"Because the city above is pushing the crews toward the silver nearest the lake. Ground that kills. They have the survey, and they have priced it. And because if Miner Town rises, the city bills the neighbors. A wall that fails is maintenance. No one is punished for a fault in the rock." He paused, and Gage saw him pick the next word up and look at it before he used it. "For Sector One, it would be salvation." He looked at Gage. "And why you? Because you drew it first."
 
 "There's a cost," Camilla said.
 

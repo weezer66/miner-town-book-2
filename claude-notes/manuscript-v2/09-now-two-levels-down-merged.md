@@ -12,7 +12,7 @@ Camilla checked before she checked anything else. She put her good hand on it, p
 
 Then she turned round and looked.
 
-The room was long and low, and it smelled of oil that had gone still. Benches ran down both sides under grey dust sheets tucked at the corners like beds, and the cloth had settled into the shapes beneath it the way snow settles on scrap: a vice, the hump of a drill press, something tall and round that might be a lathe. A sink with a brass tap gone green at the neck. Along the far wall somebody had painted outlines, white on green, one for every tool, so a hand reaching back in the dark would know where to put a thing down, and the tools hung in them. Hammers in the hammer shapes. Wrenches by size, a staircase of them. Pliers with their jaws open the exact width of the paint. A horseshoe magnet, red paint flaking off the bend.
+The room was long and low, and it smelled of oil that had gone still. Benches ran down both sides under grey dust sheets tucked at the corners like beds, and the cloth had settled into the shapes beneath it the way snow settles on scrap: a vice, the hump of a drill press, something tall and round that might be a lathe. A sink with a brass tap gone green at the neck. Along the far wall somebody had painted outlines, white on green, one for every tool, and the tools hung in them. Wrenches by size, a staircase of them. A horseshoe magnet, red paint flaking off the bend.
 
 She counted. Sixty-one shapes. Sixty tools.
 
@@ -30,11 +30,11 @@ Four times since the briefing room. She didn't say anything. She filed it.
 
 The shelf was at the end, past the last bench, where the lamplight ran out.
 
-Books. Forty, maybe, lying on their sides because the shelf was too short to stand them. Grey cloth over board, gone brown at the corners. A number stamped low on each spine in ink that had bled into the weave. The page edges cut all at once so they lay flush, and a blue stripe painted across the top.
+Books. Forty, maybe, lying on their sides. Grey cloth over board, a number stamped low on each spine, and a blue stripe painted across the top.
 
 Camilla stopped walking.
 
-She had learned to read off those spines, on the shack floor with the boards up and Pappy's lamp turned low so Rita wouldn't see the oil going. The same grey cloth. The same bleeding stamp. The same blue stripe that came off on your thumb if you were sweating. She'd learned the word *impeller* off one, on her stomach, while Pappy pretended to sleep. She'd thought the blue was something he'd done himself, to mark which ones were his.
+She had learned to read off those spines, on the shack floor with Pappy's lamp turned low so Rita wouldn't see the oil going. The same blue stripe that came off on your thumb if you were sweating. She'd thought the blue was something he'd done himself, to mark which ones were his.
 
 She pulled one. It opened on its own to a page it had been opened to before: a pump in section, every part lettered. The paper smelled of floorboards.
 
@@ -74,11 +74,11 @@ The fingers closed on the bench, late. The web didn't move. Only, for the length
 
 "No. Each joint has its own small strength, and takes its orders." He tipped his head at the web. "That does not move. That listens. Your shoulder speaks, and this hears it and tells the hand what was said. It is the ear of the thing. The arm is only the arm."
 
-She wanted to touch it worse than she'd wanted to touch anything in her life, and didn't, because he'd said *learn*. The thing in the trough was taking notes. You don't touch a thing you can't see the whole of. Pappy had said that about the old pump, and then touched it, and lost the end of a fingernail.
+She wanted to touch it worse than she'd wanted to touch anything in her life, and didn't, because he'd said *learn*. The thing in the trough was taking notes.
 
 She followed it up to the shoulder. Under the cup it gathered and ran in, thickening into a band the width of her smallest finger, going in toward her, under the seal. And there, on the inside curve of the metal, just before the cup met the seal and became part of her, there was a mark.
 
-A circle, pressed into the metal, and inside the circle something that had once been a shape, rubbed almost flat the way a coin goes smooth in a pocket, the way the step into the shack had a dip in it from forty years of feet. She tilted her head and the lamp caught a line, maybe two, a curve going the wrong way for any letter she knew. She tried it as a number. She tried it upside down.
+A circle, pressed into the metal, and inside the circle something that had once been a shape, rubbed almost flat the way a coin goes smooth in a pocket. The lamp caught a curve going the wrong way for any letter she knew. She tried it upside down.
 
 "Who made this?"
 
@@ -114,7 +114,7 @@ He'd built it on the far bench, with his back to the room, and when she came and
 
 "Trigger's theirs." His finger came down on the split splinter and rested there. "Wall's not."
 
-Nineteen nights. She'd been counting since the briefing room; she couldn't stop. Nineteen nights, and somebody at the wall to say when, and somebody in the tunnel the water wanted first. He'd worked the run from the Hub to that junction. He'd told her once he could walk it in the dark by the props, left hand on the rock. His finger stayed on the wall. She looked at the finger, and he felt her look, and he lifted it off and put the hand flat on the bench beside the model, open, the way he'd been keeping it all day.
+Nineteen nights, and somebody in the tunnel the water wanted first. He'd worked the run from the Hub to that junction. She looked at his finger on the wall, and he felt her look, and he lifted it off and put the hand flat on the bench, open, the way he'd been keeping it all day.
 
 She laid her metal hand flat on the wood beside his, where he'd see it, and left it there until the wrist stopped lagging.
 
@@ -132,7 +132,7 @@ He swept the splinters into the box with the side of his hand and pressed the cl
 
 She found Flitzberg's rooms by the music.
 
-The door was open. The dolls began just inside it and went up to the ceiling, painted wooden figures in graduated sizes, shelf on shelf, ranged by height, each face looking at a point a little to the left of her. She'd seen them once before, half-dead, and taken them for a museum. Rested and fed and with two arms, she saw they'd been dusted. All of them. Somebody did that.
+The door was open. The dolls began just inside it and went up to the ceiling, painted wooden figures in graduated sizes, shelf on shelf, ranged by height, each face looking at a point a little to the left of her. She'd seen them once before, half-dead, and taken them for a museum. Rested and fed, and with one arm that wasn't hers, she saw they'd been dusted. All of them. Somebody did that.
 
 He was at his table with his back to her, drawing on clean white paper, and the music came from somewhere she couldn't find: strings going round and round one tune, and under them something like a slow heart.
 
@@ -176,6 +176,10 @@ He looked at the four small figures, and his manufactured calm did not change at
 
 "I keep the faces of people this office owes," he said. "It is a short collection, and it grows. I put one on when I need to be reminded what the debt looks like from the front." He touched the smallest doll with the end of his finger and didn't move it. "Your grandfather was owed a great deal. I wore him to meet you because I thought you should be met by someone we had failed. I see now that was a cruelty. I did not see it then."
 
+"You said it was to put me at ease."
+
+"That was the half I could say then."
+
 The slow heart under the strings came round again.
 
 She found the metal hand had closed at her side. She hadn't sent it. She let it stay closed.
@@ -212,7 +216,7 @@ Ben nodded.
 
 Camilla looked at the screen next to it, and the next. The basins. The queue. The washing lines between the shacks. She went along the whole bottom row and up the next, every grey woman with her arms in water and every grey woman in the line, the shape of the shoulders, the way one of them held her head, and it wasn't Rita, and the next one wasn't Rita either.
 
-The place at the end of the gate fence where Rita would have stood, a wrench held across her like a bar, was dust and a stretch of iron. Rita had stood at those gates for Thorton's shift and he hadn't come up. She had stood there for Gage, and he had. Camilla didn't know whether an empty fence meant a woman who had given up, or a woman in a shack with the lamp turned low to save the oil, keeping it burning past dark. She had never not been able to work a thing out.
+The place at the end of the gate fence where Rita would have stood was dust and a stretch of iron. Camilla didn't know whether an empty fence meant a woman who had given up, or a woman in a shack keeping the lamp burning past dark.
 
 On the screen, Gretchen shifted her weight from one foot to the other, and set it back on the worn patch.
 
@@ -224,7 +228,7 @@ Ben sat on a stool by the door. His hand was on his hip.
 
 Camilla took the horseshoe magnet off its outline. From a tin by the lathe, a needle, long, with a burr at the eye. From a drawer, the stub of a cork with a knife mark where someone had cut a slice and never come back for the rest. The dish was a shallow tin lid, grey with old oil; she wiped it on her shirt hem and filled it at the green tap, which ran brown for a count of five and then clear.
 
-She held the needle in her good fingers and stroked it down one leg of the magnet, eye to point, and lifted it clear at the end, and brought it back through the air and stroked again. Same leg. Same direction. Always lift it away; never drag it back, or you undo it. Pappy's voice, or a page with a blue stripe. She couldn't have said which. The metal hand held the magnet still in her lap, its own small strength in each finger, taking orders from an ear that lay in it like frost. Thirty. Forty. Fifty.
+She held the needle in her good fingers and stroked it down one leg of the magnet, eye to point, and lifted it clear at the end. Same leg. Same direction. Never drag it back, or you undo it. Pappy's voice, or a page with a blue stripe. The metal hand held the magnet still in her lap. Thirty. Forty. Fifty.
 
 She cut a thin round off the cork, laid the needle across it, and set the cork on the water.
 

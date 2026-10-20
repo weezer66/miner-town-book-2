@@ -54,6 +54,13 @@ A compact substitute for rereading everything. If something here conflicts with 
 - **The date:** "nineteen nights" from the briefing. The same night, it will turn out, as Daren's flood of Ashoka's doors.
 - **Roles:** Gage is the Architect and plans it (splinter models). Camilla calls it.
 
+## Shu Chan seed (planted in ch. 12 and ch. 13; paid off later)
+- In Otto's memory, Shu Chan once murmured **"Kalinga"** while holding a stance. Otto thought it was a prayer or a lost place.
+- Emperor Ashoka's statue in the Chamber of Spirits is "remembered for the war at Kalinga."
+- Vayun mentions **a student long ago who went below and never came back.**
+- **Payoff (later):** "Kalinga" was the name of Ashoka's old boundary post watching the ring. Shu Chan was its last guard, and Vayun's student.
+- **Don't explain any of this before the payoff chapter.**
+
 ## Guardrails
 - Elara is an agent, not a chosen one.
 - **Never technologize the elders.** Otto's power stays unexplained.

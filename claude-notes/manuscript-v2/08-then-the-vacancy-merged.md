@@ -93,7 +93,7 @@ Elara didn't touch it. "Thorton. His father."
 
 "So Gage could get any number."
 
-"Blind, yes. Random, no. Any number that is open when he reaches the clerk."
+"Blind, yes. Random, no. Intake processes the survivors at first bell tomorrow. Any number that is open when he reaches the clerk."
 
 "Then why bring this one to me?"
 
@@ -199,7 +199,7 @@ Kavik studied the denial. "Your authority is sufficient. It is your grammar it o
 
 "Around."
 
-"The Sākṣī path," Kavik said.
+"The Sākṣī path," Anandi said.
 
 Elara knew the name from training exercises and nowhere else. The witness path: the original Drona filing convention, under which every record wrote a mirrored copy of itself in parallel, kept apart from the hands that made the first. It had dropped out of the interface generations ago. No one had ever decommissioned it.
 

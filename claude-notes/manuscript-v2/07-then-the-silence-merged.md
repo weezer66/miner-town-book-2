@@ -12,7 +12,7 @@ She bathed. She changed. She drank the nutrient broth the room had decided she n
 
 The room dimmed on schedule. Sleep came in short drops. Her head dipped, she jerked up, and the clock on the wall had moved without her. The broth went cold and grew a skin. She pushed through another line, then another, until the letters ran together, and let her forehead come down.
 
-She woke with her cheek on the table and the tip of her nose against the paper. The packet's staple had pressed a small square into the skin under her eye. She lay there and counted what the review could take. She had weighed all of it at the console and accepted it, but a price weighed in advance has no teeth. Back to records. Below the city. A room where no one would trust her to observe anything again. Trinity had tried once to make her smaller, and she had climbed back, and Trinity rarely made the same mistake twice.
+She woke with her cheek on the table and the tip of her nose against the paper. The packet's staple had pressed a small square into the skin under her eye. She lay there and counted what the review could take. Back to records. Below the city. A room where no one would trust her to observe anything again.
 
 Her head went down again. A thread of saliva cooled on her cheek. She didn't feel it.
 
@@ -46,13 +46,13 @@ Neither of them answered. The young one's eyes went past her at last, to the ope
 
 The seal closed between them.
 
-She dressed without the full lights. Uniform. Collar. Seal. Hair pulled back until her face looked orderly again. She rehearsed the words she could use: procedural judgment, incomplete evidence, candidate safety, temporary reconciliation. Words could hold a door open for a while.
+She dressed without the full lights. Uniform. Collar. Seal. She rehearsed the words she could use: procedural judgment, incomplete evidence, candidate safety.
 
 Vishnu had never let her think of karma as a court waiting with a sentence. Karma, he said, was the shape a choice makes after it leaves the person who made it. Hers had left her at an unattended terminal in the sub-tier vaults, and it had been travelling ever since.
 
-At seven she washed her face again and fastened every clasp without looking in the mirror. The collar clasp missed. Her fingernail caught on the metal edge and bent back. She re-seated it and pulled the collar closed with a harder tug than it needed.
+At seven the collar clasp missed. Her fingernail caught on the metal edge and bent back.
 
-The hallway was familiar enough to hurt: the alcove beside the archive lift, the bench under the ventilation grille, the window that showed only filtered cloud. Then the turn into the Corridor of Knowledge, where the architecture changed without getting any grander. Drona had never needed height to announce itself. Its corridor was narrow and pale and lined with sealed glass cases: a cracked lens, a brass measuring arm, bone-handled instruments for studying the stars from before Trinity had a sky of its own. Portraits of scientists hung between shrines to the ancient sanyashis. The oldest books lay open side by side, an astronomical text beside a religious epic, a medical manual beside a field notebook on the behavior of plants, and to a casual eye the arrangement looked like nobody had finished tidying it.
+The hallway was familiar enough to hurt: the alcove beside the archive lift, the bench under the ventilation grille, the window that showed only filtered cloud. Then the turn into the Corridor of Knowledge, where the architecture changed without getting any grander. Drona had never needed height to announce itself. Its corridor was narrow and pale and lined with sealed glass cases: a cracked lens, a brass measuring arm, bone-handled instruments for studying the stars. Portraits of scientists hung between shrines to the ancient sanyashis. The oldest books lay open side by side, an astronomical text beside a religious epic.
 
 She stopped at the brass arm.
 
@@ -60,7 +60,7 @@ Its hinge was worn bright where a dead man's thumb had worked it, and one thumbs
 
 She walked on. Every preserved object along the glass seemed to ask her the same thing without speaking. *What did you do with what you knew?*
 
-The corridor narrowed before it ended and opened into the conference wing, where the rooms still kept the shape of the gurukul. In one, young researchers stood around a suspended river model while an elder asked them questions and gave them no answers. In the next, two students were restoring a damaged painting, and their mentor guided the angle of a brush with two fingers laid on the back of a hand, and said nothing at all. Truth was being made the slow way in every room. Elara had made hers in one minute, alone.
+The corridor narrowed before it ended and opened into the conference wing, where the rooms still kept the shape of the gurukul. In one, two students were restoring a damaged painting, and their mentor guided the angle of a brush with two fingers laid on the back of a hand, and said nothing at all. Truth was being made the slow way in every room. Elara had made hers in one minute, alone.
 
 The conference room waited at the end of the wing behind a door of clear glass, the committee's shapes already seated on the other side.
 
@@ -68,11 +68,11 @@ She stepped in, and relief hit her so hard her shoulders dropped. Two of the fac
 
 Then the room widened beyond them.
 
-Three strangers sat nearest the center of the table. The first wore a long plain robe of saffron and ash, a strange choice in a house that had always insisted learning must not be governed by doctrine. His right wrist rested on the wood, and the cuff of his sleeve was threaded with seven small stones in a narrow line. Elara remembered the old Vedic syllabi. Four for the four Vedas. Three for the teachings that carried interpretation, silence, and living transmission. He wore his discipline where a record would have carried it.
+Three strangers sat nearest the center of the table. The first wore a long plain robe of saffron and ash, a strange choice in a house that had always insisted learning must not be governed by doctrine. His right wrist rested on the wood, and the cuff of his sleeve was threaded with seven small stones in a narrow line. Four for the Vedas, Elara remembered, three for interpretation, silence and living transmission.
 
 Beside him, a woman held a deck of cards older than manufacture, thick and hand-beveled, one corner mended with a single stitch of thread. She shuffled them out of habit, without ceremony, the way someone else might handle a measuring rod.
 
-The last sat at the far end of the table. A plain grey shawl, darned once at the shoulder in thread a shade too dark, over a cotton tunic, a face lined with the patience of years, and no mark of lineage or office anywhere on her. It was hard to look away from her eyes. They held a steadiness older than the room, the look of someone who had watched a great many people until there was nothing left in them to perform. She needed no robe and no title. Her stillness did the work a title does, and did it better.
+The last sat at the far end of the table. A plain grey shawl, darned once at the shoulder in thread a shade too dark, over a cotton tunic, a face lined with the patience of years, and no mark of lineage or office anywhere on her. It was hard to look away from her eyes. They held a steadiness older than the room, the look of someone who had watched a great many people until there was nothing left in them to perform.
 
 Elara took the nearest chair before the table could decide whether she was meant to stand. She drew breath to begin.
 
@@ -92,7 +92,7 @@ She inclined her head toward Kavik, and he translated without any change in his 
 
 "Monitor Nathan, you may now speak. Furthermore, let only those questions that have been devised by us be taken up by you — not ones devised by your own self."
 
-The meaning had stirred in Elara before Kavik reached it, somewhere at the back of her mind where her father's voice still recited, familiar and impossible to hold. Anandi had warned her in her first year at the Academy. "Just when you think you have seen it all," Anandi had said, "life will throw you a surprise and remind you that you still have a very long way to go." Elara had laughed. Her throat was too raw to laugh now.
+The meaning had stirred in Elara before Kavik reached it, somewhere at the back of her mind where her father's voice still recited, familiar and impossible to hold.
 
 "प्रवृत्तेः पूर्वम्," the elder said. "अद्य अस्यां सभायाम् उपविष्टेभ्यः आचार्येभ्यः उचितम् आदरं दर्शयत। आचार्याः एकैकशः स्वपरिचयं कुर्वन्तु।"
 
@@ -132,8 +132,6 @@ A warrior beneath a ruined sky, his weapon lowered but not surrendered. *Ashwatt
 
 "Conflict that cannot be ended," Draṣṭā said. "He loosed a weapon after the war was decided, and was cursed to survive without relief. He is also the son of Drona. You have chosen a son, while his father's house now stands by you."
 
-Somewhere below, three boys were walking into the consequences of a trial every record called finished.
-
 "The last."
 
 A severed head rose against a darkened sun, its mouth open on the light. *Rahu.*
@@ -158,7 +156,7 @@ Sarvajña watched her hold on. "The scales have held for generations because eve
 
 Daren's chair at THRESHOLD. His pen tapping twice on the printed manual. Elara's thumb went to the raw hangnail on her left hand and pressed until it stung.
 
-"Kubera does not record its humiliations as accidents. What is coming will not arrive as a single act we can measure. You will stand at the center of it, Elara, when the consequences of these days begin to unfold." He sat back. "That is why we are here. Drona stands behind you. Your mentors will be your shadows from today, no matter what follows."
+"Kubera does not record its humiliations as accidents. You will stand at the center of it, Elara, when the consequences of these days begin to unfold." He sat back. "That is why we are here. Drona stands behind you. Your mentors will be your shadows from today, no matter what follows."
 
 Anandi didn't look away from her. Kavik capped his pen.
 
