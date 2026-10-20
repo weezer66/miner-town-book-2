@@ -97,3 +97,28 @@ These are small, and the editor recommended stopping after this round.
 - **Not taken:** Haiku preferred the old wording of three of the small lines. Your editor asked for those changes, so I kept them.
 
 **Round 4 adopted (2026-10-20):** the author approved it. `r4-candidate.md` is now the live chapter, and the `.docx` has been regenerated and checked. The previous version is backed up as `02-before-r4.md` in the session scratchpad.
+
+# Round 5: five small edits (2026-10-20)
+**The edits, as both drafts made them:**
+- Camilla's last condition is now *"And if he doesn't, I stop telling Gage to stop."*
+- "The rest tomorrow." is cut.
+- Otto's problem is now *"He can't eat. He can't drink unless somebody makes him. If we carry him home, Ma can't do that for long."* The old "keep him breathing" line contradicted the medic.
+- *"You can't carry him home."*
+- Ben says *"She'll think I ran."*
+
+**The two drafts differed in two lines:**
+- **Opus's placement of Otto's lines.** The "if we carry him home" condition comes before "Ma can't".
+- **Fable's Flitzberg reply:** *"She will. Until you tell her otherwise."* It points back to his offer of a story.
+
+**Blind comparison** (A = combined, B = current):
+
+| Reviewer | A | B | Would send |
+|---|---|---|---|
+| Sonnet | **8.5** | 7 | A |
+| Haiku | **8** | 7.5 | A |
+
+**Not taken:**
+- Haiku's marginal preference for "You can't carry him" and "we walk." Your editor asked for both changes, and Sonnet preferred the new versions.
+- The aphorisms both reviewers flagged as shared: "the map stays drawn…" and "the rooms do not get gentler."
+
+**Round 5 adopted (2026-10-20):** the author approved it. `r5-candidate.md` is now the live chapter, and the `.docx` has been regenerated and checked. The previous version is backed up as `02-before-r5.md` in the session scratchpad.

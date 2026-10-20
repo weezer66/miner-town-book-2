@@ -68,7 +68,7 @@ Flitzberg didn't rub his throat. He left the marks where they could see them.
 
 "Then answer," Gage said. "Why? What did we ever do to you?"
 
-"Nothing." Flitzberg's voice came out scraped. "You were not —" He stopped, and swallowed, and it cost him. "You were not punished. You were chosen. I know those look the same from where you stand." He swallowed again, and waited for his voice. "At your Initiation the city could not decide whose you were. Three names, no house. No one answerable for whether you came back up. I watched it fail to decide, and I decided." His eyes went to Camilla on the floor. "The rest tomorrow. Your sister needs more than a spray can. Then you can hate me properly."
+"Nothing." Flitzberg's voice came out scraped. "You were not —" He stopped, and swallowed, and it cost him. "You were not punished. You were chosen. I know those look the same from where you stand." He swallowed again, and waited for his voice. "At your Initiation the city could not decide whose you were. Three names, no house. No one answerable for whether you came back up. I watched it fail to decide, and I decided." His eyes went to Camilla on the floor. "Your sister needs more than a spray can. Then you can hate me properly."
 
 He raised one hand where they could all see it and beckoned at the glass. "If a stranger had reached her before I did, you would have broken him. So they waited, and I came first."
 
@@ -152,9 +152,9 @@ Ben's head came up. "Gretchen's at the gates. She'll be there tomorrow. She'll b
 
 "I cannot send word up. Nothing goes up that the ground could read." Flitzberg looked away from them, at the glass. He hadn't done that yet. "I am sorry. That is not a thing I can fix tonight."
 
-Ben laughed, once, wet and ugly. "So she stands there four days, and then they write it down, and she stands there anyway." He wiped his face with his wrist. "There's no counter in Miner Town where you line up and ask for your freedom back."
+Ben laughed, once, wet and ugly. "So she stands there four days, and then they write it down, and she stands there anyway." He wiped his face with his wrist. "She'll think I ran."
 
-"No," Flitzberg said. "There is not."
+"She will," Flitzberg said. "Until you tell her otherwise."
 
 Gage's hands had closed. Camilla watched them close.
 
@@ -174,15 +174,15 @@ Ben tried to stand. He got one foot under himself and swayed, and put a hand dow
 
 "I'll come back for him."
 
-"All the way up, and through the gates, and back down. With me on you, and him at the top with nobody." She made herself say the rest. "Gage. I counted him. I've been counting all of you since I opened my eyes, and every time I get to him I get nothing back. He's breathing and he isn't there, and I've been lying here not saying it. If we carry him home, nobody up there can keep him breathing. Ma can't. I can't. He stays where the machines are, or he dies in a shack with his eyes open, and I'll be the one who counted that."
+"All the way up, and through the gates, and back down. With me on you, and him at the top with nobody." She made herself say the rest. "Gage. I counted him. I've been counting all of you since I opened my eyes, and every time I get to him I get nothing back. He's breathing and he isn't there, and I've been lying here not saying it. He can't eat. He can't drink unless somebody makes him. If we carry him home, Ma can't do that for long. I can't. He stays where the machines are, or he dies in a shack with his eyes open, and I'll be the one who counted that."
 
 Gage had stopped moving. She felt the stop go through him.
 
-"You can carry me," she said. "You're already doing it. You can't carry him."
+"You can carry me," she said. "You're already doing it. You can't carry him home."
 
 Ben made a sound on the floor. Flitzberg stood where he was and said nothing, and his hands stayed at his sides.
 
-"We stay," she said. "Tonight. He talks tomorrow, all of it. And if he doesn't, we walk."
+"We stay," she said. "Tonight. He talks tomorrow, all of it. And if he doesn't, I stop telling Gage to stop."
 
 Gage looked at her for a long time. Then he laid her back down on the floor, and his hands came open, slowly, and he stayed on his knee beside her.
 
