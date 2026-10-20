@@ -208,7 +208,7 @@ Neither of them moved for a long time. Then Rohan let out a breath she hadn't he
 
 "It was Daren," she said, low.
 
-He turned his head. He'd sat in that watch too, at CORRECTION, across the grid from Kubera's gold.
+He turned his head. He'd sat in that watch too, at CORRECTION, a station round from Kubera's gold.
 
 "Daren isn't on any roll in this city," he said. "Not Kubera's. Not anyone's."
 
