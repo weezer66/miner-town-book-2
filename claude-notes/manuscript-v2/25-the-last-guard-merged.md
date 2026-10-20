@@ -6,11 +6,9 @@
 
 ## Now: The last guard
 
-Ben had come home from the city with graphite ground into both knees and a question he delivered from the end of Otto's bed, like a boy reading off a ration slip. The commander up there wanted to know if the old man in the shed had a name.
+Ben had come home from the city with graphite ground into both knees and a message, delivered from the end of Otto's bed like a boy reading off a ration slip. He'd told the commander up there the old man's name, Chan, and the rest: a back-row shed, the breath, a butterfly nobody could explain. The commander hadn't said anything for so long that Ben had started counting the lamps. Then he'd asked if he could meet Otto.
 
-Ben had told him. Chan. A back-row shed, the breath, a butterfly nobody could explain. The commander hadn't said anything for so long that Ben had started counting the lamps. Then he'd asked if he could meet Otto.
-
-Flitzberg allowed it once. He said so at the foot of the bed with his hands folded: the same cover as Ben, the same wrist, home before the lamps came up. The grey-haired medic said that a body three days out of the tank was not a body that climbed stairs.
+Flitzberg allowed it once. He said so at the foot of the bed with his hands folded: the same cover as Ben, the same wrist, home before the lamps came up. The grey-haired medic said that a body nine days out of the tank was not a body that climbed stairs.
 
 "It's the only one I've got," Otto said.
 
@@ -34,7 +32,7 @@ Nothing up here was dripping.
 
 He held the rail until the doors opened.
 
-The man waiting on the landing was built for doorways, though nobody was Gage big. Red-black uniform. A pale scar along the jaw. A split knuckle on the right hand, the glue over it cracked and glued again. Otto did what he'd done to every big man since he was six: found the weight. It sat on the balls of the feet, even standing still, and when the man breathed in, something under the right ribs caught, the smallest hitch, and he let it catch without moving his face. *Low on the right, then. If it came to that.* It wasn't going to come to that. Otto filed it anyway.
+The man waiting on the landing was built for doorways, though nobody was Gage big. Red-black uniform. A pale scar along the jaw. A split knuckle on the right hand, the glue over it cracked and glued again. Otto did what he'd done to every big man since he was six: found the weight. It sat on the balls of the feet, even standing still, and when the man breathed in, something under the right ribs caught, the smallest hitch, and he rode it out with nothing in his face. *Low on the right, then. If it came to that.* It wasn't going to come to that. Otto filed it anyway.
 
 The man was doing the same back. His eyes went to Otto's feet, Otto's hands, Otto's shoulders, and came back up to his face with nothing in them, a man who'd gone to a shelf and found it empty.
 
@@ -70,25 +68,25 @@ Otto smelled the tea before he saw the man. Something that wasn't tea: wet iron 
 
 The lamp at the far end sat beside a cushion, and on the cushion sat an old man drinking tea.
 
-He didn't stand. Otto hadn't expected him to. He was older than the shed, worn down to what wouldn't wear: white hair to his shoulders, a narrow face with the skin drawn tight over the bones, an ivory kimono with no crest on it. At his waist, a belt that had once been black and had rubbed back, thread by thread, to almost white. A plate beside him held two honey sweets and the sticky ghost of a third.
+He didn't stand. Otto hadn't expected him to. He was older than the shed, and cleaner: white hair to his shoulders, and at his waist a belt rubbed almost back to white, pale as a shovel handle where the hands live. A plate beside him held two honey sweets and the sticky ghost of a third.
 
 The old man looked at him.
 
 He started at the feet, then the knees, then the hands, without hurry, a man reading a gauge he didn't trust. The old man in the shed had looked at him like that the day he'd limped in with five stitches in his scalp, past the boy to whatever lay underneath, in case there was a floor down there worth standing on.
 
-"Master Vayun," Rohan said. "This is Otto Baxter."
+"Master Vayun," Rohan said. "This is Otto."
 
 "Sit or stand," Vayun said. "Whichever your legs prefer."
 
 "They'd prefer to sit. I'll stand."
 
-The old man's mouth moved by less than a smile.
+The old man nearly smiled.
 
 "I do not want to see what you can do," he said. "I am told it is a great deal, and I am too old to be impressed by a great deal. Horse stance, please."
 
 Otto stepped onto the mat. It gave under his heels.
 
-He set his feet wide. He let the weight go down. His thighs remembered the shape before he did, and then complained about it, a long hot tremble from the hip to the knee, three days out of a tank and weeks in one, and for a while all he could do was hold it and shake. He didn't try to stop the shaking. Master Chan had never let him try. *You do not stop it. You go under it.*
+He set his feet wide. He let the weight go down. His thighs remembered the shape before he did, and then complained about it, a long hot tremble from the hip to the knee, nine days out of a tank and weeks in one, and for a while all he could do was hold it and shake. He didn't try to stop the shaking. Master Chan had never let him try. *You do not stop it. You go under it.*
 
 So he went under it.
 
@@ -138,8 +136,6 @@ Otto stood up. His legs hadn't been asked whether they wanted to, and they let h
 
 "Then you will see him on the way out." Vayun drank. "Kalinga. The post, not the war. The war has the books. The post had a door and a kettle and a log that no one above it read."
 
-Otto thought of the film Ben had told him about: guards in long coats on a boundary, and Ben's count catching on one old man's coat.
-
 "Years later the house dissolved it," Vayun said. "There was nothing to watch, they said, and a post that watches nothing is a cost. It was taken off the maps. Its guards were called up and given other work." He set the cup down, steadier this time. "The last guard was my student. When the post was struck he came to me and said that a thing sealed is a thing someone must stand outside of, or the seal means nothing. Then he went below, and he did not come up."
 
 "He stayed," Otto said.
@@ -178,7 +174,7 @@ The old man closed his eyes. He kept them closed long enough that Rohan shifted 
 
 When Vayun opened them, he looked at Otto's wrist.
 
-Otto looked too. Around the strap of the terminal, at the edge of his skin where it met the lamplight, there was the faintest blue. A shimmer, like heat off a slag heap at noon. He hadn't called it up. It was there like his pulse was there.
+Otto looked too. Around the strap of the terminal, at the edge of his skin where it met the lamplight, there was the faintest blue. A shimmer, the one he'd watched at an old man's knee. He hadn't called it up. It was there like his pulse was there.
 
 Vayun didn't ask what it was. He didn't say what it was. He looked at it the way Otto had seen old women in Miner Town look at a name on a gate list, a name they had stopped expecting.
 
@@ -188,7 +184,7 @@ That was all he said about it.
 
 At the edge of the mat, Rohan had come a step forward without seeming to notice. He stood with his split knuckle white, looking from the old man to the miner boy and back, putting it together piece by piece on a table in his head.
 
-"We teach his forms in every hall in this house, every morning," Rohan said. "The house thinks the rest of it ended."
+"We teach the forms in every hall in this house, every morning," Rohan said. "The house thinks the breath ended."
 
 "The house," said Vayun, "is often wrong about endings."
 
@@ -202,7 +198,7 @@ He didn't know how else to put it, and Vayun didn't make him.
 
 "And you fought."
 
-"I fought. One finger. He said the hand was mine. So is the rest."
+"I fought. One finger." He thought about it. "The hand was mine. So's the rest."
 
 "And?"
 
@@ -234,7 +230,7 @@ Otto thought about the stones, and the floor of the stillness, which he'd found 
 
 It went into Otto like cold water. He knew that line. He'd been handed that line in a shed that smelled of rust and not-tea, by an old man with a lifted toe, on a night he'd wanted to hit a chair. He'd thought it was Master Chan's own. Master Chan had been handed it too. It had come down a stair and through a door and across a boundary nobody watched anymore, and here was the other end of it, drinking tea on a cushion.
 
-Vayun put a hand on his knee and rose. It took two movements: the hand, then the rest. He walked onto the mat in his bare feet, no faster than he'd have walked to a window, and stopped in front of Otto at arm's length.
+Vayun came up slowly, one hand on his knee. He walked onto the mat in his bare feet, no faster than he'd have walked to a window, and stopped in front of Otto at arm's length.
 
 Otto didn't get into a stance. Nobody had told him to.
 
@@ -248,7 +244,7 @@ Vayun lowered his hand.
 
 He nodded, once.
 
-Then he turned and walked back to his cushion and sat, the same two movements in reverse, and picked up his cup. It was cold by now. He drank it anyway. His hand was steady.
+Then he turned and walked back to his cushion and sat, as slowly as he'd risen, and picked up his cup. It was cold by now. He drank it anyway. His hand was steady. He filled a second cup to the brim and set it at the edge of the mat, and said nothing about it.
 
 "Rohan," he said, without looking up. "Take him home before his legs decide for him."
 
@@ -266,7 +262,7 @@ They went the long way, past the emperor with the sword lying flat across his pa
 
 The lift went down through the cloud, and the gold went out of the window, and then it was the grey side again, low and close, the sky he knew.
 
-Four nights left of the nineteen. He'd made Camilla tell him all of it, the valves and the wall and the ten minutes, and she had, with her metal hand flat on his blanket so it wouldn't fidget. He counted the four on his fingers going down the last stair.
+Two nights left of the nineteen. He'd made Camilla tell him all of it, the valves and the wall and the ten minutes. Not the tunnel. He'd watched her leave it out. She'd told it with her metal hand flat on his blanket so it wouldn't fidget. He counted the two on his fingers going down the last stair.
 
 Gage was at the bottom, sitting on the lowest step with his elbows on his knees and both hands hanging open between them.
 

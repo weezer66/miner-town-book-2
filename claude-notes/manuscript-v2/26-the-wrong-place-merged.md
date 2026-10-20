@@ -6,7 +6,7 @@
 
 ## Now: The wrong place
 
-The tower's overnight digest came in at the fourth bell, as it did every morning: the whole night of the building pressed into a few hundred grey lines that nobody was meant to read to the end.
+The morning after the corridor, the tower's overnight digest came in at the fourth bell, as it did every morning: the whole night of the building pressed into a few hundred grey lines that nobody was meant to read to the end.
 
 Daren read it to the end. He sat on the edge of the narrow bed in the unlisted room, under the dark display he had never switched on, with the glass pane balanced on his left knee. Lift holds on the sixth level. A coolant alarm on the ninth, cleared by itself. A cleaning drone on the fourth reporting a fault in its own bent bristle, which it had reported every night for a month and which no one had come to fix. He'd started to wait for that line.
 
@@ -34,7 +34,7 @@ He closed the notebook and held it shut with both hands.
 
 ---
 
-He went up before anyone could send for him.
+He went up the next morning, before anyone could send for him.
 
 The summit room was lit for late morning, the lamps tuned to a pale, clean gold that made the cloud below the window look like milk. The Master of the Reserve sat at the side table with his rings already off. They lay in their row on the lacquer, in the dull crescent of scratches they had worn there, each band a seal, each seal a channel, all of them closed. In front of him on a white plate sat a pear, and he was peeling it with a small silver knife in one unbroken strip.
 
@@ -42,7 +42,7 @@ He didn't look up. "You read the digest."
 
 "Yes."
 
-"So did I." The strip of peel lengthened and turned under his thumb. "The Ancient One called on me last night. She has asked for the table to sit out of season. She tells me she has a witness, and a pattern. I told her I would come without escort." He turned the pear a quarter round. "She sounded pleased with herself. She has not been pleased with herself in thirty years. It was good to hear."
+"So did I." The strip of peel lengthened and turned under his thumb. "The Ancient One called on me yesterday. She has asked for the table to sit out of season. She tells me she has a witness, and a pattern. I told her I would come without escort." He turned the pear a quarter round. "She sounded pleased with herself. She has not been pleased with herself in thirty years. It was good to hear."
 
 Daren stood where he had stood the night of the Annex, on the same square of floor. His right hand hung at his side. He kept it open.
 
@@ -74,7 +74,7 @@ It came too fast. It came before Daren had finished the last word, the way the b
 
 His right hand came to rest on the table's edge, the cuff fallen back from it.
 
-Daren had looked at that hand for eleven years without seeing it. The wrist above it was thin and spotted at the knuckle-end, the skin loose with age.
+Daren had looked at that hand since he was nine without seeing it. The wrist above it was thin and spotted at the knuckle-end, the skin loose with age.
 
 Across it, faded almost to the color of the rest, ran a pale band where nothing had lain in the sun. On its inner edge was a ridge, small and old and flattened by decades.
 

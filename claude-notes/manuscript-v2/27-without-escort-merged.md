@@ -52,7 +52,7 @@ He'd put on the clothes he'd come down in, washed so often here that the coal ha
 
 The door opened before she could tell him it wasn't enough, and Otto came in.
 
-He walked in on his own legs, a week out of the tank, one hand on the doorframe and then off it, and the grey-haired medic came in a step behind him with her face set in a line that said she'd lost an argument and was writing it down.
+He walked in on his own legs, eleven days out of the tank, one hand on the doorframe and then off it, and the grey-haired medic came in a step behind him with her face set in a line that said she'd lost an argument and was writing it down.
 
 "He will not go to the mine," the medic said, to the room. "I have told him the mine is out of the question. He agrees with me."
 

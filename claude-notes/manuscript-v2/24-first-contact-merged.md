@@ -24,13 +24,13 @@ She found Flitzberg's rooms by the music. Today it was one instrument, something
 
 The dolls looked a little to the left of them as they came in.
 
-A grey folder lay on his table, square to the edge, its corners gone soft as cloth.
+A grey folder lay on his table, square to the edge, its corners worn round.
 
 "Sit, if you like. Gage will not; I have stopped asking." Ben took the stool by the door and turned it a quarter, so he could see the corridor. "A thing to tell you and a thing to ask. Under our pact the telling comes first."
 
 "Go on."
 
-"Two of the four Grandmasters have asked the table to sit out of season. In the life of anyone now living, that has happened never." He said it in the voice he used for reading gauges. "The first believes something is moving in her tower. The second, Ashoka's, has brought a matter. Someone in that house has laid four houses' public books side by side, on a floor, by hand, and found the same small leak in all four."
+"One of the four Grandmasters has asked the table to sit out of season. In the life of anyone now living, that has happened never." He said it in the voice he used for reading gauges. "She believes something is moving in her tower. Ashoka's will bring a matter to it. Someone in that house has laid four houses' public books side by side, on a floor, by hand, and found the same small leak in all four."
 
 Ben's stool creaked. Gage, standing by the shelves with his hands open at his sides, didn't move at all.
 
@@ -44,6 +44,8 @@ Ben's stool creaked. Gage, standing by the shelves with his hands open at his si
 
 "From Drona," Flitzberg said, because she had asked, and he had promised. "The part that listens was built for an instrument the four houses sealed away a century ago. This office copied it, the way it copies what it needs, and Drona's books show Drona buying for itself." He held her eyes. "I have never told anyone that. No one asked."
 
+The metal fingers on her knee closed, late, and she let them. "And the forty days," she said.
+
 "Every forty days, since the charter was signed. The sum has not changed because this office has not grown. It was built not to." He laid one hand flat on the folder. "Now one woman with a pencil has looked, and her Grandmaster will carry it to the table, and I will be asked to answer it."
 
 "Before our night, or after?" Gage said.
@@ -52,21 +54,21 @@ Ben's stool creaked. Gage, standing by the shelves with his hands open at his si
 
 "You want him to steer her off us," Camilla said.
 
-"No. She is not hunting this office. She is hunting a hand that moves through all four houses, the same hand that put a number on your brother. She stopped at us because we were lying across her road." His fingers stayed flat on the folder. "I would like her to look past us to what she came for. And I would like to know what this office looks like from her floor. I have only ever seen it from mine."
+"No. What she hunts is a hand that moves through all four houses, the same hand, I think, that put a number on your brother. She stopped at us because we were lying across her road." His fingers stayed flat on the folder. "I would like her to look past us to what she came for. And I would like to know what this office looks like from her floor. I have only ever seen it from mine."
 
 Ben had gone very still. His right hand had found his hip.
 
 Inside the folder were sheets of thin ruled paper, filled edge to edge in a small upright hand that leaned nowhere. Camilla saw, upside down, the word *Plan* at the head of one, and under it a number that wasn't a name.
 
-"These were written in the trial rooms by an examiner called Sef, who had been writing them for thirty years and who does not, as a rule, use adjectives." He read without raising his voice. "*Fear present in all four. Reasoning continuous in all four. The girl thinks in exits, the gentle one thinks in patterns, and they listen to each other without ranking.*"
+"These were written in the trial rooms by an examiner called Sef." He read without raising his voice. "*Fear present in all four. Reasoning continuous in all four. The girl thinks in exits, the gentle one thinks in patterns, and they listen to each other without ranking.*"
 
 The plucked thing failed its run of notes again and began it over.
 
-"Under *Control*: *The strong one spent his strength making the others stronger.*" He closed the folder. "She asked me, that night, for an assessment. *Unlikely heroes,* I told her. *Possible.* She wrote it down. She writes everything down." He looked at Ben. "Ashoka's copyist does too. You will like her, I think. She will not like you for several hours."
+"Under *Control*: *The strong one spent his strength making the others stronger.*" He closed the folder. "Sef asked me, that night, for an assessment. *Unlikely heroes,* I told her. *Possible.* Sef wrote it down. Sef writes everything down." He looked at Ben. "Ashoka's copyist does too. You will like her, I think. She will not like you for several hours."
 
 "He's the shift," Gage said.
 
-Four words. His hands had come up off his sides and stayed open, showing Flitzberg they were empty.
+Three words. His hands had come up off his sides and stayed open, showing Flitzberg they were empty.
 
 "He is."
 
@@ -78,11 +80,11 @@ Four words. His hands had come up off his sides and stayed open, showing Flitzbe
 
 Ben's hand pressed flat over the pocket that wasn't there. He was looking at the join in the floor plates between his boots, and Camilla knew the look; he'd worn it kneeling over her shoulder with a spray can, reading what the wound needed before he let himself feel anything about it.
 
-"I'm scared of it," he said. "Up there. All that light, and everyone's wrist talking. I'm scared I'll look at the wrong thing and someone'll see me looking." He lifted his head. "And I'm scared of what I'll do with a wall of somebody else's paper in front of me, because I'll be good at it, and I'll like it. Same as the screens." He breathed in. "I want to go anyway. That's the truth, so I'm saying it."
+"I'm scared of it," he said. "Up there. All that light, and everyone's wrist talking. I'm scared I'll look at the wrong thing and someone'll see me looking." He lifted his head. "And I'm scared of what I'll do with a wall of somebody else's paper in front of me, because I'll be good at it. Same as the screens. And up there I might start to like it." He breathed in. "I want to go anyway. That's the truth, so I'm saying it."
 
 Gage looked at him for a long time, and then he looked at her. They all did.
 
-She thought about the bench two levels down, and the box with the ear in it that she'd built to listen to the Lake Wall. Yesterday it had heard the engineer's hammer through the workshop partition, three blows and a pause, clean; it still couldn't tell rock from anything else. Closer than it had been. Not proven.
+She thought about the box on her bench, which still couldn't tell rock from footsteps.
 
 "How long," she said.
 
@@ -96,7 +98,7 @@ She thought about the bench two levels down, and the box with the ear in it that
 
 Gage's hands went back to his sides. He didn't close them.
 
-"Three terms," Flitzberg said to Ben, "and they are mine, not the office's. You will not name this ring, to anyone, under anything. You will not lie to them. If a lie is the only thing between you and a floor, you tell it, and you tell me afterward; that is the one door I leave open, and I am telling you plainly so you will know where it is." He stood. "And you will come home. The count is Gage's reason. Mine is that you are owed one."
+"Three terms," Flitzberg said to Ben, "and they are mine, not the office's. You will not name this ring, to anyone, under anything. You will not lie to them. If a lie is the only thing between you and harm, you tell it, and you tell me afterward; that is the one door I leave open, and I am telling you plainly so you will know where it is." He stood. "And you will come home. The count is Gage's reason. Mine is that you are owed one."
 
 "Right," Ben said. His voice had gone thin, and he cleared it. "Right."
 
@@ -116,15 +118,15 @@ People went past him. Nobody looked, because nothing on their wrists had told th
 
 He thought of the gates. He couldn't help it. Somewhere under his boots, under the rock and the cloud and the sixty-odd floors, Gretchen was standing on a worn patch of dirt with a scarf over her hair, and he was up here where nobody coughed, and the two facts wouldn't sit in the same chest. He put his hand on his hip.
 
-Nothing there. There hadn't been anything there since a room full of orange light, and his hand went anyway. The habit was all that was left of the compass.
+Nothing there. There hadn't been anything there since a room full of orange light, and his hand went anyway.
 
 ---
 
-Ashoka was red-black and quieter, and its stone was old. He went down three flights worn hollow in the middle by feet, and at the bottom there was a door with *dead room* on it in plain white paint, and a man in front of it.
+A maglev took him across the open dark to Trinity-3. Ashoka was red-black and quieter, and its stone was old. He went down three flights worn hollow in the middle by feet, and at the bottom there was a door with *dead room* on it in plain white paint, and a man in front of it.
 
 Twenty-one, maybe. Red-black, no insignia. A scar along the jaw, old and pale. The knuckles of the right hand split and glued and split again; knuckles went like that when they met bone a lot. He stood as nobody in Miner Town stood, settled, as if the floor had asked him and he'd agreed to it.
 
-"You're the runner."
+"She said they'd send someone who reads patterns."
 
 "I'm the runner."
 
@@ -154,9 +156,9 @@ The man in the corner looked at him. Nothing in the face moved. But the eyes, wh
 
 "Four," Ben said.
 
-Rohan looked at the corner, and at Ben, and something along the scar tightened and let go.
+Rohan looked at the corner, and at Ben, and his jaw shifted once.
 
-"Kaan. He'll give you his hand after. He doesn't give it before." Rohan looked at Ben a moment longer. "How did you see him?"
+"Kaan. He'll give you his hand after. He doesn't give it before." Rohan held Ben's eyes. "How did you see him?"
 
 "My friend Otto stands like that," Ben said. "An old man in a shed taught him. You stop seeing him, and then you do."
 
@@ -174,13 +176,9 @@ She let him reach the bottom of the page. "Again. Across. Same date, all four. I
 
 He could. He did it on his knees, hands on his thighs so they wouldn't touch her paper, and the columns stopped being columns and became one thing with a grain in it, and he followed the grain.
 
-Forty days. Bearings, filters, dressings, paper. He followed it year by year toward the door, and somewhere in the fourth year his eye caught on nothing, and went back.
+Forty days. Bearings, filters, dressings, paper. He followed it year by year toward the door, and somewhere in the fourth year his eye caught on something, and stopped, and he made it go on. It went on a beat too late.
 
-Forty, forty, forty, and then forty-seven. All four houses. Then forty again. Third year: forty-seven, a different week. Second. First. One week in every year the line came late, and the late week moved.
-
-He knew why.
-
-He knew it as he knew when the turbine man's kid was sick: the shape of it was in him before the words were. Once a year four people were taken to sit before a thing none of them could find, and for a week the thing bought nothing, because for a week its door was being watched. He didn't know when the table sat. He didn't know how the buying was done, or by whose hand. He knew whose cellar the paper was in. He'd eaten off a tin plate in it last night.
+He knew why. He knew whose cellar the paper was in. He'd eaten off a tin plate in it last night.
 
 Nayan was looking at him. She'd been looking for a while.
 
@@ -188,15 +186,7 @@ Nayan was looking at him. She'd been looking for a while.
 
 "I'm reading."
 
-"No. You were reading. Then you stopped reading and started knowing something." She said it in the voice she'd used for *walk on the gaps*. "What is it?"
-
-He put his finger a hair above the fourth-year sheet, not on it.
-
-"It's late here. Forty-seven, not forty. All four." He moved down the floor to the third year, the second. "Here. Here. Once a year, a week late, and never the same week."
-
-She came down the column on her knees, fast. He watched six years of copying rearrange themselves behind her eyes.
-
-"I read down," she said. "I've only ever read down. What's it waiting for? The late week."
+"No. You were reading. Then you stopped." She came down the column on her knees to where his eyes had been, and read it herself, and then read across. "Forty-seven," she said. "Not forty. All four." She went down a year, and another, fast. "Here. Here. Once a year, a week late, and never the same week." She sat back on her heels. "I read down. I've only ever read down. What's it waiting for?"
 
 He opened his mouth to say *I don't know*, and it wasn't true, so he shut it again.
 
@@ -206,9 +196,9 @@ The silence went on long enough that Rohan turned from the wall. Kaan hadn't mov
 
 Nayan looked at him over the pencil for a long while.
 
-"I don't know his name," she said, and tipped her head at Rohan. "Six years. He doesn't know mine. The man in the corner's never said a word in my hearing." She bent back to the sheet. "Nobody in this room gets to be angry about what somebody else won't say. Help me mark the late weeks."
+"I don't know his real name," she said, and tipped her head at Rohan. "Six years. He doesn't know mine. The man in the corner's never said a word in my hearing." She bent back to the sheet. "Nobody in this room gets to be angry about what somebody else won't say. Help me mark the late weeks."
 
-She drew the squares; he found them. It took an hour, and he was good at it, and he liked it, and both of those were true at once.
+She drew the squares; he found them. It took an hour, and he was good at it, and he liked it.
 
 ---
 
@@ -224,7 +214,7 @@ Nayan was already moving. From under the tin cup she drew a thinner sheaf, and f
 
 Chanakya's records archive. Custody. File numbers, and beside each a name: *released to*, *returned by*.
 
-Near the bottom, the same number. Beside it: *Source folio. One night. Author's custody. Ravi.*
+Near the bottom, the same number. Beside it: *Source folio. One night. Author's custody. Ravi.* A date, the morning of the fourth. The *returned by* column beside it was empty.
 
 "Public," Nayan said. "It sits open on the counter. I copy it every fourth day."
 
@@ -236,13 +226,13 @@ The pulse was the date.
 
 Kaan didn't answer. Rohan did. "A slip in his coat, the morning before. *Room Four. Two hours.* He went and found a note instead. *Tomorrow. Bring what you took.*"
 
-Ben put his finger above the custody line. "Same morning. He signed this out at first bell, before he read your note." He looked up at Kaan. "Your note said *bring*. He'd already fetched it. He wanted it in his hands before anyone told him to."
+Ben put his finger above the custody line. "Same morning. He signed this out before he ever saw your note." He looked up at Kaan. "Your note said *bring*. He'd already fetched it. He wanted it in his hands before anyone told him to."
 
-Kaan's face did nothing. But he picked up the scrap and set it down again a finger's width closer to the custody page, so the two numbers lay nearly touching.
+Kaan's face did nothing. But he picked up the scrap and set it down again a finger's width closer to the custody page, so the two numbers lay nearly touching. Then Kaan held out his hand.
 
 "What is it?" Ben said. "The file."
 
-"Sealed above his grade," Nayan said. "Above mine. A case, three years old. He filed the report himself, first year, and the house took it off him and never told him what it meant." She tapped the air over the number. "That's as far as paper goes."
+"Sealed above his grade," Nayan said. "Above mine. A case, three years old, filed by him in his first year. That's as far as paper goes."
 
 "Then that's where we stop," Rohan said. "A number in two hands, both lawful, both citable. The man who holds it fetching it before he was asked." His jaw worked once along the scar. "That's the other road."
 
@@ -250,16 +240,12 @@ Nobody asked him what the first one was. Ben saw the question cross Nayan's face
 
 ---
 
-They gave him a bed in a room with a window, the first he'd ever slept under. He stood at it in his socks for a long time before he could make himself look down.
+They gave him a bed in a room with a window. He stood at it in his socks for a long time before he could make himself look down.
 
 Cloud, at first. Then the cloud thinned, and the mountain came up through it, grey and brown and enormous, with the lights of the Hub lift like a row of teeth in its flank. He found the pithead. He found the basin, a dull sheet of water catching the last of the light. And there, on its granite shelf a hundred feet up and to the north-east, a scatter of rust and broken shapes, so small from here he could have covered it with his thumb.
 
 The Junkyard. He'd never seen it from above.
 
-Below it, somewhere in the rock, in a ring on no map, a tank was drying, and a boy was learning to hold a cup, and a girl with one hand of each kind was teaching a box to listen to a wall. Below that, in the shade of a tunnel mouth, a worn patch of dirt the size of two feet.
-
-He couldn't see either from here. He knew where they were.
-
-Before he slept he took a sheet of the house's ruled paper and wrote one line on it in a small, level hand, as near Nayan's as he could make it. The date in the corner. Then: *Forty-seven. One week in every year. Whatever it is, it holds still while it's being watched.* In the morning he'd put it in her pile, on the left, where she didn't number.
+Before he slept he took a sheet of the house's ruled paper and wrote one line on it in a small, level hand, as near Nayan's as he could make it. The date in the corner. Then: *Forty-seven. One week in every year.* In the morning he'd put it in her pile, on the left, where she didn't number.
 
 He lay down with the light still in the room, because up here it didn't go out, and put his hand on his hip, and left it there.

@@ -78,6 +78,31 @@ A compact substitute for rereading everything. If something here conflicts with 
   - Camilla doesn't learn her arm is watched until the leads meet.
 - **Payoff.** The arm (half a breath late, learns its wearer) and the band (a heartbeat early, on fear) are two halves of one invention. Camilla is the one who can read the band at the climax.
 
+## Timeline: the single source (Option B, author-approved 2026-10-20)
+**Count** is the mission count: "nineteen nights" from the ch6 briefing, which is count 0. **N** is nights after Baju's death. The Lake Wall is count 19, which is **N12**.
+
+| N | Count | Ring / NOW | City / THEN |
+|---|---|---|---|
+| before | | | ch1 (the Initiation, 3 days), ch4, ch5, ch7 (Day 4), ch8, ch10, ch11, ch13, ch14, ch16 (about a week after ch13), ch17 (the same week: Room Four, then the flood) |
+| before | before 0 | ch2 (the trial ends; "Absconded" in four days), ch3 (the next day) | |
+| before | 0 | ch6 (the briefing: "nineteen nights from tonight") | |
+| before | 1 | ch9 (the workshop) | |
+| before | 1–6 | ch12 (in the blue, early tank days) | |
+| **0** | 7 (twelve left) | ch15 (the egg; Otto's line moves a 2nd time); ch18 (Otto's side of it); ch20, Otto (the finger, the line moves a 3rd time) | ch19 (Baju dies); ch20 (the chamber, the live wall, Meru) |
+| 1 | 8 (eleven left) | ch22, part 1 (Otto wakes; the crystal holds steady blue) | ch21 (the plan begins: "two nights of paper") |
+| 2 | 9 | | ch21 (the plan finished) |
+| 3 | 10 | | ch21 (the council by day; the corridor that night; Elara recognizes Daren) |
+| 4 | 11 | | ch22, parts 2–3 (Ravi signs out the folio on the morning of day 4; Room Four is empty; the register; the table call). ch26 opens (the digest, the morning after the corridor) |
+| 5 | 12 | | Ravi keeps the "Tomorrow" appointment with Kaan. ch26 (the Master, rings off) |
+| 6 | 13 | | ch23 (the leak; the Dhammapala) |
+| 7 | 14 (five left) | ch24, part 1 (Flitzberg: "the city's clock and ours"; Ben chosen) | |
+| 8–9 | 15–16 | | ch24, part 2 (Ben topside with Nayan, Kaan and Rohan) |
+| 10 | 17 (two left) | Ben back; the last rehearsal; ch25 (Otto, nine days out of the tank, meets Vayun) | |
+| **12** | **19** | ch27, ch28, ch29 (mission night and the out-of-season table; Otto eleven days out of the tank) | the same night |
+| 13+ | | ch30 (the reckoning) | the same |
+
+**Use this table.** Don't re-derive the counts.
+
 ## Guardrails
 - Elara is an agent, not a chosen one.
 - **Never technologize the elders.** Otto's power stays unexplained.

@@ -85,12 +85,13 @@
   - Elara gets a pending conduct note for unauthorized cross-house contact.
   - Elara asks "So why didn't it route him?" about Ben, and nobody answers. **This is an open thread.** Pay it off at the climax or in ch24's Sef annotation, e.g. the ring's examiners routed Ben differently.
   - The epigraph is now Book 1 Ch3, "…on the board." **Don't reuse it.**
-- **Timeline (option a, author-approved), counted in nights after Baju's death:**
-  - Otto wakes on night 1, "seven left".
-  - The Ravi and Elara parts of ch22 fall on day 4. Ch23 is night 6.
-  - **The Lake Wall is night 8.**
-  - Ch24's Flitzberg line, "the city's clock and ours have just become the same clock," makes the squeeze deliberate: the table sits on mission night.
+- **Timeline:** Option B is in force. **The table in `_canon-facts.md` is the single source.** The Lake Wall is N12.
 - **D15 placed in ch24:** Camilla asks "Where did this come from?" Flitzberg: from Drona, built for an instrument the four houses sealed away; this office copied it. **D16 (the arm is watched) still waits for the leads meeting.**
 - **Ch24:** Ben names Otto and his teacher to Rohan, which sets up ch25.
 - **Ch25:** Chan's "The hand was yours. So is the rest" is now Otto's line.
 - **Ravi's folio:** still held past its one-night custody. The open return column is a paper trail for the climax.
+- **Open threads for 29–30:**
+  - **Ben:** Elara's ch1 "So why didn't it route him?" (Ravi's ch1 "Nobody ever watches the normal one"; Sef's "the gentle one thinks in patterns").
+  - **Camilla reads the band** at the climax (the D15/D16 payoff).
+  - **Ravi's overdue folio:** signed out on the morning of day 4, with the returned-by column empty (ch24).
+  - **Who goes in the tunnel:** Gage (ch28).
