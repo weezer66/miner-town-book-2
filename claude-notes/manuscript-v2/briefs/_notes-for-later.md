@@ -53,3 +53,8 @@
   - The arm moves unprompted twice. **Don't explain why before the D15/D16 chapters.**
   - **Done (52eac38):** changed ch9 "Who else can switch my arm off?" to "Is it only the three of you? You, her, and the man who built it?" Flitzberg's reply stays unchanged.
 - **Prose:** go easy on "half a breath". Ch3 is down to 3 uses; use "late" or "a beat behind" instead.
+- **Orphan Flitzberg/Sef control-room beat** (ms Ch18:97–145): it goes in **ch24, "First Contact"**.
+  - Camilla's POV: Flitzberg chooses Ben for topside and reads the examiners' trial annotation aloud. Sef wrote it 30 years into her annotating.
+  - The annotation: "the girl thinks in exits, the [gentle] one thinks in patterns, and they listen to each other without ranking." Avoid "the small one", which is Otto in Book 1.
+  - Optionally add "Unlikely heroes. Possible." and the CONTROL line, "the strong one spent his strength making the others stronger."
+  - This sets up structure §4 item 4 (Ben is chosen because he "thinks in patterns").

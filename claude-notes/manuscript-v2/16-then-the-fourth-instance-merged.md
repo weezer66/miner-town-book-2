@@ -10,7 +10,7 @@ Elara worked it out on the stairs, three flights down into Ashoka's old stone, b
 
 "Because Drona's the crime scene," she said. "The hand moved through my console. Anything I pin to a wall in Drona hangs inside the system we think is being read. And my operator status still carries its flag." She took the next step harder than she meant to. "At home I'm a watched woman asking questions I can't afford to have watched."
 
-"And a borrowed room between the platforms would be worse." Rohan didn't slow. "An empty room protects you from people. Nothing about it protects you from systems. Two officials meeting off their routes is exactly what a watching system is built to flag." His hand brushed the rail where the stair turned, and the brass there was worn bright in one palm-sized patch by everyone else who had the same habit. "The safest place to stand is inside your own lawful shadow. You're a Drona representative conducting a procedural review with Ashoka, under the Ancient One's code. Every word of that is true, filed and boring."
+"And a borrowed room between the platforms would be worse." Rohan didn't slow. "An empty room protects you from people. Nothing about it protects you from systems. Two officials meeting off their routes is exactly what a watching system is built to flag." "The safest place to stand is inside your own lawful shadow. You're a Drona representative conducting a procedural review with Ashoka, under the Ancient One's code. Every word of that is true, filed and boring."
 
 "And inside the shadow?"
 
@@ -20,7 +20,7 @@ Ashoka called it a dead room, and the words were painted on the door in plain wh
 
 Beside the door stood a grey steel locker with a slot for each wrist. Elara unbuckled her terminal and laid it in, and the drawer closed on it with a soft pneumatic sigh. The skin where it had sat was paler than the rest of her arm, and cold. The city couldn't hear her.
 
-Paper only. Pads on the table, pencils, a dented tin for the shavings. At the end of each session the sheets went into a locker in the inner wall, a long steel face with one key-slot for every person at the table, the keys cut fresh each time. It opened only when every key turned together. No one could take a page out alone. On no fixed days, two officers who had never been introduced swept the room by hand.
+Paper only. Pads on the table, pencils, a dented tin for the shavings. At the end of each session the sheets went into a locker in the inner wall, a long steel face with one key-slot for every person at the table, the keys cut fresh each time. It opened only when every key turned together. No one could take a page out alone. The wall, Elara thought, would be the body's memory, and the locker would open only for all of them at once. On no fixed days, two officers who had never been introduced swept the room by hand.
 
 *Nothing here for a hidden hand to borrow,* Elara thought.
 
@@ -30,15 +30,11 @@ Grey fatigues, no insignia, no rank on any collar. A young woman sat at the far 
 
 "Nayan," Rohan said. "The eye."
 
-"Morning." The pencil didn't stop. "I copy what I read. Dated. When a record changes overnight, I can prove it was ever different."
-
-"Even those?" Elara said.
-
-"Especially those. I've got dated copies of all four houses' public books. Nine years back. Nobody's ever asked me to lay them side by side." She turned the page.
+"Morning." The pencil didn't stop. "I copy what I read. Dated. When a record changes overnight, I can prove it was ever different. I've got dated copies of all four houses' public books. Six years back. Nobody's ever asked me to lay them side by side." She turned the page.
 
 Rohan was already looking at the door.
 
-A lean, weathered man stood against it with his palm flat on the seam where door met frame, moving his hand down a finger's width at a time, the way a physician reads a ribcage. He had a climber's hands, thick at the knuckle, two fingertips calloused flat and shiny. Something in his trouser pocket clicked when he shifted his weight.
+A lean, weathered man stood against it with his palm flat on the seam where door met frame, moving his hand down a finger's width at a time, the way a physician reads a ribcage. He had a climber's hands, thick at the knuckle, two fingertips calloused flat and shiny. Something in his trouser pocket clicked when he shifted his weight, and inside his coat, where it fell open, a pencil stub rode against a notebook gone soft at the corners.
 
 "Baju. The arm."
 
@@ -56,11 +52,9 @@ Kaan said nothing, and went on saying it.
 
 The last of them had his chair tipped back on two legs and his boots crossed at the ankle. He was broad and open-faced, with a market trader's ease, and he sat in the dead room as if it were his stall on a slow afternoon.
 
-"And before you ask," he said, before Rohan could, "yes, he's always like that. Forty minutes in a canteen queue once, and he came out knowing which cook was watering the dal. He bought one tea." He tipped his chin at Kaan. "Jeebh. The tongue. I'm the one who talks."
+"And before you ask," he said, before Rohan could, "I don't know him. Nobody does. There's a story going round the canteens this week about an ear who stood forty minutes in a tea queue and came out knowing which cook was watering the dal. I may have started it." He tipped his chin at Kaan. "Jeebh. The tongue. I'm the one who talks."
 
 Baju let out one breath through his nose, which Elara would come to understand was his laugh. Something in the air let out a notch.
-
-"Jeebh talks," Rohan said. "Every true question this unit asks will travel inside a hundred dull ones he's already filed."
 
 "I keep us invisible," Jeebh said, "by keeping the city bored. It's a gift. My mother said so, at length."
 
@@ -86,7 +80,7 @@ The wall held their work: three instances, each on its own panel, in Ashoka's pl
 
 The transfer that had doubled in flight, which no one had requested and no one had granted. The signature of two letters the system obeyed without being able to name. The calibration pushed to its ceiling through Elara's own console during the Initiation, by a hand no inquiry had found.
 
-"Three instances," Rohan said. "Each one explainable alone. An error. An old authorization. A malfunction. I was charged to test what you see, and to act when the evidence requires it. So test it. All of you. What makes these one thing and not three?"
+"Three instances," Rohan said. "Each one explainable alone. An error. An old authorization. A malfunction. I was charged to test what you see, and to act when the evidence requires it. So test it. All of you. This is not your case with my help. It is ours. What makes these one thing and not three?"
 
 "Direction," Elara said. She had waited days to say it to people who would check her instead of comfort her. "An error has no direction. These all lean the same way. Every one moves capability toward a point we can't see. Money, access, reach. And every one is dressed as something ordinary. The acts are designed to be found one at a time."
 
@@ -98,7 +92,7 @@ Nayan spoke without looking up from her copy. "Then the pattern is the evidence.
 
 She had brought her own instrument to the work. The Sākṣī mirrors were witness copies, duplicates of the city's records written into a separate archive by hands that had no part in making the originals. A record could be altered. Its mirror, held somewhere else by someone else, remembered what it used to say. Anandi had taught her to read them.
 
-For nine days she had been watching one narrow band: cross-house allocations, the entries where one gana's money paid for another gana's wants. This hand gave before it took. So she watched for gifts arriving where no gift had ever gone. Generosity had become her tripwire.
+Since the Initiation she had been watching one narrow band: cross-house allocations, the entries where one gana's money paid for another gana's wants. This hand gave before it took. So she watched for gifts arriving where no gift had ever gone. Generosity had become her tripwire.
 
 Her terminal sat in the locker by the door, and it made no difference. Nayan had been watching the same water.
 
@@ -112,13 +106,13 @@ Jeebh's chair came down onto four legs.
 
 "Chanakya's archive wing," Nayan said, for the room. "When Kubera's council has to grant a thing it doesn't want to, it grants a sliver. This is everything, to the last vault."
 
-Elara came around the table. "I know this petition." They looked at her. "It lives in my band. Chanakya has petitioned for that expansion every cycle for eleven years. Kubera has refused it every cycle for eleven years. It was the stillest water I had."
+Elara came around the table. "I know this petition. It lives in my band. Chanakya has petitioned for that expansion every cycle for eleven years. Kubera has refused it every cycle for eleven years. It was the stillest water I had."
 
 "The council acted on a memorandum," Nayan said. "Cost of Chanakya's retrieval delays. Signed by an analyst named Ravi." She checked the sheet. "Bulletin calls it exemplary. Every figure sourced. Every objection anticipated. Eleven years of refusal answered in nine pages."
 
 Elara's pencil stopped against the pad.
 
-She had caught that analyst's wrist once, at the Initiation consoles, when his hand went toward the High Command button. Across the table Rohan's eyes came up and found hers, held, and went back to the bulletin. Neither of them said that the name had sat at the EVENT console close enough to touch.
+She had caught that analyst's wrist once, at the Initiation consoles, when his hand went toward the High Command button. Across the table Rohan's eyes came up and found hers, held, and went back to the bulletin. Neither of them said that the name had sat at the EVENT console close enough to touch. Kaan would have to watch the man without a story already hung on him.
 
 "Houses change their minds," Baju said. It didn't sound like disagreement. It sounded like a man tapping the ice with his heel before the others walked on it.
 
@@ -132,11 +126,13 @@ She looked up from the panels, and she wasn't agreeing.
 
 "We've got a signature, a style and a taste for giving. No face. No voice. No body. Could be a man. Could be a woman. Could be more than one person sharing two letters."
 
-Elara opened her mouth and closed it. Heat climbed the back of her neck. A picture drawn early was its own kind of altered record.
+Elara opened her mouth and closed it. Heat climbed the back of her neck.
 
 "Nayan is right," Rohan said. "The word you use shapes the thing you look for. Say he, and every woman in the city walks past your watch unexamined. From today, inside this room, it is the hand. It."
 
-"Then the pattern has a fourth instance," Rohan said. "And look at the date. The first three happened weeks and months ago. This one happened this morning, while we were pinning the other three to a wall." His jaw worked once along the old scar. "We came here to read history. This is not history. It is traffic. It is still moving."
+Elara nodded once. Her pencil went back to the pad and wrote *it*.
+
+"If you are right," Rohan said, "then the pattern has a fourth instance. And look at the date. The first three happened weeks and months ago. This one happened this morning, while we were pinning the other three to a wall." His jaw worked once along the old scar. "We came here to read history. This is not history. It is traffic. It is still moving."
 
 "And there's the name." Elara touched the signature line with one fingertip. "Either the analyst is the hand, and the hand doesn't sign its real name. Or he's standing where it wanted him to stand, and doesn't know whose weight he's carrying." Her eyes went, without her permission, to the third panel and her own console's name on it. "Someone should find out which. Before someone else decides for him."
 
@@ -152,11 +148,13 @@ Rohan looked at the wall, then at the four of them, and divided the ground.
 
 "Kaan. Chanakya. Near the archive, near the Annex, near the analyst. You do not approach him. You learn him. We do not yet know what you are watching: an instrument that was picked up, or the hand signing itself as one. Do not decide in advance."
 
-Kaan had already moved a half-step toward the door. That was his answer. Elara realized she still didn't know what his voice sounded like, and now she never would.
+Kaan had already moved a half-step toward the door. Elara realized she still didn't know what his voice sounded like, and might never.
 
 "Jeebh. Cover. From tomorrow, Drona's procedural review of Ashoka grows three sub-audits so dull no one reads past the titles. And a rumor in the right canteens: the Annex was eleven years of quiet lobbying finally landing."
 
 "Three sub-audits." Jeebh laced his fingers behind his head. "I'll make them so dull I fall asleep filing them. The rumor I'll enjoy."
+
+"The hand's whole art is dressing the extraordinary as the ordinary," Rohan said. "A theft as a gift. An order as a habit. From now on, we wear the same coat."
 
 Rohan turned the face-down sheet over, wrote one line on it in his own hand, and turned it back. "The eye cannot seize. The arm cannot hear. The ear cannot speak. Together, you're a net. I brief the Grandmaster tonight." Then he nodded at the bulletin.
 
@@ -186,7 +184,7 @@ The Dhammapala listened with her eyes closed, which in her meant the reverse of 
 
 Rohan's hands lay on his thighs. The split knuckle on the right one had opened again under its glue, and he watched a bead of blood rise there and didn't wipe it. He didn't pretend the strike had missed.
 
-"There is one more thing," she said. "You hunt a hand that hides in lawful shadows. You may find ground that has already been walked, questions answered before you ask them. There are safeguards in this city older than Ashoka, and they do not report to me. If your hunt ever crosses a path that feels like your own thinking arriving ahead of you, do not chase it. Mark the place, and bring it to me, and I will tell you what I can, which will not be everything."
+"There is one more thing," she said. "You hunt a hand that hides in lawful shadows. You may find ground that has already been walked, questions answered before you ask them. I told you there are safeguards in this city older than Ashoka. They do not report to me. If your hunt ever crosses a path that feels like your own thinking arriving ahead of you, do not chase it. Mark the place, and bring it to me, and I will tell you what I can, which will not be everything."
 
 "Whose path would it be?"
 

@@ -22,7 +22,7 @@ He said it to the wall. Then he gave her the rest in the order the notice had gi
 
 Elara didn't say she was sorry. Her throat had closed on it, and he hadn't come for that. His own people would have comforted him. He had walked past all of them to come down three flights of Ashoka's stone to her.
 
-She went to the wall and stood in front of the fourth panel, the Annex approval in Nayan's small level hand, and waited until her voice was her own.
+She went to the wall and stood in front of the fourth panel, the Annex approval in the runner's pencil copy, and waited until her voice was her own.
 
 "Tell me what the notebook held."
 
@@ -46,7 +46,7 @@ Rohan's eyes came off the wall.
 
 "An Ashoka commander doesn't walk into Drona's inner chamber."
 
-"Then tonight one does. Whatever she gives us, she'll want the word of everyone who acts on it. I can give her mine. I can't give her Ashoka's. If I carry it back to you, you're bound by a promise you never made, to someone you never faced." She held his eyes over the flame. "You chose Baju. You sent him. You read his death. She hears it from the door."
+"Then tonight one does. Whatever she gives us, she'll want the word of everyone who acts on it. I can give her mine. I can't give her Ashoka's. If I carry it back to you, you're bound by a promise you never made, to someone you never faced." She held his eyes over the flame. "You told me once this was ours. You chose Baju. You sent him. You read his death. She hears it from the door."
 
 He looked at the fourth panel, at the crooked pin.
 

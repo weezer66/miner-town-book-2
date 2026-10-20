@@ -28,7 +28,7 @@ The same size as his. The same cheap paper the house used for retrieval tags, fo
 
 Nothing else. No file number; it hadn't needed one. The number was already there in Ravi's own hand, and the writer had only to slide his note beneath it so the two would be read together. A man who copies a thing wants it. A man who leaves it where it is has already got it.
 
-Room Four. The nine characters. The two hours the house had logged as a routine review with no discrepancies noted. Nobody had asked him about them. It was a dull line in a dull log, and someone would have to be watching Ravi, and not the log, to think it worth a second look. Or the words meant something plainer. Room Four, in two hours. An appointment.
+Room Four. The twelve characters. The two hours the house had logged as a routine review with no discrepancies noted. Nobody had asked him about them. It was a dull line in a dull log, and someone would have to be watching Ravi, and not the log, to think it worth a second look. Or the words meant something plainer. Room Four, in two hours. An appointment.
 
 He sat down on the bench, because his legs had asked him to. The short leg knocked once against the tiles.
 
