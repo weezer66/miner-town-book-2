@@ -75,3 +75,13 @@
     - **ch22/24:** one mention of its status.
     - **Climax:** it works, but someone still has to carry it in.
   - Camilla's third term now includes the switch, so ch9's "ask about the switch" is a use of that term.
+- **Ch7 rework (fork2, awaiting the author):**
+  - "We did not choose you, Monitor. You signed."
+  - Elara is the boys' monitor of record for as long as this lasts, and nothing on Cohort 3A goes to a board without crossing her console. Ends on "I signed."
+  - The epigraph is now Book 1 Ch3, "newly activated units on her ledger". **Don't reuse it.**
+  - **Optional once pushed:** one ch8 line where Elara mentions the file being hers now.
+- **Ch1 round 2 (da576ce):**
+  - Ravi logs a formal objection: "the record should say who sat on it."
+  - Elara gets a pending conduct note for unauthorized cross-house contact.
+  - Elara asks "So why didn't it route him?" about Ben, and nobody answers. **This is an open thread.** Pay it off at the climax or in ch24's Sef annotation, e.g. the ring's examiners routed Ben differently.
+  - The epigraph is now Book 1 Ch3, "…on the board." **Don't reuse it.**
