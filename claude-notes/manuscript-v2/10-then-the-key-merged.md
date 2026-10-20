@@ -38,7 +38,7 @@ She thought of Ashoka. She set aside the force ladder and the uniforms and the p
 
 Then she thought of Rohan.
 
-His hand flat against Daren's chest in a room lit blue. The eight words after it. *Whatever happens next, I will stand with you.* He had said them and gone back to his console before she could ask what they might cost him.
+His hand flat against Daren's chest in a room lit blue. The eight words after it. *Whatever happens next, I will stand with you.* He had said them and walked out under the corridor lights before she could ask what they might cost him.
 
 She tried to picture the two houses side by side, and the picture that came was no treaty with two seals at its foot. It was a lantern set into a scarred open palm. Patient light resting in a disciplined grip: the hand never closing over the flame, the flame never asking the hand to soften. She distrusted the image on sight. It was too clean, the kind of thing Drona taught you to put at the end of an essay. She knew what the light was; she had lived inside it all her life. She had never been certain of the hand. She kept the image anyway.
 
