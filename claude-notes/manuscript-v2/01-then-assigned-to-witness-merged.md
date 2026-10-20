@@ -6,69 +6,43 @@
 
 ## Then: Day Zero
 
-Elara woke at 3:00 a.m., on schedule, before the city lights shifted to dawn mode.
+The needle found the side of Elara's finger at four in the morning, and the machine started reading her before she'd decided how she felt.
 
-Her terminal sat on the shelf beside the bed where she had left it, face down, its band curled like something asleep. She had started taking it off in her first week at the Institute, because the night pulses kept her awake, and nobody had ever told her to stop. Without it the room was only a room: the ventilation drawing breath through the ceiling grille, a tick in the wall where the water line cooled. Twelve seconds of that. Then she fastened the band, and the terminal found her pulse, and the city began to talk: a warmth against the bone of her wrist, the day's schedule unrolling in small lights she no longer needed to read. She had never once walked out of her door without it. No one did.
+One drop, bright red, gone into the black glass. Cortisol above her thirty-day median. Heart-rate variability under baseline. Glucose and C-reactive protein exactly where they always sat. She knew how to read those: a body under strain. It was her first day, it was four in the morning, and something had just stabbed her. She'd have been more worried if the numbers were calm.
 
-At the Institute, this would have been the hour she went to sleep, full of caffeine and unfinished arguments. Trinity had cured her of that.
+A second panel came up under the first, in a different typeface, with no units and no range.
 
-Everyone in Trinity had a schedule. The four ganas wrote the schedule for everyone else.
+"Behavioral stability: within range," the station said. "Empathy surge risk: low. Corrective intervention impulse: suppressed."
 
-Elara came from Drona. That was both who she was and what she was for.
+Nothing in a drop of blood could say that. That was the model talking — her records, her ratings, every half-second she'd ever hesitated at a checkpoint — and it had borrowed her blood to sound sure of itself.
 
-She sat on the edge of her bed with the thought that came back every morning: Trinity trained its people to mistake pain for honesty. The workers who complained least were admired; the ones who endured longest were rewarded. Holding that thought had kept her from becoming complacent. It had also kept her from rising higher.
+"Clearance granted. Initiation Observation, Tier One. Operational lead: Nathan, E."
 
-She moved through the routine her body knew by heart: wash, dry, button, seal, align. Nutrient tonic measured to the milliliter. The city measured everything except the cost of the things it demanded.
+Elara looked over her shoulder, as if the Nathan it meant might be standing in the corridor behind her. The corridor was empty. Nobody had told her.
 
-Today she was being inducted into the Initiation Monitoring team. Everyone in Trinity knew what the Initiation meant: false hope, engineered fear, pain, and sometimes blood. The familiar stab of guilt arrived on schedule, and with it something she was less willing to name — anticipation.
+Her terminal warmed against the bone of her wrist, and a green band ran across it and faded. She'd buckled it on twelve seconds before she left her room, the way she did every morning, and for those twelve seconds the city hadn't been able to hear her. Now it could. Her pulse came down toward sixty-five, the number the towers liked their watchers to hold, and she held it there.
 
-At the door, her hand stopped above the panel. Her reflection broke across the polished metal.
+The Skylark lifted her toward the monitoring floor. RISE ABOVE SUFFERING ran along its walls in soft blue letters. Through the glass the city fell away in layers — Drona's spires, the cloud, and somewhere under the cloud, the mine — and above everything hung the dark underside of Meru, where Kubera kept its money and the best view of all of them.
 
-For one breath, she imagined refusing — no speech, no scene, only absence: a missing body in a numbered chair, a silent screen where her credentials were supposed to appear.
+In the door's polished metal she caught herself leaning forward.
 
-Then the system chimed once, soft and patient, and the lock flashed green.
+She hadn't meant to. She was about to spend three days watching children be broken on purpose, and some part of her couldn't wait to see what they'd do. She straightened her collar and stood up straight before the doors opened.
 
-She stepped through with her pulse too fast and her face perfectly neutral, carrying both truths at once: she hated what the work required, and she wanted to see what would happen.
+---
 
-The biometric station waited between Residential Wing C and Surveillance Access: a silver cradle, a black glass reader, and one sterile needle beneath white light.
+The scanner closed a white ring around her thumb. "Identity verified. Elara Nathan. Drona."
 
-Elara pressed her wrist to the plate. "Monitoring assignment confirmed," the panel said in its clipped administrative voice. "Initiation Observation Tier-1. Mandatory pre-shift blood validation."
+Across the round antechamber, three other doors let go of their seals at the same moment, as if the building had breathed in, and three people stepped through.
 
-The needle touched the side of her finger. A single drop appeared, bright and precise, then vanished into the reader.
+The first thing she noticed was how young they all were. Nobody over twenty-one. Trinity staffed its Initiation watch with new graduates; she'd read the policy. She hadn't expected to feel it, standing in a circle of people her own age who had all just bled into a machine.
 
-The reader returned an estimated cortisol level above her thirty-day median. Heart-rate variability sat below her baseline; glucose and C-reactive protein sat where they always did. Elara read them as measures of a body under strain, not explanations for why. The hour, her nerves, even the puncture could shift a reading. The machine had helped create the conditions it was now measuring.
+This cycle the Initiation belonged to Sector 1, so the watch sat in Drona's tower, and the other three houses had sent their monitors up as guests, with borrowed rooms and full consoles.
 
-Under the numbers sat the plate's real question, and it was colder than health or risk: was she chemically fit to watch children suffer without disturbing the protocol?
+Ravi came first, in Chanakya's green-gray. When he lifted his hand to the panel, his cuff turned, and she caught a line of script stitched inside it, too small to read. He nodded to her once, and she had the uncomfortable feeling she'd just been filed somewhere.
 
-A second panel resolved beneath the first, in different type, with no units and no range. Nothing in her blood could say such things. This was the model speaking — her records, her ratings, her measured hesitations at checkpoints — dressed in the borrowed authority of the drop she had just given up.
+Daren came in Kubera's muted gold, the insignia at his collar set dead center. He was humming, four notes under his breath, the same four over and over, and his eyes went across badges and doors as though he were pricing them.
 
-"Behavioral stability: within range," it said. "Empathy surge risk: low. Corrective intervention impulse: suppressed. Clearance granted."
-
-A green band lit across her wrist for three seconds and faded. Her pulse settled toward sixty-five, the number the towers liked their watchers to hold.
-
-They called the elevators Skylarks, after old-world songbirds that rose at dawn. The name ran along every wall in soft blue lettering: RISE ABOVE SUFFERING.
-
-The pod lifted, and the city fell away beneath her in layers.
-
-Trinity was three cities wearing one name. Trinity-1 was Drona's: institutes, archives, and the monitoring towers she was rising through now. Trinity-2 was Chanakya's, where policy was drafted in rooms above its own manicured districts. Trinity-3 was Ashoka's, reinforced and drilled. Each platform held its gana and the civilians who lived under its particular weather, and each presided over its matching sector of Miner Town far below: three columns of labor holding up three islands of sky. Above them all hung Meru, Kubera's tier, where the gana lived among the only people in the world permitted to be merely rich. Officially, Meru presided over nothing. It merely managed the resources of all three sectors, and called that service. Elara had never met anyone below Meru who believed the word *merely*.
-
-From up here she could avoid hunger, disease, and the people who carried both. Trinity had moved those things below the cloud line and kept the view.
-
-At the top she placed her thumb on the scanner. A white ring closed around her print and climbed to her eye line. "Identity verified. Elara Nathan. Gana: Drona. Security clearance: Initiation monitoring."
-
-The door hissed open. Across the circular antechamber, three other doors released pressure in the same breath, as if the building itself had inhaled.
-
-One figure stepped from each threshold, and the first thing Elara noticed was how young they were. Four of them, and not one older than twenty-one. Trinity staffed its Initiation watch with new graduates on purpose: people who hadn't yet learned to flinch, or what flinching would cost them.
-
-Four doctrines in four uniforms — Drona's gray-blue, Chanakya's green-gray, Kubera's muted gold, Ashoka's red-black — all assembled to do the same watching. This cycle's Initiation belonged to Sector 1, so the watch sat in Drona's tower, and the other three ganas had sent their monitors as guests.
-
-Ravi came first, Chanakya's representative. His face held a calm that people trusted until they realized they had been studied, not seen. When he raised his hand to the panel, his cuff turned, and she caught a line of script stitched inside it, too small to read. He nodded once at her. It was courtesy, and it was a warning.
-
-Daren came with the unhurried confidence of someone who believed time belonged to him. Kubera's insignia sat at his collar, muted gold and mathematically understated. He was humming, four notes under his breath, the same four again and again. His eyes moved across bodies, badges, and doors, assigning value before anyone spoke.
-
-The last door opened, and Rohan arrived without announcement.
-
-Ashoka's representative didn't hurry. He was broad-shouldered and expressionless, with a scar tracing one side of his jaw. No Chanakya polish, no Kubera theater. Just force held in reserve. The knuckles of his right hand were split and scabbing, three in a row, and Elara looked at them a beat too long.
+Rohan came last, in Ashoka's red-black, broad through the shoulders, a scar along one side of his jaw. The knuckles of his right hand were split and scabbing, three in a row. Elara looked at them a beat too long.
 
 "Children's class," he said. "The little ones. They've started hitting back."
 
@@ -76,17 +50,13 @@ Ashoka's representative didn't hurry. He was broad-shouldered and expressionless
 
 "That's the lesson."
 
-Four ganas, four claims to the right kind of control. They fought each other through budgets, appointments, and quietly arranged accidents, each certain the other three were too dangerous to hold the whole thing alone.
+Inside, four curved consoles faced a suspended grid where Miner Town glowed in pulse-lines and coordinates. Each console carried one word in plain white. Ravi took EVENT. Daren took THRESHOLD and sat down at it like it owed him money. Rohan stood a moment before CORRECTION woke under his hand, all force ladders and escalation paths. Elara sat at VARIANCE, Drona's station, where the job was to notice when the system's story and the data stopped agreeing.
 
-Inside, the chamber was arranged like a divided compass. Four curved consoles faced a suspended central grid where Miner Town rendered itself in light and pulse-lines. Each station carried a single word in austere white: EVENT, VARIANCE, THRESHOLD, CORRECTION.
+The grid flickered, and sixteen names came up in a column.
 
-Ravi took EVENT, because Chanakya taught that power began by deciding which events were allowed to mean something. Elara took VARIANCE, Drona's station, where her job was to notice when the system's story and the data's behavior stopped agreeing. Daren lowered himself into THRESHOLD, Kubera's, where allocation became a question of what could be spent, withheld, or sacrificed. Rohan stood a beat longer before he stepped into CORRECTION, and Ashoka's console woke under his hand with force ladders and escalation pathways.
+Thirteen streamed away to their consoles.
 
-The grid flickered. Sixteen names appeared like component numbers in a ledger. Sixteen children. Four monitors. On paper, the mathematics promised a clean division.
-
-Thirteen names streamed to their consoles.
-
-Three stayed on the central display, never routed. Beneath each, where the system normally showed the responsible gana, a fifth designation appeared instead.
+Three didn't. They sat on the central display, unrouted, and where the system always showed the responsible house, a word Elara had never seen there came up instead.
 
 UNASSIGNED.
 
@@ -94,62 +64,62 @@ UNASSIGNED.
 
 UNASSIGNED.
 
-A red bar dropped beneath them. **OPERATOR INTERVENTION REQUIRED.**
+A red bar dropped under them. **OPERATOR INTERVENTION REQUIRED.**
 
 "Archive," Ravi said. "Precedent search. Designation: unassigned."
 
-"No records returned," the console answered.
+"No records returned."
 
-Daren was already paging through the printed manual beside THRESHOLD. "The routing appendix has no fifth designation. It has no procedure for the absence of one, either."
+Daren was already paging through the printed manual beside his station. "The routing appendix has no fifth designation. It doesn't have a procedure for not having one, either."
 
-"Then the system has never done this before," Rohan said.
+"So it's never done this," Rohan said.
 
-Their attention settled on the High Command call button. Ravi's hand rose toward it, and Elara caught his wrist.
+All four of them looked at the High Command call button at once. Ravi's hand went toward it, and Elara caught his wrist.
 
 "Wait. It's our first day. If we call for help in the first ten minutes, they'll never stop supervising us. Let's at least try to classify it ourselves."
 
-His pulse jumped under her fingers. So did hers. Ravi looked at her hand until she let go, and she understood, too late, that she had touched another house's representative without leave in her first ten minutes, and that somewhere a sensor had written it down.
+His pulse jumped under her fingers. So did hers. Ravi looked down at her hand until she let go, and she realized, too late, that she'd just grabbed another house's representative without leave, ten minutes into her first posting, and somewhere a sensor had written it down.
 
-"You're asking us to sit on an unclassified anomaly," he said.
+"You want us to sit on an unclassified anomaly," he said.
 
-"I'm asking us to classify it first."
+"I want us to classify it first."
 
-The others hesitated, then agreed. In Trinity, the cost of looking incapable was high, and none of them was ready to pay it on day one.
+Daren shrugged. Rohan nodded once. Ravi took his hand back and rubbed the wrist where she'd held it.
 
-Daren read the three names off the grid the way an auditor reads a shipment. "Gage. Otto. Ben. No family designations worth indexing. Three rounding errors the system was too honest to hide."
+Elara turned to Rohan. "Can you keep the primary feeds while we sort the exceptions?"
 
-Elara pulled up the first profile, and the data rendered itself like a description of someone's worth.
+He looked at her for a second. The same line had come up on his own screen, she guessed: *operational lead, Nathan, E.* Then he nodded and turned back to CORRECTION.
 
-"Male," she read. "Six feet five inches. Two hundred twenty pounds."
+"Drona chairs the first anomaly of the cycle," Daren told his screen. "Noted."
 
-She ran the numbers again. A Miner Town ration built one kind of body: lean, durable, ground down by seventeen. It did not build this. Someone had spent years putting calories into this boy that the ledger had never issued.
+Elara let it go. She had three names to read.
 
-"That mass doesn't close against his ration history," she said. "Someone's been feeding him off the books since he was a child, and the system never flagged it."
+Daren read them first, the way an auditor reads a shipment. "Gage. Otto. Ben. No family designations worth indexing. Three rounding errors the system was too honest to hide."
+
+Elara pulled up the first profile.
+
+"Male. Six feet five. Two hundred twenty pounds."
+
+She ran the numbers again. A Miner Town ration built one kind of body: lean, tough, worn down by seventeen. It didn't build this. Somebody had spent years putting food into this boy that the ledger had never issued.
+
+"That mass doesn't close against his ration history," she said. "Someone's been feeding him off the books since he was a kid, and the system never flagged it."
 
 "Then the anomaly has parents," Daren said, without looking up. "File it."
 
-She didn't file it. Somewhere between the numbers and the question, Gage had stopped being an entry and become a person someone had gone hungry for.
+The prompt sat under her thumb. FILE. She kept her thumb where it was and didn't press.
 
 "Assign Gage to me."
 
-No one objected. They saw a lowly miner. Elara saw the outline of a family the ledger had missed, and she buried the thought under protocol as she claimed him.
+Nobody argued. To the others he was a big number on a ration ledger.
 
-She turned to Rohan. "Keep the primary feeds while we sort the exceptions."
-
-He held her gaze a moment, then nodded and turned back to CORRECTION. The morning debrief had named her operational lead, and Ashoka honored a chain of command it had agreed to.
-
-"Drona chairs the first anomaly of the cycle," Daren said to his screen. "Noted."
-
-An objection, filed as agreement. Elara let it stand. Her lead was real, and in Kubera's accounting it would be billed.
-
-Ben's profile came next, and the relief in the data was immediate. "Five feet eight. One hundred sixty pounds. Every value inside the reference band."
+Ben's profile came next, and the data was such a relief it was almost funny. "Five feet eight. One sixty. Every value inside the reference band."
 
 "Which is why he matters," Ravi said. "Exceptions tell you where a system breaks. The baseline tells you how it runs." His hand closed over the assignment console. "I'll take Ben."
 
 The last profile loaded slowly.
 
-"Height five feet nine. Weight one hundred seventy. Same build as Ben —" Elara stopped. "The scanner's showing an energy signature off the calibration curve. It isn't reading him like a body." She looked up. "It's reading him like a source."
+"Five nine. One seventy. Same build as Ben —" Elara stopped. "The scanner's showing an energy signature off the calibration curve. It isn't reading him like a body." She looked up. "It's reading him like a source."
 
-Rohan was already on his feet, his split hand raised from the CORRECTION console.
+Rohan was already on his feet, his split hand raised off the CORRECTION console.
 
-"He is mine to size up."
+"That one's mine."
