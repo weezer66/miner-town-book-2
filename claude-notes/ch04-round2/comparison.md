@@ -108,3 +108,14 @@ I made these directly, without the two-model drafting; they weren't blind-tested
 - **Optional, taken:** *"Otto's arm came up once, and Ben went quiet and stayed quiet, his breathing evening out."* The editor's "Ben went down" didn't fit, since Ben is already lying down.
 
 **Possible knock-on for the fork:** Ch10 says Rohan "had said them and gone back to his console." In Ch4 he doesn't return to his station; he walks out. This mismatch already existed before these edits.
+
+# Round 6: optional polish (2026-10-20)
+I made these four edits directly, without the two-model drafting; they weren't blind-tested.
+1. *"…left a small amber tick beside each name. A human hand had put it there."*
+2. The bridge now ends *"Teresa's illness had had a name like that."* The epigram "and the name had saved no one" is cut.
+3. **How Daren knows the model backed down.** When Elara returns: *"On the central grid the separation line beside the three names had gone from ACTIVE to WITHHELD."* That's also why Ravi goes quiet.
+4. **Ravi's question:** *"What did you change?" / "I didn't." / "Your console says you did."* It sets up the trap at the confrontation.
+
+**The structural option, held for your decision:** `r6-variant-no-iris.md` is the same chapter with the Iris paragraph cut, and *"Her pulse did exactly what Drona had spent years training it not to do."* at the archivist beat. No later chapter mentions Iris or Sen. The live file keeps Iris.
+
+**Tooling note:** the Word export script now lives in `claude-notes/tools/md_to_docx.py`. The temp scratchpad copy was wiped.

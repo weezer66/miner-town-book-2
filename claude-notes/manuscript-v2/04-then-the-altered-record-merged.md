@@ -8,7 +8,7 @@
 
 The three names stopped flashing.
 
-Gage settled under VARIANCE, Ben under EVENT, Otto under CORRECTION. Daren's THRESHOLD display kept the cost of all three. The red bar drained off the central grid and left a small amber tick beside each name, the system's way of saying a human hand had put it there.
+Gage settled under VARIANCE, Ben under EVENT, Otto under CORRECTION. Daren's THRESHOLD display kept the cost of all three. The red bar drained off the central grid and left a small amber tick beside each name. A human hand had put it there.
 
 "Sorted," Daren said.
 
@@ -102,7 +102,7 @@ It was a loop, and she gave it the name it had earned: MUTUAL STABILIZATION.
 
 The system rejected it. The old flag for unauthorized group formation came back up in its place, unchanged.
 
-Elara looked at the capitals for a while. Teresa's illness had had a name like that, and the name had saved no one.
+Elara looked at the capitals for a while. Teresa's illness had had a name like that.
 
 Teresa had been her best friend since the morning a five-year-old Elara walked her back from the classroom door. The first sign had looked like nothing: a headache, an evening when Elara was painting a sunset and Teresa lay on the spare bed blaming the small print in one of Elara's father's old books. At first light the sun came through the window and turned Teresa's face the exact red-gold Elara had spent all evening trying to mix. Then Elara saw the pillow, and the blood that had been running from Teresa's nose all night.
 
@@ -118,9 +118,9 @@ In the corner of the screen, the diagnostic margin was flashing a calibration va
 
 "What did you change?" Ravi said from EVENT.
 
-"Nothing that alters the readings."
+"I didn't."
 
-"That's not what I asked."
+"Your console says you did."
 
 A chime went off at CORRECTION before she could answer. The ceiling wasn't local; it lived in the shared alert calibration, and whoever had raised it through her console had raised it for the whole room. The grid had gone twitchy. A flicker in the chamber now sounded like a breach.
 
@@ -301,7 +301,7 @@ She rode the Skylark up with four minutes left on the clock.
 
 ---
 
-The executive review notice was still glowing on her console when she sat. Ravi looked at her once. His eyes went to the folios under her arm, then to the archive confirmation fading from the corner of her display. He didn't ask where she'd been. He turned back to his own screen and didn't type anything for a long time.
+The executive review notice was still glowing on her console when she sat. On the central grid the separation line beside the three names had gone from ACTIVE to WITHHELD. Ravi looked at her once. His eyes went to the folios under her arm, then to the archive confirmation fading from the corner of her display. He didn't ask where she'd been. He turned back to his own screen and didn't type anything for a long time.
 
 On the feed below, the three signals hadn't moved apart. The guards held their ring. Daren's report closed without comment, and Rohan's force assessment stayed pending, the cursor blinking in the empty field where he would have signed the extraction.
 
