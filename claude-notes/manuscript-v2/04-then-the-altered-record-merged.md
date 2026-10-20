@@ -102,11 +102,13 @@ It was a loop, and she gave it the name it had earned: MUTUAL STABILIZATION.
 
 The system rejected it. The old flag for unauthorized group formation came back up in its place, unchanged.
 
-Elara looked at the capitals for a while. She had watched long, exact words do this to someone before.
+Elara looked at the capitals for a while. Teresa's illness had had a name like that, and the name had saved no one.
 
 Teresa had been her best friend since the morning a five-year-old Elara walked her back from the classroom door. The first sign had looked like nothing: a headache, an evening when Elara was painting a sunset and Teresa lay on the spare bed blaming the small print in one of Elara's father's old books. At first light the sun came through the window and turned Teresa's face the exact red-gold Elara had spent all evening trying to mix. Then Elara saw the pillow, and the blood that had been running from Teresa's nose all night.
 
-Years later the doctors had a long, exact name for what was happening to her, and it was still happening. The evening after a transfusion that was supposed to buy her a good week, Teresa closed her fingers around a cup of water and couldn't bring it off the table. Elara reached across and steadied it. Teresa looked at her over the rim with gratitude and fear and something underneath both that was already letting go.
+Years later it was still happening. The evening after a transfusion that was supposed to buy her a good week, Teresa closed her fingers around a cup of water and couldn't bring it off the table. Elara reached across and steadied it. Teresa looked at her over the rim with gratitude and fear and something underneath both that was already letting go.
+
+At fifteen she'd stowed away alone in a freight pod with a notebook against her chest: everything the Ramayana said about Sanjeevani, the herb that brought the dying back, copied from the scriptures in her father's cabinet. Three days on the ground by herself, and no mountain and no herb. Teresa died on the second night, in a hospital bed in Trinity-1, and the last word she said was *Elara*, to a room with nobody in it who answered to it.
 
 Elara changed the category to cooperative compensation. The system held the phrase for less than a second before a red notation replaced it, calling her interpretation interference.
 
@@ -182,7 +184,7 @@ Elara opened the drone audio by the tunnel mouth and got scrape and grit, and un
 
 A few minutes later the system logged a water test.
 
-That was the archive's phrase, not hers. Gage had bent over a pouch and then a cup with something in his fingers the lens couldn't resolve, and beside the entry the system set the chamber supply's dosing markers, the line every monitor learned in training not to open. Whatever the water had been carrying since the gates opened, he had found it. After the water test, Gage's intake stopped. Then Ben's. Then Otto's. Elara read the result and let the method go. There were sixteen children in the chamber, and she had a disposition field still blinking.
+That was the archive's phrase, not hers. Gage had bent over a pouch and then a cup with something in his fingers the lens couldn't resolve, and beside the entry the system set the chamber supply's dosing markers, the line every monitor learned in training not to open. Whatever the water had been carrying since the gates opened, he had found it. After the water test, Gage's intake stopped. Then Ben's. Then Otto's. Elara read the dosing markers and her hands went cold. Someone above this floor had known. She shut the thought away, read the result and let the method go. There were fifteen children in the chamber, and she had a disposition field still blinking.
 
 Later Ben's own signal went disordered, a spray of readings with no pattern in them, and the drone audio filled with Ben shouting, hoarse nonsense about a sandwich, a mind past its floor. Otto moved once. Ben went still, and his breathing evened out.
 
@@ -232,11 +234,9 @@ Beneath the escalation, the ordinary Sector One induction file waited to go out 
 
 ---
 
-She was on her feet before she'd finished deciding.
+She was on her feet before she'd finished deciding. She'd done that once before, at fifteen.
 
-At fifteen she'd stowed away alone in a freight pod with a notebook against her chest: everything the Ramayana said about Sanjeevani, the herb that brought the dying back, copied from the scriptures in her father's cabinet. Three days on the ground by herself, and no mountain and no herb. Teresa died on the second night, in a hospital bed in Trinity-1, and the last word she said was *Elara*, to a room with nobody in it who answered to it.
-
-There were two lawful roads, and she had walked both to the end in her head while the seals were still releasing: accept the reprimand and watch the directives execute, or file a dissent and watch them execute while it crawled through committee. Both ended at the same wall. The third road was treason, and it was the only one that went anywhere.
+There were two lawful roads, and she had walked both to the end in her head while the seals were still releasing: accept the reprimand and watch the directives execute, or file a dissent and watch them execute while it crawled through committee. Both ended at the same wall. The third road was treason.
 
 "Invoking ledger verification," she said to the room.
 
@@ -317,7 +317,7 @@ He stopped close enough that she felt his breath.
 
 "You made the system lie for you."
 
-The answer was ready in her mouth. *Somebody pushed my calibration to the ceiling on the third day, through my console, while the machine had the room. Shall we ask the system who?* She looked at him and held it. Asking the system would open her console to an inquiry, and an inquiry would read every line she'd touched tonight, including the one two levels down with her name at the end. She closed her mouth.
+The answer was ready in her mouth. *Somebody pushed my calibration to the ceiling on the third day, through my console, while the machine had the room. Shall we ask the system who?* She looked at him and held it. Asking the system would open her console to an inquiry, and an inquiry would read every line she'd touched tonight, and look twice at the one two levels down that was meant to look like nothing. She closed her mouth.
 
 Daren watched her not say it. Something in his face settled, and he leaned in.
 
@@ -339,7 +339,7 @@ Rohan stopped in front of her.
 
 Elara opened her mouth. He was already walking. As he passed under the corridor lights the blue caught the scar along his jaw and shone on it like steel.
 
-She stood with the words she hadn't said and wondered what that promise would cost him, and whether he had already added it up.
+He didn't know what she'd done two levels down. He'd promised anyway.
 
 Then she walked to her quarters.
 

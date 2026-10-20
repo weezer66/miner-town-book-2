@@ -34,3 +34,40 @@ Both reviewers said A's backstory stalls the climax and B's amount is about righ
 - The Guard's four-hour arithmetic, which is consistent: authorized at about 60h, launched at 64, arrived at 68.
 
 **Adopted (2026-10-20):** the author approved it. `ch04-candidate.md` is now the live chapter, and the `.docx` has been regenerated and checked, with the strikethrough ledger lines rendered. The previous version is backed up as `04-before-r2.md` in the session scratchpad.
+
+# Round 3: move the freight pod out of the climax (2026-10-20)
+**The review:** the score held at 6.6. All four models still stopped at the same place, so the problem was **position**, not length.
+
+**The move (both drafts):**
+- **The freight pod moves into the mid-chapter Teresa block,** word for word. The block now runs: best friend at five → the sunset and the blood → the cup → at fifteen, the freight pod and her last word.
+- **The new bridge:** *"Elara looked at the capitals for a while. Teresa's illness had had a name like that, and the name had saved no one."* That also removes the repeated "long, exact."
+- **At the climax,** only *"She was on her feet before she'd finished deciding. She'd done that once before, at fifteen."*
+- **Iris** is kept where it was.
+
+**Must-fixes:**
+- *"fifteen children"*. The "sixteen" at the gates and Daren's "Sixteen intakes" stay; the fork confirmed this against Book 1.
+- *"Elara read the dosing markers and her hands went cold. Someone above this floor had known. She shut the thought away, read the result and let the method go."* The last clause is kept for Ch19.
+- *"…and look twice at the one two levels down that was meant to look like nothing."*
+
+**Optional fixes, both taken:**
+- *"The third road was treason."*
+- *"He didn't know what she'd done two levels down. He'd promised anyway."*
+
+**The merge:** Opus's draft is the base, with Fable's bridge (which keeps "looked at the capitals").
+
+**Blind comparison** (A = combined, B = current):
+
+| Reviewer | A | B | Would send |
+|---|---|---|---|
+| Sonnet | **8.5** | 8 | A |
+| Haiku | **8** | 7 | A |
+
+Both reviewers said B stalls right after she stands, and A runs to the terminal.
+
+**Not taken:**
+- Sonnet preferred B's "…and it was the only one that went anywhere." Haiku preferred A's cut.
+- Haiku found B's "with her name at the end" clearer.
+
+The editor's majority stands on both lines.
+
+**Round 3 adopted (2026-10-20):** the author approved it. `r3-candidate.md` is now the live chapter, and the `.docx` has been regenerated and checked. The previous version is backed up as `04-before-r3.md` in the session scratchpad.
