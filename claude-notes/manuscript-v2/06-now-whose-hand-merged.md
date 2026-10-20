@@ -68,7 +68,7 @@ Camilla went first. Her good hand was flat on the table.
 
 Ben had his hands folded, waiting his turn. Flitzberg turned to him.
 
-"Do they have families?" Ben said. "The people down here. Somebody waiting?" He said the next part fast. "My sister's Gretchen. She'll be at the gates every day till somebody tells her to stop. I want to know if that's how it is for everybody, or just us."
+"Do they have families?" Ben said. "The people down here. Somebody waiting?" He said the next part fast. "Gretchen's still at the gates. I know she is. I want to know if that's how it is for everybody, or just us."
 
 "Some have families above, and go home every night and say nothing, for the rest of their lives. Some have no one." Flitzberg paused, and Gage watched him choose to keep going. "And some came from where you came from. Miner Town does not record its missing. The ones who came to us from the ground have no one above who is still looking. This office did not arrange that, but it has made use of it. You asked."
 

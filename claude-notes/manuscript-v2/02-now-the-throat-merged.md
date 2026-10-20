@@ -18,11 +18,11 @@ Voices came before her eyes did.
 
 *Half-dead.* So that was how she looked from up there.
 
-"The question is not what I did to you." Smooth, made, even. "The question is: what will you do to regain the freedom that was once your birthright?"
+"Wrong question." Smooth, made, even. "Ask what was taken from your parents, and who signed for it."
 
 "What does that mean?" Ben, from somewhere low and close.
 
-"You are ready now. Ready for the journey ahead."
+"That somebody signed. Signatures leave records. You are ready now to read them."
 
 Then someone was choking.
 
@@ -50,7 +50,7 @@ She didn't think he'd lost his mind.
 
 Gage's grip was trembling. It hadn't tightened. The long muscles in his forearm were jumping.
 
-"You are angry at the right person," Flitzberg got out. He had to stop and swallow, and she watched it go down him like a stone. "The right person is also the only one who will answer you. A dead man answers nothing."
+"You are angry at the right person," Flitzberg got out. He had to stop and swallow, and she watched it go down him like a stone. "The right person is also the only one who will answer you. That is why I came in alone."
 
 Gage's arm shook harder.
 
@@ -62,7 +62,7 @@ His head turned a quarter inch.
 
 "Stop."
 
-He'd promised her, outside the four doors: *if I tell you to stop, you stop.* He'd kept it once already, with a shock still humming in his bones. His hand opened, one finger at a time, as if each one had to be argued with separately. He stepped back. Not far.
+He'd promised her that, outside the four doors. He'd kept it once already, with the shock still in his bones. His hand opened, one finger at a time, as if each one had to be argued with separately. He stepped back. Not far.
 
 Flitzberg didn't rub his throat. He left the marks where they could see them.
 
@@ -98,13 +98,13 @@ Across the room, the third medic shone the light in Otto's eyes. Left, right. Hi
 
 "What's wrong with him?" Ben's voice cracked. "He's right there. He's breathing. Why won't he come back?"
 
-Flitzberg looked past him at Otto, the boy who'd held ten stones open over a lake of fire.
+Flitzberg looked past him at Otto, the boy who'd held ten stones open over a lake of fire so the rest of them could drop through, and had stayed behind to do it.
 
 "I do not know."
 
 "You did this."
 
-"Yes. And I do not know." He let that sit. "Our instruments say he is well. Heart, breath, all of it. The instruments are wrong. Some part of him spent itself in that room, and it has not come back. We will keep his body strong and his door open. I will not pretend to more than that. You have been lied to with confidence your whole lives."
+"Yes. And I do not know." He let that sit. "Our instruments say he is well. Heart, breath, all of it. The instruments are wrong. Some part of him spent itself in that room, and it has not come back. We will keep his body strong and his door open. I will not pretend to more than that."
 
 "That's not good enough," Gage said.
 
@@ -142,7 +142,7 @@ Gage turned to the door they'd come in by. "We're going home."
 
 "You don't get to say—"
 
-"In four days," Flitzberg said, and his voice gave out on him again, and he made it work, "the mine will write one word next to your three names. *Absconded.* Your slots go back in the pool. Camilla's ration card stops being drawn the same morning, and nobody asks why. Miner Town does not go looking for children who walk away. It goes looking for the ones who come back." He swallowed. "Walk out of here tonight, bleeding, with no story, and you are the trouble the city bills your street for. Rations short. Quotas up. Somebody's door kicked in who had nothing to do with you."
+"In four days," Flitzberg said, and his voice gave out on him again, and he made it work, "the mine writes one word next to your three names. *Absconded.* It is the kindest word it has. Nobody bills a street for a boy who ran. Your slots go back in the pool, Camilla's ration card is not drawn again, and nobody asks why. Miner Town does not go looking for children who walk away." He swallowed. "Before then, you choose. Stay, or go home with a story I give you, one that holds. Walk out of here tonight, bleeding, with no story, and you are the trouble the city bills your street for. Rations short. Quotas up. Somebody's door kicked in who had nothing to do with you."
 
 Ben's head came up. "Gretchen's at the gates. She'll be there tomorrow. She'll be there every day."
 
@@ -152,15 +152,11 @@ Ben's head came up. "Gretchen's at the gates. She'll be there tomorrow. She'll b
 
 "I cannot send word up. Nothing goes up that the ground could read." Flitzberg looked away from them, at the glass. He hadn't done that yet. "I am sorry. That is not a thing I can fix tonight."
 
+Ben laughed, once, wet and ugly. "So she stands there four days, and then they write it down, and she stands there anyway." He wiped his face with his wrist. "There's no counter in Miner Town where you line up and ask for your freedom back."
+
+"No," Flitzberg said. "There is not."
+
 Gage's hands had closed. Camilla watched them close.
-
-"And this birthright," he said. "Say what it means or I'm walking."
-
-"It means there are papers." Flitzberg kept it short; he had to. "Old ones, signed. Your families could once move, sell what they dug, choose who set the quotas. Nobody stole that in the night. It was signed away, one rule at a time. Signatures leave records."
-
-Ben laughed, once, wet and ugly. "So there's a piece of paper. Great. Who do we show it to? The guards?" He wiped his face with his wrist. "There's no counter in Miner Town where you line up and ask for your freedom back."
-
-"No," Flitzberg said. "There is not. Which is why the rest of it is long."
 
 Gage opened his mouth.
 
@@ -174,11 +170,11 @@ Gage looked at her for a long time. Then his hands came open, slowly, the way th
 
 "Tomorrow," he said to Flitzberg. "All of it."
 
-"All of it," Flitzberg said. "You have my word, which you have no reason yet to value."
+"All of it," Flitzberg said. "Then you choose. You have my word."
 
 The medic taped the line flat against Camilla's hand. "That stays in. You'll be stronger by morning, and you'll hate the tape. Both are fine." She nodded to the others. "Now."
 
-They lifted her: four hands under her, nothing jarred, nothing left to find its own way. Nobody in Miner Town had ever lifted a miner's body like that. Ben came with her, his hand on her good shoulder, exactly as he'd been told he could.
+They lifted her: four hands under her, nothing jarred, nothing left to find its own way. She'd never been lifted. In Miner Town you got dragged. Ben came with her, his hand on her good shoulder, exactly as he'd been told he could.
 
 Flitzberg went to the inner doors. They opened on a corridor, and the lights woke one at a time ahead of them, each a step beyond the last.
 
