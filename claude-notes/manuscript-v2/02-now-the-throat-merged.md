@@ -68,9 +68,9 @@ Flitzberg didn't rub his throat. He left the marks where they could see them.
 
 "Then answer," Gage said. "Why? What did we ever do to you?"
 
-"Nothing." Flitzberg's voice came out scraped. "You were not —" He stopped, and swallowed, and it cost him. "You were not punished. You were chosen. I know those look the same from where you stand. Your sister needs more than a spray can. Then you can hate me properly."
+"Nothing." Flitzberg's voice came out scraped. "You were not —" He stopped, and swallowed, and it cost him. "You were not punished. You were chosen. I know those look the same from where you stand." He swallowed again, and waited for his voice. "At your Initiation the city could not decide whose you were. Three names, no house. No one answerable for whether you came back up. I watched it fail to decide, and I decided." His eyes went to Camilla on the floor. "The rest tomorrow. Your sister needs more than a spray can. Then you can hate me properly."
 
-He raised one hand where they could all see it and beckoned at the glass.
+He raised one hand where they could all see it and beckoned at the glass. "If a stranger had reached her before I did, you would have broken him. So they waited, and I came first."
 
 Three people came in fast, two with a wheeled stretcher, one with cases, sleeves pushed up. Ben was between them and Camilla before the door finished opening, the can held up like a weapon.
 
@@ -122,13 +122,13 @@ Gage took a step toward him. Flitzberg didn't take one back.
 
 The medic's hands kept working. The bag kept emptying.
 
-"Your sister paid it on her feet," Flitzberg said. "Remember that, before anything else about tonight."
+"She paid it on her feet," Flitzberg said to Gage. "Remember that, before anything else about tonight."
 
 "Don't," Camilla said.
 
 He looked down at her.
 
-"Don't make it a story." Her voice shook and she let it. "I didn't meet anything. I counted. Somebody had to count."
+"Don't make it a story." Her voice shook and she let it. "I didn't stand up to anything. I counted. Somebody had to count."
 
 "And somebody had to pay," Flitzberg said. "Both of those are true. I will not take either one back to make this easier for you."
 
@@ -158,7 +158,7 @@ Ben laughed, once, wet and ugly. "So she stands there four days, and then they w
 
 Gage's hands had closed. Camilla watched them close.
 
-Then he turned his back on Flitzberg and came to her, and went down on one knee beside the medic, and got an arm under her shoulders. His other hand went under her knees. He was careful of the sealant. He was careful of nothing else.
+Then he turned his back on Flitzberg and came to her, and went down on one knee beside the medic, and got an arm under her shoulders. His other hand went under her knees. He was careful of the sealant. He didn't see the line in the back of her hand.
 
 "Hey." The medic's hand came down flat on his forearm. "She's got a line in. You lift her now and that shoulder opens before you're out of this room."
 
@@ -174,7 +174,7 @@ Ben tried to stand. He got one foot under himself and swayed, and put a hand dow
 
 "I'll come back for him."
 
-"All the way up, and through the gates, and back down. With me on you, and him at the top with nobody." She made herself say the rest. "Gage. I counted him. I've been counting all of you since I opened my eyes, and every time I get to him I get nothing back. He's breathing and he isn't there, and I've been lying here not saying it because you'd hear it. If we carry him home, nobody up there can keep him breathing. Rita can't. I can't. He stays where the machines are, or he dies in a shack with his eyes open, and I'll be the one who counted that."
+"All the way up, and through the gates, and back down. With me on you, and him at the top with nobody." She made herself say the rest. "Gage. I counted him. I've been counting all of you since I opened my eyes, and every time I get to him I get nothing back. He's breathing and he isn't there, and I've been lying here not saying it. If we carry him home, nobody up there can keep him breathing. Ma can't. I can't. He stays where the machines are, or he dies in a shack with his eyes open, and I'll be the one who counted that."
 
 Gage had stopped moving. She felt the stop go through him.
 

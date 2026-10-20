@@ -67,3 +67,33 @@ Both reviewers said A has real conflict and a clear timeline.
 These are small, and the editor recommended stopping after this round.
 
 **Round 3 adopted (2026-10-20):** the author approved it. `r3-candidate.md` is now the live chapter, and the `.docx` has been regenerated and checked. The previous version is backed up as `02-before-r3.md` in the session scratchpad.
+
+# Round 4 (2026-10-20)
+**The review:** one complaint has come up in every round: Flitzberg says he will answer, then answers nothing. The fix uses Ch1's UNASSIGNED.
+
+**The combined answer:**
+> "At your Initiation the city could not decide whose you were. Three names, no house. No one answerable for whether you came back up. I watched it fail to decide, and I decided." … "The rest tomorrow."
+
+- **From Opus:** the Initiation phrasing and "No one answerable for whether you came back up," which echoes Ch1's stakes paragraph.
+- **From Fable:** "I watched it fail to decide, and I decided," and "The rest tomorrow."
+- **He only watched.** Nothing says he caused the unassignment, so that stays open. Ch6's father's-slot reveal is untouched.
+
+**Small fixes:**
+- **The medics' delay** now has a reason: *"If a stranger had reached her before I did, you would have broken him. So they waited, and I came first."*
+- *"She paid it on her feet," Flitzberg said to Gage.*
+- *"I didn't stand up to anything."*
+- *"He didn't see the line in the back of her hand."*
+- "because you'd hear it" is cut.
+
+**Blind comparison** (A = current, B = combined):
+
+| Reviewer | A | B | Would send |
+|---|---|---|---|
+| Sonnet | 7.5 | **8.5** | B |
+| Haiku | 7 | **8** | B |
+
+**From the reviewers:**
+- "Rita" isn't introduced in this chapter, so *"Rita can't"* → *"Ma can't"* (Haiku).
+- **Not taken:** Haiku preferred the old wording of three of the small lines. Your editor asked for those changes, so I kept them.
+
+**Round 4 adopted (2026-10-20):** the author approved it. `r4-candidate.md` is now the live chapter, and the `.docx` has been regenerated and checked. The previous version is backed up as `02-before-r4.md` in the session scratchpad.
