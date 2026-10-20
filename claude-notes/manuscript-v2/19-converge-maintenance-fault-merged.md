@@ -6,9 +6,7 @@
 
 ## Then: The fourth level
 
-Kubera had voted the review and Ashoka had accepted it, and within ten days Ashoka's first postings would be confirmed to two Kubera councilmen in Meru. Daren wanted those two to read the confirmation as proof of their own good sense. Tonight a briefing note would arrive on each of their desks, and their own staff wouldn't remember writing it.
-
-The band's channels into Meru worked best from close by. So he left the unlisted room after the night bell and went down before he went up.
+The band's channels into Meru worked best from close by, so Daren left the unlisted room after the night bell and went down before he went up. Kubera had voted the review and Ashoka had accepted it; within ten days Ashoka's first postings would be confirmed to two Kubera councilmen, and Daren wanted them to read the confirmation as proof of their own good sense. Tonight a briefing note would arrive on each of their desks, and their own staff wouldn't remember writing it.
 
 The door slid aside before his hand reached it. The sensor outside wrote what it had been told to write, which was nothing, and the corridor closed behind him smooth as water.
 
@@ -36,7 +34,7 @@ Daren understood it a heartbeat after he did.
 
 The log face showed the corridor's sensors moment by moment. Right now, with a man walking past them in plain view, it showed *maintenance interval, no personnel.* On every other night that blank had been invisible, because no one was standing beside it to compare it with the corridor. Tonight someone was. He had a corridor in front of his eyes with a stranger in it, and a screen under his hands that swore the corridor was empty, and he had laid the two side by side.
 
-The fear arrived in Daren's stomach first, then his throat. The man had nothing. A bare-wristed technician's word against the city's own records was no weapon at all. But the fear was older than that, and it didn't care. It was the cat's fear, of being seen by something that couldn't be told what it was seeing, the fear he'd carried off the maglev and filed under things that wouldn't matter.
+The fear arrived in Daren's stomach first, then his throat. The man had nothing. A bare-wristed technician's word against the city's own records was no weapon at all. But the fear was older than that, and it didn't care. It was the cat's fear, of being seen by something that couldn't be told what it was seeing, the fear he'd carried off the maglev and filed under things that had no column.
 
 He did nothing.
 
@@ -78,7 +76,7 @@ The band had never held him. He stood with two fingers under its edge and looked
 
 His fingers came out from under the band.
 
-That was the whole of the crisis. It did not last long. When it was over Daren was still wearing the bracelet, and the bracelet was still warm, and a man he had never spoken to lay dead eleven steps behind him because his hand had been afraid.
+That was the whole of the crisis. It did not last long. When it was over Daren was still wearing the bracelet, and the bracelet was still warm, and a man he had never spoken to lay dead behind him because his hand had been afraid.
 
 There was paper in the man's coat. He saw the corner of it. He crouched, his own choice, his own hand, and he made himself notice that, and drew it out: a small notebook gone soft with handling, pencil only, no electronics anywhere in it. Page after page of the tower's dull facts in a small, upright hand. Door cycles. Lift holds. Sensor gaps, every maintenance interval logged in this tower over the last weeks, each with its floor and its hour. Most of them were circled. The circles thickened toward the fourth level, toward one corridor on it, toward a room on that corridor that the tower's plans showed and the tower's records didn't.
 
@@ -92,7 +90,7 @@ The man hadn't been working alone. Nobody collects weeks of a tower's sensor gap
 
 He needed the confirmation read and done before they came looking. He needed every door he still meant to open opened faster than anyone could count.
 
-He walked the eleven steps to the lift, and the corridor sensor watched him go and wrote down nothing. Somewhere between the panel and the doors the four notes came up in his throat, the same four, and he heard the first of them in that corridor and closed his mouth on it.
+He walked to the lift, and the corridor sensor watched him go and wrote down nothing. Somewhere between the panel and the doors the four notes came up in his throat, the same four, and he heard the first of them in that corridor and closed his mouth on it.
 
 The lift arrived empty and held its doors a little longer than its schedule allowed, and he stepped in.
 
@@ -111,6 +109,8 @@ The platform crowd moved around him the way water moves around a post. A tram ca
 He went through the notice the way Baju would have, walking it line by line, counting what had been walked, and found what wasn't there.
 
 *Effects recovered: toolbag (1). Coat (1). Counter, mechanical (1).*
+
+No terminal. Baju never wore one where he meant to watch.
 
 No notebook.
 
@@ -152,11 +152,11 @@ At the lift doors, the Dhammapala spoke to him from the lamplit room in his head
 
 He heard it. He pressed the call plate anyway, and felt the scar along his jaw pull tight as the doors opened.
 
-There was one message to send tonight. It would go by the oldest route Ashoka had, a folded slip carried hand to hand by people who never read what they carried, to a man in Chanakya whose voice Elara had never heard. Kaan's orders had been to watch the analyst and never approach him. Learn him. Decide nothing in advance.
+There was one message to send tonight. It would go by the oldest route Ashoka had, a folded slip carried hand to hand by people who never read what they carried, to a man in Chanakya with a face like an unmarked door. Kaan's orders had been to watch the analyst and never approach him. Learn him. Decide nothing in advance.
 
 Rohan wrote two words on the slip in his own upright hand: *stop listening.*
 
-Kaan would read it as it was meant. The ear was to stop being an ear. He was to walk up to the analyst named Ravi and put himself within reach, and find out face to face whether the man was the hand's instrument or the hand itself. The slow way was over.
+Kaan would read it as it was meant. The ear was to stop being an ear. He was to put himself within reach of the analyst named Ravi, and find out whether the man was the hand's instrument or the hand itself. The slow way was over.
 
 Baju had found the hand. That was what the notice said under its two words. He'd got close enough that it had to kill him, and it had done it in a hurry, with a blank any careful hunter would know for what it was. A hand that could be hurried was a hand that could make mistakes.
 
@@ -164,7 +164,7 @@ Rohan meant to give it every reason to hurry.
 
 ---
 
-Elara was doing it lawfully, which she told herself was the difference.
+Elara was doing the one thing she'd told herself she wouldn't, and doing it lawfully, which she told herself was the difference.
 
 Her own cycle, her own console, her own Initiation: every line of the boys' monitoring record was hers to review under the Ancient One's code. She was a monitor reading her monitoring. If anyone asked, and someone would, that was what she'd say.
 
@@ -172,7 +172,7 @@ The gate scans ran down each record like stitches, every morning in, every eveni
 
 The mine had done what the mine did. It flagged the missed shifts, waited out the days its rules required, and wrote the small cold word the city used for things it had thrown away. *Absconded. Slots released.* Gage's father's number was already back in the pool, waiting for the next body.
 
-Her thumb went to the edge of the console and pressed until the nail whitened. She had put that number where a boy would find it. It had taken the city four days to hand it to someone else.
+Her thumb went to the edge of the console and pressed until the nail whitened. She had put that number where a boy would find it. It had taken the city four days to put it back in the drawer.
 
 She couldn't follow them forward. So she went back, to the line she'd read past a hundred times: after the water test, Gage's intake stopped. She had always read the result. Now she opened the method.
 
@@ -204,13 +204,13 @@ The clerk looked over the top of her spectacles. "From the shack-rows? Two days'
 
 Elara thought of the lens footage: the sliver in Gage's fingers, the way the purple had come up through it slowly, like a bruise.
 
-She went back to the strip's line. *Origin: unregistered.* No factory had made it, because nobody had. A fifteen-year-old girl had walked two days into the place where the city's dead instruments went, picked through what they'd leaked, and built a working test out of the city's own rubbish. Then she'd sewn it into her brother's sleeve and taught him what the colors meant, and three boys had lived.
+She went back to the strip's line. *Origin: unregistered.* No factory had made it. A fifteen-year-old girl had walked two days into the place where the city's dead instruments went, picked through what they'd leaked, and built a working test out of the city's own rubbish. Then she'd sewn it into her brother's sleeve and taught him what the colors meant, and three boys had lived.
 
 *Nothing forged. Nothing named. Only timing.* Elara's own words. She'd put one number where a boy would find it and told herself that was the smallest thing a person could do. Camilla had put one strip where a boy would find it.
 
 At fifteen Elara had hidden in a freight pod and gone down to the ground alone, with a notebook full of notes on a herb that didn't exist. Three days. Teresa died on the second night. Every adult with the power to help had told her, kindly, that nothing could be done, and she hadn't waited for their permission.
 
-Camilla had gone out to the Heights alone, the same way, for the same reason. The difference was that Camilla had come back with something that worked.
+Camilla had gone out to the Heights alone, the same way, for the same reason. The difference was that Camilla had come back with something that worked. The city had a category for that. It called it a compassion anomaly and filed it under risk.
 
 "Her ration card," the clerk said. She had turned the file a quarter toward herself and was reading it upside down with the ease of long practice. "The only way the city counts a child too young for the mine. Last drawn the same morning as the Parker boy's and the Baxter boy's last scan. Nothing since."
 
@@ -224,4 +224,4 @@ Wherever the boys were, the sister was with them. The one who'd armed them befor
 
 The girl's intake photograph was the last thing to go dark: flat, unsmiling, her eyes already busy with something out of frame.
 
-Elara went back upstairs to the hunt. Across the platforms, folded against Rohan's chest, a notice was already moving toward her that she hadn't read yet.
+Elara went back upstairs to the hunt. Across the platforms, folded against Rohan's chest, a notice was already on its way to her, folded against Rohan's chest.

@@ -196,7 +196,7 @@ His right hand wouldn't be still.
 
 He'd put it on the railing to steady it. The rail was cold, beaded with spray from the gardens, and a moth had settled on it a hand's width from his little finger, its wings flat and furred and the color of old paper. The tremor had started in the corridor and hadn't stopped on the Skylark, or the maglev, or the long climb through the terraces. Every time his eyes fell on the black band he saw the man.
 
-He'd looked only briefly. He had made himself turn away. But the eyes had come with him, up the lift, across the dark between platforms, into this garden of running water. On his side. Eyes open and fixed on nothing. One boot half off his foot.
+He'd made himself look, and then made himself stop. But the eyes had come with him, up the lift, across the dark between platforms, into this garden of running water. On his side. Eyes open and fixed on nothing. One boot half off his foot.
 
 The boot was what he couldn't leave alone. Such a small, ordinary, undignified thing. A man had laced it that morning.
 
@@ -238,7 +238,7 @@ Blue on blue. Otto almost didn't see it. Then its wings opened and closed, slow,
 
 "You taught me to be."
 
-"I did. You were a loud boy. All fists. I taught you the fist is the last thing, not the first." The old man's eyes were kind in the way a good teacher's are, which has nothing to do with being gentle. "You learned it better than I ever did. I watched you hold those stones. I have never seen anyone go so deep."
+"I did. You were a loud boy. All fists. I taught you the fist is the last thing, not the first, and that most fights are won by the man who can be still long enough to see where the other man is going to be." The old man's eyes were kind in the way a good teacher's are, which has nothing to do with being gentle. "You learned it better than I ever did. I watched you hold those stones. I have never seen anyone go so deep."
 
 "I can't come back up."
 
@@ -252,7 +252,7 @@ The butterfly opened and closed.
 
 He leaned forward, and Otto saw that the old man's calm had gone out of him. His face was urgent.
 
-"Once, a long time ago, my hand locked," Master Chan said. "Closed, like a root. No doctor could open it. So I opened it in my mind. One hour at a time, for a long time, before the hand believed me." He held up that hand now, and slowly, deliberately, lifted one finger. "This. Everything else is the room. This is you. Find it. Fight for it."
+"Once, a long time ago, my hand locked," Master Chan said. "Closed, like a root. No doctor could open it. So I opened it in my mind. One hour at a time, for a long time, before the hand believed me." He held up that hand now, and slowly, deliberately, lifted one finger. "This. Everything else is the room. This is you. Find it. Fight for it. It will feel like betraying everything I taught you. Do it anyway."
 
 The yard was already going. The shed wall thinned. The heat went out of the afternoon. The butterfly rose off the old man's shoulder and hung between them, blue in the failing blue, and his voice came from farther and farther off.
 
@@ -262,7 +262,7 @@ Then there was only the blue, and the pull in his arms that came and went.
 
 Otto fought.
 
-There was nothing to fight, so he fought the nothing. He found the place where the stillness was smoothest and threw himself at it, whatever was left of him that could want. He wanted his hand. He didn't know which one or where it was. He wanted it the way he'd wanted the stones to stay up, and the stillness took the wanting the way it took everything and made it part of the calm, and he was deeper than before, and the blue was warmer.
+There was nothing to fight, so he fought the nothing. He found the place where the stillness was smoothest and threw himself at it, whatever was left of him that could want. It was like trying to push over a mountain from the inside. He wanted his hand. He didn't know which one or where it was. He wanted it the way he'd wanted the stones to stay up, and the stillness took the wanting the way it took everything and made it part of the calm, and he was deeper than before, and the blue was warmer.
 
 He understood somewhere in it that this was how he'd die. No pain. Adapted all the way to the bottom.
 
@@ -272,7 +272,7 @@ He thought of Gage in a doorway with his hands open on purpose, so no one in the
 
 He thought of Camilla with her arm gone and her teeth still red from the tourniquet. *Get back to the panel.*
 
-He thought of Gage at the hole, his face turned down. *Promise me.*
+He thought of Gage at the hole. *Promise me.*
 
 The rope was there, hanging in the blue, taut, going up.
 

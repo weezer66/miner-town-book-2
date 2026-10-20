@@ -36,23 +36,21 @@ Then the stillness came back over it, slow and kind and total, and the stone set
 
 The voice had stopped.
 
-Middle of a sentence. Now that he knew the sentences were Ben's he knew their shape, and this one had been going somewhere and hadn't got there. It hung in the shaft with its end sheared off.
-
-The cool kept coming in. The faint steady sound kept its time. Nothing else happened.
+Middle of a sentence. It hung in the shaft with its end sheared off.
 
 Then the voice breathed in. He heard that. The breath came down the shaft clearer than any word had.
 
 And it started from the beginning.
 
-The same sentence. He could tell by its lift, and by the word near the front of it again, blurred this time, a stone seen through moving water. And after the sentence, the gap. The same length, to the beat. Ben had always been like that over a coil on the bench. When it hummed once after an hour of nothing, he didn't shout and he didn't grab. He put everything back where it had been, and did the exact same thing again, and waited to see if it would hum for the same reason.
+The same sentence, the word near the front of it blurred this time, a stone seen through moving water. Then the gap. The same length, to the beat. Ben over a coil that had hummed once: put everything back, do it again, wait.
 
 Otto lay in the gap and felt it.
 
-He'd thought it was only where Ben breathed. It was a hole left in the air the exact size of an answer. It had a width. The width was a sentence long, and the sentence was his. Ben had been cutting it out for him every time, setting it down at the bottom of the shaft, and going on, and Otto had never once picked it up.
+The gap had a width. It was a hole left in the air the exact size of an answer, a sentence long, and the sentence was his. Ben had been cutting it out for him every time, setting it down at the bottom of the shaft, and going on, and Otto had never once picked it up.
 
 He couldn't now. He tried, and the stillness drank the trying. But he could feel the edges of the gap the way you feel the edges of a chair in a room with no lamp, and he knew who it was for.
 
-*Fine*, said the small old part of him that still had a mouth on it. *Leave another one. I'm not going anywhere.*
+*Fine*, said the old Otto-mobile part of him. *Leave another one. I'm not going anywhere.*
 
 The voice left another one.
 
@@ -60,7 +58,7 @@ The voice left another one.
 
 The promise was where it always was.
 
-Two pieces. Gage at the hole, the scar-map white on his brow, face turned down, waiting. Otto had carried that face so long he'd stopped feeling the carrying. Gage had told him to jump. He'd said he would. He hadn't. That was the whole of it, as far as he'd ever let himself take it.
+Two pieces. Gage at the hole, the old scar standing out pale, face turned up, waiting. Otto had carried that face so long he'd stopped feeling the carrying. Gage had told him to jump. He'd said he would. He hadn't. That was the whole of it, as far as he'd ever let himself take it.
 
 But Ben had stopped in the middle, and gone back, and said it again.
 
@@ -70,7 +68,7 @@ The two pieces lay in the blue with him, the same as ever.
 
 The weight came off them.
 
-It turned round where it lay, and where it had pressed down on him, it drew up. He looked at Gage's face again, and this time he saw the hands: both of them down over the lip of the hole, open, knuckles skinned, and running down from them into the dark, the promise, a rope let down a shaft. Rough. A knot at every arm's length, the fibres furred at the knots where big hands had been worrying them. At the top of it, Gage had his heels dug in and his whole weight leaned back, the way he'd lean on a stuck valve, and he wasn't letting go of his end, and he wasn't going to.
+It turned round where it lay, and where it had pressed down on him, it drew up. In the blue, the hole hung the other way: Gage was above him now, at the lip of it, and he saw the hands: both of them down over the lip of the hole, open, knuckles skinned, and running down from them into the dark, the promise, a rope let down a shaft. Rough. A knot at every arm's length, the fibres furred at the knots where big hands had been worrying them. At the top of it, Gage had his heels dug in and his whole weight leaned back, the way he'd lean on a stuck valve, and he wasn't letting go of his end, and he wasn't going to.
 
 Otto couldn't climb it. He couldn't find his hands to take hold.
 
