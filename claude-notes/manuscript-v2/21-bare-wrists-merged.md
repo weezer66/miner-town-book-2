@@ -192,7 +192,7 @@ The opening door threw its light sideways across him, and she saw the side of hi
 
 She knew it.
 
-She had sat beside that face for three days at THRESHOLD, close enough to hear him hum the same four notes until she wanted to throw her stylus across the console. He'd tapped his pen twice on the console's edge before every entry, like a man counting coins into a till. Daren. Kubera's monitor, who'd read three boys as rounding errors.
+She had sat across the grid from that face for three days, close enough to hear him hum the same four notes until she wanted to throw her stylus across the console. He'd tapped his pen twice on the console's edge before every entry, like a man counting coins into a till. Daren. Kubera's monitor, who'd read three boys as rounding errors.
 
 And here he was, walking home to a room no record admitted.
 
