@@ -99,7 +99,9 @@ A compact substitute for rereading everything. If something here conflicts with 
 | 8–9 | 15–16 | | ch24, part 2 (Ben topside with Nayan, Kaan and Rohan) |
 | 10 | 17 (two left) | Ben back; the last rehearsal; ch25 (Otto, nine days out of the tank, meets Vayun) | |
 | **12** | **19** | ch27, ch28, ch29 (mission night and the out-of-season table; Otto eleven days out of the tank) | the same night |
-| 13+ | | ch30 (the reckoning) | the same |
+| 12 (cont.) | | ch30, part 1 (Gage brought up by the Junkyard lift, the same night) | |
+| 13 | | ch30, workshop (the band reaches Camilla's bench after the table) | ch30: Ravi gives the folio (morning, Room Four); the table sits a second night (the deadlock); Elara's window |
+| 14 | | ch30, last scene ("the second night": four faces) | Elara takes word to the gates in the morning |
 
 **Use this table.** Don't re-derive the counts.
 

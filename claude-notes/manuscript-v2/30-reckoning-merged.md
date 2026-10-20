@@ -22,7 +22,7 @@ She heard her own breath. Then the wheel turned the other way, slowly, and the c
 
 Thirty splices. Thirty-one. She didn't count past it. The cage came down out of the dark of the shaft with lamplight in it and water running off its floor in a fringe, and it was full: the ring's people wet to the shoulders and grey with silt, the engineer with his pencil stubs gone from behind his ears and his hair flattened to his skull, the medic kneeling. And on the floor of the cage, on the stretcher, filling it from end to end, her brother.
 
-They'd strapped his left leg between two lengths of prop. The timber was still black with tar. Someone had cut his trouser away from the knee down, and what was under the straps wasn't a shape a leg should be. The medic had her hand flat on his chest and kept it there while the gate opened.
+They'd strapped his left leg between two lengths of prop. The timber was still black with tar. Someone had cut his trouser away from the knee down, and what was under the straps wasn't a shape a leg should be. The medic had her hand flat on his chest and kept it there while the gate opened. His belt was empty. Thorton's wrench was somewhere under the lake.
 
 His eyes were open.
 
@@ -30,7 +30,7 @@ He found her before the gate had finished folding back. He'd always done that. S
 
 "Cami." It came out of him wrecked, a voice that had been shouting at water. His lips were blue at the edges. "Clean?"
 
-She'd promised. They all had, in a room with a cold floor, to a man with marks on his throat. Nobody in this place lied to the four of them, and none of the four of them lied to each other, and she'd never once thought what that would cost until now, with the medic's hand on his chest and his eyes on her face, waiting.
+They'd made a man with marks on his throat promise it, in a room with a cold floor: nobody here lies to the four of them. The four of them had never needed it said. She'd never once thought what it would cost until now, with the medic's hand on his chest and his eyes on her face, waiting.
 
 "No," she said. "Not clean." She made herself stay on his eyes. "It worked."
 
@@ -50,7 +50,7 @@ Behind her, the medic's breath went in and out once, and she didn't speak.
 
 Gage lay and looked at the roof of the cage. Water ran out of his hair into his ear and he didn't move his head. Then his hands came up off the stretcher. They were scraped raw across the knuckles and filthy with silt, and they'd been open for weeks, flat on benches, flat on his knees. They didn't stay open. They found her good hand, and the splinter in it, and closed round both, and held.
 
-He didn't say anything. He didn't need to. His hands were shaking, and so was the hand inside them, and she couldn't tell any more which of them it was.
+His hands were shaking, and so was the hand inside them, and she couldn't tell any more which of them it was.
 
 The metal hand came up on its own, a beat behind. It settled on top of his.
 
@@ -74,7 +74,7 @@ That morning there had been a different slip in his coat, behind the pens, in bl
 
 *Tomorrow. Bring what you took.*
 
-The same words. The ear didn't waste new ones.
+The same words. Whoever wrote them didn't waste new ones.
 
 He went up through the policy wing on his way to the counter, and the door of the East Policy Conservatory was standing open for the cleaners. He hadn't meant to stop. He stopped.
 
@@ -98,11 +98,11 @@ Her pen stopped. He bent to the custody ledger, to the pen tied on with its stri
 
 Room Four's door was being held open by a heel.
 
-Kaan didn't look at him. A grey sleeve, the nick white through one eyebrow, a face like a door nobody had written on. Ravi went past him into the room, and the heel came away, and the door closed with both of them inside.
+The grey sleeve didn't look at him. A nick white through one eyebrow, a face like a door nobody had written on. Ravi went past him into the room, and the heel came away, and the door closed with both of them inside.
 
 Elara Nathan was sitting in the one chair.
 
-He hadn't been this close to her since the consoles. She was thinner. Her left wrist was bare, and there was a red crease across her forehead, the mark glass leaves when someone has leaned on it a long time. She looked at the folio sleeve under his arm before she looked at him.
+He hadn't been this close to her since the consoles. She was thinner. Her left wrist was bare. She looked at the folio sleeve under his arm before she looked at him.
 
 "You caught my wrist," he said.
 
@@ -112,11 +112,11 @@ He hadn't been this close to her since the consoles. She was thinner. Her left w
 
 "Tell me."
 
-"First year. I was auditing cross-house allocations, the dull ones. A Kubera transfer through the Continuity Reserve, for a survey of the archive wing that nobody had asked for, signed with two letters. OG. No registered authority." He opened the sleeve and turned to the third page, to the line he'd underlined in pencil three years ago, gone grey and furred. "That was odd. This was worse. Every Reserve order carries the channel it came in by, in a field nobody reads. This one came in through the summit seal. The Master of the Reserve's own ring." He put his finger above the line, not on it. "An authority no registry holds, through a door only one man in Kubera can open. I flagged it. It was sealed above my grade within the day." He turned to the back board. A seal slip was pasted there, its wax gone brown. "There's the answer to my objection."
+"First year. I was auditing cross-house allocations, the dull ones. A Kubera transfer through the Continuity Reserve, for a survey of the archive wing that nobody had asked for, signed with two letters. OG. No registered authority." He opened the sleeve and turned to the third page, to the line he'd underlined in pencil three years ago, gone grey and furred. "That was odd. This was worse. Every Reserve order carries the channel it came in by, in a field the channel never checks and the record keeps anyway. This one came in through the summit seal. The Master of the Reserve's own ring." He put his finger above the line, not on it. "An authority no registry holds, through a door only one man in Kubera can open. I flagged it. It was sealed above my grade within the day." He turned to the back board. A seal slip was pasted there, its wax gone brown. "There's the answer to my objection."
 
 She read it. *Sealed at the request of the Office of the Reserve.*
 
-He watched her do the sum. Her lips moved on it, a small count, and stopped.
+He watched her do the sum, and get to the end of it.
 
 "The one who's worn it these last weeks will swear to the night he put it on," she said. "Your paper's three years older than that."
 
@@ -150,15 +150,13 @@ Elara looked at him for a long while.
 
 The round room had a second table in it that night, a plain one, carried in and set beside the first, and Elara had laid the paper road on it herself.
 
-The guest register, open at Room 4-12, the white column. Nayan's four columns, the forty-day squares in the margins, lifted from the dead-room floor in order and squared. Baju's notebook, with the hole worn through its last page. Ravi's folio, open at the seal. And at the end, on a fold of Anandi's cloth, the band. Black. Inert. Beside it, in their row, the Master's rings.
+The guest register, open at Room 4-12, the white column. Nayan's four columns, the forty-day squares in the margins, lifted from the dead-room floor in order and squared. The Annex approval in the runner's pencil copy, Baju's brass pin still through its corner. Baju's notebook, with the hole worn through its last page. Ravi's folio, open at the seal. And at the end, on a fold of Anandi's cloth, the band. Black. Inert. Beside it, in their row, the Master's rings.
 
 She stood behind the Ancient One's chair. There was no gallery tonight, no dark glass. *What has been seen,* the old woman had said in the car, *cannot be asked to hide behind a pane.*
 
-Daren had finished.
+"The two letters were in the ledger before I was," Daren said, his bare wrist turned up under the lamp. "I thought they were mine." He looked at the folio, not at the Master. "That paper's older than my wrist. He had taken the band off long before. He never stopped signing with what it had made him. I was the second hand to sign them."
 
-He'd given it on the record, in order, standing, with his bare right wrist turned up where the room could see the ridge the obsidian had left. The night the band was put on him, and the hand that put it there. The doors. The library money, the Annex, Ashoka's doorways. The fourth-level corridor. He hadn't spared himself anything, and he hadn't asked the room to.
-
-"The two letters were in the ledger before I was," he'd said at the end, in the flat voice of a man reading figures at a console. "I thought they were mine. The Reserve took them from me the first time without a question. It had been waiting for them. I was the second hand to sign them." He'd looked at the folio then, and not at the Master. "That paper's older than my wrist."
+The rest he had already given on the record, in order, standing: the night the band was put on him, and the hand that put it there; the doors; the library money, the Annex, Ashoka's doorways; the fourth-level corridor. He hadn't spared himself anything.
 
 When he stopped, he didn't sit. There was no chair for him, and he didn't look for one.
 
@@ -174,7 +172,7 @@ The Arthashastri had the folio. He'd held the seal slip under the lamp without s
 
 The Ancient One didn't answer. Elara saw her hands, folded in the shawl, and saw the knuckles of the left one whiten and stay white.
 
-The soft-faced man at the foot of the table had not moved.
+The soft-faced man among them had not moved.
 
 "And this office," Flitzberg said, "has eaten from all four of your tables for longer than any of you has sat at them. Forty reams of paper. Twelve sets of bearings. Once a year, for a week, it stopped eating, because you were sitting. The copyist in Ashoka's cellar found the week." He did not look at the columns. "I will not pretend to be a fifth chair tonight. There is no fifth chair."
 
@@ -182,17 +180,33 @@ Nobody spoke.
 
 The Master of the Reserve reached out and took his first ring off the cloth.
 
-He put it on. He took the second. He didn't hurry, and he didn't look at the band, and nobody at the table told him to stop, because there was no one at the table who could. Kubera's council answered to the man putting the rings on. The other three had just said, each in turn, why they couldn't.
+He put it on. He took the second. He didn't hurry, and he didn't look at the band, and nobody at the table told him to stop.
 
-"You have proved that a seal was used," the Master said, when the last one was on. He turned his hand over, gold on every finger. "You have not agreed what to do about it. I find that I am still the Master of the Reserve. Kubera's council sits at the sixth bell on ration water for Sector One, a matter this room has made. I will be in the chair." He rose. "The table will sit again in its season. I will come without escort."
+He had the last ring between his fingers when Elara spoke, from behind the Ancient One's chair.
 
-He went out by the door on the far side, the one nobody opened for him, at the pace of a man who knew the way. He was going up to decide how much water Miner Town would get.
+"The seal's yours, Grandmaster. Say so."
 
-Every person in the room watched him go. Every one of them knew what he was. The door closed. The lamp lay on the swept floor in its clean circle, and on Anandi's cloth, where the rings had been, the weave still held a row of small round dents.
+He looked at her. He hadn't, all night.
+
+"It is mine, Monitor."
+
+He put the last ring on.
+
+"You have proved that a seal was used," the Master said. He turned his hand over, gold on every finger. "You have not agreed what to do about it. I find that I am still the Master of the Reserve. Kubera's council sits at the sixth bell on ration water for Sector One, a matter this room has made. I will be in the chair." He rose. "The table will sit again in its season. I will come without escort."
+
+He went out by the door on the far side, the one nobody opened for him, without hurrying. He was going up to decide how much water Miner Town would get.
+
+Every person in the room watched him go. The door closed. The lamp lay on the swept floor in its clean circle, and on Anandi's cloth, where the rings had been, the weave still held a row of small round dents.
 
 Daren looked at them. Then he looked at his own wrist, and turned it face down against his coat.
 
-Kubera had struck him from its rolls once already, for a failure at a console. Tonight, in front of four houses, it had been handed the reason to do it for good, and no other house had offered to take him in. He had no rank, no room that was his, nothing on either wrist. He stood by the second table with his hands open at his sides and nowhere in the city to put them.
+"What was named in this room stays in it," Flitzberg said. He was looking at Daren.
+
+"It stays," Daren said.
+
+"Ashoka holds the door," the Dhammapala said. "Its commander is outside that one now. He will hold this as well."
+
+Daren stood by the second table with his hands open at his sides and nowhere in the city to put them.
 
 ---
 
@@ -208,7 +222,7 @@ The old woman looked at the wall under her hand.
 
 "I have believed it for thirty years," she said. "I could not prove it without the wall, and the wall could not be shown. So I said nothing, and kept the oath, and kept the balance." Her voice didn't change. "And a man named Baju died in my tower with a screen under his palm, doing what I would not."
 
-She looked at Elara then. "We swore not to look. You did not swear. Go up, Monitor. Watch the ground. Nobody else is going to."
+She looked at Elara then. "I swore this table blind. You swore nothing. Go up, Monitor. Watch the ground. Nobody else is going to."
 
 She took her hand off the wall and went on.
 
@@ -218,13 +232,31 @@ Neither of them said anything.
 
 Rohan's hands were at his sides. The knuckles had split again under their glue, the right one dark. Elara watched them. They didn't close. They didn't open either; they hung, and the fingers held a half-curl, the shape of a hand that had decided against something and was still deciding.
 
-"He had a counter he clicked when he was thinking," Rohan said. "He hated lifts." His voice didn't rise. "You'll say his name to his people. Not to me. I'll take you to them, and you'll stand there and say it, and you won't say *afraid*, because they don't need to carry that too."
+"He had a counter he clicked when he was thinking," Rohan said. "He hated lifts." His voice didn't rise. "You'll say his name to his people. Not to me. I'll take you to them, the eye and the ear and Jeebh, who'll do the talking, and you'll stand there and say it, and you won't say *afraid*, because they don't need to carry that too."
 
 "Yes."
 
-Rohan looked at him a while longer. Then he stepped back against the wall, one pace, enough for a man to pass, and didn't look away while Daren did.
+Rohan looked at him a while longer. Then he stepped back against the wall, one pace, enough for a man to pass, and didn't look away while Daren did. Elara found she'd been waiting for the four notes as he went by. None came.
 
-Much later, above, in a borrowed room in Drona's tower, Elara stood at the window with her terminal on the sill beside her, face down. The cloud had thinned. Somewhere under it the mine was dark in a new place, and somewhere under that, people she'd met once were counting each other. On an Initiation feed, months ago, she'd asked why the city hadn't routed the normal one. It hadn't routed any of them. Someone down here had been watching when it didn't. She looked down at the strap on the sill. She left it there.
+Camilla was at the lift gate when Elara reached it, the metal hand hanging open at her side.
+
+"You said later," Elara said.
+
+"It's later." Camilla held the hand up between them. "Did you watch it? Up there. Did you sit and watch it learn?"
+
+"Yes. On the wall, more than once. I didn't know whose it was." Elara didn't look away. "I'd have told you the first night if I had."
+
+Camilla closed the hand, late, and opened it.
+
+"It's still my hand," she said.
+
+"I know. I'm watching the ground now. Not you."
+
+"Watch it properly, then."
+
+The gate folded back, and Elara went up.
+
+Much later, above, in a borrowed room in Drona's tower, Elara stood at the window with her terminal on the sill beside her, face down. The cloud had thinned. Somewhere under it the mine was dark in a new place, and somewhere under that, people she'd met once were counting each other. On an Initiation feed, months ago, she'd asked why the city hadn't routed the normal one. It hadn't routed any of them. Someone under the city had been watching when it didn't. She'd been on the ground once before, fifteen, hunting an herb in the dark while Teresa died saying her name. Tomorrow she'd carry a name to the gates, and this one was alive. She looked down at the strap on the sill. She left it there.
 
 ---
 
@@ -244,21 +276,23 @@ She didn't touch it yet. "Am I allowed to take it apart?"
 
 "All the way?"
 
-"All the way." He nearly smiled. "I would ask you to tell me what you find. You need not."
+"All the way." Something moved at the corner of his mouth. "I would ask you to tell me what you find. You need not."
+
+"Did you know my arm talks to their wall?"
+
+"No." He did not look away. "Had I known, you would have heard it from me."
 
 He went. She heard his steps go along the corridor and up the stair, unhurried, and stop once, and go on.
 
 She laid her metal arm on the bench beside the band, palm up.
 
-Inside, they were the same. She'd known that since the table room, since the moment her arm had heard the band's reach as something it knew. Now she could see it: the same fine web under the skin of each, the same way of listening. Hers ran half a breath behind her and learned her. This one had run a heartbeat ahead of a frightened man and never learned anything. Two halves. Somebody in Drona had built the one, a century ago, and somebody in this ring had copied its listening into the other, and here they lay, a hand's width from each other on a bench with egg yolk dried in the grain.
+Inside, they were the same. She'd known that since the table room, since the moment her arm had heard the band's reach as something it knew. Now she could see it: the same fine web under the skin of each, the same way of listening. Hers ran half a breath behind her and learned her. This one had run a heartbeat ahead of a frightened man and never learned anything. Two halves, and here they lay, a hand's width from each other on a bench with egg yolk dried in the grain.
 
 Somewhere above, a grey wall was writing down that her fingers had just opened. She knew that now. She let them stay open.
 
-On the shelf over the bench sat the listener.
+On the shelf over the bench sat the first listener, the one that had never heard anything. The one that had worked was under the lake at the thirty-first prop, still pressed to the stone.
 
-The engineer had brought it back from the Hub silt that morning, without a word, and set it there. The clay plate had cracked straight across. The coil had come off its spindle of old pipe and hung by one wire, and the whole box was still wet, the rag inside it black. The needle was bent at the tip. She hadn't touched it either.
-
-It had worked. Once, under her brother's hand, at the bottom of thirty-one props, it had heard the rock, every blow, and said so. It wasn't ever going to do it again.
+It had worked. Once, under her brother's hand, it had heard the rock, every blow, and said so. Nobody was ever going to bring it up.
 
 She picked up the smallest screwdriver on the bench, and turned the band over, and found the first seam.
 
@@ -266,7 +300,7 @@ She picked up the smallest screwdriver on the bench, and turned the band over, a
 
 Gage's leg was a long straight hill under the blanket, splinted from hip to heel, and he kept looking at it, then away, then back.
 
-The medic had let them have the tank room, because it was the only room with a bed long enough. The tank stood empty against the wall, drying, its blue tidemark gone faint. Otto stood beside it.
+The second night, the medic let them have the tank room, because it was the only room with a bed long enough. The tank stood empty against the wall, drying, its blue tidemark gone faint. Above the alert key, in the medic's square hand, there were four names now; she'd added *Otto* at the top. Otto stood beside the tank.
 
 He was standing very still. He'd been doing that for most of the evening, not leaning on anything, his hands loose, the medic's chair beside him with nobody in it. He looked better than he had a week ago. He looked like he'd been in the room all along.
 
@@ -274,17 +308,17 @@ Ben came in last, from the screens.
 
 He had grey under his eyes and a pencil behind his ear he'd forgotten about. He sat down on the end of Gage's bed, on the side away from the leg, lowering himself an inch at a time, and nobody said anything until he'd done it.
 
-"Queue's started at the end of our row," he said. "Already. It's dark up there and they're standing at the tap. It won't run." He rubbed his face. "Tomorrow the whole sector's going to be out there with buckets. They don't know why yet."
+"Queue's been at the tap since first bell," he said. "It won't run." He rubbed his face. "The whole sector's out there with buckets. Some of them know why."
 
-"They'll find out," Gage said.
+"They'll all find out," Gage said.
 
 "Yeah."
 
 Camilla thought about Rita's kettle on the stove, and Rita's hand on the tap, and the tap coughing. It would. She'd called it. She didn't look away from that and nobody asked her to.
 
-"Gretchen was there," Ben said. "At the gates. This evening, late. Same patch." He looked at his hands. "She stood a bit longer than usual. I think she heard the mountain go." His thumb moved on his knee. "Word goes up at first bell. Plain word. Elara's taking it to the gates herself, no band on." He looked at his hands. "Gretch is going to hear my name from a Trinity girl in grey-blue. I don't know what she'll do."
+"Gretchen was there the night it went," Ben said. "At the gates. Late. Same patch. She stood a bit longer than usual. I think she heard the mountain go." His thumb moved on his knee. "Elara took word up this morning, no band on. Gretch heard my name from a Trinity girl in grey-blue." He looked at his hands. "I don't know what she did."
 
-"Sit down," Otto said. "In the dirt, probably. Then get up."
+"Sat down," Otto said. "In the dirt, probably. Then got up."
 
 Ben laughed, one short wet sound, and wiped his face with the heel of his hand. Gage's hand moved on the blanket, a little, toward Ben's knee, and stopped.
 
@@ -296,9 +330,17 @@ Ben laughed, one short wet sound, and wiped his face with the heel of his hand. 
 
 "Neither do I."
 
+Gage's eyes went to the empty tank, and to Otto beside it.
+
+"You stood in front of him," he said.
+
+"Somebody had to know how."
+
+Gage laughed, one short breath of it, and it hurt, and he did it anyway.
+
 The door opened.
 
-Flitzberg stood in it. He didn't come in. He was in his own face, his collar buttoned, his hands empty, and he stood on the threshold and looked at the room as a man looks at a sum he's checked many times and needs to check once more.
+Flitzberg stood in it. He didn't come in. He was in his own face, his collar open over the marks, his hands empty, and he stood on the threshold and looked at the room as a man looks at a sum he's checked many times and needs to check once more.
 
 His eyes went to Gage first, in the bed with his leg like a hill. Gage looked back at him. Then to Camilla, at the bedside. She looked back. Then to Ben on the end of the bed, with the pencil behind his ear. Ben looked back.
 

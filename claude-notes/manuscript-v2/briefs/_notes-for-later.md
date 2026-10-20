@@ -95,3 +95,9 @@
   - **Camilla reads the band** at the climax (the D15/D16 payoff).
   - **Ravi's overdue folio:** signed out on the morning of day 4, with the returned-by column empty (ch24).
   - **Who goes in the tunnel:** Gage (ch28).
+- **Book 3 hooks (left open on purpose):**
+  - **#4055:** Elara put Gage's father's slot where he'd find it. Gage knows only "someone above".
+  - **Ben's compass:** lost in the illusion's lava.
+  - **The amber reader:** Daren spared the two on the stair. Elara doesn't know.
+  - **The crystal's blue quarter:** still steady blue.
+  - **The broken balance:** the Master is still Master and sits on the ration-water council.
