@@ -36,6 +36,10 @@ It lay in a cut-out bed of grey foam: an arm, shoulder to fingertips. Dull grey 
 
 Camilla read it front to back. Seams on the fingers finer than a hair. A darker ring at the top, where it would meet her. No cables, no battery door, no screws, and that bothered her most. A thing with no screws was a thing you weren't meant to open.
 
+"How long have you had this?" she said.
+
+He didn't answer that one. She filed it next to the screws.
+
 "It fits to the shoulder," the engineer said. His voice was dry, used to rooms where nobody asked him anything. "A cup sits over the seal. It doesn't cut. Where the arm stopped, the nerves that ran it didn't. They're still sending. It listens to them."
 
 "The arm I had keeps making a fist."
@@ -112,7 +116,7 @@ The engineer looked up from his slate, and something finally moved in his face. 
 
 "Later," the medic said. "For now you lie still, think about the question, and give me less trouble." She lowered the bed a notch. "I have patients who do as they're told. I've never once enjoyed them."
 
-Camilla lay back. When she thought about her left hand, it moved. She thought about it a great many times before the boys came.
+Camilla lay back. When she thought about her left hand, it moved. She thought about it a great many times in the dark.
 
 ---
 
@@ -204,11 +208,11 @@ Gage stepped back first. His eyes went to the arm and stayed there.
 
 "No." She let Ben go. She lifted the arm and turned it, watching the elbow follow a fraction after her eyes. "It's late. A little behind me, every time. They say it listens to what's left of the nerves in my shoulder, and it'll learn my timing in a few days. Right now it's guessing." She flexed the fingers one after another, and they followed in order, each a little behind. "It guesses well."
 
-"They put that on you overnight."
+"They put that on you overnight. While I was down the hall." His hands had closed. "Who decided?"
 
 "They offered. I said yes." She gave him the look from across the dinner table, the one for when he was about to be slow about something. "What would you have done?"
 
-He opened his mouth. Nothing came out.
+He opened his mouth. Nothing came out. His hands opened, one and then the other.
 
 She held the metal hand out to him, palm up. He'd done this once, back home, holding out a copper tag with their dead father's work number on it: *You read the system better than I do.* Her turn.
 
@@ -250,7 +254,7 @@ Gage moved half a step, between him and her. His hands stayed open. She saw him 
 
 Flitzberg's eyes went to the metal hand before they came to her. He knew. She hadn't told anyone, and he knew.
 
-"It moved before you did," Flitzberg said. "That is not the same as without you. It is still learning where you end."
+"It moved before you decided to," Flitzberg said. "That is not the same as without you. It is still learning where you end."
 
 Gage's head turned to her, Flitzberg still at the edge of his eye. "Moved."
 
@@ -299,5 +303,3 @@ They ate on her bed, Ben at the foot with his knees up, Gage on the edge so the 
 Through the dark glass the tank stood lit in its own room, the gel going pale, then deeper, then pale. On the glass at the height of Otto's hands, Ben's two prints were still there, fingers spread, fogged at the palms, and in the gap between them, where a third hand would have gone, there was only blue.
 
 She watched the prints shrink. She watched the flat line. She ate with the hand that was hers, and the other one lay on the blanket and closed, half a breath behind, every time she thought of Otto.
-
-She hadn't told it to.
