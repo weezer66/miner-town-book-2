@@ -2,7 +2,7 @@
 
 *In his dream, Ben saw his father’s face. Oscar had always told him that the Trinity didn’t just harvest coal; they harvested the capacity to care. He knew the system wanted human engines — tools driven by grinding fear. To survive without becoming a bot, you had to maintain the one thing the ledger couldn’t calculate: Empathy.*
 
-— Book 1, Chapter 3: The Initiation
+— Book 1, Chapter 4: Emily’s Not Talking
 
 ## Then: Day Four
 
