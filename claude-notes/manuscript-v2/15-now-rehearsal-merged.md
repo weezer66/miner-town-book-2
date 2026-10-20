@@ -28,7 +28,7 @@ It was warm on metal that couldn't feel warm.
 
 "Again," the engineer said, and from under the bench he brought out a second egg.
 
-At the far end of the same bench, under a cloth, sat the other thing: a coil wound on a spindle of old pipe, a plate of clay for it to sit in, a needle that was meant to jump when the clay shook. The ear for the wall. She'd tapped the clay with a spanner a hundred times this week, and the needle had jumped for the spanner and for her own footsteps and for Gage shutting a drawer two rooms away. It couldn't yet tell rock from anything else.
+At the far end of the same bench, under a cloth, sat the other thing: a coil wound on a spindle of old pipe, a plate of clay for it to sit in, a needle that was meant to jump when the clay shook. The listener, for the wall. She'd tapped the clay with a spanner a hundred times this week, and the needle had jumped for the spanner and for her own footsteps and for Gage shutting a drawer two rooms away. It couldn't yet tell rock from anything else.
 
 ---
 

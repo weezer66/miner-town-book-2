@@ -116,7 +116,7 @@ The man in black looked at the table again, and the space between the arm and th
 
 It came out louder than she'd meant, in the voice she used on Gage when he was holding a wrench wrong. Every face in the room turned to her. The old woman in the shawl. The small man in green. The white-haired woman, who'd been looking at the man's wrist and now looked at Camilla's arm instead, at the elbow still lifted on its own. Flitzberg's eyes came to her and his hands came together, once, and parted.
 
-She'd spent her whole life being the one nobody looked at. A girl on a ration card. Eyes on everybody else's gauges. Now the whole room was on her, and on the arm, and an hour ago a stranger had told her that somewhere above the city a wall had been reading every twitch of her fingers since the day it was fitted. The cups. The egg. Every morning she'd made a fist and opened it again, someone had written it down.
+She'd spent her whole life being the one nobody looked at. A girl on a ration card. Eyes on everybody else's gauges. Now the whole room was on her, and on the arm, and a few minutes ago a stranger had told her that somewhere above the city a wall had been reading every twitch of her fingers since the day it was fitted. The cups. The egg. Every morning she'd made a fist and opened it again, someone had written it down.
 
 So they were writing this down too.
 
@@ -128,7 +128,7 @@ She made the metal fingers close. They came late. She let them. She made them op
 
 The Master didn't look up. He was looking at the ring on its edge.
 
-"I know everybody's looking at you," Camilla said. "Somebody's been reading my hand for weeks. I found out an hour ago. It's still my hand."
+"I know everybody's looking at you," Camilla said. "Somebody's been reading my hand for weeks. I found out a few minutes ago. It's still my hand."
 
 Behind her, someone came into the doorway and stopped at her shoulder, breathing as hard as she was. Grey-blue jacket, buttoned wrong by one hole. Camilla didn't turn round.
 

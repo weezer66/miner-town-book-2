@@ -228,7 +228,7 @@ The mission was the Master's. The method tonight was Daren's own. The Master col
 
 And no one can revoke what he cannot name. If the old man ever reached for the leash, he'd have to cancel two letters, and to cancel them he'd first have to confess them, to the council, to the audit, to the houses he meant to rule. The confession would end him long before it ended Daren.
 
-The thought sat in him warm and settled, a coin in a closed fist. His thumb rubbed the edge of the band, over the ridge the old gold clasp had left beneath it, and he noticed that he was smiling.
+The thought sat in him warm and settled, a coin in a closed fist. His thumb rubbed the edge of the band, over the place where the old gold clasp had ridged the skin, a finger below it, and he noticed that he was smiling.
 
 He thought about retrieving the king and let it stand. The lamps would record it there, unexplained. Some archivist's query would die the way queries did, and Ravi would pass this hall a hundred times in the years ahead knowing exactly what stood at its center, and which way it faced.
 

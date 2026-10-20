@@ -6,7 +6,7 @@
 
 ## Now: Reckoning
 
-The other lift came down out of the Junkyard on a cable that sang.
+The other lift came down out of the Junkyard on a cable that sang. The ring's own, behind the pump house, was under the lake.
 
 Camilla had never heard it used. It ran up through the granite to a door under the scrap heaps, on the dry shelf a hundred feet above the Hub, and the engineer had taken six of the ring's people up it with ropes and lamps and a folded stretcher, and the medic, and had told her where to stand. "Here," he'd said, and pointed at the floor in front of the lift gate. Then the cage had gone up, and the cable had gone on moving through its wheel above the gate long after the cage was out of sight, and she'd stood where she'd been put and counted the splices as they went by.
 
@@ -176,7 +176,7 @@ The Ancient One didn't answer. Elara saw her hands, folded in the shawl, and saw
 
 The soft-faced man at the foot of the table had not moved.
 
-"And this office," Flitzberg said, "has eaten from all four of your tables for longer than any of you has sat at them. Forty reams of paper. Twelve sets of bearings. I will not pretend to be a fifth chair tonight. There is no fifth chair."
+"And this office," Flitzberg said, "has eaten from all four of your tables for longer than any of you has sat at them. Forty reams of paper. Twelve sets of bearings. Once a year, for a week, it stopped eating, because you were sitting. The copyist in Ashoka's cellar found the week." He did not look at the columns. "I will not pretend to be a fifth chair tonight. There is no fifth chair."
 
 Nobody spoke.
 
@@ -224,7 +224,7 @@ Rohan's hands were at his sides. The knuckles had split again under their glue, 
 
 Rohan looked at him a while longer. Then he stepped back against the wall, one pace, enough for a man to pass, and didn't look away while Daren did.
 
-Much later, above, in a borrowed room in Drona's tower, Elara stood at the window with her terminal on the sill beside her, face down. The cloud had thinned. Somewhere under it the mine was dark in a new place, and somewhere under that, people she'd met once were counting each other. She looked down at the strap on the sill. She left it there.
+Much later, above, in a borrowed room in Drona's tower, Elara stood at the window with her terminal on the sill beside her, face down. The cloud had thinned. Somewhere under it the mine was dark in a new place, and somewhere under that, people she'd met once were counting each other. On an Initiation feed, months ago, she'd asked why the city hadn't routed the normal one. It hadn't routed any of them. Someone down here had been watching when it didn't. She looked down at the strap on the sill. She left it there.
 
 ---
 
@@ -244,17 +244,17 @@ She didn't touch it yet. "Am I allowed to take it apart?"
 
 "All the way?"
 
-"All the way." His mouth moved by less than a smile. "I would ask you to tell me what you find. You need not."
+"All the way." He nearly smiled. "I would ask you to tell me what you find. You need not."
 
 He went. She heard his steps go along the corridor and up the stair, unhurried, and stop once, and go on.
 
 She laid her metal arm on the bench beside the band, palm up.
 
-Inside, they were the same. She'd known that since the table room, since the moment her arm had heard the band's reach as something it knew. Now she could see it: the same fine web under the skin of each, the same way of listening. Hers ran half a breath behind her and learned her. This one had run a heartbeat ahead of a frightened man and never learned anything. Two halves. Somebody in Drona had built the one, a century ago, and somebody in this ring had copied its ear into the other, and here they lay, a hand's width from each other on a bench with egg yolk dried in the grain.
+Inside, they were the same. She'd known that since the table room, since the moment her arm had heard the band's reach as something it knew. Now she could see it: the same fine web under the skin of each, the same way of listening. Hers ran half a breath behind her and learned her. This one had run a heartbeat ahead of a frightened man and never learned anything. Two halves. Somebody in Drona had built the one, a century ago, and somebody in this ring had copied its listening into the other, and here they lay, a hand's width from each other on a bench with egg yolk dried in the grain.
 
 Somewhere above, a grey wall was writing down that her fingers had just opened. She knew that now. She let them stay open.
 
-On the shelf over the bench sat the ear.
+On the shelf over the bench sat the listener.
 
 The engineer had brought it back from the Hub silt that morning, without a word, and set it there. The clay plate had cracked straight across. The coil had come off its spindle of old pipe and hung by one wire, and the whole box was still wet, the rag inside it black. The needle was bent at the tip. She hadn't touched it either.
 

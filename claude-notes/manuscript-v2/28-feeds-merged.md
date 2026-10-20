@@ -6,11 +6,9 @@
 
 ## Now: Feeds
 
-The man with the headset had shut his cracker tin.
+The man with the headset had shut his cracker tin again.
 
-In nineteen nights Camilla had never seen the lid on it. It sat at his elbow, closed, and every so often his hand came down beside it into the pale crescent it had worn in the desk, found nothing there, and went back to the dial.
-
-The screen room was warm and low and full of the hum of the fans behind the wall. Ben sat on the stool at the headset man's other side, his elbows on his knees, his eyes on the top row. Camilla stood behind them both with one earpiece pressed to her head and the cord looped twice round her good wrist, so she couldn't drop it if she wanted to. The engineer stood at the end of the desk with his brass-caged sand-glass in both hands, not yet turned. He'd checked it against three clocks again that afternoon. She'd watched him do it.
+The control room was warm and low and full of the hum of the fans behind the wall. Ben sat on the stool at the headset man's other side, his elbows on his knees, his eyes on the top row. Camilla stood behind them both with one earpiece pressed to her head and the cord looped twice round her good wrist, so she couldn't drop it if she wanted to. The engineer stood at the end of the desk with his brass-caged sand-glass in both hands, not yet turned. He'd checked it against three clocks again that afternoon. She'd watched him do it.
 
 "Board's coming up," Ben said.
 
@@ -34,7 +32,7 @@ Then he counted the rest of them off. He did it in the voice he'd used for Nayan
 
 Camilla looked at the bottom row anyway.
 
-The Hub, wide and grey and lit by its own work lamps, with no one under them. The turbine floor. The long mouth of the drainage run. And at the far edge, squat against the rock, the old pump house that drew Miner Town's ration water up out of the deep, with one caged lamp over its door and its pumps going round alone, as they did every night after the second bell. Nobody kept it at night. She'd checked nineteen nights running. She checked it a twentieth time now, every corner of the grey picture, and the door stayed shut and the lamp stayed lit and nothing moved in front of it but water in the gutter.
+The Hub, wide and grey and lit by its own work lamps, with no one under them. The turbine floor. The long mouth of the drainage run. And at the far edge, squat against the rock, the old pump house that drew Miner Town's ration water up out of the deep, with one caged lamp over its door and its pumps going round alone, as they did every night after the second bell. Nobody kept it at night. She'd checked it every night. She checked it again now, every corner of the grey picture, and the door stayed shut and the lamp stayed lit and nothing moved in front of it but water in the gutter.
 
 One screen left. The tunnel mouth at the Hub's far side, the drain sill a pale line across the bottom of the picture. A lamp was standing in it.
 
@@ -42,11 +40,11 @@ His breathing came on the line before his voice did, close and slow, his bunk-ro
 
 "It's deaf out here," Gage said.
 
-She'd known it would be. The ear had heard rock three times in the last week, all three on the bench with the clay pressed hard to a slab of the mountain the engineer had brought down in a barrow, and never once through air. It needed stone against it. It needed the stone that was going to break.
+She'd known it would be. Three in four, and every one of the three with stone against it, never through air. It needed the stone that was going to break.
 
 *Then build it. And if it sees, someone may still have to carry it in.*
 
-She had built it so that nobody would stand there. She'd built it with her teeth set and the egg yolk dried in her knuckles, and every night of the nineteen she'd watched his finger walk down the clay to the split splinter and stop, and she'd never once said so. She'd known since the briefing room. She'd known on the stairs, when he'd crouched for Otto. It didn't help. Her metal hand had taken hold of the back of Ben's stool, and the frame gave a small dry creak under it before she made the fingers let go.
+She had built it so that nobody would stand there. She'd built it with her teeth set and the egg yolk dried in her knuckles, and every night of the nineteen she'd watched his finger walk down the clay to the split splinter and stop, and she'd never said so. She'd known since the briefing room. She'd known on the stairs, when he'd crouched for Otto. It didn't help. Her metal hand had taken hold of the back of Ben's stool, and the frame gave a small dry creak under it before she made the fingers let go.
 
 "Fourteen," she said. "Where the water comes in on the left. Try it there."
 
@@ -92,7 +90,7 @@ Nobody leaned forward. The sand ran.
 
 The screen in the top right corner wasn't the mine's.
 
-It was one of the ring's, one of the hundred small grey eyes this place kept on its own corridors, and it had shown the same thing for nineteen nights: a stretch of very old stone at the edge of the ring's lowest level, a door at the end of it that nobody used, a lamp above the door that nobody lit. The route was on Flitzberg's plans as disused. She'd asked him once where it went. *Up,* he'd said. *Once.*
+It was one of the ring's, one of the hundred small grey eyes this place kept on its own corridors, and it had shown the same thing every night: a short curve of corridor behind the table room, a door at the end of it that nobody used, a lamp above the door that nobody lit. The route was on Flitzberg's plans as disused. She'd asked him once where it went. *Up,* he'd said. *Once.*
 
 The door opened.
 
@@ -100,7 +98,7 @@ Nobody was in front of it. The picture held still, old stone and a dark lamp, an
 
 Camilla looked at the table-room screen beside it.
 
-The four Grandmasters sat at the long table in the room she'd never been in. Flitzberg sat at its foot, in his own face, his hands folded. And the Master of the Reserve sat with his rings laid out before him in their row and his hands bare on the wood, and he didn't look round. He didn't look at the door at the back of the table room, or at anything. He was looking at the rings. He'd been expecting it.
+The four Grandmasters sat at the round table in the room she'd never been in. Flitzberg sat among them, in his own face, his hands folded. And the Master of the Reserve sat with his rings laid out before him in their row and his hands bare on the wood, and he didn't look round. He didn't look at the door at the back of the table room, or at anything. He was looking at the rings. He'd been expecting it.
 
 "Landed," Gage said in her ear. "Again."
 
@@ -108,7 +106,7 @@ The four Grandmasters sat at the long table in the room she'd never been in. Fli
 
 "Closed."
 
-On the screen below the table room, a corridor outside it. Otto had been standing in that corridor since before the shift change, where he'd said he'd be, with his back to the wall and his hands loose at his sides, so still that twice she'd thought the screen had frozen. Now he turned his head. Nothing in the corridor had made a sound; the ring's ears logged nothing. He turned his head toward the old route anyway, and then he walked toward it, unhurried, setting his feet down as he did on soft ground.
+On the screen below the table room, a corridor outside it. Otto had been standing in that corridor since before the shift change, where he'd said he'd be, with his back to the wall and his hands loose at his sides, so still that twice she'd thought the screen had frozen. Now he turned his head. Nothing in the corridor had made a sound; the ring's ears logged nothing. He turned his head toward the old route anyway, and then he opened the table-room door beside him and went in, unhurried, setting his feet down as he did on soft ground.
 
 Two screens. One voice.
 
@@ -140,7 +138,7 @@ The girl from Drona had heard all of it. Camilla watched her hear it: the count,
 
 Camilla stood with that.
 
-All the nights she'd spent learning the second row. All the faces at the safety desks, which one yawned, which one leaned. She'd been the Eyes because somebody had to watch the watchers, and here was one of them, bare-wristed, with glass marked on her forehead, telling her there was nobody to watch.
+All the nights she'd spent learning the second row. All the faces at the safety desks, which one yawned, which one leaned. And here was one of the watchers, bare-wristed, with glass marked on her forehead, telling her there was nobody to watch.
 
 Her metal hand had come to rest on the edge of the desk. It opened. It closed. It closed again, harder, and held, a fist, without her asking.
 
@@ -150,7 +148,7 @@ Something went through the older girl's face that Camilla didn't have a name for
 
 "Your arm talks to Drona's wall," Elara said. "It has since the day they fitted it."
 
-The cups. The egg. The four dents in the grain. Every morning she'd taught the fingers something and caught herself waiting for the mornings, somebody had been reading it in a room she'd never seen.
+The cups. The egg. The four dents in the grain. Someone had watched her learn every one.
 
 She looked at the fist on the desk. She made it open.
 
@@ -158,9 +156,9 @@ She looked at the fist on the desk. She made it open.
 
 "Landed," said Gage. "Again."
 
-On the ring's screen, Otto had reached the end of the lit corridor and gone on into the part where there was no lamp, and she couldn't see him anymore.
+On the corridor screen the stretch beside the table-room door stood empty.
 
-She knew which of her brothers could do without her voice tonight. He'd told her so at a bench, with his finger on a split splinter, every night for nineteen nights.
+Gage had never needed her voice to find the wall. He'd shown her that at a bench, with his finger on a split splinter, every night for nineteen nights.
 
 Camilla unlooped the cord from her wrist. She lifted the earpiece off her head and put it on Ben's, over his ear, and pressed it there with her good hand until she felt him take it.
 
@@ -180,7 +178,7 @@ She was already at the door. Behind her, very faint now, from the earpiece press
 
 He'd started at eleven, because the first ten props were the Hub's and he'd walked those on the way to the mouth.
 
-The lip of the drain sill under his boot. Left hand on the rock. The ear strapped against his ribs under his right arm, heavier than it looked, the clay plate cold through his shirt and the coil knocking his elbow at every stride. He'd left his lamp on. He wouldn't need it, and he knew he'd miss it when it went, and he kept it on for the missing.
+The lip of the drain sill under his boot. Left hand on the rock. The listener strapped against his ribs under his right arm, heavier than it looked, the clay plate cold through his shirt and the coil knocking his elbow at every stride. He'd left his lamp on. He wouldn't need it, and he knew he'd miss it when it went, and he kept it on for the missing.
 
 Twelve. The timber came under his palm as it always had, rough, a split down the grain he could have found in his sleep. Thirteen. He folded down for the beam. It went over the back of his neck an inch clear, and the old smell came off it, tar and wet and something like struck matches.
 
@@ -192,7 +190,7 @@ Nineteen had a tin cup on a nail. Some miner's, years ago, left for whoever came
 
 Thirty-one. His hand stopped on the rock.
 
-He knelt and unstrapped the ear and pressed it to the junction, clay to stone, where the crack ran through. He leaned his shoulder on it to keep it there. Then he put his left hand flat on the rock beside it, fingers spread, because a hand on the stone could tell a blow that landed from one that didn't, and he trusted the hand and he trusted his sister's box, and he wanted both.
+He knelt and unstrapped the listener and pressed it to the junction, clay to stone, where the crack ran through. He leaned his shoulder on it to keep it there. Then he put his left hand flat on the rock beside it, fingers spread, because a hand on the stone could tell a blow that landed from one that didn't, and he trusted the hand and he trusted his sister's box, and he wanted both.
 
 "Clear," Ben said on the line, a long way up.
 
@@ -234,7 +232,7 @@ He felt it in his teeth. His ears went tight, then tighter, and popped, and the 
 
 His lamp went out.
 
-He didn't wait for it to come back. He left the ear where it was, pressed to the stone, still listening. He stood up into the dark and turned round and put his right hand on the rock, because the rock was on his right now, and his right hand had never once learned this run.
+He didn't wait for it to come back. He left the listener where it was, pressed to the stone, still listening. He stood up into the dark and turned round and put his right hand on the rock, because the rock was on his right now, and his right hand had never once learned this run.
 
 He'd never practiced coming back. In the long corridor on level four he'd walked to the end with his eyes shut and counted, and walked back with both hands at his sides, and not counted at all.
 
@@ -298,7 +296,7 @@ Gap.
 
 Elara knew his face. She'd seen it once on an Initiation feed, five feet eight, every value inside the band, the boy nobody had routed. She'd never heard his voice until tonight.
 
-She'd held the other one for seventy-two hours. Six feet five, two hundred twenty pounds that didn't close against a ration. She'd had his pulse on her wrist through three days in a chamber, and pressed her thumb under his file, and taken him as hers. She didn't know him. She had never heard him speak until a man in the dark said *landed*, and the last word she'd heard him say was *through*.
+She'd held the other one for seventy-two hours and never heard him speak until a man in the dark said *landed*, and the last word she'd heard him say was *through*.
 
 There was no other chair. She sat down on the floor beside the stool, with her back against the leg of the desk and her bare wrist on her knee.
 
@@ -316,6 +314,6 @@ He put two fingers to the earpiece and pressed it closer, and she leaned in unti
 
 She listened with him. She had never counted beside anyone. She found that she was doing it now, under her breath, a beat behind Ben, and that her bare wrist had turned itself up to read what wasn't there.
 
-On the top row, the girl was a grey shape running a corridor, the metal arm swinging her wide at the turn, and then she wasn't on any screen. On the one beside it, the table room. The four Grandmasters had all turned in their chairs. Flitzberg had unfolded his hands. Only the Master of the Reserve still sat facing forward, with his bare hands on the wood and his rings in their row in front of him, every seal closed.
+On the top row, the girl was a grey shape running a corridor, the metal arm swinging her wide at the turn, and then she wasn't on any screen. On the one beside it, the table room. Three of the Grandmasters had come up out of their chairs. Flitzberg had unfolded his hands. Only the Master of the Reserve still sat facing forward, with his bare hands on the wood and his rings in their row in front of him, every seal closed. At the edge of the lamp's circle, a little apart, stood Otto.
 
 In the doorway at the back of the table room, in black, his coat buttoned to the throat and his right arm held a little out from his body, with his left hand at his chest over something in his coat, stood Daren.

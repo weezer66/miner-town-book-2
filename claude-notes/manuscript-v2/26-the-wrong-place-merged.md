@@ -6,7 +6,7 @@
 
 ## Now: The wrong place
 
-The morning after the corridor, the tower's overnight digest came in at the fourth bell, as it did every morning: the whole night of the building pressed into a few hundred grey lines that nobody was meant to read to the end.
+Eight nights before the table sat, the morning after the corridor, the tower's overnight digest came in at the fourth bell, as it did every morning: the whole night of the building pressed into a few hundred grey lines that nobody was meant to read to the end.
 
 Daren read it to the end. He sat on the edge of the narrow bed in the unlisted room, under the dark display he had never switched on, with the glass pane balanced on his left knee. Lift holds on the sixth level. A coolant alarm on the ninth, cleared by itself. A cleaning drone on the fourth reporting a fault in its own bent bristle, which it had reported every night for a month and which no one had come to fix. He'd started to wait for that line.
 
@@ -18,7 +18,7 @@ His stomach went first. Then his throat, a tightness that climbed and sat under 
 
 Under his right cuff the band warmed by a hair.
 
-He put the pane face down on the blanket. He laid his right hand open on his knee, palm up, and looked at it until it was only a hand. Then he did what he'd done on the Meru railing. He uncurled the fingers one at a time, the little finger last, because it was the one that kept wanting to close. He let his shoulders down. He thought about the drone and its bristle and nothing else, and the warmth along the bone went out of the band, slowly, until the black was as cool as the room.
+He put the pane face down on the blanket. He laid his right hand open on his knee, palm up, and looked at it until it was only a hand. Then he did what he'd done on the Meru railing. He uncurled the fingers one at a time, the thumb last, because it was the one that kept wanting to close. He let his shoulders down. He thought about the drone and its bristle and nothing else, and the warmth along the bone went out of the band, slowly, until the black was as cool as the room.
 
 When his breathing was his own again, he knelt and slid his hand under the foot of the mattress.
 
@@ -34,9 +34,9 @@ He closed the notebook and held it shut with both hands.
 
 ---
 
-He went up the next morning, before anyone could send for him.
+He went up the next morning, seven nights out, before anyone could send for him.
 
-The summit room was lit for late morning, the lamps tuned to a pale, clean gold that made the cloud below the window look like milk. The Master of the Reserve sat at the side table with his rings already off. They lay in their row on the lacquer, in the dull crescent of scratches they had worn there, each band a seal, each seal a channel, all of them closed. In front of him on a white plate sat a pear, and he was peeling it with a small silver knife in one unbroken strip.
+The summit room was lit for late morning, the lamps tuned to a pale, clean gold that made the cloud below the window look like milk. The Master of the Reserve sat at the side table with his rings already off. They lay in their row on the lacquer, in the faint arc of scratches they had worn there, each band a seal, each seal a channel, all of them closed. In front of him on a white plate sat a pear, and he was peeling it with a small silver knife in one unbroken strip.
 
 He didn't look up. "You read the digest."
 
@@ -56,7 +56,7 @@ Daren stood where he had stood the night of the Annex, on the same square of flo
 
 Daren didn't move.
 
-"Ashoka listed the man's effects. A toolbag. A coat. A mechanical counter, which someone thought worth a line. Ashoka's people do not walk into another house's tower without paper. So there was paper. It is not on the list, and you were the only one in that corridor who could still bend down." The peel came free in one long curl and lay on the plate like a dropped ribbon. "It will be ash before the table sits. I told you in the gallery. Put down whatever you are carrying."
+"Ashoka listed the man's effects. A toolbag. A coat. A mechanical counter, which someone thought worth a line. Ashoka's people do not walk into another house's tower without paper. So there was paper. It is not on the list, and you were the only one in that corridor who could still bend down." The peel came free in one long curl and lay on the plate like a dropped ribbon. "It will be ash before the table sits. I told you in the gallery corridor. Put down whatever you are carrying."
 
 He hadn't raised his voice. He hadn't said what *clean* would cost, or who would pay it. He hadn't needed to. The words lay on the table between them beside the rings, small and exact.
 
@@ -100,11 +100,9 @@ Daren looked down at his own feet on the square of floor, and then up at the old
 
 *So the Grandmaster didn't know what it cost to wear.* He'd thought that under a buzzing lamp, and it had been almost a comfort. A careless master was something a man could forgive, or outlast. This one had known the cost to the ounce, carried it, set it down, and then fastened it on someone else.
 
-*Second only to mine.* He'd heard a rank in that. It had been a description. Second hand. The tool goes to the apprentice when the old man's grip has had enough of it.
+*Second only to mine.* A rank, he'd thought. Second hand. The tool goes to the apprentice when the old man's grip has had enough of it.
 
-There was a question behind his teeth he couldn't ask. The band would not close on a hand the city was still holding. It had to be let go of first. So the city had once let go of this man too, stripped him to the bare wrist, and then taken him back and put rings on every finger. Who had done the stripping? Who had done the taking back? And what had the hand done in between?
-
-He didn't ask. Every question was a reach, and the band listened to reaches. His tongue stayed behind his teeth, and the question stayed with it.
+There was a question behind his teeth. The band would not close on a hand the city still held, so the city had once let go of this man too, and then taken him back and put rings on every finger. Who had done the taking back? He didn't ask. His tongue stayed behind his teeth.
 
 "The table," he said instead. "She'll want you to go wherever it is. Blind, she said once. Fetched."
 
@@ -116,7 +114,7 @@ He bit into the pear. Juice ran to his wrist, and he caught it with the cloth be
 
 "It'll be done."
 
-It came out level, in the voice he'd used to read figures aloud at THRESHOLD, the voice that had once made a director stop behind his chair. One-third of the truth: it would be done, by someone, about something. The rest stayed under his tongue like a coin, and this time the coin was the Master's own.
+It came out level, in the voice he'd used to read figures aloud at THRESHOLD, the voice that had once made a director stop behind his chair. One-third of the truth: it would be done, by someone, about something. The rest stayed under his tongue like a coin.
 
 At the door the old man spoke without looking up from the rings. "Second only to mine."
 
@@ -134,11 +132,11 @@ This cat was grey, with one ear notched at the tip in a neat half-moon, the size
 
 No terminal spoke for it. Nothing told it he was cleared, or beneath notice, or none of its business. It saw a man, and it went on seeing him.
 
-On every other train he'd filed that look and walked off with it. He'd been carrying it since the first night of the band without knowing what it weighed.
+Since the first carriage he'd filed that look and walked off with it. He'd been carrying it since the first night of the band without knowing what it weighed.
 
 This time he looked back.
 
-He let himself see what it saw. A man standing alone at the dark end of a carriage that the rest of the carriage couldn't feel. Coat buttoned to the throat. Right arm held a little out from the body, the fingers spread, a man with wet hands and nowhere to dry them. And on the wrist something black that drank the carriage lights, and that the man couldn't put down, and had never once tried to see beneath.
+He let himself see what it saw. A man standing alone at the dark end of a carriage that the rest of the carriage couldn't feel. Coat buttoned to the throat. Right arm held a little out from the body, the fingers spread, a man with wet hands and nowhere to dry them. And on the wrist something black that drank the carriage lights, and that the man couldn't put down, and had never once let himself picture what lay beneath.
 
 The cat's ears went flat. Its body sank in the carrier.
 
@@ -158,7 +156,7 @@ Daren didn't know what to do with the nod. He kept it. He didn't put it anywhere
 
 The door to 4-12 opened before his hand rose, and he let it.
 
-He took the notebook out from under the mattress and sat on the bed with it in both hands. The room was the same: one table, one bed, the dark display, the window full of Drona's towers. The incinerator hatch was eleven steps from his door, by the lift. He'd counted once, without meaning to.
+He took the notebook out from under the mattress and sat on the bed with it in both hands. The room was the same: one table, one bed, the dark display, the window full of Drona's towers. The incinerator hatch was by the lift. He'd counted the steps once, without meaning to.
 
 He didn't get up.
 
@@ -182,7 +180,7 @@ The Master had stood here once, with the same fingers under the same edge. He'd 
 
 Daren took his fingers out from under the band.
 
-The notebook pressed against his rib. Somewhere in it, in a small upright hand, was a man who had wanted to know what the instruments wouldn't tell him and had written it down so it would keep. He'd had a name once. Daren didn't know it and never would. But it was written somewhere, on some roll in Ashoka, in someone's memory. Someone ought to say it aloud in a room that was listening.
+The notebook pressed against his rib. Somewhere in it, in a small upright hand, was a man who had wanted to know what the instruments wouldn't tell him and had written it down so it would keep. Daren didn't know his name. Somebody in Ashoka did. It was written somewhere, on some roll in Ashoka, in someone's memory. Someone ought to say it aloud in a room that was listening.
 
 He turned the thought over and found it had a person in it.
 

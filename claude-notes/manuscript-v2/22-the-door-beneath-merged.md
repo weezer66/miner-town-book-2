@@ -122,7 +122,7 @@ She went back up and stood in the tank-room doorway. The tank was empty and dryi
 
 Twelve left, the evening of the egg. One night on from that. Eleven left of the nineteen.
 
-Otto didn't know about the Lake Wall, or the valves, or the ten minutes, or the ear under its cloth on her bench that heard everything and couldn't yet tell rock from footsteps, or who might have to be in the tunnel the water wanted first. He'd come up a rope, and the first thing he'd asked was whether the people he'd held things up for had got out.
+Otto didn't know about the Lake Wall, or the valves, or the ten minutes, or the listener under its cloth on her bench that heard everything and couldn't yet tell rock from footsteps, or who might have to be in the tunnel the water wanted first. He'd come up a rope, and the first thing he'd asked was whether the people he'd held things up for had got out.
 
 She let the metal hand fold into a fist at her side. She wasn't telling him tonight.
 
