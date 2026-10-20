@@ -153,3 +153,15 @@ The review gave the chapter 7/10 from all four models, and the editor gave it 8.
 **Recommendation: after the bar** (`r5-candidate-after-bar.md`). "A red bar dropped under them" means under the three names, and putting the paragraph between them breaks that picture.
 
 **Round 5 adopted (2026-10-20):** the author chose the after-the-bar placement. `r5-candidate-after-bar.md` is now the live chapter, and the `.docx` has been regenerated and checked. The previous version is backed up as `01-before-r5.md` in the session scratchpad.
+
+# Round 6: making "Assign Gage to me" cost something (2026-10-20)
+**The gap the review found** (Fable and Opus independently, Sonnet in another form): the stakes paragraph says nobody in Trinity is answerable for these three. Then Elara asks for Gage, "Nobody argued," and it's done. If you can claim an unassigned child just by asking, the red bar was never a problem.
+
+**The fix:** one beat after "Assign Gage to me." The console makes her answerable:
+> The console wanted her thumb before it would take the order. When she gave it, a line set itself under his name in plain white: *Responsible operator: Nathan, E. Seventy-two hours.* Whether he came back up would be entered under her name now.
+
+- **"Came back up"** answers the stakes paragraph's *"answerable for whether these three came back up."*
+- **It seeds** Ch4's amber ticks ("a human hand had put it there") and Ch7's *"monitor of record"* / *"You signed."*
+- **"Nobody argued"** now reads as nobody wanting that line under their own name.
+
+I made this single line myself, without the two-model drafting. It hasn't been blind-tested. The previous version is backed up as `01-before-r6.md` in the session scratchpad.

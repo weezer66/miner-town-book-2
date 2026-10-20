@@ -116,6 +116,8 @@ The prompt sat under her thumb. FILE. She kept her thumb where it was and didn't
 
 "Assign Gage to me."
 
+The console wanted her thumb before it would take the order. When she gave it, a line set itself under his name in plain white: *Responsible operator: Nathan, E. Seventy-two hours.* Whether he came back up would be entered under her name now.
+
 Nobody argued. Daren had already scrolled past him.
 
 Ben's profile came next, and the data was such a relief it was almost funny. "Five feet eight. One sixty. Every value inside the reference band."
