@@ -82,8 +82,6 @@ A briefing would have come through his handler. A warning would have named an in
 
 He looked at his right hand. Kubera had taught him the hand was an instrument of value. It signed allocations and released reserves and moved lives across a ledger like weights on a scale. The authority lived in the pattern under the palm. The gold bracelet was only its visible seal. A hand couldn't be surrendered. The authority bound to it could.
 
-No operator had ever given it up willingly.
-
 He walked to the founder seal. The Master didn't stop him. He laid his palm on the old gold, and the nearest panel showed the house's revocation already queued behind the chamber walls: credentials, accounts and access, to be stripped before he reached the door.
 
 He unclasped the bracelet. It came away warm. He set it on the seal and kept his hand flat beside it, and the seal read both and opened a second path.
@@ -114,7 +112,7 @@ Daren didn't move.
 
 The Master crossed to a table beneath the dark window at the rear of the chamber, crowded with sealed ledgers and instruments whose uses had been hidden by age or design. At its center sat a small box worked in gold: coiled serpents, closed eyes, and four narrow bands meeting around a circle with no center. It was duller than the founder seal, and it had been set out before Daren ever reached the doors.
 
-"What is in this will not close on a hand the city is still holding," the Master said. "It has to be let go of first. Every gate in Trinity had your palm on file. I could have stripped it from you. Then the record would say Kubera took your hand, and a hand that was taken is still on record, as taken. A hand that is given leaves nothing behind it. There is no line anywhere that says it was ever yours."
+"What is in this will not close on a hand the city is still holding," the Master said. "It has to be let go of first. Every gate in Trinity had your palm on file. I could have stripped it from you, and the record would say that Kubera took your hand. A hand that is taken is a grievance on file. A hand that is given is a resignation, and no one audits those."
 
 Daren looked at the box, and at the panels, and at the gold ceiling still holding the footage of his failure.
 
@@ -130,17 +128,23 @@ Daren put his back to him and walked to the doors. They were unlocked. His hand 
 
 He turned around.
 
-"You have been marked for removal from Kubera," the Master said. "For most people, that would be the end. For you, it can be a second chance. Become what no house has been able to name. Every power in Trinity is real to the others because it is recorded. Whatever can be named can be measured, weighed and countered. None of the houses has learned to fight what refuses to enter a record."
+"One thing," he said. "When this starts, Elara Nathan's file comes to me."
+
+"When it starts," the Master said, "you will not need to ask."
+
+He let that sit, and then went on in the same even voice.
+
+"You have been marked for removal from Kubera. Good. A man struck off is on no roll the other houses can audit. Three councils laughed at your name last night. By spring there will be nothing on file for them to laugh at. Every power in Trinity is real to the others because it is written down. Chanakya keeps a page on each of my directors, his debts, his hours, the name of his tailor. Drona shelves our minutes before the ink is dry. What is on a page can be weighed and countered. None of the houses has learned to fight what refuses to enter a record."
 
 "And my authority?"
 
-"Greater than that of every other representative. Second only to mine. You will have no title. No insignia. No office. No record that can be followed to its source. You will be the force the city arranges itself around, and no one in it will be able to say your name."
+"Greater than that of every other representative. Second only to mine. No title. No insignia. No office. No record that can be followed to its source. When a gate opens that should not have opened, Chanakya's archivists will go looking for the order behind it, and there will be no order. You will be the force the city arranges itself around, and no one in it will be able to say your name."
 
-Daren's hand had been declared unauthorized not five minutes ago, and here was power with no mark on it to take away. He found he was standing straighter. He found he was already listing names: the people who had corrected him in public, and the ones who had watched it happen. Elara at VARIANCE, peeling a hair off her glass. Three boys asleep against a tunnel wall.
+Daren's hand had been declared unauthorized not five minutes ago, and here was power with no mark on it to take away. He found he was already listing names: the people who had corrected him in public, and the ones who had watched it happen. Elara at VARIANCE, peeling a hair off her glass. Three boys asleep against a tunnel wall.
 
 "What's the first move?" he said. "Who do I approach? What do you need removed?"
 
-The Master lifted one hand. "All in good time."
+The Master didn't answer.
 
 He opened the box.
 
@@ -184,7 +188,7 @@ REPORT TO THE GRANDMASTER'S CHAMBER. IMMEDIATE.
 
 No routing code. No signature. The house knew which room was his.
 
-The Kubera uniform hung in the alcove where he'd put it the first night of the assignment, every seam exact, the insignia aligned to the center of the body. His hand went toward it out of habit and stopped. He had no right to wear it. Standing there in the grey light, he found he had no wish to either. A uniform announced a rank, and a rank was an entry, and an entry could be countered.
+The Kubera uniform hung in the alcove where he'd put it the first night of the assignment, every seam exact, the insignia aligned to the center of the body. His hand went toward it out of habit and stopped. He had no right to wear it. Standing there in the grey light, he found he had no wish to either.
 
 He dressed in plain clothes, folded the uniform once, and left it on the bed for the house to reclaim.
 
