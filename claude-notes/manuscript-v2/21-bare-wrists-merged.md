@@ -28,7 +28,7 @@ The same size as his. The same cheap paper the house used for retrieval tags, fo
 
 Nothing else. No file number; it hadn't needed one. The number was already there in Ravi's own hand, and the writer had only to slide his note beneath it so the two would be read together. A man who copies a thing wants it. A man who leaves it where it is has already got it.
 
-Room Four. The twelve characters. The two hours the house had logged as a routine review with no discrepancies noted. Nobody had asked him about them. It was a dull line in a dull log, and someone would have to be watching Ravi, and not the log, to think it worth a second look. Or the words meant something plainer. Room Four, in two hours. An appointment.
+Room Four. The twelve characters he'd typed. The two hours the house had logged as a routine review with no discrepancies noted. Nobody had asked him about them. It was a dull line in a dull log, and someone would have to be watching Ravi, and not the log, to think it worth a second look. Or the words meant something plainer. Room Four, two hours after first bell. An appointment.
 
 He sat down on the bench, because his legs had asked him to. The short leg knocked once against the tiles.
 
@@ -50,11 +50,11 @@ He put the slips back behind the pens, his on top. He picked up the binder. At h
 
 "The hand is in Drona's tower," Elara said. "Every night. Whatever else it does, it ends there."
 
-Three nights of paper covered the dead-room table. None of it came from the grey wall. The Sākṣī's columns couldn't leave the chamber beneath the archive, and the Ancient One's terms forbade a single line copied from them. This was the other road: public lift schedules, and corridor maintenance logs that anyone holding a Drona review code could read. Four weeks of them, rebuilt in pencil. Wherever the wall had shown an order to look away, the public log showed a maintenance interval, dull and citable, and the two agreed every time. The tin for the shavings had filled on the second night. Rohan had started a new pile on a folded sheet at his elbow and kept it squared.
+Two nights of paper covered the dead-room table. None of it came from the grey wall. The Sākṣī's columns couldn't leave the chamber beneath the archive, and the Ancient One's terms forbade a single line copied from them. This was the other road: public lift schedules, and corridor maintenance logs that anyone holding a Drona review code could read. Four weeks of them, rebuilt in pencil. Wherever the wall had shown an order to look away, the public log showed a maintenance interval, dull and citable, and the two agreed every time. The tin for the shavings had filled on the first night. Rohan had started a new pile on a folded sheet at his elbow and kept it squared.
 
 "Fourth level," he said. "More than anywhere else. But a floor isn't a room."
 
-"The room we'll never find on paper. A room that tells every instrument near it to forget hasn't got an address. It's a hole in the plan the shape of a door." She set her finger on the fourth-level corridor, on the row of service panels. Neither of them looked at the third one. "But the hand isn't a hole. It walks into the hole every night and out again every morning, and between the lift and the hole there are eleven doors. It passes every one. We don't need to find the room. We need to stand in one of the doorways."
+"The room we'll never find on paper. A room that tells every instrument near it to forget hasn't got an address. It's a hole in the plan the shape of a door." She set her finger on the fourth-level corridor, on the row of service panels. Neither of them looked at the third one. "But the hand isn't a hole. It walks into the hole every night and out again every morning, and between the lift and the hole there are nine doors. It passes every one. We don't need to find the room. We need to stand in one of the doorways."
 
 "Then we stand in the corridor."
 
@@ -168,7 +168,7 @@ She had stood watch before. Every monitor had, through long cycles with nothing 
 
 And Rohan breathing.
 
-It was an ordinary sound, a little uneven on the in-breath, the way a man breathes when a rib broke once and healed a fraction crooked. She had stood beside him for weeks, in the dead room and on stairs and in front of a Grandmaster, and never heard it. There had always been a terminal talking over it. She had never heard anyone breathe without one between them: not her mother, not Teresa, not anyone. She thought she would know it now in the dark, the way she'd know the step of someone she'd trained with.
+It was an ordinary sound, a little uneven on the in-breath, the way a man breathes when a rib broke once and healed a fraction crooked. She had never understood how loud a body was. There had always been a terminal talking over it.
 
 The archive had said the hour. The hour came.
 
@@ -192,7 +192,7 @@ The opening door threw its light sideways across him, and she saw the side of hi
 
 She knew it.
 
-She had sat beside that face for three days at THRESHOLD, close enough to hear him hum the same four notes until she wanted to throw her stylus across the console. He'd tapped his pen twice on the console's edge before every entry, like a man counting coins into a till. Daren. Kubera's monitor, who'd read three boys as rounding errors. Struck from Kubera's rolls weeks ago; she'd seen the line herself, one word where a posting should have been.
+She had sat beside that face for three days at THRESHOLD, close enough to hear him hum the same four notes until she wanted to throw her stylus across the console. He'd tapped his pen twice on the console's edge before every entry, like a man counting coins into a till. Daren. Kubera's monitor, who'd read three boys as rounding errors.
 
 And here he was, walking home to a room no record admitted.
 
@@ -220,10 +220,12 @@ He turned his head. He'd sat in that watch too, at CORRECTION, across the grid f
 
 "Then find me another road."
 
+"He lives here," Rohan said.
+
 She already knew where it ran. Every cycle, Drona gave the other houses' monitors borrowed rooms in this tower for the Initiation watch, and every borrowed room went into the tower's guest registers, on paper, in a clerk's hand, where a Drona reviewer could read them lawfully any morning she liked. She would be at the register desk when it opened.
 
 They went back by the service stair. At the stair head Rohan's eyes went up once and came down again. A ceiling reader there had pulsed amber, twice, at two people it couldn't name. Elara was counting steps in the dark and didn't see it, and he didn't say.
 
 At the stair's foot, before the first gate, they switched their terminals on and fastened them back to their wrists.
 
-Elara's woke with a dozen small pulses, the city resuming its conversation where it had left off. She didn't read any of them. She stood at the gate with her thumb on the clasp, feeling it settle against the pale strip of skin, and held on to what she'd brought out of the corridor: a door, an hour, and a name she couldn't yet use.
+Elara's woke with a dozen small pulses, the city resuming its conversation where it had left off. She didn't read any of them. She stood at the gate with her thumb on the clasp, feeling it settle against the pale strip of skin, and held on to what she'd brought out of the corridor. It was less than she had wanted. It was more than anyone in the city had had in a hundred years. A door, an hour, and a name she couldn't yet use.

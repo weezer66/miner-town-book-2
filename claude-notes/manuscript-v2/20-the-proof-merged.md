@@ -20,7 +20,7 @@ He said it to the wall. Then he gave her the rest in the order the notice had gi
 
 *It.* Even now. He had made the rule in this room, and he was keeping it with his friend dead, because a rule you drop when it hurts was never a rule.
 
-Elara didn't say she was sorry. Her throat had closed on it, and he hadn't come for that. His own people would have comforted him. He had walked past all of them to come down three flights of Ashoka's stone to her.
+Elara didn't say she was sorry. Her throat had closed on it, and he hadn't come for that. His own people would have comforted him. He had passed over all of them and sent for her.
 
 She went to the wall and stood in front of the fourth panel, the Annex approval in the runner's pencil copy, and waited until her voice was her own.
 
@@ -54,7 +54,7 @@ He looked at the fourth panel, at the crooked pin.
 
 Elara waited. That was all there was going to be, and she let it be all.
 
-Then he reached past her and pinched out the true flame between thumb and forefinger, the way the Dhammapala put out her lamp, and the dead room went dark.
+Then he reached past her and pinched out the true flame between thumb and forefinger, the way he always did, and the dead room went dark.
 
 "Lead," he said.
 
@@ -118,7 +118,7 @@ Elara's hands had gone cold on the wood. "It's existed since the founding."
 
 "The band was locked in a box of four parts. Its dialect was struck from every instrument's instruction. Kubera swore it kept the box only as a relic." The Ancient One's voice didn't change. "Drona swore it had destroyed the plans for the reader, and kept no record of anything the Guard had ever commanded."
 
-"Then why does the archive still work?"
+"Then why are you telling me about the mirrors?"
 
 "Drona lied," Sarvajña said.
 
@@ -168,7 +168,7 @@ No one answered. And because she was watching the whole wall and they were watch
 
 It came up at the right-hand edge, where no query had asked for anything. No doors. No sensors. No *look away.* The orders were small and close together, and they were all addressed to the same instrument, and they were all addressed to its own joints. *Open. Close. Open.* A pause. *Close.* Each answer came a little behind its order, half a breath late, and each time the gap was shorter than the last.
 
-Elara counted without meaning to, the way her hand curled round a pencil that wasn't there. Nine. Eleven. Fourteen. Someone was learning a hand.
+Elara counted without meaning to, the way her hand curled round a pencil that wasn't there. Nine. Twelve. Fourteen. Someone was learning a hand.
 
 She looked for the location field. Every other row on the wall had a house and a floor.
 
@@ -198,7 +198,7 @@ He'd put it on the railing to steady it. The rail was cold, beaded with spray fr
 
 He'd made himself look, and then made himself stop. But the eyes had come with him, up the lift, across the dark between platforms, into this garden of running water. On his side. Eyes open and fixed on nothing. One boot half off his foot.
 
-The boot was what he couldn't leave alone. Such a small, ordinary, undignified thing. A man had laced it that morning.
+The boot was what he couldn't leave alone. Such a small, ordinary, undignified thing. A man had laced it that morning. The man had a name once. Daren did not know it and never would.
 
 The band lay warm against his wrist, and it was listening to the tremor.
 
@@ -210,7 +210,7 @@ He breathed. He let his shoulders drop. He unclenched the hand on the railing on
 
 When the tremor was gone, he did the work.
 
-Four nights ago he'd have let the band carry a wish and finish it. Tonight he keyed each step himself, slowly, holding the stillness like a full cup: the household line, the panel, the queue, the note, the close. The bracelet carried what he gave it and nothing more, because he gave it nothing more. The first panel took a quarter of an hour. It should have taken a breath.
+This morning he'd have let the band carry a wish and finish it. Tonight he keyed each step himself, slowly, holding the stillness like a full cup: the household line, the panel, the queue, the note, the close. The bracelet carried what he gave it and nothing more, because he gave it nothing more. The first panel took a quarter of an hour. It should have taken a breath.
 
 Then the second.
 
@@ -220,7 +220,7 @@ He had wanted to be the force the city arranged itself around. The Grandmaster h
 
 The band was cool now. Waiting. It would do, tonight and tomorrow and for as long as he wore it, exactly what his hand told it, including the things his hand told it that he never heard.
 
-He couldn't take it off. He'd tried, in the corridor, with a dead man eleven steps behind him, and his own fingers had refused. Without it he was a man with no house, no name, and no door in the city that would open for him. The Grandmaster had emptied him out and filled him with this, and he had helped, one small correction at a time, until the instrument was the only part of him that still did anything. Take it away and there was nothing underneath.
+He couldn't take it off. He'd tried, in the corridor, with a dead man in front of him, and his own fingers had refused. Without it he was a man with no house, no name, and no door in the city that would open for him. The Grandmaster had emptied him out and filled him with this, and he had helped, one small correction at a time, until the instrument was the only part of him that still did anything. Take it away and there was nothing underneath.
 
 So he could only be still. Still enough, every hour of every day, that it never again heard anything he didn't mean.
 
@@ -252,7 +252,7 @@ The butterfly opened and closed.
 
 He leaned forward, and Otto saw that the old man's calm had gone out of him. His face was urgent.
 
-"Once, a long time ago, my hand locked," Master Chan said. "Closed, like a root. No doctor could open it. So I opened it in my mind. One hour at a time, for a long time, before the hand believed me." He held up that hand now, and slowly, deliberately, lifted one finger. "This. Everything else is the room. This is you. Find it. Fight for it. It will feel like betraying everything I taught you. Do it anyway."
+"The stillness you built is a wall, and you built it well, and now you are on the wrong side of it." He was quiet a moment. "Once, a long time ago, my hand locked," Master Chan said. "Closed, like a root. No doctor could open it. So I opened it in my mind. One hour at a time, for a long time, before the hand believed me." He held up that hand now, and slowly, deliberately, lifted one finger. "This. Everything else is the room. This is you. Find it. Fight for it. Start small. The smallest thing a body can do. It will feel like betraying everything I taught you. Do it anyway."
 
 The yard was already going. The shed wall thinned. The heat went out of the afternoon. The butterfly rose off the old man's shoulder and hung between them, blue in the failing blue, and his voice came from farther and farther off.
 

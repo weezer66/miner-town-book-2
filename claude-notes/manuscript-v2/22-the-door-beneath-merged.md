@@ -298,7 +298,7 @@ He listened with one hand flat on a sheet of paper on the table, face down.
 
 "I know. She said the same."
 
-He looked at the flame, then at her. "There was a reader at the stair head when we came up. It went amber at us. Twice." His thumb pressed the edge of the sheet. "I saw it and didn't tell you. I didn't want you looking up."
+He looked at the flame, then at her. "There was a reader at the stair head when we went down. It went amber at us. Twice." His thumb pressed the edge of the sheet. "I saw it and didn't tell you. I didn't want you looking up."
 
 "She told me. It's in the overnight digest. Two people it couldn't name." Her voice stayed level, and she was glad of it. "And it reads digests."
 

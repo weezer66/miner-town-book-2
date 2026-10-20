@@ -224,4 +224,4 @@ Wherever the boys were, the sister was with them. The one who'd armed them befor
 
 The girl's intake photograph was the last thing to go dark: flat, unsmiling, her eyes already busy with something out of frame.
 
-Elara went back upstairs to the hunt. Across the platforms, folded against Rohan's chest, a notice was already on its way to her, folded against Rohan's chest.
+Elara went back upstairs to the hunt. Across the platforms, a notice was already on its way to her, folded against Rohan's chest.

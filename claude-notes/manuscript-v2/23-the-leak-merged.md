@@ -182,7 +182,7 @@ She opened her eyes.
 
 He waited for more. There wasn't any. He found he'd known there wouldn't be.
 
-He shifted his weight off the knee, and the rib that had healed a fraction crooked caught on the in-breath, and he let it catch without changing his face. The Dhammapala's eyes came off the lamp and onto him, and stayed there, as long as it took to see all of it: the knee, the rib, the knuckle on his right hand that had split under its glue again and was crusted dark, the three nights of sleep he hadn't had since a notice came in a plain folder.
+He shifted his weight off the knee, and the rib that had healed a fraction crooked caught on the in-breath, and he let it catch without changing his face. The Dhammapala's eyes came off the lamp and onto him, and stayed there, as long as it took to see all of it: the knee, the rib, the knuckle on his right hand that had split under its glue again and was crusted dark, the nights of sleep he hadn't had since a notice came in a plain folder.
 
 "You are tired," she said.
 
