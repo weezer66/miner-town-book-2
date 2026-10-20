@@ -188,7 +188,7 @@ Ben started counting again from one.
 
 Ben's hour at the tank was the last of the day.
 
-Camilla stood in the doorway, because the room only had one chair and it was his for the hour, and because the doorway was where she could see all of it at once. The tank, long and low, the gel in it faintly blue and moving very slowly round Otto, so that his hair lifted off his forehead and settled. His eyes open, glassed. His hands at his sides with the fingers a little curled. The screen on the wall above him with its line, green on black, flat, a long way along. The medic, the grey-haired one, at her desk in the corner, writing, her pink-scrubbed wrists resting on the edge of the paper so the ink wouldn't smudge.
+Camilla stood in the doorway, because the room only had one chair and it was his for the hour, and because the doorway was where she could see all of it at once. The tank, taller than Gage, the gel in it faintly blue and moving very slowly round Otto, so that his hair lifted off his forehead and settled. His eyes closed above the clear mask. His hands a little away from his sides, the fingers a little curled. The screen on the wall above him with its line, green on black, flat, a long way along. The medic, the grey-haired one, at her desk in the corner, writing, her pink-scrubbed wrists resting on the edge of the paper so the ink wouldn't smudge.
 
 Ben pulled the chair up to the glass and sat with his elbows on his knees.
 

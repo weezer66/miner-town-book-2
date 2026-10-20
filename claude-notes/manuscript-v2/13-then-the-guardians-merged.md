@@ -106,7 +106,7 @@ Nothing else. An ascension to the eighth dan was a ceremony of state, with gener
 
 At 4:00 a.m. the panel brightened, and he was up before it finished.
 
-His red-black duty uniform hung by the door, the one the city knew. He left it there. A dan ascension belonged to the art, and inside the art a man presented his rank, not his office. He put on the Ashoka Wadō-ryū kimono instead: white cloth, black trim, and a black belt embroidered with 二段 [second dan] beside his name, ローハン [Rohan]. The glue on his knuckle snagged the sleeve as he pulled it straight.
+His red-black duty uniform hung by the door, the one the city knew. He left it there. A dan ascension belonged to the art, and inside the art a man presented his rank, not his office. Wadō-ryū was one of the old fighting arts Ashoka had carried out of the Old Era, when the rest of the world's knowledge was being sealed away. He put on the Ashoka Wadō-ryū kimono instead: white cloth, black trim, and a black belt embroidered with 二段 [second dan] beside his name, ローハン [Rohan]. The glue on his knuckle snagged the sleeve as he pulled it straight.
 
 By dawn the central hall was full. Red standards hung from the galleries. Generals stood in rows beneath their division insignia. Rohan took a place in the back row among the junior instructors and set his hands on his knees.
 
@@ -116,7 +116,7 @@ Then an inner door opened at the far end of the floor, and Master Vayun came thr
 
 He was ancient the way mountains were ancient, worn down to what could not be worn further. White hair to his shoulders. A narrow face, the skin drawn tight over high cheekbones. An ivory kimono with no crest. At his waist, a belt so old its black had rubbed away thread by thread over the decades, back toward the white it had started as. Anyone who knew the art understood. The beginner's colour, returned. The circle walked to its end.
 
-He crossed the floor without seeming to hurry. Generals stopped whispering. Strategists lowered their tablets. Nothing these people commanded carried any weight on that floor, and they knew it. Vayun was the last living tenth dan of Wadō-ryū, and the only person alive whose judgment could confer the eighth.
+He crossed the floor without seeming to hurry. Generals stopped whispering. Strategists lowered their tablets. Nothing these people commanded carried any weight on that floor, and they knew it. Vayun was the last living tenth dan of Wadō-ryū, and the only person alive whose judgment could confer the eighth. He had trained responders before Ashoka's modern divisions existed.
 
 Rohan had seen him only in old recordings.
 
@@ -156,7 +156,7 @@ The bamboo split with three dry cracks.
 
 The sound was small. It went through the hall like thunder, because no one had expected the hand to win.
 
-"She gathered it without anger," Rohan said under his breath.
+"It tested whether she could gather it without anger," Rohan said under his breath.
 
 "No," said Vayun. "It measured whether force could arrive without anger."
 
@@ -177,8 +177,6 @@ The plate parted along a line so fine it had looked like a shadow. The halves le
 "Restraint," Rohan said.
 
 Vayun's mouth moved by less than a smile. "It measured whether she could stop after the correct action."
-
-Rohan sat with that. He had named the virtue. The old master had named the instant where it lived or failed.
 
 Vayun rose for the third time and stepped onto the floor.
 
@@ -258,7 +256,7 @@ Vayun reached across and filled Rohan's water cup to the brim, and said nothing 
 
 The Grandmaster folded her hands.
 
-"A new power is rising through the ganas," she said. "It has shown itself three times, a transfer, a signature and a calibration, and each time it could be explained away as an error. That is what makes it dangerous. If one gana gains control of the others through a power no institution can name, competition will become domination before anyone admits the balance has failed."
+"A new power is rising through the ganas," she said. "It has shown itself three times, a transfer, a signature and a calibration, each one explainable on its own: an error, an old authorization, a malfunction. That is what makes it dangerous. If one gana gains control of the others through a power no institution can name, competition will become domination before anyone admits the balance has failed."
 
 Rohan didn't move.
 
@@ -286,7 +284,7 @@ Rohan bowed his head. "I will."
 
 "By everyone who understands what integrity becomes when it is placed under pressure."
 
-Rohan couldn't tell whether it was a warning or a compliment. He suspected Vayun saw no reason to choose.
+Rohan couldn't tell whether it was a warning or a compliment.
 
 The Grandmaster rose. "Finish your meal. A person who intends to carry responsibility should not begin by neglecting the body that must carry it."
 

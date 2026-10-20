@@ -8,17 +8,17 @@
 
 In the blue, there was no time.
 
-Otto knew it the way you know things in dreams, all at once and without being able to say how. There was warm, and after the warm there was cool, and then warm again, slow as a tide coming in over flat sand. There was a pull in his arms that came and went, as if someone far away kept asking his muscles to lift something and then letting them rest. He didn't know who was asking, or what the weight was. His arms answered anyway, the way a dog answers a whistle from a man it's never met.
+Otto knew it as you know things in dreams, all at once and without being able to say how. There was warm, and after the warm there was cool, and then warm again, slow as a tide coming in over flat sand. There was a pull in his arms that came and went, as if someone far away kept asking his muscles to lift something and then letting them rest. He didn't know who was asking, or what the weight was. His arms answered anyway, the way a dog answers a whistle from a man it's never met.
 
 There was a sound, very faint and very steady. It might have been his heart. It might have been something else keeping time for it. He found he didn't mind which.
 
-And there was the blue. He couldn't have said whether he saw it or only knew it: light through closed lids, maybe, or the color his mind gave to the deep place Master Chan had taught him to go, the color of the breath at an old man's skin. It was everywhere. It held him the way water holds a man who has stopped swimming.
+And there was the blue. Whether he saw it or only knew it, he couldn't tell: light through closed lids, maybe, or the color his mind gave to the deep place Master Chan had taught him to go, the color of the breath at an old man's skin. It was everywhere. It held him the way water holds a man who has stopped swimming.
 
 ---
 
 He had stopped swimming a long time ago. That much stayed.
 
-There had been a ring of stones. Ten of them, hanging in orange air over a floor of fire, and three people below who needed them to stay up. He remembered the weight of each stone separately, the way your tongue remembers each of your teeth. The fourth from the left had been the heavy one. It had kept wanting to turn.
+There had been a ring of stones. Ten of them, hanging in orange air over a floor of fire, and three people below who needed them to stay up. He remembered the weight of each stone separately, as your tongue remembers each of your teeth. The fourth from the left had been the heavy one. It had kept wanting to turn.
 
 He remembered the blood starting at his nose, warm and then cool on his lip, tasting of coins. The heat coming off the lava in a wave that pushed his hair flat back. Gage below him at the hole, the scar-map on his brow standing out white, his face doing the thing it did when he was about to refuse to be sensible.
 
@@ -32,17 +32,17 @@ Then he had gone down into the stillness to hold the stones, deeper than he had 
 
 And it had not let him go.
 
-So the promise was broken. It sat in the blue with him, and he knew it the way he knew the warm and the cool. Every time he thought about rising, Gage's face came first, upturned at the hole, waiting, and the thought of it weighed exactly what one more stone would weigh.
+The promise sat in the blue with him, in two pieces, and he knew it the way he knew the warm and the cool. Every time he thought about rising, Gage's face came first, upturned at the hole, waiting, and the thought of it weighed exactly what one more stone would weigh.
 
 ---
 
 Sometimes there were voices.
 
-They came from very far up, the way voices come down a shaft, flattened, their edges worn off by the distance. No words reached him. Only the shape of them: a lift at the end of a line, a pause, the lift again. One came more than the others. It had a pattern: a sentence, then a pause the exact length of a sentence, room left for a reply, then on without one. Patient, the way a person talks to a radio while he's got its back off. Otto almost knew that rhythm. He couldn't have said what it said. He could have said it was raining.
+They came from very far up, like voices down a shaft, flattened, their edges worn off by the distance. No words reached him. Only the shape of them: a lift at the end of a line, a pause, the lift again. One came more than the others. It had a pattern: a sentence, then a pause the exact length of a sentence, room left for a reply, then on without one. Patient, the way a person talks to a radio while he's got its back off. Otto almost knew that rhythm.
 
-Another came less often and said less. Mostly it sat. He could feel it through the blue the way one side of you goes warm when you sit near a boulder that's been in the sun all day.
+Another came less often and said less. Mostly it sat. He could feel it through the blue, like one side of you going warm when you sit near a boulder that's been in the sun all day.
 
-Whose they were, he couldn't have said. They were his. He was sure of that the way he was sure of his own back, which he'd never once seen.
+Whose they were, he didn't know. They were his. He was sure of that as he was sure of his own back, which he'd never once seen.
 
 ---
 
@@ -66,7 +66,7 @@ Otto looked round the shed. A chair with one short leg. A bucket. The old man. "
 
 "Then you have work to do."
 
-The butterfly was on the windowsill that night, opening and closing. The proof. Otto didn't look at it much. It made his chest go tight, and he didn't want a word for that.
+The butterfly was on his shoulder that night, opening and closing. The proof. Otto didn't look at it much. It made his chest go tight, and he didn't want a word for that.
 
 Later, when it was nearly full dark and the old man had sent him home twice and he hadn't gone, Shu Chan stood in a stance in the middle of the floor. Low, one foot forward, his weight sunk so far into the boards that the whole shed seemed to lean toward him. He held it so long Otto's own thighs burned to watch, and the big toe of his left foot lifted off the boards a hair and stayed lifted, like something under the floor was pulling at it and he was declining. And under his breath, so low it was nearly the breath itself, he said a word.
 

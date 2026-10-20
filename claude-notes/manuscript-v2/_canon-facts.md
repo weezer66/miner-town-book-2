@@ -23,7 +23,7 @@ A compact substitute for rereading everything. If something here conflicts with 
 - **Ben Parker:** 17, 5'8". Non-violent, a pattern-reader, fixes radios and coils. Father Oscar (empathy as resistance; dead, inferred). Sister **Gretchen** waits at the gates. Dropped his father's brass **compass** into the illusion's lava.
 - **Otto Baxter:** 17, 5'9", small and frail as a child ("Otto-mobile"). Trained by **Master Shu Chan** in a back-row shed: karate, "the breath," the blue butterfly ("the proof"). Can float small objects and make the air dense; absorbs blows.
   - Held ten stones open over the lava and let them close over himself.
-  - Now his body breathes, eyes open and glassed. His mind is gone. **In NOW he's kept in a tank of faintly blue gel** that cycles warm and cool.
+  - Now his body breathes; his mind is gone. **In NOW he's kept in a tall clear cylinder, taller than Gage, of faintly blue gel** that cycles warm and cool: eyes closed, a clear mask over nose and mouth, arms floating a little from his sides (ch. 3).
 - **Flitzberg:** smooth pale skin and full cheeks, a manufactured calm. Wore Pappy's and Gerald's faces in Book 1. Nested dolls, music, draws on paper. Formal speech. Chief of "this office." Promised the teens he'd never lie to them.
 - **Medics:** the oldest is a grey-haired woman, formal, kind, exact.
 
@@ -37,6 +37,7 @@ A compact substitute for rereading everything. If something here conflicts with 
 - The crystal: three quarters green, one quarter still blue.
 
 ## World (tower thread)
+- **Note (Ch1 rewrite, 2026-10-20):** Ch1 no longer gives the Trinity-1/2/3 rundown; it shows only Drona's spires, the cloud, the mine and Meru's underside. Don't assume the reader already got the rundown. Introduce a house lightly the first time it matters on the page.
 - **Trinity-1** (Drona: institutes, archives, monitoring towers), **Trinity-2** (Chanakya), **Trinity-3** (Ashoka), and **Meru** above them (Kubera, which "merely manages").
 - **Uniforms:** Drona gray-blue, Chanakya green-gray, Kubera muted gold, Ashoka red-black.
 - **Stations:** EVENT (Ravi), VARIANCE (Elara), THRESHOLD (Daren), CORRECTION (Rohan).
