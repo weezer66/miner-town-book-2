@@ -1,8 +1,8 @@
 # Chapter 5: Marked
 
-*Then a new shadow appeared — heavy, slow, rhythmic. Gage walked out of the dark with a steady gait, his face changed in ways Camilla didn’t yet have names for. He was unbreakable — six-foot-five, carrying Otto across his shoulders and dragging a semi-conscious Ben by the collar of his shirt. He wasn’t the broken marionette the guards expected; he was the Engine that refused to red-line.*
+*The system didn’t punish cruelty. It punished disruption.*
 
-— Book 1, Chapter 6: To Hell and Back
+— Book 1, Chapter 4: Emily’s Not Talking
 
 ## Then: Meru
 
@@ -18,17 +18,17 @@ Daren sat on the edge of the bed with the pane on his knees. He had been awake t
 
 He was humming before he noticed, the four notes, the same four, into the collar of his shirt.
 
-He arrived thirty minutes early, dressed to the seam. He checked the fall of his jacket once at the lift doors. Nobody would praise him for it. Kubera treated disorder as a confession.
+He arrived thirty minutes early, dressed to the seam, and checked the fall of his jacket once at the lift doors.
 
-The sealed lift carried him up out of Trinity-1's galleries toward Meru, the tier the three Trinitys lived beneath without looking up at. The ride took long enough to remind him how far above the people it served service lived. His ears popped twice.
+The sealed lift carried him up out of Trinity-1's galleries toward Meru, the tier the three Trinitys lived beneath without looking up at. The ride took long enough to remind him how high Meru sat above the people it governed. His ears popped twice.
 
 The doors opened on the Great Kubera Hall.
 
 Black columns climbed three suspended galleries and went into shadow before they met anything. Thin bands of light ran along the edges of the stone floor, so the whole room seemed to float a hand's width above its foundations.
 
-The founders lined the walls in recessed panels, in severe profile. Shipping magnates beside fuel depots. Men in front of drilling towers. Hotel owners under chandeliers. Every caption set an achievement beside its consequence: a new extraction field and an expanded settlement, a private reserve and the ration system that made it possible. The workers were there too, if you looked, crowds in the backgrounds, faces softened into texture under the machinery the way a painter renders gravel. Daren had memorized the dates of every panel at nine. He had never once looked at the gravel.
+The founders lined the walls in recessed panels, in severe profile. Shipping magnates beside fuel depots. Men in front of drilling towers. Hotel owners under chandeliers. Every caption set an achievement beside its consequence: a new extraction field and an expanded settlement, a private reserve and the ration system that made it possible. The workers were there too, if you looked, crowds in the backgrounds, faces softened into texture under the machinery, gravel at the foot of the picture. Daren had memorized the dates of every panel at nine. He had never once looked at the gravel.
 
-He didn't look at it now. He looked at the far end of the hall, where the first Kubera seal was set into the floor in heavy gold, bright and ornamental, made to announce ownership. The present insignia hung above it, matte gold on black, built to drink the light instead of returning it. High overhead, the Grandmasters' chambers ran in a sealed ring beneath the dome, each closed with the mark of a dead man. Only one doorway glowed. That chamber needed no lock. It was the lock.
+He didn't look at it now. He looked at the far end of the hall, where the first Kubera seal was set into the floor in heavy gold, bright and ornamental, made to announce ownership. The present insignia hung above it, matte gold on black, built to drink the light instead of returning it. High overhead, the Grandmasters' chambers ran in a sealed ring beneath the dome, each closed with the mark of a dead man. Only one doorway glowed, and it had no lock on it at all.
 
 He crossed under the founders' eyes into the lift reserved for senior personnel. No panel. No floors. On the back wall, almost invisible until the light slid across it, one word in muted letters: PHOENIX. The doors sealed, the car rose without a sound, and Daren watched the golden torch on his pane contract to a single point.
 
@@ -42,13 +42,13 @@ The left helmet turned toward him. The voice came through the armor low and meta
 
 "The Grandmaster awaits."
 
-The hum had stopped somewhere in the lift. Daren noticed its absence the way you notice a fan has cut out, by the size of the quiet after it. He walked between them.
+The hum had stopped somewhere in the lift. Daren only noticed when the quiet after it got large. He walked between them.
 
-The Master of the Reserve stood with his back to the doors.
+Kubera's Grandmaster stood with his back to the doors.
 
-Kubera named him the way it named everything, by what he held: the vaults, the continuity funds, the ledgers that outlived every officeholder. Daren saw the back of his head first, close-cropped grey, and his hands resting on the edge of a table made of transparent panels: hands that had never lifted anything heavier than a seal.
+The house called him the Master of the Reserve. It named him the way it named everything, by what he held: the vaults, the continuity funds, the ledgers that outlived every officeholder. Daren saw the back of his head first, close-cropped grey, and his hands resting on the edge of a table made of transparent panels: hands that had never lifted anything heavier than a seal.
 
-The Initiation hung above the table in layers, thermal under motion, biometrics under audio, each plane floating a few centimeters above the next. Three days had been distilled into the minutes the system judged significant, and the Master moved through them with his fingertips, the way a man turns pages he has read before and enjoys. He enlarged the force response. He replayed the clip where three boys protecting one another became coordinated containment. His mouth lifted at the edges.
+The Initiation hung above the table in layers, thermal under motion, biometrics under audio, each plane floating a few centimeters above the next. Three days had been distilled into the minutes the system judged significant, and the Master moved through them with his fingertips, unhurried, enjoying them. He enlarged the force response. He replayed the clip where three boys protecting one another became coordinated containment. His mouth lifted at the edges.
 
 Daren stood where he had stopped and lost the clock. He wanted to explain the altered parameters, the point where the system had moved past anything his station controlled. Nobody had asked him to speak, and in Kubera an unasked defense was a signature on the charge.
 
@@ -58,39 +58,23 @@ Then another fragment surfaced. The separation protocol failing to complete. A n
 
 The pleasure went out of the Master's face all at once, and what replaced it worked his jaw once, hard, a man with something foul on his tongue. He turned.
 
-His eyes were red at the rims. The anger in them had been given time to become judgment, and it landed on Daren whole. The footage was classified. The other ganas weren't meant to have seen it. Daren understood from that face that they had, and laughed over good wine, and that the laughter had climbed the Phoenix ahead of him.
+His eyes were red at the rims. The anger in them had been given time to become judgment, and it landed on Daren whole. The footage was classified. The other councils weren't meant to have seen it. Daren understood from that face that they had, and laughed over good wine, and that the laughter had climbed the Phoenix ahead of him.
 
 The Master spoke in Tamil, the language of the old City of Gold, every vowel clipped like a coin stamped and dropped.
 
-"குபேராவின் டேரன். உன் பதவி மறுஆய்வு செய்யப்பட்டுள்ளது."
+"குபேரனின் டேரன். உன் பதவி மறுஆய்வு செய்யப்பட்டுள்ளது."
 
-The meaning stayed sealed from him until the device behind the Master woke. A band of gold lit across its glass, and a voice with the softness taken out of it carried the words into the room.
+The device behind him woke. A band of gold lit across its glass, and a voice with the softness taken out of it carried the words into the room.
 
 "Daren of Kubera. Your position is under review."
 
-It was said gently. That made it worse.
-
-"உனக்கு அணுகல் வழங்கப்பட்டது, வளங்கள் வழங்கப்பட்டன, எல்லை நிலைமைகளை விளக்கும் அதிகாரமும் வழங்கப்பட்டது. மைனர் டவுனின் மூன்று இழிந்த குடிமக்களை — குபேரா கவனத்திற்கு உரியதாகக் கருதாத உழைப்பாளர் கூட்டத்திலிருந்து வந்த சிறார்களை — தீட்சையின் பொருளையே மாற்றிவிட நீ அனுமதித்தாய். எலாரா நாதனுக்கு எதிராக நிலைநிறுத்தக்கூடிய ஒரு வழக்கை உருவாக்க உன்னிடம் தரவுகள் இருந்தன, தொடர்புகள் இருந்தன, நிறுவன அளவிலான அணுகலும் இருந்தது. நீ அதைச் செய்யவில்லை."
-
-The English came a beat behind, cold and exact.
-
-"You were granted access, resources, and the authority to define the parameters of engagement. You allowed three lowly citizens of Miner Town—youths from the laboring class whom Kubera deemed unworthy of notice—to alter the very essence of the Initiation. You possessed the data, the connections, and the institutional access to build a case against Elara Nathan. You did not."
+After that the Master didn't wait for the machine. He went on in the old tongue, and the English came a beat behind, cold and exact, and Daren stopped hearing which was which. *You had the data. You had the access. You had a monitor under review at the next console, and you could have built a case against her in an afternoon. You did not.* His sigil was under review. His clearance was under review. His right to speak for the house was under review.
 
 Daren's mouth went dry.
 
-Behind the Master the panels were replaying the end. The gates opening. A shape coming up out of the dark at a walk, a boy with another boy slung across his shoulders and his free fist knotted in the collar of a third, the third one's heels scraping two lines in the grit.
+Behind the Master the panels were replaying the end. The gates opening, and one shape coming up out of the dark at a walk, carrying more than one boy's weight.
 
-Daren had sorted that boy. He'd read the name off the grid and called him a rounding error. Now the rounding error filled the panel to the ceiling, and the gold overhead doubled him, and he didn't even look tired. He looked like he'd carried heavier. Heat climbed Daren's neck and went nowhere. Elara had typed the lie; he'd known what she was from the first hour. But a ration-fed miner who hadn't known enough to put down what he was carrying had made the lie worth typing. The miners had walked through the door she opened, the three of them with their unindexed families and their shared rations, and it was their walk the other houses had laughed at, every step of it charged to his name. Nobody upstairs would ever say Gage's.
-
-The Master kept speaking, and the device kept translating, the Tamil and the English laid over each other like two copies of one ledger. Kubera did not punish weakness, because weakness was temporary. Kubera removed weakness when it became visible to rivals. His sigil was under review. His clearance was under review. His right to speak for this Clan was under review. The machine used the founders' word, *Clan*, and let it ring.
-
-Then the Master tilted his chin toward the gold surface and gave the last charge in the old tongue, flatter than the rest.
-
-"பிற கணங்களின் மூன்று தகுதியற்ற பிரதிநிதிகள் உன்னை மிஞ்சிவிட நீ அனுமதித்தாய், குபேராவை வலிமையற்றதாகக் காட்ட நீ அவர்களை அனுமதித்தாய்."
-
-The machine repeated it without hesitation.
-
-"You allowed three unqualified representatives from other Clans to surpass you, and you permitted them to make Kubera appear weak."
+Daren had sorted that boy. He'd read the name off the grid and called him a rounding error. Now the rounding error filled the panel to the ceiling, and the gold overhead doubled him, and he didn't even look tired. He looked like he'd carried heavier. Heat climbed Daren's neck and went nowhere. Elara had typed the lie; he'd known what she was from the first hour. But a ration-fed miner who hadn't known enough to put down what he was carrying had made the lie worth typing. It was his walk the other houses had laughed at, every step of it charged to Daren's name. Nobody upstairs would ever say Gage's.
 
 The device fell silent. The Master looked at Daren a while longer, and then through him, at a component already logged for disposal.
 
@@ -108,7 +92,7 @@ VOLUNTARY AUTHORITY SURRENDER.
 
 The system would print *surrender* either way. This way, at least, the hand doing it was his. He pressed down. A cold line ran through the pattern under his skin, and across every protected network in Trinity his credentials closed, his accounts closed, and his palm became a stranger's.
 
-The seal released him without ceremony. His wrist looked unfinished, a pale band where the gold had lain since his first posting, faintly ridged from the clasp, like the dent a ring leaves after years.
+The seal released him without ceremony. His wrist looked unfinished, a pale band where the gold had lain since his first posting, faintly ridged from the clasp.
 
 He turned toward the black doors and walked. Each step put the seal farther behind him and the lower galleries closer, the galleries that would watch him come down the Phoenix with a bare wrist and know.
 
@@ -120,69 +104,61 @@ Daren froze.
 
 The voice was the Master's own, in the language Daren spoke. He turned around slowly. The old man stood beside the floating panels with gold light moving over his face. He had always been able to speak to Daren. He'd chosen not to.
 
-"You thought surrender was an exit," the Master of the Reserve said.
+"You thought surrender was an exit," the Master said.
 
 Daren didn't move.
 
-The panels brightened. The three linked signals rose above the table again.
-
 "It was only the first thing I needed you to give me."
 
-Behind Daren the door release went dark, and the locks engaged.
+"Needed." The word came out of Daren raw. "For what?"
 
-"You have been marked," the Grandmaster said. "Marked for removal from Kubera."
+The Master crossed to a table beneath the dark window at the rear of the chamber, crowded with sealed ledgers and instruments whose uses had been hidden by age or design. At its center sat a small box worked in gold: coiled serpents, closed eyes, and four narrow bands meeting around a circle with no center. It was duller than the founder seal, and it had been set out before Daren ever reached the doors.
 
-He said it like a private kindness. Daren heard it from the bottom of a well. A career reduced to a failed calculation. A lifetime of obedience entered as one line in a disposal record.
+"What is in this will not close on a hand the city is still holding," the Master said. "It has to be let go of first. Every gate in Trinity had your palm on file. I could have stripped it from you. Then the record would say Kubera took your hand, and a hand that was taken is still on record, as taken. A hand that is given leaves nothing behind it. There is no line anywhere that says it was ever yours."
 
-"For most people, that would be the end. For you, it can be a second chance."
+Daren looked at the box, and at the panels, and at the gold ceiling still holding the footage of his failure.
 
-No title came with it, no terms, no price. Only the fact that it had been said, when the man could have let him walk out erased. Daren lifted his eyes and held the Grandmaster's, and something in him that had been falling stopped, and waited, and leaned.
+"You let them laugh," he said. "You played it for me. You wanted me to have nothing left to keep."
 
-"Kubera will not be ridiculed again," the Grandmaster said. "It will not be pressured by another gana, or negotiated into obedience by their claims of moral authority. The four houses have mistaken cooperation for equality. They have forgotten which house keeps the city alive."
+"A man who is asked for his hand bargains for it," the Master said. "I could not ask."
 
-The shame Daren had carried in began to change shape. At the seal it had been his to swallow, alone. Now it belonged to the whole house, and the house meant to answer it. Every broken thing in him turned that way at once.
+"Then no." Daren heard himself say it. "Whatever that is. No."
 
-"What do you want me to do?"
+"The door will open." The Master didn't look toward it. "Go down the Phoenix. You will be a man with no palm and no house, and the city will forget you by the end of the week. That is also a thing a hand can be given for."
 
-"Become what no house has been able to name. Every power in Trinity is real to the others because it is recorded. Whatever can be named can be measured, weighed and countered. None of the houses has learned to fight what refuses to enter a record."
+Daren put his back to him and walked to the doors. They were unlocked. His hand found the release again, and the bare wrist came up into the light of the gallery beyond, pale and ridged where the clasp had been. Below that gallery were the founders and the gravel, and the lift, and every face that had seen the footage. He stood there long enough for the release to time out under his fingers.
+
+He turned around.
+
+"You have been marked for removal from Kubera," the Master said. "For most people, that would be the end. For you, it can be a second chance. Become what no house has been able to name. Every power in Trinity is real to the others because it is recorded. Whatever can be named can be measured, weighed and countered. None of the houses has learned to fight what refuses to enter a record."
 
 "And my authority?"
 
-The Grandmaster's eyes hardened with satisfaction. "Greater than that of every other representative. Second only to mine."
+"Greater than that of every other representative. Second only to mine. You will have no title. No insignia. No office. No record that can be followed to its source. You will be the force the city arranges itself around, and no one in it will be able to say your name."
 
-It went into Daren cleaner than any drug. His hand had been declared unauthorized not five minutes ago, and here was power with no mark on it to take away.
+Daren's hand had been declared unauthorized not five minutes ago, and here was power with no mark on it to take away. He found he was standing straighter. He found he was already listing names: the people who had corrected him in public, and the ones who had watched it happen. Elara at VARIANCE, peeling a hair off her glass. Three boys asleep against a tunnel wall.
 
-"You will have no title. No insignia. No office. No record that can be followed to its source. Yet every house will feel the consequence of your presence."
+"What's the first move?" he said. "Who do I approach? What do you need removed?"
 
-"Omnipresent," Daren whispered.
+The Master lifted one hand. "All in good time."
 
-"Unavoidable." The Grandmaster's voice did not rise. "The time has come for Kubera to take its rightful place, as the ruling gana. They have mistaken our restraint for weakness, and our patience for consent. They will learn the difference."
-
-It should have frightened him. It felt like an honor. The questions came fast, crowding each other. "What's the first move? Who do I approach? What do you need removed?" Names were already surfacing, the people who had corrected him in public and the ones who had watched it happen. Elara at VARIANCE, peeling a hair off her glass. Three boys asleep against a tunnel wall.
-
-The Grandmaster lifted one hand. "All in good time."
-
-It stopped him more completely than an order.
-
-The old man went to a table beneath the dark window at the rear of the chamber, crowded with sealed ledgers and instruments whose uses had been hidden by age or design. At its center sat a small box worked in gold: coiled serpents, closed eyes, and four narrow bands meeting around a circle with no center. Duller than the founder seal, it looked like a tool someone had spent years getting ready to use.
-
-He set both hands on the lid and held them there. Then he opened it.
+He opened the box.
 
 Inside lay a bracelet of obsidian, black as a wound in the light. It drank the chamber's glow and gave none of it back, until he tilted it and one narrow edge flashed brighter than any gold Kubera had ever hung on a wall, and went dark again.
 
 "Extend your right hand."
 
-Daren held out the bare wrist. It trembled once, and he made it stop. The band was colder than metal as it came close, and the skin tightened before it touched, recognizing it before he did.
+Daren held out the bare wrist. It trembled once, and he made it stop. The band was colder than metal as it came close, and the skin tightened before it touched.
 
 The clasp closed. It made almost no sound.
 
 The window went fully black. Somewhere beyond the walls, systems woke without announcing themselves. A pressure moved up Daren's arm and reordered it, every sensor and gate and ledger in the city turning its face toward one point on his wrist. A thin line of light ran under the obsidian, sank into his skin, and was gone.
 
-"Now you understand," the Grandmaster said.
+"It is cold the first night," the Master said, as if mentioning the weather. "After that you will stop noticing."
 
-Daren didn't, and did. "What just happened?"
+"What just happened?"
 
-The Grandmaster closed the gold box. "The city will never see you again. It will only answer you. That is the difference between a servant of Kubera and what you have just become. Go to your quarters. Sleep if you can. Tomorrow you begin learning how much of Trinity is already listening."
+The Master closed the gold box. "The city will never see you again. It will only answer you. Go to your quarters. Sleep if you can. Tomorrow you begin learning how much of Trinity is already listening."
 
 The doors were open when Daren reached them. Down the Phoenix and across the Great Hall, he waited for someone to stop him and ask about the black band. The representatives and attendants he passed stepped out of his way and found somewhere else to put their eyes.
 
@@ -192,17 +168,13 @@ The borrowed room in Trinity-1 looked the same: narrow bed, dark display above i
 
 In the dark the band disappeared, swallowing the weak light that rose from the city until his wrist and the night were one color. Only when he turned his hand to the glass did a razor edge pick up a star.
 
-His hand went to the glass pane beside the bed, the reflex of a man who had always been able to open a ledger and put his finger on the line that was himself. He stopped before he touched it. The entries were still in the archive somewhere, with his name taken off them. His thumb found the ridge the old clasp had left, under the black now, and kept rubbing it.
+His hand went to the glass pane beside the bed, the reflex of a man who had always been able to open a ledger and put his finger on the line that was himself. He stopped before he touched it. The entries were still in the archive somewhere, with his name taken off them. His thumb found the ridge the old clasp had left, under the black now, and kept rubbing it. The Master had been right about the cold.
 
-The stars looked too orderly tonight. He counted them without meaning to. Seven in the upper quadrant. Four below the ventilation tower. A bright pair near the eastern edge of the glass. Years of failure curves had trained his eye to find the point where an arrangement stopped being natural, and tonight it found one.
+The stars looked too orderly tonight. He counted them without meaning to. Seven in the upper quadrant. Four below the ventilation tower. Years of failure curves had trained his eye to find the point where an arrangement stopped being natural, and tonight it found one: a patch of dark between the stars, no larger than a fingernail against the sky. The lights near it bent into thin arcs and ran on tight, wrong paths, one vanishing at its edge and coming back above it. Whatever sat at the center gave off nothing at all.
 
-A darkness between the stars, no larger than a fingernail against the sky. The lights near it bent into thin arcs and ran on tight, wrong paths, one vanishing at its edge and coming back above it, another falling around something nobody could see. He leaned in, and his breath fogged a small circle on the glass, and the pattern sharpened. A black hole, its center hidden by the mass that had taken the sky around it.
+Daren put his palm flat against the pane and watched it until the glass fogged.
 
-Daren put his palm flat against the pane, over the fog. The black hole held the stars in orbit without appearing among them, and the sky bent around a force it couldn't see. He wasn't meant to stand at the center of the system anymore. He was meant to become the force other people arranged themselves around.
-
-The smile came on its own, slow, relief and grief welded into one expression, with nobody in the room to see it.
-
-He spent the rest of the night at the window, watching the dark hold its place.
+Sometime before dawn he caught his own reflection in the window, a pale face over a dark wrist, and saw that he was smiling, with nobody in the room to see it.
 
 ---
 
@@ -212,9 +184,9 @@ REPORT TO THE GRANDMASTER'S CHAMBER. IMMEDIATE.
 
 No routing code. No signature. The house knew which room was his.
 
-The Kubera uniform hung in the alcove where he'd put it the first night of the assignment, every seam exact, the insignia aligned to the center of the body. His hand went toward it out of habit and stopped. He had no right to wear it. Standing there in the grey light, he found he had no wish to either. A uniform announced a rank, and a rank was an entry, and an entry could be countered. Putting on Kubera's colors now would have been a demotion.
+The Kubera uniform hung in the alcove where he'd put it the first night of the assignment, every seam exact, the insignia aligned to the center of the body. His hand went toward it out of habit and stopped. He had no right to wear it. Standing there in the grey light, he found he had no wish to either. A uniform announced a rank, and a rank was an entry, and an entry could be countered.
 
-He dressed in plain clothes, folded the uniform once, with the care owed to a thing that had finished its work, and left it on the bed for the house to reclaim.
+He dressed in plain clothes, folded the uniform once, and left it on the bed for the house to reclaim.
 
 Two maintenance workers knelt at an open floor panel in the corridor, a coil of cable between them. Their wrist terminals pulsed at the same instant. Both read their screens and dropped their eyes, and the nearer one got up and stood back against the wall to clear the way. His hands were split across every knuckle, grey with grease no washing would reach, and on the third finger of the left a thin ring had been wrapped round and round in electrical tape to keep it from catching. The tape was fresh, neatly done, by someone who cared about it. Daren saw that, put it where he put things that had no column, and walked past.
 
@@ -222,7 +194,7 @@ At the Meru gate the scanner opened before he reached it. At the Phoenix two gua
 
 The upper gallery was empty. The black doors stood wide.
 
-The Grandmaster was inside, one hand resting against the wall, consulting the city through it. Beside him, folded over a curved stand, lay a suit of black plates.
+The Master was inside, one hand resting against the wall, consulting the city through it. Beside him, folded over a curved stand, lay a suit of black plates.
 
 "Why did they look at me like that?" Daren said. "The workers. The guards."
 
@@ -238,7 +210,7 @@ The ensemble was darker than the band and more practical than ceremonial: layere
 
 He changed in the recess beside the wall. The under-layer sealed across his ribs with a faint tension, a held breath that wasn't his. The plates locked over it. The hood settled on his shoulders. Last the gloves, the right cuff stopping short of the obsidian so the band sat bare over the sleeve.
 
-When he came back, the Grandmaster nodded at a glass bottle on a narrow table by the wall.
+When he came back, the Master nodded at a glass bottle on a narrow table by the wall.
 
 "Bring it to you. Do not touch it."
 
@@ -258,7 +230,7 @@ It slid off the table into the air, turning lazily, a little water inside it cat
 
 Daren laughed. It came out of him short and startled, a sound he hadn't made in front of a superior in two years, and he didn't care. He looked at the empty table, the ring of damp where the bottle had stood. He tossed it up an inch and caught it with nothing, held it a hand's width above his palm, and laughed again.
 
-"Your glove read the motor impulse before your hand moved," the Grandmaster said. "The suit translated it into a short-range field. This is a calibration. The bracelet keys the ensemble to you. I needed to know whether it would answer."
+"Your glove read the motor impulse before your hand moved," the Master said. "The suit translated it into a short-range field. This is a calibration. The bracelet keys the ensemble to you. I needed to know whether it would answer."
 
 Daren set the bottle down on the floor without bending. Then he looked past it at the rear table and the sealed ledgers stacked there, thick as paving stones, bound in brass at the corners.
 
@@ -280,7 +252,7 @@ They talked for more than thirty minutes under the dark window, and nothing was 
 
 "Drona's a library with towers on it."
 
-"Drona keeps the record. Everything the houses have ever done is on a shelf in Trinity-1, and a shelf can be given as a gift." The Grandmaster's fingers rested on the gold box, on the circle with no center. "Let them give it."
+"Drona keeps the record. Everything the houses have ever done is on a shelf in Trinity-1, and a shelf can be given as a gift." The Master's fingers rested on the gold box, on the circle with no center. "Let them give it."
 
 "And Elara Nathan?"
 
@@ -288,14 +260,12 @@ They talked for more than thirty minutes under the dark window, and nothing was 
 
 "And the miners?"
 
-The Grandmaster looked at him with something close to interest, the first he had shown. "You still think of them."
+The Master looked at him with something close to interest, the first he had shown. "You still think of them."
 
 Daren said nothing. Behind his eyes the boy was still walking up out of the dark, unhurried, the other two on his back and in his fist.
 
-"Good," the Grandmaster said. "Keep them where you can find them."
+"Good," the Master said. "Keep them where you can find them."
 
-When Daren turned at last toward the open doors, he carried the first movements of a plan meant to tip the balance between the houses, and none of it existed anywhere but in the two of them.
+The Phoenix took him down alone. Halfway, the ache from the ledger came back up the inside of his arm, and he let it. He looked at his right hand in the lift's dark wall, the glove and the bare black band above it, and opened the fingers one at a time, and closed them again, slowly, to see what it would do.
 
-At the threshold he looked back.
-
-"I will create the ripple," he said. "Prepare the vessel."
+Under the obsidian, very faintly, something closed with them.
