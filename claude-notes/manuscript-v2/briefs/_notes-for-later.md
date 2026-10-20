@@ -58,3 +58,6 @@
   - The annotation: "the girl thinks in exits, the [gentle] one thinks in patterns, and they listen to each other without ranking." Avoid "the small one", which is Otto in Book 1.
   - Optionally add "Unlikely heroes. Possible." and the CONTROL line, "the strong one spent his strength making the others stronger."
   - This sets up structure §4 item 4 (Ben is chosen because he "thinks in patterns").
+- **Ch4 rework (fork2):**
+  - The epigraph is now Book 1 Ch5, "The model had not predicted them…". **Don't reuse it.**
+  - Elara holds back her calibration retort, and the sabotage stays unattributed.
