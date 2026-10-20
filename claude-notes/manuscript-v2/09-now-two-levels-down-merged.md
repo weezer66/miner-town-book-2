@@ -76,6 +76,8 @@ The fingers closed on the bench, late. The web didn't move. Only, for the length
 
 She wanted to touch it worse than she'd wanted to touch anything in her life, and didn't, because he'd said *learn*. The thing in the trough was taking notes.
 
+An ear. A thing that sat still and heard what the rest of a body was about to do. She thought of a wall a long way down, and of rock that talked before it broke, and she knew what she was going to build with the rest of the bench.
+
 She followed it up to the shoulder. Under the cup it gathered and ran in, thickening into a band the width of her smallest finger, going in toward her, under the seal. And there, on the inside curve of the metal, just before the cup met the seal and became part of her, there was a mark.
 
 A circle, pressed into the metal, and inside the circle something that had once been a shape, rubbed almost flat the way a coin goes smooth in a pocket. The lamp caught a curve going the wrong way for any letter she knew. She tried it upside down.

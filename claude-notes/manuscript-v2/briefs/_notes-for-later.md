@@ -61,3 +61,17 @@
 - **Ch4 rework (fork2):**
   - The epigraph is now Book 1 Ch5, "The model had not predicted them…". **Don't reuse it.**
   - Elara holds back her calibration retort, and the sabotage stays unattributed.
+- **Ch5 rework (fork2, awaiting the author):**
+  - The band "will not close on a hand the city is still holding. It has to be let go of first."
+  - "It is cold the first night" plants that the Master wore it.
+  - The Master's line "You will be the force the city arranges itself around" (for ch20).
+  - The epigraph is now Book 1 Ch4, "The system didn't punish cruelty…". **Don't reuse it.**
+  - **Ch26 payoff:** the Master once let his own hand go to wear the band.
+- **Ch6 rework (fork2, awaiting the author): the wall-listener thread.**
+  - Camilla: "Give me your workshop and whatever you've got that listens, and I'll build you eyes for the wall. Then nobody stands there." / Flitzberg: "Then build it. And if it sees, someone may still have to carry it in."
+  - **Pay it off once ch6 is pushed:**
+    - **ch9:** in the workshop, after she sees the arm's listening web ("the ear of the thing"), one line where she thinks *an ear for the wall* and starts.
+    - **ch15:** in the montage, one beat of the listener half-built (coil, clay, a thing that hears the rock), not working yet.
+    - **ch22/24:** one mention of its status.
+    - **Climax:** it works, but someone still has to carry it in.
+  - Camilla's third term now includes the switch, so ch9's "ask about the switch" is a use of that term.
