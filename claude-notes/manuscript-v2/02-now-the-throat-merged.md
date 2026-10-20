@@ -208,8 +208,6 @@ He was carrying Otto out again. This time Otto didn't know it.
 
 Behind the empty place where Otto had stood, the crystal. Still a quarter blue.
 
-She counted them through the door. Gage, with Otto on his back. Ben, beside her. Herself.
-
 Four of them. Three awake.
 
 She'd count again in the morning. She'd keep counting until it was four.
