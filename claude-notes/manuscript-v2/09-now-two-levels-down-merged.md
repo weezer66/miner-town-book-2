@@ -142,7 +142,7 @@ He was at his table with his back to her, drawing on clean white paper, and the 
 
 "Ah." He turned his chair to face her. His own face, the smooth one with the full cheeks; she checked the jaw. "Then you have come about the switch."
 
-"Who else can switch my arm off?"
+"Is it only the three of you? You, her, and the man who built it?"
 
 "Three people," he said. "The medic who fitted it. The man who built it. And I." He let that stand. "No one above. No house. No one up there has been told that it exists, and none will be. The medic gave you a door she would not swear to. I am the door. There is no one behind me."
 
