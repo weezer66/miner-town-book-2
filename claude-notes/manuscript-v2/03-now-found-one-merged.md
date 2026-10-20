@@ -110,9 +110,9 @@ She looked at it. Then she closed the fingers again, slowly, and watched them fo
 
 The engineer looked up from his slate, and something finally moved in his face. "There's a part of it that listens. It isn't a wire. I can show you where it is. I can't tell you how."
 
-"Tomorrow," the medic said. "Tonight you lie still, think about the question, and give me less trouble." She lowered the bed a notch. "I have patients who do as they're told. I've never once enjoyed them."
+"Later," the medic said. "For now you lie still, think about the question, and give me less trouble." She lowered the bed a notch. "I have patients who do as they're told. I've never once enjoyed them."
 
-Camilla lay back. When she thought about her left hand, it moved. She thought about it a great many times before morning.
+Camilla lay back. When she thought about her left hand, it moved. She thought about it a great many times before the boys came.
 
 ---
 
@@ -120,7 +120,7 @@ When the lights came up behind the dark window, before anyone else was awake, sh
 
 The medic let her, an arm under her good elbow, the bag rolling beside them on a wheel that ticked. Nine steps from the bed to the connecting door. She counted them. The ninth nearly put her on the floor.
 
-The tank stood taller than Gage. A clear cylinder on a dark base, full of something thicker than water, faintly blue, the blue of the sealant can. Otto hung inside it with his eyes closed, a clear mask over his nose and mouth and a line running up from it into the lid. His arms floated a little away from his sides. His hair lifted and settled. He wasn't standing and he wasn't lying down. The gel held him the way water holds a swimmer who's stopped swimming.
+The tank stood taller than Gage. A clear cylinder on a dark base, full of something thicker than water, faintly blue, the blue of the sealant can. Otto hung inside it with his eyes closed, a clear mask over his nose and mouth and a line running up from it into the lid. His arms floated a little away from his sides. His hair lifted and settled. He wasn't standing and he wasn't lying down. He'd stopped swimming and the gel hadn't let him sink.
 
 A bubble had come loose from the mask seal and was climbing beside his cheek. She watched it. It took as long as it would take to walk across a room.
 
@@ -174,7 +174,7 @@ Ben put his forehead to the glass beside Otto's hanging hand. Gage let him.
 
 She got up.
 
-It took two tries. The arm pulled her left and the room swung, and she held the chair back until the floor agreed to stay put. Sitting would have been easier. She could be in the bed when they came through, blanket to her chin, and they'd talk low, as everyone had around Pappy at the end. But Gage had already seen her on the floor twice, and she'd heard what *half-dead* sounded like in his mouth. She was going to be standing.
+It took two tries. The arm pulled her left and the room swung, and she held the chair back until the floor agreed to stay put. Sitting would have been easier. She could be in the bed when they came through, blanket to her chin, and they'd talk low, as everyone had around Pappy, their grandfather, at the end. But Gage had already seen her on the floor twice, and she'd heard what *half-dead* sounded like in his mouth. She was going to be standing.
 
 She let go of the chair. She put her weight even on both feet and the arm where it would be seen. When she heard the connecting door, she was ready.
 
@@ -188,7 +188,7 @@ She felt it go, half a breath behind the rest of her. It rose off her side and p
 
 She could feel how much it could have done. All that strength resting against his spine.
 
-She hadn't told it to be gentle. She hadn't told it anything.
+She hadn't told it to be gentle.
 
 "Lost an arm," she said into his shoulder. "Found one."
 
@@ -244,15 +244,21 @@ He put his own hand over hers, over the metal, and left it there. Ben put his on
 
 The connecting door opened behind them.
 
-Flitzberg didn't come in. He stood in the doorway with his collar buttoned to the throat, over the marks Gage's fingers had left. He'd been watching through the glass, she could tell from where he stood, and he wasn't pretending otherwise.
+Flitzberg didn't come in. He stood in the doorway with his collar open over the marks Gage's fingers had left. He'd been there a while, she could tell from where he stood, and he wasn't pretending otherwise.
 
 Gage moved half a step, between him and her. His hands stayed open. She saw him make them.
 
-"It moved," Camilla said. "Twice. Without me."
+Flitzberg's eyes went to the metal hand before they came to her. He knew. She hadn't told anyone, and he knew.
 
 "It moved before you did," Flitzberg said. "That is not the same as without you. It is still learning where you end."
 
-"That's not an answer."
+Gage's head turned to her, Flitzberg still at the edge of his eye. "Moved."
+
+"Twice," she said. "In the tank room, when Otto's hands did. And on your back, when I had hold of you."
+
+Ben looked at the hand that had been under his a minute ago. He didn't step away from it. He put his own hand in his pocket, and she watched him notice that he had.
+
+"That's not an answer," she said to Flitzberg.
 
 "It is the true one. I do not have a better one yet."
 
@@ -268,25 +274,25 @@ Ben stopped breathing. She heard him stop.
 
 "From anywhere in this place."
 
-Gage's open hands didn't move, and that took him something. She could see what it took.
+Gage's open hands didn't move. A vein stood up along the back of the left one.
 
 "Who else?" she said.
 
-"Tomorrow. All of it, as I promised your brother." Flitzberg's voice was still scraped raw from last night. "You will have terms. Bring them."
+"Today. All of it, as I promised your brother." Flitzberg's voice was still scraped raw from last night. "You will have terms. Bring them."
 
 "I've got them now."
 
-"Then you will have better ones by morning."
+"Then you will have better ones by the time I send for you."
 
 He nodded once to the medic, and the door closed behind him without a sound.
 
+The medic left breakfast on a cart in the doorway and didn't come in.
+
 Nobody said anything for a while. Then Ben said, "Cami—"
 
-"Eat your bread," she said.
+"Eat," she said.
 
 ---
-
-The medic left breakfast on a cart in the doorway and didn't come in.
 
 They ate on her bed, Ben at the foot with his knees up, Gage on the edge so the mattress tipped, and she let the tilt pull her into his side. Ben kept tearing his bread into small pieces and not eating them. Nobody said Otto's name. Nobody said Flitzberg's.
 

@@ -126,7 +126,7 @@ Flitzberg looked at him for longer than he had for anything else. "Yes."
 
 Gage turned. She wasn't looking at him. She'd lifted the metal arm onto the table, and the fingers lay open on the wood, and she was looking at Flitzberg over them.
 
-"Nothing in this place stays closed to me. Not the rooms we walked. Not the drones. Not whatever's in that tank keeping Otto warm. Not this." She turned the arm over, slow, and the wrist came after her a heartbeat behind her face. "You put a machine on me I didn't build and can't open yet. I'll carry it. I won't carry it blind. When I ask how a thing works, you show me, all of it, down to the last wire." Her voice didn't change. "And the switch. You told me you can turn this off from anywhere in this place. When I ask you where, you show me that too."
+"Nothing in this place stays closed to me. Not the rooms we walked. Not the drones. Not whatever's in that tank keeping Otto warm. Not this." She turned the arm over, slow, and the wrist came after her a heartbeat behind her face. "You put a machine on me I didn't build and can't open yet. I'll carry it. I won't carry it blind. When I ask how a thing works, you show me, all of it, down to the last wire." Her voice didn't change. "And the switch. You told me you can turn this off from anywhere in this place. Nobody uses it. Not from this room, not from anywhere. And when I ask you where it is, you show me that too."
 
 Ben's eyes went to the arm. Gage had been standing beside her when Flitzberg said it, and he hadn't stopped hearing it since. He kept his hands open.
 
