@@ -14,7 +14,7 @@ He set it on the bench in front of her in a nest of grey rag, brown and speckled
 
 "This ring keeps hens. Level six. They do not know they are underground, and nobody has told them." He nodded at it. "Pick it up. Put it down. Do not think about the hand. Think about the egg."
 
-She'd been doing cups all week: a cup of water filled to the lip, carried the length of the workshop. Eleven spills the first day, two yesterday. Eggs had an opinion about being held. The lag was going. She could count it now. Half a breath had been something she felt; this was something she could measure, a third of a breath, the space between deciding and the fingers getting the news. Some mornings less. She caught herself waiting for the mornings.
+She'd been doing cups all week: a cup of water filled to the lip, carried the length of the workshop. Nine spills the first day, two yesterday. Eggs had an opinion about being held. The lag was going. She could count it now. Half a breath had been something she felt; this was something she could measure, a third of a breath, the space between deciding and the fingers getting the news. Some mornings less. She caught herself waiting for the mornings.
 
 She hated that. The arm was learning her, and she was learning to like being learned, and she didn't want to like anything in this place she hadn't taken apart.
 
@@ -126,7 +126,7 @@ It had ended there every time: the run where Ben hesitated, the run where Gage l
 
 Nobody said that either.
 
-The fourth run, Ben said "Clear" in the right place, and she said "Feeds" a beat after him, and Flitzberg said "Closed," and Gage counted the blows to eleven without stopping and said "Through" at the last, low, and lifted his finger off the wall. The sand ran out. The engineer looked at the empty top of the glass and then at his clocks and nodded once.
+The fourth run, Ben said "Clear" in the right place, and she said "Feeds" a beat after him, and Flitzberg said "Closed," and Gage counted the blows to twelve without stopping and said "Through" at the last, low, and lifted his finger off the wall. The sand ran out. The engineer looked at the empty top of the glass and then at his clocks and nodded once.
 
 "Clean," Camilla said.
 
@@ -140,7 +140,7 @@ Gage looked at the pad of his finger. There was a small pale line on it where th
 
 The crystal was still in the room where they'd woken, which had been every room, because nobody had found a way to move it, or nobody had wanted to.
 
-Ben had taken to going there in the evenings. She found him sitting on the metal floor with his back against the wall and his knees up, in the same place he'd knelt with a spray can a lifetime ago. The crystal stood on its plinth in the middle of it, three quarters green, steady, and the last quarter blue.
+Ben had taken to going there in the evenings. She found him sitting on the metal floor with his back against the wall and his knees up, in the same place he'd knelt with a spray can a lifetime ago. The crystal hung in the air in the middle of it, turning slowly, three quarters green, steady, and the last quarter blue.
 
 "Sit down," Ben said. "Don't talk. I'm at two hundred and six."
 
@@ -148,7 +148,7 @@ She sat. The floor was cold through the greys. She looked at the blue.
 
 It pulsed. She'd seen it pulse the night they woke here, and thought of it the way you think of a lamp, a thing that's on. Sitting there, she saw it brighten, and dim, and brighten, and Ben's lips moving with it. After a while she started to count too. Twelve, and the next one took thirteen. Thirteen. Fourteen. The pulse was getting slower.
 
-"It goes slow," Ben said, "and then it comes back quick. Then slow. It takes about as long as it takes them to change a shift and change it back. I've done it four nights. It's the same every night." He rubbed his eyes. "I thought it was a light. It's keeping time."
+"It goes slow," Ben said, "and then it comes back quick. Then slow. It takes about an hour, a little more, to go round. I've done it four nights. It's the same every night." He rubbed his eyes. "I thought it was a light. It's keeping time."
 
 "To what?"
 
@@ -164,7 +164,7 @@ Behind them the door opened and Flitzberg came in, and stood, and looked at the 
 
 Flitzberg looked at the blue quarter for a long time.
 
-"Yes," he said. "I had seen that it moved. I had not seen with what." He kept his hands folded. "I will tell you the next part, because you will ask it. I do not know why. I do not know what it is doing. This office built the rooms around that stone. It did not make the stone, and it has never understood it, and the people who knew more than I do are a long time dead."
+"Yes," he said. "I had seen that it moved. I had not seen with what." He kept his hands folded. "I will tell you the next part, because you will ask it. I do not know why. I do not know what it is doing."
 
 "You built a test round a thing you don't understand," Camilla said.
 
@@ -188,7 +188,7 @@ Ben started counting again from one.
 
 Ben's hour at the tank was the last of the day.
 
-Camilla stood in the doorway, because the room only had one chair and it was his for the hour, and because the doorway was where she could see all of it at once. The tank, taller than Gage, the gel in it faintly blue and moving very slowly round Otto, so that his hair lifted off his forehead and settled. His eyes closed above the clear mask. His hands a little away from his sides, the fingers a little curled. The screen on the wall above him with its line, green on black, flat, a long way along. The medic, the grey-haired one, at her desk in the corner, writing, her pink-scrubbed wrists resting on the edge of the paper so the ink wouldn't smudge.
+Camilla stood in the doorway, because the room only had one chair and it was his for the hour, and because the doorway was where she could see all of it at once. The tank, taller than Gage, the gel in it faintly blue and moving very slowly round Otto, so that his hair lifted off his forehead and settled. His eyes closed above the clear mask. His hands a little away from his sides, the fingers a little curled. The screen on the wall above him with its lines, three moving and one flat, a long way along. The medic, the grey-haired one, at her desk in the corner, writing, her pink-scrubbed wrists resting on the edge of the paper so the ink wouldn't smudge.
 
 Ben pulled the chair up to the glass and sat with his elbows on his knees.
 
@@ -210,7 +210,7 @@ The cool was coming in. Camilla could see it in the gel, the blue going a shade 
 
 On the screen the line moved.
 
-Camilla saw it because she was looking at everything. A single small rise in the green, low, near the right edge, no higher than a fingernail is thick. It went up. It came down. The line ran on flat behind it, flat as it had been since the night they came.
+Camilla saw it because she was looking at everything. A single small rise in the green, low, near the right edge, no higher than a fingernail is thick. It went up. It came down. The line ran on flat behind it. That was the second time. The first, the medic had only told them about.
 
 Ben had stopped in the middle of the sentence. He was sitting with his mouth still open on the next word. He hadn't turned his head to the screen; he'd been looking at Otto's face, the way he always did. But he'd seen it the same way she had, out of the side of everything. She watched his hands on his knees. They'd gone completely still, the way they went when a coil hummed under them after an hour of nothing.
 
@@ -236,7 +236,7 @@ The door with the handle on the inside was half open. White lamp. Gage was at th
 
 She stood at the door with her good hand on the frame and her metal one at her side. It had closed. She hadn't told it to.
 
-She could tell him. She could walk in and say *the line moved* and watch his whole face come apart and go back together again, and he'd be up those stairs before she'd finished the sentence. And it had moved once. Once was a reading. She'd learned that before she learned her letters, on Pappy's gauges: a needle that kicks once goes in the log, and you wait on it. You don't hand it to someone who has twelve nights and a finger that keeps going to the same place on the wall.
+She could tell him. She could walk in and say *the line moved* and watch his whole face come apart and go back together again, and he'd be up those stairs before she'd finished the sentence. He'd been told the first time, and he'd sat in that chair all night, and nothing had moved for him. Twice was still a reading. She'd learned that before she learned her letters, on Pappy's gauges: a needle that kicks goes in the log, and you wait on it. You don't hand it to someone who has twelve nights and a finger that keeps going to the same place on the wall.
 
 Or it was the only thing that would make him take the finger off the wall.
 

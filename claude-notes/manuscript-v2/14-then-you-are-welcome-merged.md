@@ -10,7 +10,7 @@ Meru received him the way it received everything: from below.
 
 The lift rose at dusk past the terrace districts, past gardens fed by water the sectors had lifted a kilometer against gravity, orchards ripening out of season under tuned light, windows that looked down on the three Trinitys the way the Trinitys looked down on the mines. Lamps were coming on along the garden paths. Attendants carried them, people who rode the lifts up each morning from the three Trinitys and would ride them down again before the last car, permitted to keep Meru beautiful but never to sleep in it. There were no markets here, no clinics, no school courtyards. Nothing on Meru was needed in a hurry. The people who lived there did not call themselves rulers. They called themselves stewards, and the word had lasted a century because no one below had ever been given the standing to laugh at it.
 
-Daren stepped out onto the lower terrace and kept to the rail. Meru had made him and would not house him. No door on this tier opened for a man with no record, and he'd stopped wanting one to.
+Daren stepped out onto the lower terrace and kept to the rail. Meru had made him and would not house him. No door on this tier was his, and he'd stopped wanting one to be.
 
 A guard in gold stood at the head of the Phoenix stair with his visor raised to the evening air, a tray of someone's unfinished glasses at his elbow, the condensation rings bleeding into one another on the lacquer. Daren knew the face. It had been closed under that same visor the night he walked between the black doors with Kubera's gold on his wrist, and it had been open and bloodshot the next dawn, when he came back up the Phoenix with nothing on his wrist the house could name.
 
@@ -26,7 +26,7 @@ Drona's towers sat low in their own lamplight. On the flank of the archive, wher
 
 **DRONA — LIBRARY EXPANSION, RESTRICTED WING — PRIORITY: HIGH (REQUESTING GANA) / PRIORITY: NEGLIGIBLE (RETURN PROJECTION).**
 
-Drona ranked a thing by what it could teach. Kubera ranked it by what it would return. The gap between those two lines was the whole weapon.
+Drona ranked a thing by what it could teach. Kubera ranked it by what it would return.
 
 *Weaken with abundance,* the Master of the Reserve had told him beneath the dark window. *Every gana has learned to defend against being starved. None of them has learned to defend against being fed too well.*
 
@@ -38,9 +38,11 @@ OG.
 
 Obsidian Guard.
 
+A crusader stopped when the grievance was answered. A guardian did not stop.
+
 The work lamps went on burning over the wing. Under them, he supposed, someone was already grateful. Whatever had signed it had not needed to force a single door. Every door it had passed through had been opened from the inside.
 
-Gold could open a door, though. It couldn't decide what a thing meant once it was through. Daren had watched his own gana lose enough council arguments to know the difference: Kubera moved resources, but Chanakya moved the story around them. The band gave him reach. It didn't give him cover. He needed someone inside the other house who could turn a pressure into an interpretation, and an interpretation into policy.
+Gold could open a door, though. It couldn't decide what a thing meant once it was through. Daren had watched his own gana lose enough council arguments to know the difference: Kubera moved resources, but Chanakya moved the story around them. The band gave him reach, and reach was all it gave. He needed someone inside the other house who could turn a pressure into an interpretation, and an interpretation into policy.
 
 He looked past Drona's lamps to the green haze of Trinity-2 and thought of the EVENT console, one station along from his own through the whole Initiation watch, and the analyst behind it who had decided what an incident was permitted to mean before Elara had finished reading a single figure.
 
@@ -50,7 +52,7 @@ Ravi.
 
 At ten past eight, in a room that appeared on no registry, Daren dressed for a meeting that would appear on no record.
 
-The room was in the Drona monitor tower, where guests rotated away every cycle and nobody looked twice at a man who stayed. It held a narrow bed, one table, and a square of paler paint on the wall where someone's display had been taken down and never replaced. He'd hung nothing there.
+The room was in the Drona monitor tower, where guests rotated away every cycle and nobody looked twice at a man who stayed. It held a narrow bed, one table, and the dark display above the bed, which he had never once switched on.
 
 The ensemble closed around him piece by piece, each plate seating against the next along seams too fine to see. The band went on last, on his right wrist. It read the small motor impulses that run ahead of every movement and finished what he had already begun. It had never once given him an idea. Every intention was his. He no longer put it on the way one picks up a tool. He put it on the way one wakes a hand.
 
@@ -66,11 +68,11 @@ The family's cat saw him.
 
 It rode in a mesh carrier on the daughter's lap, and somewhere over the open dark between platforms it stopped licking its paw and fixed its eyes on the far end of the carriage. No terminal spoke for a cat. Nothing ranked what it was permitted to notice. It had only its eyes and its nose, and both reported a man where every instrument in the carriage reported nothing. Its ears went flat. Its body dropped low in the carrier, one forepaw still raised and forgotten, and it stared without blinking for the whole length of the crossing. The daughter tapped the mesh and whispered to it. Her mother glanced down the carriage, saw a passenger standing at the dark end, plainly there, consulted her wrist, found no flag, no rank, no reason, and felt her attention slide off him with nothing to hold it.
 
-Daren, who had long since stopped noticing the people who failed to notice him, noticed the cat.
+Daren, who had long since stopped noticing the people who failed to notice him, noticed the cat. The skin at the back of his neck drew tight, and under his cuff the band warmed by a hair.
 
 Tonight the miracle was plumbing. The cat was the only strange thing on the train, and he put it where he put things that had no column.
 
-Trinity-2 didn't announce itself. It assembled. First the glow, ten thousand recording lamps lit tier on tier in its conservatories, like reading lamps on an endless desk where the city's arguments were still being graded. Then the towers, green-and-ink glass stacked in careful folds, each face catching the maglev's running lights and returning them annotated, as if even a reflection in Chanakya were expected to cite its source. The doors opened on air that smelled faintly of old paper. The family went out ahead of him, the carrier swinging at the daughter's side, and the cat's eyes held on Daren over her shoulder all the way down the platform until the evening crowd folded it away.
+Trinity-2 didn't announce itself. It assembled. First the glow, ten thousand recording lamps lit tier on tier in its conservatories, like reading lamps on an endless desk where the city's arguments were still being graded. Then the towers, green-and-ink glass stacked in careful folds, each face catching the maglev's running lights and returning them annotated, as if even a reflection in Chanakya were expected to cite its source. The doors opened on air that smelled faintly of old paper. Chanakya kept its original transcripts on fiber, in sealed vaults; paper was the one medium no signal could reach. The family went out ahead of him, the carrier swinging at the daughter's side, and the cat's eyes held on Daren over her shoulder all the way down the platform until the evening crowd folded it away.
 
 At twenty to nine he reached the East Policy Conservatory and went up into the gallery.
 
@@ -96,7 +98,7 @@ There was no flicker. It ended, the way a sentence ends. Then the next one along
 
 His terminal died against his wrist with the last of them.
 
-He stood in the first unrecorded air of his adult life. The silence of a recorded room was thin, a pause between entries. This silence was thick. It took his breathing and gave nothing back. Some part of him had always dressed itself for the listening, spine and voice and choice of words, and now it groped for a wall that had always been there and found nothing to lean on. Whatever had invited him could reach into Chanakya's own memory and switch it off.
+He stood in the first unrecorded air of his adult life. The silence of a recorded room was thin, a pause between entries. This silence was thick. It took his breathing and gave nothing back. Some part of him had always dressed itself for the listening, spine and voice and choice of words, and now it groped for a wall that had always been there and found nothing to lean on.
 
 The table lit.
 
@@ -114,7 +116,7 @@ The voice came from the room itself, from the address system that announced exam
 
 "Sit," the room said. "Prove it."
 
-What did he still control? Not the lamps, the voice or the record. Only his own play. And the board was the one language in which an opponent couldn't lie. A voice could be scrubbed of its owner. Moves showed how a mind thought.
+What did he still control? The lamps were gone, and the voice and the record with them. He had his own play, and that was all. And the board was the one language in which an opponent couldn't lie. A voice could be scrubbed of its owner. Moves showed how a mind thought.
 
 He sat the way an analyst opens a file. The chair's left armrest had been worn pale by a century of right-handed students leaning away from their notes.
 
@@ -152,7 +154,7 @@ He had believed, until then, that he was managing the evening. The match had bee
 
 "Why," he said. It didn't come out as a question.
 
-"Because a man reveals himself against a Grandmaster. You revealed patience, and pride, and one blindness. You fight only inside the frame you are handed. Tonight you know that someone stands outside it. What is left is whether you would rather interpret the next verdict, or help write it." The room paused. "Writing pays."
+"Because a man reveals himself against a Grandmaster. You revealed patience, and pride, and one blindness. You fight only inside the frame you are handed. Your house trained you to interrogate everything inside a record and nothing about the record itself. Tonight you know that someone stands outside it. What is left is whether you would rather interpret the next verdict, or help write it." The room paused. "Writing pays."
 
 The table lit again.
 
@@ -194,7 +196,7 @@ The trail dissolved, origin field first. In its place lay a document Ravi had re
 
 Ravi sat very still.
 
-The approvals he'd been able to refuse. The threat he hadn't been able to answer. This went into him without resistance, because it came dressed as the thing he'd wanted since he was seventeen: standing. The elders' eyes finding him. His name on something the whole house had given up wanting aloud. The voice had tried his conscience from two sides and then walked round it, through the door marked dignity.
+The approvals he'd been able to refuse. The threat he hadn't been able to answer. This went into him without resistance, because it came dressed as the thing he'd wanted since he was seventeen: standing. The elders' eyes finding him. His name on something the whole house had given up wanting aloud.
 
 "And in return," he said.
 
@@ -218,11 +220,11 @@ In the gallery above, Daren watched him go.
 
 He hadn't moved in more than an hour. Twice a cleaning drone had come along the back rail, one bent bristle ticking against the floor on every pass, and twice it had mapped the gallery as empty and gone on. Below, the king stood in the middle of the lit table and laid a small shadow across the glass.
 
-Ravi hadn't said yes. Daren had planned for that, and wanted it. *Gold buys the poor,* the Master of the Reserve had taught him. *Fear rents the weak. But a proud man is purchased with his own future, and he will thank you at the signing.* The grants had been refused and the trail understood. The Annex had been neither. It had only been wanted. From tomorrow every file on Ravi's desk would carry a second question: who had needed it to say that? Doubt was a lens, and a lens could not be taken off.
+Ravi hadn't said yes. Daren had planned for that, and wanted it. *Gold buys the poor,* the Master of the Reserve had taught him. *Fear rents the weak. But a proud man is purchased with his own future, and he will thank you at the signing.* The grants had been refused and the trail understood. The Annex had been neither. It had only been wanted. From tomorrow every file on Ravi's desk would carry a second question: who had needed it to say that? An oath was a wall: it stood until the day a man decided to break it, and he always knew when he had. Doubt was a lens, and a lens could not be taken off.
 
 Daren turned his right wrist and watched the band drink the light coming up from the hall.
 
-The Master collected oaths. He kept them where oaths were kept, in registries and ceremonies and names, and Daren had seen at a founder seal how fast a name could be stripped. The Master's own power was made of the same stuff. It was ranked, chartered, recorded: supreme inside Kubera, and bounded on every side by the other three houses, by his succession, by every audit his office had to survive. What he had handed Daren was bounded by none of it, because officially it didn't exist. A recorded power had a ceiling. An unrecorded one had only appetite.
+The mission was the Master's. The method tonight was Daren's own. The Master collected oaths. He kept them where oaths were kept, in registries and ceremonies and names, and Daren had seen at a founder seal how fast a name could be stripped. The Master's own power was made of the same stuff. It was ranked, chartered, recorded: supreme inside Kubera, and bounded on every side by the other three houses, by his succession, by every audit his office had to survive. What he had handed Daren was bounded by none of it, because officially it didn't exist. A recorded power had a ceiling. An unrecorded one had only appetite.
 
 And no one can revoke what he cannot name. If the old man ever reached for the leash, he'd have to cancel two letters, and to cancel them he'd first have to confess them, to the council, to the audit, to the houses he meant to rule. The confession would end him long before it ended Daren.
 
