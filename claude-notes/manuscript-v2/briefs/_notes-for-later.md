@@ -45,3 +45,6 @@
   - In ch2 Flitzberg reveals that in four days the boys are marked "Absconded" and Camilla's ration card stops. **Later chapters shouldn't present this as news.**
   - Ch2's epigraph is Book 1 Ch22's "If I tell you to stop, you stop…" **Don't reuse it.**
   - The dolls are cut from ch2 and first shown in ch9.
+- **ch20 correction:** the medic's "had never done" becomes **"had done twice"** (ch3 and ch15). The finger must read as a third, bigger event.
+- **ch22:** when Otto wakes, the crystal's blue quarter must visibly change, or visibly not.
+- **ch19 (sent to drafters):** Daren was looked at "by something no instrument could talk down"; the guard on Meru held his eyes in ch14.
