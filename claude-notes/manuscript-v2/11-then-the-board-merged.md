@@ -130,13 +130,13 @@ The Grandmaster let go of the queen without moving her.
 
 "We stop here."
 
-Ravi stood when he stood. "Grandmaster," he said, and heard his own voice come out younger than he had meant it to.
+Ravi rose with him. "Grandmaster," he said, and heard his own voice come out younger than he had meant it to.
 
 The Arthashastri looked at him once, and there was no lesson in it, only calculation moving too fast to share.
 
 "The board has not finished with you," he said. "Do not mistake an unfinished game for a spared one."
 
-He left the table. Below the rail the living board stayed frozen, the white queen's mare stamping under her rider's gloved hand, the black king's horseman staring across the floor at the square that would have ended him. Around the enclosure the elders began to whisper. Nobody had ever beaten the Grandmaster. Nobody had ever been given a draw by interruption either, and in the records, when they were written, there would be no loss beside Ravi's name.
+He left the table. Below the rail the living board stayed frozen, the white queen's mare stamping under her rider's gloved hand, the black king's horseman staring across the floor at the square that would have ended him. Around the enclosure the elders began to whisper. Nobody had ever beaten the Grandmaster. Nobody had ever been given a draw by interruption either, and in the records, when they were written, there would be no loss beside Ravi's name. He was too disciplined to smile in the corridor, and too honest with himself to pretend he didn't want to.
 
 ---
 
@@ -188,7 +188,7 @@ He sat on the narrow bed without undressing and let his mind work. Access path. 
 
 ---
 
-The storage recess had smelled of laundry starch and stacked spare coats, and a hanger's hook had been pressing between Daren's shoulder blades for forty minutes. He waited a minute after Ravi's breathing went long. Then he opened the recess from the inside and stepped out without a sound.
+The storage recess had smelled of laundry starch and stacked spare coats, and a hanger's hook had been pressing between Daren's shoulder blades since midday. He waited a minute after Ravi's breathing went long. Then he opened the recess from the inside and stepped out without a sound.
 
 In the unlit room the ensemble was darker than the walls. The Chanakya boy lay on his back with the king still clenched, his mouth slightly open, a crease between his brows where the problem had followed him under. Daren had watched the footage of the Initiation get passed round this gana. They'd laughed loudest. Now one of their best had gone to sleep inside a question and failed to think his way out.
 
@@ -204,7 +204,7 @@ The window above the writing surface held Chanakya's slice of sky. He found it w
 
 The four notes came up in his throat, the same four, low enough to stay in the room. Ravi didn't stir. Daren closed his mouth on the last one and let himself out.
 
-The residential corridor was green-gray and busy with the next rotation, representatives walking to analysis rooms with panes under their arms. As Daren came within range a wrist terminal flickered on a clerk's left arm. A wall sensor dimmed. A route marker on the floor slid a hand's width to the side, and a woman stepped with it without looking down. A clerk with a stack of panes stood against the wall as he passed, studying her own left wrist as if it had told her something she needed to think about. Nobody stopped him. Eyes went to tablets, cuffs, floor grids, anywhere but the dark figure moving among them. These were people trained since childhood to notice what others missed, and they parted around him the way water parts around a stone it has decided isn't there.
+The residential corridor was green-gray and busy with the evening rotation, representatives walking to analysis rooms with panes under their arms. As Daren came within range a wrist terminal flickered on a clerk's left arm. A wall sensor dimmed. A route marker on the floor slid a hand's width to the side, and a woman stepped with it without looking down. Nobody stopped him. Eyes went to tablets, cuffs, floor grids, anywhere but the dark figure moving among them. These were people trained since childhood to notice what others missed, and they parted around him the way water parts around a stone it has decided isn't there.
 
 Drona first, the old man had said. Nobody had said Chanakya last.
 

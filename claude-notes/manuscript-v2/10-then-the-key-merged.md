@@ -16,7 +16,7 @@ She had gone into the archive looking for a lock. What she had found ran farther
 
 Her breath came shorter than the small room needed.
 
-She knew the sensation from the council chamber: the Ancient One's hand rising, and the air leaving her chest as if a valve had closed. There, the system had taken her breath. Here, it had declined to give her an answer. Her body made no distinction between the two, and lying in the dark she began to suspect her body was right. Both said the same thing. Whatever she received had been issued, and could be withheld.
+She knew the sensation from the council chamber: the Ancient One's hand rising, and the air leaving her chest as if a valve had closed. There, the system had taken her breath. Here, it had declined to give her an answer. Her body made no distinction between the two, and sitting in the dark she began to suspect her body was right. Both said the same thing. Whatever she received had been issued, and could be withheld.
 
 The ventilation grille above the door ticked as it cooled, a small dry sound like a fingernail tapped on a tooth. She counted the ticks until her lungs agreed to the count.
 
@@ -44,7 +44,7 @@ She tried to picture the two houses side by side, and the picture that came was 
 
 Elara got up and turned the lights one notch higher.
 
-Her wrist terminal sat dark on her left arm. Anything she wrote into it would be underlined somewhere she couldn't see, so she took a sheet of plain paper from the drawer and a pen that needed shaking before it would run. She hadn't written by hand since her examinations, and the slowness made every word pay for its place. She wrote two notes. The shorter one went to Anandi, and said only that she needed a room in Ashoka, lawfully, and a reason that would survive being read by anyone. The longer one she wrote three times, crossing out every sentence that sounded like a plea, until what remained sounded like an office talking to an office.
+Her wrist terminal sat dark on her left arm. Anything she wrote into it would be underlined somewhere she couldn't see, so she took a sheet of plain paper from the drawer and a pen that needed shaking before it would run. She hadn't written by hand since her examinations, and the slowness made every word pay for its place. She wrote two notes. The shorter one went to Anandi, and said only that she needed a room in Ashoka, lawfully (Review Room Two, at nineteen hundred, if it could be had), and a reason that would survive being read by anyone. The longer one she wrote three times, crossing out every sentence that sounded like a plea, until what remained sounded like an office talking to an office.
 
 She folded it once. By the time the grille stopped ticking, it was on its way to a door in the Ashoka barracks.
 
@@ -94,7 +94,7 @@ AUTHORITY: OFFICE OF THE GRANDMASTER, DRONA.
 
 He stayed on the last line until the reader dimmed. A handwritten letter that touched no system, and beneath it the stamped authority of Drona's own Grandmaster. Elara had not only chosen her door with care. Someone far above her had quietly agreed to hold it open.
 
-Rohan went back to the center of the floor and sank into the stance a second time, which no schedule asked of him.
+Rohan went back to the center of the floor and sank into the stance a second time, the way he did before any deployment.
 
 ---
 
@@ -134,7 +134,7 @@ The gate opened one body wide and sealed behind her. A thin red line lit along t
 
 Ashoka Headquarters rose around a central training court. Recruits drilled under silent instructors. A file of responders crossed an upper bridge. At the far end of the court, a red insignia had been set into the floor so deep it looked less like decoration than a wound the building had chosen to keep visible.
 
-Along one corridor wall, names had been cut into the metal: responders who had died holding evacuation routes, or containing fires, or standing between civilians and a force they could not stop. Some of the letters had been rubbed bright at shoulder height, where people passing had touched them. Ashoka did not keep its dead as founders. It kept them as duties still being carried.
+Along one corridor wall, names had been cut into the metal: responders who had died holding evacuation routes, or containing fires, or standing between civilians and a force they could not stop. Some of the letters had been rubbed bright at shoulder height, where people passing had touched them. Ashoka kept its dead as duties still being carried.
 
 In a recessed practice hall, two recruits faced each other over lowered padded staffs.
 
@@ -150,7 +150,7 @@ Elara kept walking, and the request she was carrying grew heavier with every nam
 
 Review Room Two waited behind a red door marked with a single white numeral. The seal opened at her palm without a question.
 
-Her shoulders came down a full inch before she could stop them.
+Something in her shoulders let go. She had not been sure the plan would hold past the door.
 
 Rohan was already seated at the far side of the table, shoulders still, hands resting where he could reach anything without appearing ready to. His face gave away nothing. What filled the room was his directness: he looked at her the way he would look at a sparring partner across a mat, waiting for the true move, and pretense became foolish before she had said a word. The table between them had a shallow dent near his end where someone had once brought a fist down, and Ashoka had evidently decided the dent should stay too.
 
@@ -176,7 +176,7 @@ She gave him the rest: the council, the cards, the library wing, the doubled tra
 
 "And what do you need from mine?"
 
-"Help finding who is moving under that authority. And when we find them, help stopping them before the damage spreads past one gana, one family, one set of records." She pressed her palms down. "Without a formal alert. Without any visible change in posture. If whatever is behind this watches the system, a deployment will tell it we are looking."
+"Help finding who is moving under that authority. And when we find them, help stopping them before the damage spreads past one gana, one family, one set of records." She pressed her palms down. "Without a formal alert. Without any visible change in posture. If whatever is behind this watches the system, a deployment will tell it we are looking. Your quietest investigators. People who can trace it through the other houses without being seen to."
 
 Rohan looked toward the narrow windows, where the red lights of the outer platforms blinked against the dark. He was silent for a full minute. To Elara it became a whole night. Sweat gathered at her hairline, and every warning she had offered began to turn around in her mind and point back at her.
 
@@ -194,6 +194,6 @@ He rose.
 
 "Very well, Monitor Nathan. I will request an audience with the Grandmaster, and bring you word as soon as I am heard."
 
-He held his right hand out across the dented table. Elara stood and took it. His grip was firm and brief and had no ceremony in it at all, the glue on his knuckle rough under her fingers, and she held on exactly as long as he did.
+He held his right hand out across the dented table. Elara stood and took it. His grip was firm and brief and had no ceremony in it at all, the glue on his knuckle rough under her fingers. It was the grip of someone agreeing to a plan.
 
 In Drona's ledgers, the doubled transfer went on turning into shelves and scaffolding.
