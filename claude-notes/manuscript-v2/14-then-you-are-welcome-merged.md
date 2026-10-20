@@ -54,7 +54,7 @@ At ten past eight, in a room that appeared on no registry, Daren dressed for a m
 
 The room was in the Drona monitor tower, where guests rotated away every cycle and nobody looked twice at a man who stayed. It held a narrow bed, one table, and the dark display above the bed, which he had never once switched on.
 
-The ensemble closed around him piece by piece, each plate seating against the next along seams too fine to see. The band went on last, on his right wrist. It read the small motor impulses that run ahead of every movement and finished what he had already begun. It had never once given him an idea. Every intention was his. He no longer put it on the way one picks up a tool. He put it on the way one wakes a hand.
+The ensemble closed around him piece by piece, each plate seating against the next along seams too fine to see. The band went on last, on his right wrist. It read the small motor impulses that run ahead of every movement and finished what he had already begun. As far as he could tell, it had never once given him an idea. Every intention was his. He no longer put it on the way one picks up a tool. He put it on the way one wakes a hand.
 
 The door slid aside before his hand rose toward the release, and its log recorded nothing. According to every registry in Trinity, the room behind him stood empty, and the band kept the building loyal to that story.
 

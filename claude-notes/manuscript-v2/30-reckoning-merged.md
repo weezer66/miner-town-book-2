@@ -156,6 +156,10 @@ She stood behind the Ancient One's chair. There was no gallery tonight, no dark 
 
 "The two letters were in the ledger before I was," Daren said, his bare wrist turned up under the lamp. "I thought they were mine." He looked at the folio, not at the Master. "That paper's older than my wrist. He had taken the band off long before. He never stopped signing with what it had made him. I was the second hand to sign them."
 
+He turned the wrist over. "The night I put it on, I asked him for one thing. Her file." He tipped his head toward the Ancient One's chair, toward Elara behind it, and didn't look at her. "Last night she stood between me and Ashoka's commander. Put that on the record too."
+
+Elara kept her eyes on the folio.
+
 The rest he had already given on the record, in order, standing: the night the band was put on him, and the hand that put it there; the doors; the library money, the Annex, Ashoka's doorways; the fourth-level corridor. He hadn't spared himself anything.
 
 When he stopped, he didn't sit. There was no chair for him, and he didn't look for one.
