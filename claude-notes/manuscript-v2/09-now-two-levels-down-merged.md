@@ -88,7 +88,7 @@ A circle, pressed into the metal, and inside the circle something that had once 
 
 The engineer didn't move for a count of three.
 
-"The listening core is older than this ring's charter," he said. "We copied it. We did not invent it. The copies are very good; that is as much as I will claim for us."
+"The listening core is as old as this ring's charter," he said. "We copied it. We did not invent it. The copies are very good; that is as much as I will claim for us."
 
 "Who did invent it?"
 

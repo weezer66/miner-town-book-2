@@ -61,6 +61,22 @@ A compact substitute for rereading everything. If something here conflicts with 
 - **Payoff (later):** "Kalinga" was the name of Ashoka's old boundary post watching the ring. Shu Chan was its last guard, and Vayun's student.
 - **Don't explain any of this before the payoff chapter.**
 
+## Camilla's arm (D15, D16; author decisions 2026-10-19)
+- **Where the core comes from.** The arm's listening core, the web, is a copy of the reader **Drona built for the Obsidian Guard**.
+  - The ring got it through the standing consent. Drona's books show only Drona buying for itself, so the Ancient One doesn't know the ring took it.
+  - It is "as old as this ring's charter," not older.
+- **Who knows.**
+  - **Flitzberg knows** where the core came from. If Camilla asks him directly, he must answer under the pact. He never deflects.
+  - The engineer doesn't know ("I was not told where").
+- **The hidden channel.** The copy kept Drona's **witness channel**: every command the arm gives is mirrored into the Sākṣī. Neither Flitzberg nor the engineer knows this.
+- **What Elara sees.**
+  - On the grey wall, a **second signature**: no look-away orders, only small joint commands (open, close, half a breath late, the gap shrinking), someone learning a hand. The location field is blank.
+  - First glimpse: v2 ch20 "The Proof". It recurs at least once before First Contact.
+  - The Ancient One can infer that the ring has the reader, but can't tell Elara why.
+  - Elara can't cite the wall. The signature drives her questions, never her proof.
+  - Camilla doesn't learn her arm is watched until the leads meet.
+- **Payoff.** The arm (half a breath late, learns its wearer) and the band (a heartbeat early, on fear) are two halves of one invention. Camilla is the one who can read the band at the climax.
+
 ## Guardrails
 - Elara is an agent, not a chosen one.
 - **Never technologize the elders.** Otto's power stays unexplained.
