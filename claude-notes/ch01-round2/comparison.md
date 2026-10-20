@@ -129,3 +129,27 @@ The review gave the chapter 7/10 from all four models, and the editor gave it 8.
 - "Nobody over twenty-one" (Elara is 19–21, so this is canon).
 
 **Round 4 adopted (2026-10-20):** the author approved it. `r4-candidate.md` is now the live chapter, and the `.docx` has been regenerated and checked. The previous version is backed up as `01-before-r4.md` in the session scratchpad.
+
+# Round 5: the last two edits (2026-10-20)
+1. **The doubled consequence is cut.** The wrist-grab paragraph now ends at *"Ravi looked down at her hand until she let go."* No later chapter echoes the cut clause, and the conduct note still delivers the consequence.
+2. **A stakes paragraph after the triple UNASSIGNED**, using Fable's wording of the editor's line: *"Unrouted meant unwatched. No house logging them, no console cleared to pull them out if the mine turned on them. For the next seventy-two hours, nobody in Trinity would be answerable for whether these three came back up."*
+
+**The drafters split on where the paragraph goes:**
+- **Opus put it before the red bar**, so the bar reads as the system's answer.
+- **Fable put it after the bar**, so the UNASSIGNEDs and the bar stay one screen event.
+
+**I built both placements and ran a three-way blind test:**
+
+| Reviewer | A (before the bar) | C (after the bar) | Current | Would send |
+|---|---|---|---|---|
+| Sonnet | 8 | **8.5** | 7 | C |
+| Haiku | **8.5** | 8 | 7 | A |
+
+**What both reviewers agree on:**
+- The new stakes paragraph makes "Assign Gage to me" read as protection.
+- The cut clause over-explained.
+- Each still wants one line of Elara's motive at the FILE prompt. I didn't take that: the earlier review called the shown-not-stated choice the point.
+
+**Recommendation: after the bar** (`r5-candidate-after-bar.md`). "A red bar dropped under them" means under the three names, and putting the paragraph between them breaks that picture.
+
+**Round 5 adopted (2026-10-20):** the author chose the after-the-bar placement. `r5-candidate-after-bar.md` is now the live chapter, and the `.docx` has been regenerated and checked. The previous version is backed up as `01-before-r5.md` in the session scratchpad.

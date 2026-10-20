@@ -66,6 +66,8 @@ UNASSIGNED.
 
 A red bar dropped under them. **OPERATOR INTERVENTION REQUIRED.**
 
+Unrouted meant unwatched. No house logging them, no console cleared to pull them out if the mine turned on them. For the next seventy-two hours, nobody in Trinity would be answerable for whether these three came back up.
+
 "Archive," Ravi said. "Precedent search. Designation: unassigned."
 
 "No records returned."
@@ -78,7 +80,7 @@ All four of them looked at the High Command call button at once. Ravi's hand wen
 
 "Wait. It says *operator*. That's us. That's me. If we call up before we've even looked, the first line in my file is that I couldn't. Let's at least try to classify it ourselves."
 
-His pulse jumped under her fingers. So did hers. Ravi looked down at her hand until she let go, and she realized, too late, that she'd just grabbed another house's representative without leave, ten minutes into her first posting, and somewhere a sensor had written it down.
+His pulse jumped under her fingers. So did hers. Ravi looked down at her hand until she let go.
 
 "You want us to sit on an unclassified anomaly," he said.
 
