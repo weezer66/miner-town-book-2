@@ -142,9 +142,11 @@ A severed head rose against a darkened sun, its mouth open on the light. *Rahu.*
 
 Otto's force markers, spiking once, coming down last.
 
+"The past cannot be changed by regret," Draṣṭā said. "The present must be met by action, and the future often warns us before it arrives. Prepare while preparation is still possible."
+
 Sarvajña leaned forward. The stones at his cuff touched the wood with a dry click. Where Draṣṭā had read possibilities, he spoke like a man reading figures off a ledger he had audited himself.
 
-"The animosity between the ganas did not begin with you. It has existed since the ganas were instituted, and the elders have spent generations balancing the scales between them. Balance is not resolution." He turned one of the stones under his thumb. "This month a proposal for a new wing of the Drona library cleared our internal review. When we carried the request to Kubera's treasury, the funds did not move. Conversations took place in closed rooms. The transfer has not been released."
+"The animosity between the ganas did not begin with you. It has existed since the ganas were instituted, and the elders have spent generations balancing the scales between them. Balance is not resolution. And while we have watched the scales, something indescribable has begun to form beneath them." He turned one of the stones under his thumb. "This month a proposal for a new wing of the Drona library cleared our internal review. When we carried the request to Kubera's treasury, the funds did not move. Conversations took place in closed rooms. The transfer has not been released."
 
 Kavik's pen moved across his page and stopped. Elara kept her hands still, because there was nothing she was allowed to do with them.
 
