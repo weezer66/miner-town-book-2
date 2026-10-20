@@ -18,69 +18,69 @@ He tried the wrist. It turned a fraction, then stopped. He waited through the pu
 
 The blue did not break. It loosened.
 
-He could feel the difference between wanting to move and being carried. The first was his. The second had been the room's. He had spent so long making himself into a still thing that he had forgotten the first one could be enough.
+This time, he was moving on his own. He had kept himself still for so long that he had forgotten he could.
 
 He drew his arm toward himself.
 
 The motion dragged through him like a rope pulled up from deep water. His shoulder followed. The muscles in his back woke in pieces. He could not feel the tank around him, not exactly, but he felt the gel shift and the pull of the line at his face. His body was there. It was not the room.
 
-The old man's voice came from farther away now. "Don't try to wake. Find what is yours."
+The old man's voice came from farther away now. "The hand was yours. So is the rest."
 
-Otto found the edge of his own hand. He found the arm attached to it. He found the weight of his chest, the lift and fall the tank had been making for him. His next breath did not come from the room. It came from him.
+Otto found the edge of his own hand. He found the arm attached to it. He found the weight of his chest, the lift and fall the tank had been making for him. For the first time, he drew a breath without the tank doing it for him.
 
 He opened his eyes.
 
-Light blurred above him. A face leaned into view, then moved back, giving him space. The medic did not ask him to speak. She watched his eyes settle, checked the line at his arm, and keyed the call.
+Light blurred above him. A medic leaned into view, then moved back. She watched his eyes settle, checked the line at his arm, and keyed the call.
 
 The alert went out without a name. Three rooms away, three people who had asked to be woken for anything sat up at once.
 
-The medic did not open the tank. The condition had been plain: the three of them had to be there, and all three had to say so. She held the system in its safe cycle while the gel kept Otto's body supported. When Gage, Ben, and Camilla reached the glass, they saw his eyes open and his hand resting against the inside of the tank.
+The medic kept the tank closed while she checked his breathing and pulse. She spoke through the tank's speaker, asking Otto to follow her finger with his eyes, then press his palm against the glass. When Gage, Ben, and Camilla arrived, his hand was still there.
 
 Gage put both palms to the glass. Ben stood at his shoulder. Camilla took one step closer, then stopped, as if she were afraid the sight of her would pull Otto back under.
 
-The medic asked them, one at a time. Gage said yes. Ben said yes. Camilla said yes last.
+The breathing line stayed in place as the medic eased back the support. Otto drew each breath himself. She watched his oxygen level and pulse, then asked him to open and close his hand once more. Satisfied with the readings and his response, she called a second medic over. "He's ready. We can start the drain."
 
-The release took time. The gel drained by stages, the breathing line came free, and two medics supported Otto's shoulders as they moved him to the bed beside the tank. By the time the others came around the partition, he was sitting upright, a blanket across his lap, his eyes open but still trying to make a world from the light.
+The release took time. The gel drained by stages. Once it was clear of his face, the medics removed the breathing line. They supported Otto's shoulders as they moved him to the bed beside the tank. By the time the others came around the partition, he was sitting upright, a blanket across his lap, his eyes open but still trying to make a world from the light.
 
 "Otto," Gage said.
 
 Otto looked at him. His lips moved once before sound came. "How long?"
 
-"Long enough," Ben said, then stopped. He had no better answer.
+"Long enough," Ben said. "But we're all here."
 
-Camilla leaned over the bed so Otto did not have to lift his head to see her. "The trial ended. We stayed. You didn't wake, so they kept you in the tank. We made them promise not to open it unless we were all here." She paused. "You are out now. That's what you need first."
+Camilla leaned over the bed so Otto did not have to lift his head to see her. "The trial ended. We stayed. You didn't wake, so they kept you in the tank. We asked them to call us as soon as anything changed." She paused. "Take your time. We'll tell you what happened."
 
 Otto's gaze moved to her metal arm. He looked at it, then at her face.
 
 "I know," she said. "I'll tell you the rest when your head is ready for it."
 
-He lowered his eyes to his right hand. It shook once against the blanket. He closed it, opened it again, and held it where he could see it.
+His right hand trembled as he reached for the blanket. He caught the edge and pulled it higher over his lap.
 
 ---
 
-The fiber archive opened at first bell.
+The records archive opened at first bell.
 
 Ravi entered through the public gate with his terminal on. He needed the gate to know who he was. Beyond it, he left the terminal dark in his pocket and used the paper index, following the old number from one bound register to another.
 
 The number led to a sealed case. The findings were above his grade. He knew that. He was not asking for the findings.
 
-At the retrieval desk, he wrote the request by hand: the paper original of the case, for verification against the fiber record. The clerk looked at the number, then at him.
+At the retrieval desk, he wrote the request by hand: a temporary checkout of his original report. The clerk looked at the number, then at him.
 
 "This case is sealed above your grade."
 
 "I know. I filed the report. I want the original folio, not a terminal rendering."
 
-She checked the register. The disposition was sealed above his grade; the source folio could be inspected by its originating analyst in person. She brought it in its fiber sleeve and recorded the handoff in the paper custody ledger. Ravi signed his name beneath the file number.
+She checked the register. The inquiry's findings were restricted, but Ravi's original report was still available to him as its author. She brought it from storage in a protective sleeve. He signed the paper custody ledger beneath the file number, accepting responsibility for its return.
 
-The paper was real. It had no terminal copy to replace it, no screen that could be changed while he looked away. The old ink was his. The date was the one he remembered. He read the folio once, slowly, and found the part the records had never explained to him. He did not let his face change.
+The handwriting was his. So was the date. He read the report slowly. It told him nothing new, and nothing of what the inquiry had decided. But it was a record of what he had witnessed, in his own words. He wanted that account with him, where he could read it without a terminal.
 
-He returned the folio to its sleeve and carried it out. The custody ledger would show that he had taken it. That was a trail he could choose to leave. A terminal trail was not.
+He returned the folio to its sleeve. The custody ledger would show that he had taken it. That was a trail he could choose to leave. A terminal trail was not.
 
 The clerk asked when he would return it.
 
 "Tomorrow," Ravi said.
 
-It was not a promise he knew he could keep. He slid the fiber sleeve inside his coat, beside the two slips, and walked out through the public gate with his terminal still dark in his pocket.
+It was not a promise he knew he could keep. He slid the protective sleeve inside his coat, beside the two slips, and walked out through the public gate with his terminal still dark in his pocket.
 
 ---
 
