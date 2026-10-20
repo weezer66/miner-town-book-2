@@ -31,3 +31,39 @@
 **Also changed, in Ch6:** Ben's Gretchen line is now a callback (*"Gretchen's still at the gates. I know she is."*), as the review asked.
 
 **Adopted (2026-10-20):** the author approved it. `ch02-candidate.md` is now the live chapter, and the `.docx` has been regenerated and checked. The previous version is backed up as `02-before-r2.md` in the session scratchpad.
+
+# Round 3 (2026-10-20)
+**The review:** the scores had plateaued at 6.5. Three of four readers got lost in the timeline, and the chapter needed one structural beat: after the throat, nobody fought for anything.
+
+**Clarity pass (in both drafts):**
+- the gates memory is now *"months ago, at the end of the Initiation…"*. That's "months," not the review's "weeks": in Book 1, Gage worked two months in the deep afterwards;
+- *"on the shift roll"*;
+- *"Walk back through those gates tonight"*;
+- cut "Nobody had ever told her no and meant it kindly," ", the way they had at the man's throat," and "like a stone";
+- the crystal returns once before the count: *"Still a quarter blue."* It doesn't change. Ch15, Ch22 and Ch30 rely on its state.
+
+**The structural beat:** Gage starts to carry Camilla out. Both drafters had her pay by saying the truth about Otto out loud; neither pulled the line, so Ch3's tape still holds.
+- **Fable's draft is the base.** Gage orders *"Ben. Get Otto,"* Ben can't stand, and Camilla turns his own offer: *"You can carry me. You're already doing it. You can't carry him."*
+- **The one canon fix:** "dies in our shack" → **"in a shack"**, because Otto has his own home in Book 1.
+
+**Blind comparison** (A = combined, B = current):
+
+| Reviewer | A | B | Would send |
+|---|---|---|---|
+| Sonnet | **8** | 7 | A |
+| Haiku | **8** | 7 | A |
+
+Both reviewers said A has real conflict and a clear timeline.
+
+**Fixed from the reviewers:**
+- Camilla's *"I counted all of you by sound, before I could see"* clashed with her by-sight count earlier. It's now *"I've been counting all of you since I opened my eyes, and every time I get to him I get nothing back."*
+- *"I don't do stairs"* (no stairs had been set up) → *"that shoulder opens before you're out of this room"*. Her "up the stairs" → *"All the way up, and through the gates, and back down."*
+
+**Not taken:**
+- "the map stays drawn after the country's gone";
+- "Nothing goes up that the ground could read";
+- tying "tomorrow" to the four days.
+
+These are small, and the editor recommended stopping after this round.
+
+**Round 3 adopted (2026-10-20):** the author approved it. `r3-candidate.md` is now the live chapter, and the `.docx` has been regenerated and checked. The previous version is backed up as `02-before-r3.md` in the session scratchpad.

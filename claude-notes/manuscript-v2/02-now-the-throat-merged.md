@@ -50,7 +50,7 @@ She didn't think he'd lost his mind.
 
 Gage's grip was trembling. It hadn't tightened. The long muscles in his forearm were jumping.
 
-"You are angry at the right person," Flitzberg got out. He had to stop and swallow, and she watched it go down him like a stone. "The right person is also the only one who will answer you. That is why I came in alone."
+"You are angry at the right person," Flitzberg got out. He had to stop and swallow, and she watched it go down him. "The right person is also the only one who will answer you. That is why I came in alone."
 
 Gage's arm shook harder.
 
@@ -132,7 +132,7 @@ He looked down at her.
 
 "And somebody had to pay," Flitzberg said. "Both of those are true. I will not take either one back to make this easier for you."
 
-Nobody had ever told her no and meant it kindly. She didn't know what to do with her face.
+She didn't know what to do with her face.
 
 ---
 
@@ -142,7 +142,7 @@ Gage turned to the door they'd come in by. "We're going home."
 
 "You don't get to say—"
 
-"In four days," Flitzberg said, and his voice gave out on him again, and he made it work, "the mine writes one word next to your three names. *Absconded.* It is the kindest word it has. Nobody bills a street for a boy who ran. Your slots go back in the pool, Camilla's ration card is not drawn again, and nobody asks why. Miner Town does not go looking for children who walk away." He swallowed. "Before then, you choose. Stay, or go home with a story I give you, one that holds. Walk out of here tonight, bleeding, with no story, and you are the trouble the city bills your street for. Rations short. Quotas up. Somebody's door kicked in who had nothing to do with you."
+"In four days," Flitzberg said, and his voice gave out on him again, and he made it work, "the mine writes one word next to your three names on the shift roll. *Absconded.* It is the kindest word it has. Nobody bills a street for a boy who ran. Your slots go back in the pool, Camilla's ration card is not drawn again, and nobody asks why. Miner Town does not go looking for children who walk away." He swallowed. "Before then, you choose. Stay, or go home with a story I give you, one that holds. Walk back through those gates tonight, bleeding, with no story, and you are the trouble the city bills your street for. Rations short. Quotas up. Somebody's door kicked in who had nothing to do with you."
 
 Ben's head came up. "Gretchen's at the gates. She'll be there tomorrow. She'll be there every day."
 
@@ -158,21 +158,39 @@ Ben laughed, once, wet and ugly. "So she stands there four days, and then they w
 
 Gage's hands had closed. Camilla watched them close.
 
-Gage opened his mouth.
+Then he turned his back on Flitzberg and came to her, and went down on one knee beside the medic, and got an arm under her shoulders. His other hand went under her knees. He was careful of the sealant. He was careful of nothing else.
 
-"Gage." Camilla got her good elbow under herself. It took two tries. "Look at Otto. Look at Ben."
+"Hey." The medic's hand came down flat on his forearm. "She's got a line in. You lift her now and that shoulder opens before you're out of this room."
 
-Ben was swaying where he knelt. He put a hand down on the floor to stop it.
+"Then pull it."
 
-"We stay," she said. "Tonight. He talks tomorrow, all of it. And if he doesn't, we walk, and you can carry me."
+"I'm not pulling it."
 
-Gage looked at her for a long time. Then his hands came open, slowly, the way they had at the man's throat.
+"Ben." Gage didn't look up. "Get Otto."
+
+Ben tried to stand. He got one foot under himself and swayed, and put a hand down on the floor to stop it, and stayed there.
+
+"Gage." Camilla's head was against his chest. She could feel him breathing, too fast, end-of-shift fast. "Look at Ben. He can't get up. Who's carrying Otto?"
+
+"I'll come back for him."
+
+"All the way up, and through the gates, and back down. With me on you, and him at the top with nobody." She made herself say the rest. "Gage. I counted him. I've been counting all of you since I opened my eyes, and every time I get to him I get nothing back. He's breathing and he isn't there, and I've been lying here not saying it because you'd hear it. If we carry him home, nobody up there can keep him breathing. Rita can't. I can't. He stays where the machines are, or he dies in a shack with his eyes open, and I'll be the one who counted that."
+
+Gage had stopped moving. She felt the stop go through him.
+
+"You can carry me," she said. "You're already doing it. You can't carry him."
+
+Ben made a sound on the floor. Flitzberg stood where he was and said nothing, and his hands stayed at his sides.
+
+"We stay," she said. "Tonight. He talks tomorrow, all of it. And if he doesn't, we walk."
+
+Gage looked at her for a long time. Then he laid her back down on the floor, and his hands came open, slowly, and he stayed on his knee beside her.
 
 "Tomorrow," he said to Flitzberg. "All of it."
 
 "All of it," Flitzberg said. "Then you choose. You have my word."
 
-The medic taped the line flat against Camilla's hand. "That stays in. You'll be stronger by morning, and you'll hate the tape. Both are fine." She nodded to the others. "Now."
+The medic let out her breath, and checked the line, and taped it flat against Camilla's hand. "That stays in. You'll be stronger by morning, and you'll hate the tape. Both are fine." She nodded to the others. "Now."
 
 They lifted her: four hands under her, nothing jarred, nothing left to find its own way. She'd never been lifted. In Miner Town you got dragged. Ben came with her, his hand on her good shoulder, exactly as he'd been told he could.
 
@@ -182,9 +200,11 @@ Flitzberg went to the inner doors. They opened on a corridor, and the lights wok
 
 From the stretcher, flat on her back, Camilla got the room one last time.
 
-Gage went to Otto. He said Otto's name once and got nothing back. Then he bent, took Otto's arm across his shoulders, and lifted him, and Camilla had the strangest feeling of the world folding over on itself. She'd seen this before: outside the mine gates on the fourth morning, Gage walking up out of the dark with Otto across his shoulders and Ben by the collar, while the guards waited for a broken boy who never came.
+Gage went to Otto. He said Otto's name once and got nothing back. Then he bent, took Otto's arm across his shoulders, and lifted him, and Camilla had the strangest feeling of the world folding over on itself. She'd seen this before: months ago, at the end of the Initiation, outside the mine gates on the fourth morning, Gage walking up out of the dark with Otto across his shoulders and Ben by the collar, while the guards waited for a broken boy who never came.
 
 He was carrying Otto out again. This time Otto didn't know it.
+
+Behind the empty place where Otto had stood, the crystal. Still a quarter blue.
 
 She counted them through the door. Gage, with Otto on his back. Ben, beside her. Herself.
 
