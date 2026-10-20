@@ -1,8 +1,8 @@
 # Chapter 4: The Altered Record
 
-*On the fourth day a guard came to her door with a wrench. The wrench he had been holding had been logged to him at the start of the shift, and Trinity was a careful auditor. An unaccounted tool was a hole in the inventory. The guard handed it over without ceremony — the way one returns a shipment. Rita signed for it. The husband was a part to discard; the wrench was an asset to track. It was the only piece of him the algorithm hadn’t erased.*
+*The model had not predicted them. Three signatures should have fragmented by now; instead they were holding. Until the cluster broke, the data was unsortable.*
 
-— Book 1, Chapter 6: To Hell and Back
+— Book 1, Chapter 5: The Lottery
 
 ## Then: Days One to Three
 
@@ -20,7 +20,7 @@ Her feed split into six: the wide overhead, twin thermals, twin infrared, and on
 
 For the first hours, Gage tracked the same curve as the other fifteen. Then he sat down with his back to the rock, put the corner of his pouch between his teeth, and tore.
 
-On thermal the steam came out white, a small soft bloom that faded as it rose. He laid the plastic flat on his knee. Elara watched his hands divide what was inside into three, and watched the largest share go to Otto, and the second to Ben, and the scrap left over go into his own mouth in one swallow, fast, the way you eat when you don't want anyone counting.
+On thermal the steam came out white, a small soft bloom that faded as it rose. He laid the plastic flat on his knee. Elara watched his hands divide what was inside into three, and watched the largest share go to Otto, and the second to Ben, and the scrap left over go into his own mouth in one swallow, before anyone could count it.
 
 Two amber notices stacked beside his profile. The first said he had cut his own intake below the ration floor. The second said Ben and Otto had not left his proximity band since the gates.
 
@@ -28,7 +28,7 @@ Ravi pulled both logs onto the central grid. "He's working out what game we're p
 
 "Doesn't matter what he's figured out," Daren said, eyes on his loss projections. "He's destabilizing the cohort."
 
-Elara enlarged the overhead. Every time the other candidates drifted closer, Ben and Otto turned toward Gage before they moved. It could have been instinct. Under the alerts sat a symmetry she did not enter into the record: the boy someone had fed off the books was the first to feed someone else.
+Elara enlarged the overhead. Every time the other candidates drifted closer, Ben and Otto turned toward Gage before they moved. It could have been instinct. She didn't enter it into the record.
 
 Her console offered three actions: record the deviation, notify the floor wardens, initiate corrective observation. Each would turn half an interpretation into an official fact. Elara selected the first and left the other two dark.
 
@@ -38,7 +38,7 @@ Her console offered three actions: record the deviation, notify the floor warden
 
 ---
 
-At twelve hours the blue bands in the ceiling brightened to white and the consoles handed the chamber to the automated eyes. The recovery station next door scanned each of them at the threshold and decided what they were owed. Ravi got tea. Daren got black coffee. Rohan got coffee cut with electrolytes, which came out the color of a bruise. The split knuckles of his right hand had opened again at the console; he'd wrapped them in grey tape from the supply drawer, and the tape was already going dark. Elara's cup printed her fatigue score on its own sleeve, in numbers large enough to be an insult.
+At twelve hours the blue bands in the ceiling brightened to white and the consoles handed the chamber to the automated eyes. The four of them would watch in twelve-hour blocks, the machine taking the hours between. The recovery station next door scanned each of them at the threshold and decided what they were owed. Ravi got tea. Daren got black coffee. Rohan got coffee cut with electrolytes, which came out the color of a bruise. The split knuckles of his right hand had opened again at the console; he'd wrapped them in grey tape from the supply drawer, and the tape was already going dark. Elara's cup printed her fatigue score on its own sleeve, in numbers large enough to be an insult.
 
 She drank. It tasted like a burnt wire.
 
@@ -62,29 +62,31 @@ Ravi stirred his tea and didn't drink it. "Read Ben's file. His family starved t
 
 "Generous," Daren said. "I'd have filed it as waste."
 
-"File it however you want. A family that goes hungry for that teaches a kid that loyalty outbids fear. It doesn't show up in blood, and it doesn't answer to force." Ravi tipped his head at Rohan's back. "Which is why neither of your consoles saw them first."
+"File it however you want. A kid raised in that house won't sell his friends for a meal, and you can't scare it out of him. It doesn't show up in blood." Ravi tipped his head at Rohan's back. "Which is why neither of your consoles saw them first."
 
 Daren hummed his four notes into the rim of his cup and didn't answer.
 
 When the others had gone, Ravi stopped beside her. "Drona says you observe a system before you alter it. You going to hold to that?"
 
-On her wrist, three linked readings: Gage straining, Ben skittering, Otto's force markers flicking up and down like a held breath.
+On her wrist, three linked readings: Gage straining, Ben skittering, Otto's force markers flicking up and down.
 
 "Until the evidence gives me a reason not to."
 
 ---
 
-By eighteen hours nobody in the chamber slept. The screens showed shaking hands, repeated movements, pulses rising without exertion, and at the tunnel wall three heat signatures that touched at the edges and stayed touching.
+The automation handed the room back at twenty-four hours. Nobody in the chamber had slept. The screens showed shaking hands, repeated movements, pulses rising without exertion, and at the tunnel wall three heat signatures that touched at the edges and stayed touching.
 
-"Cohesion isn't evidence of safety," Daren said, the second morning.
+"Cohesion isn't evidence of safety," Daren said.
 
 "Neither is isolation," Elara said.
 
-His eyes stayed on her instead of the board. Being corrected in front of the other three was a cost Daren hadn't budgeted. He let the silence carry it and turned back to his console.
+His eyes stayed on her instead of the board. He tapped his pen twice on the printed manual, opened his mouth, and shut it again. Then he turned back to his console. Across the grid Ravi looked from one of them to the other and went very carefully back to his own screen.
 
-"At twenty-four hours the real decisions start," Rohan said, without looking away from Otto's feed. "The force ladder stays shut unless there's an actual threat."
+"From here the real decisions start," Rohan said, without looking away from Otto's feed. "The force ladder stays shut unless there's an actual threat."
 
-By thirty-six the feeds had stopped resembling a test and begun resembling an accounting of who could stay awake. Children struck the walls to feel something besides wakefulness. Otto held Ben back from one of them. Across the grid, Rohan sat with his taped hand flat on the console and did nothing, which on Ashoka's station was a decision.
+By thirty-six hours the feeds had stopped resembling a test and begun resembling an accounting of who could stay awake. Children struck the walls to feel something besides wakefulness. Otto held Ben back from one of them. Across the grid, Rohan sat with his taped hand flat on the console and left the force ladder shut. Twice his thumb moved toward it. Twice he put it back.
+
+At thirty-six hours the ceiling went white again, and the machine took the chamber for the night.
 
 ---
 
@@ -100,15 +102,17 @@ It was a loop, and she gave it the name it had earned: MUTUAL STABILIZATION.
 
 The system rejected it. The old flag for unauthorized group formation came back up in its place, unchanged.
 
+Elara looked at the capitals for a while. She had watched long, exact words do this to someone before.
+
 Teresa had been her best friend since the morning a five-year-old Elara walked her back from the classroom door. The first sign had looked like nothing: a headache, an evening when Elara was painting a sunset and Teresa lay on the spare bed blaming the small print in one of Vishnu's old books. At first light the sun came through the window and turned Teresa's face the exact red-gold Elara had spent all evening trying to mix. For one second it was beautiful. Then Elara saw the pillow, and the blood that had been running from Teresa's nose all night, and she was still standing in the doorway with red paint on her fingertips when her mother got the hospital on the line.
 
-Years of ruptures later, Teresa had been unable to lift a cup of water. It was the evening after a fresh transfusion, the one that was supposed to buy her a good week, and Elara had watched her fingers close around the cup and fail to bring it off the table. Such a small weight. Elara had reached across and steadied it, and Teresa had looked at her over the rim with gratitude and fear and something underneath both that was already letting go. The doctors had a vocabulary for what was happening to her, long and exact. Ruptures. Microvascular instability. No recorded precedent. That night, awake in the dark beside her, Elara had finally heard what the vocabulary was for. The doctors were describing her, in finer and finer detail, and nowhere in the description was a cure. Every word they had was a way of naming the thing so it could be filed.
+Years of ruptures later, Teresa couldn't lift a cup of water. It was the evening after a fresh transfusion, the one that was supposed to buy her a good week, and Elara watched her fingers close around the cup and fail to bring it off the table. Elara reached across and steadied it. Teresa looked at her over the rim with gratitude and fear and something underneath both that was already letting go. The doctors had a vocabulary for what was happening to her, long and exact. Ruptures. Microvascular instability. No recorded precedent. That night, awake in the dark beside her, Elara finally heard what the vocabulary was for. The doctors were describing her in finer and finer detail, and none of the words was a cure.
 
 Elara changed the category to cooperative compensation. The system held the phrase for less than a second before a red notation replaced it, calling her interpretation interference.
 
 Her fingers stopped above the keys.
 
-In the corner of the screen, the diagnostic margin was flashing a calibration value far too high. Someone had pushed the sensitivity to its ceiling. She lifted her eyes across the grid and found Daren's already waiting. He gave her the picture of innocence, and went back to his loss curves.
+In the corner of the screen, the diagnostic margin was flashing a calibration value far too high. Someone had pushed the sensitivity to its ceiling. She lifted her eyes across the grid and found Daren's already waiting. He raised his eyebrows at her, mildly, and went back to his loss curves.
 
 "What did you change?" Ravi said from EVENT.
 
@@ -138,9 +142,9 @@ A window opened across all four consoles under the seal of High Command and aske
 
 "The system's asking us to confirm. That's different."
 
-It was the first thing he'd said to her that sounded like an invitation.
+He'd turned his chair a few degrees toward her, and he waited.
 
-On the feed, Gage had shifted so his body stood between Ben and the open chamber. Otto sat on Ben's other side, watching the tunnel mouth. None of them knew their arrangement had become evidence.
+On the feed, Gage had shifted so his body stood between Ben and the open chamber. Otto sat on Ben's other side, watching the tunnel mouth.
 
 Elara opened the interpretive note and typed that the three candidates showed mutual stabilization under extreme stress, and that their cohesion appeared to reduce individual risk of failure. The obvious recommendation was separation: different work groups, different supervisors, break the pattern before it hardened into a structure. She wrote something else.
 
@@ -160,23 +164,27 @@ At the top of her screen, beside her own name, her operator status changed to *u
 
 Near sixty hours, Rosa's marker broke from the cohort.
 
-The monitors got fragments. Emily's vitals had collapsed hours earlier. Rosa had been carrying a second, cooling signature on her back from wall to wall ever since, and in the last of those hours she had walked straight toward the only three candidates in the chamber still awake. Then a violent surge where she reached them, Otto's force markers spiking once, and Rosa on the ground. The system needed only the last six seconds to call her the aggressor. Elara had the four hours before them, and whatever Rosa had meant when she got there, she had gone looking for someone.
+The file had her as a shaft-row girl from the same intake. Emily, the friend she'd walked in beside, had lost her vitals hours earlier. Since then Rosa had carried that second, cooling signature on her back from wall to wall, and somewhere along the way she had picked up a rusted pick some earlier intake had left in the dark. In the last hour she walked straight to the only three candidates in the chamber still awake.
+
+The drone got fragments. Rosa bending over Gage. Gage on his back, barely moving. Otto's force markers spiking once, a single clean strike, and Rosa on the ground. The system needed only those six seconds to call her the aggressor and Otto the threat. Elara had the hours before them, and whatever Rosa had meant by the end, she had gone looking for someone.
 
 Rohan froze the automatic designation of subject-on-subject violence. "Partial surveillance isn't a verdict."
 
 "It's a liability," Daren said.
 
-Ravi flagged the event for contextual review. Elara added that no separation order should issue from partial data. Gage's signal steadied. Otto's settled. That was all the feed could prove.
+Ravi flagged the event for contextual review. Elara added that no separation order should issue from partial data.
 
 Then Gage's pulse leapt.
 
-His breathing went short and violent, and the motion sensors had him rising. The system reconstructed what it could from his neural activity: a face, a platform, nothing clean enough to call a memory. The nightmare had come up out of sleep with him. His trajectory pointed at the tunnel mouth and the restricted route toward the wardens' sector, and the system marked it as pursuit intent without being able to say whether the target was a person, a place or something he had dreamed.
+He was up before the system had finished filing the strike, and the motion sensors had him moving fast for the tunnel mouth and the restricted route toward the wardens' sector. The system went into his neural activity for intent and came back with one image clear enough to match: a man on a raised platform, looking down at a queue of children. It ran the match against the gate footage from the first morning and found him. Icepick, the sector warden, at the intake ceremony. PURSUIT INTENT, it decided. TARGET: SECTOR STAFF.
 
-He didn't get far. Ben's signal reached him first.
+Elara opened the drone audio by the tunnel mouth and got scrape and grit, and under it Ben's voice, too hoarse to make words of. Ben's signal hadn't moved. He was still lying where he'd been. Gage stopped in the tunnel mouth. His heart crossed the red line, and Otto's force markers rose to meet it, and for three breaths the readings swung. Then Gage turned around, walked back, and sat down.
 
-Elara opened the drone audio by the tunnel mouth and got scrape and grit and, under it, Ben's voice, too strained to make words of. The contact sensors showed Ben's weight on Gage, holding. Gage's heart crossed the red line. Otto's force markers rose to meet it. For several seconds the readings swung, and then Gage's breathing began to slow, and Ben's exertion fell after it, and Otto's markers came down last.
+A few minutes later the system logged a water test.
 
-Later Ben's own signal went disordered, a spray of readings with no pattern in them. Otto moved once. Ben went still, and his breathing evened out.
+That was the archive's phrase, not hers. Gage had bent over a pouch and then a cup with something in his fingers the lens couldn't resolve, and beside the entry the system set the chamber supply's dosing markers, the line every monitor learned in training not to open. After the water test, Gage's intake stopped. Then Ben's. Then Otto's. Elara read the result and let the method go. There were sixteen children in the chamber, and she had a disposition field still blinking.
+
+Later Ben's own signal went disordered, a spray of readings with no pattern in them, and the drone audio filled with shouting about a chicken sandwich. Otto moved once. Ben went still, and his breathing evened out.
 
 The system had its own name for what it had watched: coordinated containment by unauthorized subjects. It had already decided what that required.
 
@@ -190,7 +198,7 @@ INFINITY GUARD RESPONSE AUTHORIZED.
 
 Four hours from the guard chambers to Miner Town. Ravi's jaw set. Daren studied the cost estimate. Rohan stood with both hands flat on CORRECTION, the split knuckles gone pale across the tops.
 
-Their twelve-hour cycle should have ended there. Instead the handoff to automation was suspended, and a shift lock closed over the room: all four of them at their stations until the deployment resolved or the trial reached seventy-two hours and the gates opened on whoever was left.
+Their twelve-hour watch should have ended there. Instead the handoff to automation was suspended, and a shift lock closed over the room: all four of them at their stations until the deployment resolved or the trial reached seventy-two hours and the gates opened on whoever was left.
 
 "They're exhausted kids," Elara said.
 
@@ -200,11 +208,9 @@ Their twelve-hour cycle should have ended there. Instead the handoff to automati
 
 "Ben's why they have to be separated. Before he becomes part of the threat."
 
-After the water, Gage's intake stopped. The system logged it beside the chemical exposure markers without knowing whether he understood what he'd found. It logged only that all three had stopped drinking and that their linked readings were sliding toward rest.
-
 By sixty-four hours, when the first transport cleared the lower launch platform, all three were asleep against the tunnel wall.
 
-Elara watched them on the overhead for a long time. Asleep, their three heat signatures ran together at the edges into one uneven shape, and the system kept trying to draw boxes around it and kept redrawing them. Ben's head had fallen against Gage's arm. Otto sat a hand's width apart from both, upright even in sleep, the way a guard sleeps. On her wrist the terminal pulsed once against the bone, a reminder to hydrate, and she ignored it. Across the room Daren was running transport costs aloud under his breath, and Ravi had stopped pretending to read anything. Elara had worked a hangnail on her left thumb raw against the edge of the glass, and didn't notice until the sensor plate began reading the blood.
+Elara watched them on the overhead for a long time. Asleep, their three heat signatures ran together at the edges into one uneven shape, and the system kept trying to draw boxes around it and kept redrawing them. Ben's head had fallen against Gage's arm. Otto sat a hand's width apart from both, upright even in sleep. On her wrist the terminal pulsed once against the bone, a reminder to hydrate, and she ignored it. Across the room Daren was running transport costs aloud under his breath, and Ravi had stopped pretending to read anything. Elara had worked a hangnail on her left thumb raw against the edge of the glass, and didn't notice until the sensor plate began reading the blood.
 
 The Guard reached them four hours later. Scanners swept the chamber. Gage's pulse was slow. Ben's breathing was even. Otto's hands lay open and empty in his lap, palms up, as if he'd set something down.
 
@@ -220,13 +226,17 @@ There was a pause on the line, long enough for Elara to hear the transport's eng
 
 Rohan didn't look at him. Ravi entered the absence of an active threat into the event record. Elara kept the group-risk field open, because the trial wasn't over and nothing could be recorded yet.
 
-At seventy-two hours the chamber seals released. The three signals rose together. The survival criteria registered as met, and a second line escalated all three boys for executive review and named the committee that would sit on them: Icepick, Jung, the men who governed Miner Town from inside it.
+At seventy-two hours the chamber seals released. The gates would open at first light. One signal rose, Gage's; the other two stayed down. The survival criteria registered as met all the same, and a second line escalated all three boys for executive review and named the committee that would sit on them: Icepick and Jung, the warden and the surveillance architect who ran Miner Town from inside it.
 
 Beneath the escalation, the ordinary Sector One induction file waited to go out at first light, when the boys crossed the gate. Every supervisor below would receive it. Separate housing. Restricted work. No shared movement without approval.
 
 ---
 
 She was on her feet before she'd finished deciding.
+
+She had done that once before. At fifteen she'd hidden under a maintenance tarp in a freight pod among ration crates and pump parts, a notebook against her chest, and let the city drop away above her. The notebook held everything the Ramayana said about Sanjeevani booti, the herb that brought the dying back, copied by lamplight from the cabinet in her father's study. Vishnu was a priest who taught that karma was simply the shape a choice made once it left you, and he had never once told her the old books were literally true. He had never locked the cabinet against her, either. Three days on the ground. She found no mountain and no herb, only clinics without medicine and water measured by the cup. On the second night, in a hospital bed in Trinity-1, Teresa died with the transfusions still running. A nurse told Elara afterward, meaning it as a kindness, that the last word Teresa said was a name.
+
+It was *Elara*, said to a room with nobody in it who answered to it.
 
 There were two lawful roads, and she had walked both to the end in her head while the seals were still releasing: accept the reprimand and watch the directives execute, or file a dissent and watch them execute while it crawled through committee. Both ended at the same wall. The third road was treason, and it was the only one that went anywhere.
 
@@ -236,43 +246,40 @@ It was the one right an operator under review still held: twenty minutes in the 
 
 Daren's mouth curled at one corner. He thought she was running to build her defense. Ravi watched the authorization post and said nothing. Rohan nodded once.
 
-She walked past the curved desks at a pace that wanted nothing, holding her pulse level for the room's sensors the way Drona had trained her, breath low, shoulders down, eyes on the door and not the people, and stepped into the nearest Skylark before its doors closed. The blue lettering along the wall told her to rise above suffering. The pod went down.
+She walked past the curved desks at a pace that wanted nothing, holding her pulse level for the room's sensors as Drona had trained her: breath low, shoulders down, eyes on the door and not the people.
+
+Drona had trained her because of Iris. Iris had tapped two fingers on her thigh when she was thinking. In the containment simulation, at twelve, Iris had logged the construct's readings on schedule and then reached out and loosened the strap that was hurting it, and Elara, made to file the joint report, had written that she'd authorized it. A protocol that didn't exist, signed by nobody in particular. Six days later Preceptor Sen turned the monitor around and showed her her own pulse leaping at the instant Iris's hand moved, her own breath held four full seconds, a confession her body had made before she ever picked up the pen. Iris was gone from the accelerated track within the month. In the corridors afterward, her eyes had always slid past Elara too fast.
+
+That had been the first lie Elara told a machine. She'd hidden behind a procedure and let it carry her name for her, and Iris had carried the rest.
+
+She stepped into the nearest Skylark before its doors closed. The blue lettering along the wall told her to rise above suffering. The pod went down.
 
 The vault level smelled of paper and machine oil. A duty clerk glanced at her audit code, logged her, and turned the register around on the counter for her signature without looking up.
 
 The cover only held if the audit was real. She signed her own name.
 
-She had been fifteen the last time her name meant something final. She'd hidden under a maintenance tarp in a freight pod among ration crates and pump parts, a notebook against her chest, and the city had dropped away above her. The notebook held everything the Ramayana said about Sanjeevani booti, the herb that brought the dying back, copied by lamplight from the cabinet in her father's study. Vishnu was a priest who taught that karma was simply the shape a choice made once it left you, and he had never once told her the old books were literally true. He had never locked the cabinet against her, either. Three days on the ground. She found no mountain and no herb, only clinics without medicine and water measured by the cup. On the second night, in a hospital bed in Trinity-1, Teresa had died with the transfusions still running and the ruptures moving through her faster than anyone could follow. A nurse told Elara afterward, meaning it as a kindness, that the last word Teresa said was a name.
-
-It was *Elara*. Teresa had said it to a room with nobody in it who answered to it.
-
 The clerk turned the register back around and blotted her signature with a square of grey felt worn shiny in the middle from years of other names. The ink was still wet. Elara picked up a retrieval crate with one sticking wheel and started pulling folios.
 
 The restricted archive lay one tier past her clearance, joined to the vaults by a single corridor. Her authorization opened the corridor and not the archive, and every door sensor along it took her pulse as she passed. She walked at retrieval pace with the folios stacked in her arms. At the far end, in its alcove outside the superintendent's sealed office, the duty terminal ran unattended, a cursor blinking at nobody.
 
-She set the folios on the shelf and opened the reconciliation routine. She knew it from the inside; Trinity had buried her in records work for years after, and those years had taught her the system's one lazy habit. Reconciliation needed an administrative session. Rather than wait for a superintendent to issue one, the routine would mint its own token whenever a request arrived under a valid audit reference. The superintendent's key existed to prove a request was legitimate. So did an active audit flag, and hers was glowing on the central ledger right now.
+She set the folios on the shelf and opened the reconciliation routine. She knew it from the inside. After the freight pod, Drona had sat her down in records for two years, and those years had taught her the system's one lazy habit. Reconciliation needed an administrative session. Rather than wait for a superintendent to issue one, the routine would mint its own token whenever a request arrived under a valid audit reference. The superintendent's key existed to prove a request was legitimate. So did an active audit flag, and hers was glowing on the central ledger right now.
 
 Her finger rested over the credential field.
 
-Iris had tapped two fingers on her thigh when she was thinking. In the containment simulation, at twelve, Iris had logged the construct's readings on schedule and then reached out and loosened the strap that was hurting it, and Elara, made to file the joint report, had written that she'd authorized it. A protocol that didn't exist, signed by nobody in particular. Six days later Preceptor Sen turned the monitor around and showed her her own pulse leaping at the instant Iris's hand moved, her own breath held four full seconds, a confession her body had made before she ever picked up the pen. Iris was gone from the accelerated track within the month. In the corridors afterward, her eyes had always slid past Elara too fast.
-
-That had been the first lie Elara told a machine. She had hidden behind a procedure then and let it carry her name for her, and Iris had carried the rest. This was the second, and it began with her name in ink on a register two rooms back.
-
 She entered her audit reference. The terminal checked it against the central ledger, found the paperwork in perfect order, and accepted its own bureaucracy as proof. The administrative portal opened.
 
-The system had been built to distrust people. It had never learned to distrust itself.
-
-The cohort file took seconds to find, and the two fields that would decide the boys' lives took one steady minute to change. The terminal showed the edit the way ledgers always did, the old entry struck through beside the new:
+The cohort file took seconds to find, and the two fields that would decide the boys' lives took one steady minute to change. A Drona ledger never erased anything. It struck the old entry through, set the new one beside it and stamped the reference that had authorized the change, and she let it. A clean field with no history would have been the strangest line in the file. A struck one under an audit reference looked like every other correction a tired monitor made at the end of a shift.
 
 GAGE. BEN. OTTO.
 MINER TOWN SECTOR ONE INDUCTION: ~~COORDINATED DEVIATION CLUSTER~~ STANDARD COHORT.
 DEVIATION ESCALATION: ~~ACTIVE — SEPARATION DIRECTIVES PENDING~~ WITHHELD PENDING EXECUTIVE REVIEW.
+REF: AUDIT RETRIEVAL. OPERATOR: NATHAN, E.
 
-A governance warning about record tampering bloomed over it. She confirmed through it and watched the status turn to saved.
+Her name sat at the end of it. She left it there.
 
-Three ordinary doors, left open in a system that had already decided to close them.
+A governance warning about record tampering bloomed over the screen. She confirmed through it and watched the status turn to saved.
 
-She closed the session. The routine tidied up after itself the way housekeeping always did: the self-minted token expired, and the working log purged with it. The door sensors and the register were out of her reach. They would keep what they kept.
+She closed the session. The self-minted token expired, and the working log purged with it. The door sensors and the register were out of her reach. They would keep what they kept.
 
 She gathered the folios and stepped into the corridor.
 
@@ -286,7 +293,7 @@ She stopped.
 
 "Shift ledgers," Elara said. "I'm under review."
 
-Her pulse did exactly what Sen had taught her it would. It jumped, high and hard against the inside of her wrist, and the door sensor was right there at her shoulder, its small green eye open. The archivist looked at the folios, then at her face, and whatever he saw there looked like any monitor who had just been told her career was on a table.
+Her pulse did exactly what Sen had taught her it would. It jumped, high and hard against the inside of her wrist, and the door sensor was right there at her shoulder, its small green eye open. The archivist looked at the folios, then at her face, and what he saw there was any monitor who had just been told her career was on a table.
 
 "Bad luck," he said, and went past.
 
@@ -296,9 +303,7 @@ She rode the Skylark up with four minutes left on the clock.
 
 ---
 
-The executive review notice was still glowing on her console when she sat. Ravi looked at her once. His eyes went to the folios under her arm, then to the archive confirmation fading from the corner of her display.
-
-He didn't need to ask where she'd been. That was what worried her.
+The executive review notice was still glowing on her console when she sat. Ravi looked at her once. His eyes went to the folios under her arm, then to the archive confirmation fading from the corner of her display. He didn't ask where she'd been. He turned back to his own screen and didn't type anything for a long time.
 
 On the feed below, the three signals hadn't moved apart. The guards held their ring. Daren's report closed without comment, and Rohan's force assessment stayed pending, the cursor blinking in the empty field where he would have signed the extraction.
 
@@ -316,7 +321,11 @@ He stopped close enough that she felt his breath.
 
 "You made the system lie for you."
 
-Rohan was between them before she could answer. He set one hand flat against Daren's chest and held it there, and Daren's forward motion ran out against it.
+The answer was ready in her mouth. *Somebody pushed my calibration to the ceiling on the third day, through my console, while I sat at it. Shall we ask the system who?* She looked at him and held it. Asking the system would open her console to an inquiry, and an inquiry would read every line she'd touched tonight, including the one two levels down with her name at the end. She closed her mouth.
+
+Daren watched her not say it. Something in his face settled, and he leaned in.
+
+Rohan was between them before he'd finished the motion. He set one hand flat against Daren's chest and held it there, and Daren's forward motion ran out against it.
 
 "Step back."
 
@@ -326,13 +335,13 @@ Daren's eyes dropped to the hand and came back up. "This isn't your station."
 
 On the CORRECTION console behind him, the first-stage warning had already begun to form. Daren saw the record building with his name in it, and stepped back. Rohan lowered his hand. He didn't return to his station.
 
-Daren left first, carrying his anger like a report he meant to file. Ravi followed without a word, his face giving the blue light nothing.
+Daren left first. At the door he tapped two fingers twice against the frame and was gone. Ravi followed without a word, his face giving the blue light nothing.
 
 Rohan stopped in front of her.
 
 "Whatever happens next, I will stand with you."
 
-Elara opened her mouth. He was already walking. As he passed under the corridor lights the blue caught the scar along his jaw, and it shone like blue steel, armor he had worn so long it had grown into him.
+Elara opened her mouth. He was already walking. As he passed under the corridor lights the blue caught the scar along his jaw and shone on it like steel.
 
 She stood with the words she hadn't said and wondered what that promise would cost him, and whether he had already added it up.
 
@@ -344,8 +353,8 @@ Far below, the mine gates stood open under the first grey light of the next cycl
 
 Gage came out of the dark at a steady walk. The guards' scanners measured what they could: posture, a controlled pulse, two hundred twenty pounds of boy with Otto slung across his shoulders and his free fist knotted in the collar of Ben's shirt, Ben's heels scraping two lines in the grit behind them. Otto's face was turned up toward the open gate and the pale strip of sky beyond it.
 
-They moved slowly, but they moved together. No monitor announced it, and no report had a word for the shape they made.
+They moved slowly, but they moved together.
 
 Elara reached her door at the same hour. Her hand closed on the handle and stayed there. In the polished metal her reflection came back in pieces: one eye, the edge of her mouth, the blue light cutting her face into planes that didn't quite belong to her.
 
-Below, three boys stepped out of the mine and into whatever came after surviving it. Above, she stood alone at her own threshold, before a door that would still open for her, for now, and listened to the system decide what it would cost her.
+Below, three boys stepped out of the mine and into whatever came after surviving it. Above, she stood alone at her own threshold, before a door that would still open for her, for now.
