@@ -22,9 +22,9 @@ The medic tipped the cup. Camilla watched his throat work, once, slow, and watch
 
 She found Flitzberg's rooms by the music. Today it was one instrument, something plucked, going over a short run of notes and failing to finish it.
 
-The dolls looked a little to the left of them as they came in. The miner with the lamp on his brow stood on the shelf by his elbow, lamp facing out. She checked it before she checked his jaw. Both where she'd left them.
+The dolls looked a little to the left of them as they came in.
 
-The white paper on his table was bare, and that was new. A grey folder lay on it, square to the edge, its corners gone soft as cloth.
+A grey folder lay on his table, square to the edge, its corners gone soft as cloth.
 
 "Sit, if you like. Gage will not; I have stopped asking." Ben took the stool by the door and turned it a quarter, so he could see the corridor. "A thing to tell you and a thing to ask. Under our pact the telling comes first."
 
@@ -40,13 +40,15 @@ Ben's stool creaked. Gage, standing by the shelves with his hands open at his si
 
 "Yes."
 
-"Forty reams of paper. Bearings." She'd read them off his own wall. "Dressings for the medics."
+"Forty reams of paper. Bearings." She'd read them off his own wall. "Dressings for the medics." Her metal hand was on her knee. She looked at it, and then at him. "And this. Where did this come from?"
+
+"From Drona," Flitzberg said, because she had asked, and he had promised. "The part that listens was built for an instrument the four houses sealed away a century ago. This office copied it, the way it copies what it needs, and Drona's books show Drona buying for itself." He held her eyes. "I have never told anyone that. No one asked."
 
 "Every forty days, since the charter was signed. The sum has not changed because this office has not grown. It was built not to." He laid one hand flat on the folder. "Now one woman with a pencil has looked, and her Grandmaster will carry it to the table, and I will be asked to answer it."
 
 "Before our night, or after?" Gage said.
 
-"The table names its own day. I had thought of that." He opened the folder. "I am going to answer the copyist before it sits. I will send someone to work beside her, under this ring's cover, who reads as she reads, and I will not tell her what he is." His eyes came round to the stool by the door. "Nor will he."
+"The table names its own day. I had thought of that." He let it sit. "If it names yours, then the city's clock and ours have just become the same clock. I told you you would not feel ready." He opened the folder. "I am going to answer the copyist before it sits. I will send someone to work beside her, under this ring's cover, who reads as she reads, and I will not tell her what he is." His eyes came round to the stool by the door. "Nor will he."
 
 "You want him to steer her off us," Camilla said.
 
@@ -56,7 +58,7 @@ Ben had gone very still. His right hand had found his hip.
 
 Inside the folder were sheets of thin ruled paper, filled edge to edge in a small upright hand that leaned nowhere. Camilla saw, upside down, the word *Plan* at the head of one, and under it a number that wasn't a name.
 
-"Our examiners number the people they watch. It keeps the measuring honest. These were written in the trial rooms by an examiner called Sef, who had been writing them for thirty years and who does not, as a rule, use adjectives." He read without raising his voice. "*Fear present in all four. Reasoning continuous in all four. The girl thinks in exits, the gentle one thinks in patterns, and they listen to each other without ranking.*"
+"These were written in the trial rooms by an examiner called Sef, who had been writing them for thirty years and who does not, as a rule, use adjectives." He read without raising his voice. "*Fear present in all four. Reasoning continuous in all four. The girl thinks in exits, the gentle one thinks in patterns, and they listen to each other without ranking.*"
 
 The plucked thing failed its run of notes again and began it over.
 
@@ -80,7 +82,7 @@ Ben's hand pressed flat over the pocket that wasn't there. He was looking at the
 
 Gage looked at him for a long time, and then he looked at her. They all did.
 
-She thought about the bench two levels down, and the box with the ear in it that she'd built to listen to the Lake Wall. Yesterday it had heard the engineer's hammer through the workshop partition, three blows and a pause, clean; it had not yet heard anything through rock, because there was no rock down here to try it on. Closer than it had been. Not proven. Nothing on this side of the mission was.
+She thought about the bench two levels down, and the box with the ear in it that she'd built to listen to the Lake Wall. Yesterday it had heard the engineer's hammer through the workshop partition, three blows and a pause, clean; it still couldn't tell rock from anything else. Closer than it had been. Not proven.
 
 "How long," she said.
 
@@ -154,7 +156,11 @@ The man in the corner looked at him. Nothing in the face moved. But the eyes, wh
 
 Rohan looked at the corner, and at Ben, and something along the scar tightened and let go.
 
-"Kaan. He'll give you his hand after. He doesn't give it before."
+"Kaan. He'll give you his hand after. He doesn't give it before." Rohan looked at Ben a moment longer. "How did you see him?"
+
+"My friend Otto stands like that," Ben said. "An old man in a shed taught him. You stop seeing him, and then you do."
+
+Rohan didn't answer. Ben saw him put it somewhere.
 
 The woman on the floor sat back on her heels and took the pencil out of her teeth.
 
@@ -208,7 +214,7 @@ She drew the squares; he found them. It took an hour, and he was good at it, and
 
 Kaan came out of the corner when they were done.
 
-He crossed the room on the gaps without seeming to look where he put his feet, crouched, and took a pencil stub and a scrap of the house's cheap tag paper from inside his coat. Block letters, pressed in hard. He laid the scrap on the stone in front of Ben and took his hand off it, and his eyes came up to Ben's face and held there, as they had at the door.
+He crossed the room on the gaps, crouched, and took a pencil stub and a scrap of the house's cheap tag paper from inside his coat. Block letters, pressed in hard. He laid the scrap on the stone in front of Ben and took his hand off it, and his eyes came up to Ben's face and held there, as they had at the door.
 
 A number. Long, with a letter in it. Nothing else.
 

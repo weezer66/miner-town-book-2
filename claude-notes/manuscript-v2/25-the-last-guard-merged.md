@@ -202,7 +202,7 @@ He didn't know how else to put it, and Vayun didn't make him.
 
 "And you fought."
 
-"I fought."
+"I fought. One finger. He said the hand was mine. So is the rest."
 
 "And?"
 

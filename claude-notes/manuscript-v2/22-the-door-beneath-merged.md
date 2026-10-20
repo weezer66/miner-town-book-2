@@ -14,7 +14,7 @@ Nobody said Otto's name. Saying it would have made it a question.
 
 Gage took the stairs three at a time and stopped at every landing, one hand on the rail, not looking back, until he heard her boots. The metal arm swung at her side and dragged her wide on the turns. Ben came last, still carrying the sock.
 
-The tank room was lit to its day setting. Both medics were at the glass, the grey-haired one nearest, the younger at the panel with her pen in her teeth. On the screen above them, all four lines were moving.
+The tank room was lit to its day setting. Both medics were at the glass, the grey-haired one nearest, the younger at the panel with her pen in her teeth. Above the alert key, in the medic's square hand, three names. On the screen above them, all four lines were moving.
 
 Camilla looked at the one she'd learned to watch. It had a shape now, low hills, going on.
 
@@ -38,7 +38,7 @@ Gage stepped up and put both of his hands against it from the other side.
 
 They were enormous next to Otto's. They covered the palm and the fingers and most of the glass around it, and he leaned his weight on them, and the glass took it. His forehead came down until it nearly touched. The scar on his brow pulled tight and stayed tight.
 
-Otto's palm stayed where it was, under Gage's hands.
+Otto's palm stayed where it was, under Gage's hands. Camilla watched his chest. It rose by itself, without the tank doing it for him. Whatever had held him hadn't broken. It had loosened.
 
 "His breath is his own," the younger medic said round the pen. "Nine minutes now."
 
@@ -56,7 +56,7 @@ Then they went to Gage.
 
 His lips moved twice before any sound came. The third time there was a voice in it, scraped thin.
 
-"You promised."
+"I promised."
 
 Camilla knew what it meant. Ben had told her about the hole once, late, in the dark. *Promise me you'll jump through after me.* Gage had asked it. Otto had given it.
 
@@ -77,6 +77,10 @@ It took Camilla a second. It took Ben none.
 "They held," Ben said. "All ten. You held them till the last of us was through, and then you let them go." He crouched by the bed so Otto wouldn't have to look up. "Everyone you were holding them for got out."
 
 Otto breathed out, long, and did it himself.
+
+"Gretchen," he said, to Ben. "You kept saying Gretchen."
+
+Ben's face went, and came back. "She's moved her feet," he said.
 
 Then his eyes found her, and went past her face, and stopped on her left side.
 
@@ -116,7 +120,7 @@ Neither of them said anything else. There was nothing to say that either of them
 
 She went back up and stood in the tank-room doorway. The tank was empty and drying, a blue tidemark round its base. Gage was in the chair by the bed with his hands still closed round Otto's, his head down on the blanket beside them, asleep or not.
 
-Twelve nights, the evening of the egg. She counted forward from there on the fingers of her right hand and came out where she'd known she would. Seven left of the nineteen.
+Twelve left, the evening of the egg. She counted forward from there on the fingers of her right hand and came out where she'd known she would. Seven left of the nineteen.
 
 Otto didn't know about the Lake Wall, or the valves, or the ten minutes, or the ear under its cloth on her bench that heard everything and couldn't yet tell rock from footsteps, or who might have to be in the tunnel the water wanted first. He'd come up a rope, and the first thing he'd asked was whether the people he'd held things up for had got out.
 
@@ -126,7 +130,7 @@ She counted the room one more time, by habit, and got to four, and all four of t
 
 ---
 
-The records archive opened at first bell.
+Three mornings later, the records archive opened at first bell.
 
 Ravi went through the public gate with his terminal on, because the gate needed to know him. It tasted his wrist and let him by. Beyond it, in the long hall of index cabinets, he switched the terminal dark and put it in his coat pocket, beside the two slips.
 
@@ -202,13 +206,13 @@ Anandi was on the stair, three steps down, a folded paper in her hand and nothin
 
 ---
 
-The grey wall was dark: the long screen that had shown her the city's blind spots, switched off, a dull slab behind the head of the table. The Ancient One sat beneath it in the darned shawl. In front of her lay a paper map, held flat at its corners by four plain stones.
+The grey wall was still lit when she came in. Anandi's finger was already on the worn key, and before the screen went dull Elara saw the right-hand edge: the column nobody had asked for, back again. *Close.* A pause. *Close*, held. A fist. No house, no floor. Then the wall was a dark slab behind the head of the table. The Ancient One sat beneath it in the darned shawl. In front of her lay a paper map, held flat at its corners by four plain stones.
 
 "Sit."
 
 Elara sat. The chair with the short leg rocked, and she set her heel against it.
 
-"You were in the fourth-level corridor last night," the Ancient One said. "Anandi told me where you would be standing. The wall told me who walked past you."
+"You were in the fourth-level corridor last night," the Ancient One said. "Anandi told me where you stood. The wall told me what walked past you."
 
 The service stair's gate. It had taken her code and written it down, and Anandi kept the code's ledger.
 
@@ -284,7 +288,7 @@ She lifted the stones off the corners, folded the map along its old creases, and
 
 ---
 
-Rohan was in the dead room. Their terminals went into the locker by the door, his slot and hers, and the lid came down with its dull steel clap. The lantern was lit. The tin of shavings was full again.
+Rohan was in the dead room. Their terminals went into the locker by the door, his slot and hers, and the drawers took them with their soft sigh. The lantern was lit. The tin of shavings was full again.
 
 "The register," she said, and gave it to him from memory: the line, the room, the white column.
 
@@ -300,11 +304,11 @@ He listened with one hand flat on a sheet of paper on the table, face down.
 
 He looked at the flame, then at her. "There was a reader at the stair head when we went down. It went amber at us. Twice." His thumb pressed the edge of the sheet. "I saw it and didn't tell you. I didn't want you looking up."
 
-"She told me. It's in the overnight digest. Two people it couldn't name." Her voice stayed level, and she was glad of it. "And it reads digests."
+"Then it'll be in the overnight digest," she said. "Two people it couldn't name." Her voice stayed level, and she was glad of it. "And it reads records."
 
 "Then it knows two people stood there." He laid it out in order, what they had. "It doesn't know who. It knows there were two."
 
-He was quiet. Somewhere above them, in a room with two cushions and a true flame, his Grandmaster didn't know any of this.
+He was quiet. Somewhere above them, his Grandmaster didn't know any of this.
 
 "The Dhammapala," Elara said. "She'll ask you what Ashoka's commander was doing bare-wristed in Drona's tower at the hand's hour. If she hasn't already."
 

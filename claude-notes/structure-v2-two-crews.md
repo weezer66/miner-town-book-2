@@ -131,7 +131,7 @@ The two converge at "Maintenance Fault" (which also matches the midpoint), then 
 | **ACT III** | | | | |
 | 20 | Elara / Daren / Otto | **The Proof.** "Drona lied"; the live wall; the Meru stillness; "It is time to fight"; the finger. | Ch23 | 5,000 |
 | 21 | Ravi / Elara / Daren | **Bare Wrists.** Elara recognizes him *in the corridor*; "your hand is wrong." | Ch24 | 3,800 |
-| 22 | Camilla / Ravi / Elara | **The Door Beneath.** Otto wakes ("You promised." / "I jumped. Took me a while."); Ravi's paper; Elara confirms by register; the sensors flag the hunters. | Ch25, rewritten | 3,000 |
+| 22 | Camilla / Ravi / Elara | **The Door Beneath.** Otto wakes ("I promised." / "I jumped. Took me a while."); Ravi's paper; Elara confirms by register; the sensors flag the hunters. | Ch25, rewritten | 3,000 |
 | 23 | Elara | **The Leak.** Nayan finds the same leak in all four houses' books; Rohan brings it to the Dhammapala. | New | 3,000 |
 | 24 | Camilla / Ben | **First Contact.** Ben topside with Nayan and Kaan; the paper road; the number comes into focus. | New | 3,000 |
 | 25 | Otto | **The Last Guard.** Rohan brings Otto to Vayun; Shu Chan revealed; the breath recognized; the step after "fight." | New | 3,000 |

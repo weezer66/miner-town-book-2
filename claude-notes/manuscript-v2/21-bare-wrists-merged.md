@@ -218,9 +218,7 @@ He turned his head. He'd sat in that watch too, at CORRECTION, a station round f
 
 "It's him."
 
-"Then find me another road."
-
-"He lives here," Rohan said.
+"Then find me another road." He was still looking at the door. "He lives here."
 
 She already knew where it ran. Every cycle, Drona gave the other houses' monitors borrowed rooms in this tower for the Initiation watch, and every borrowed room went into the tower's guest registers, on paper, in a clerk's hand, where a Drona reviewer could read them lawfully any morning she liked. She would be at the register desk when it opened.
 

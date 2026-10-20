@@ -6,7 +6,7 @@
 
 ## Then and now: The leak
 
-Rohan said nothing on the stairs. Elara counted the flights instead, three of them, down into Ashoka's old stone, and at the bottom he stopped with his hand on the dead-room door and didn't open it.
+The second evening after the register, Rohan said nothing on the stairs. Elara counted the flights instead, three of them, down into Ashoka's old stone, and at the bottom he stopped with his hand on the dead-room door and didn't open it.
 
 "Someone's inside," he said. "I asked her to be."
 
@@ -78,9 +78,9 @@ Nobody said anything. The lantern ticked in its glass.
 
 "No clerk," Elara said at last. "Like the library money."
 
-"Not like it. The library money came through the Reserve, with two letters at the bottom. This has no letters at all. The book carries it the way it carries the house's own name." Nayan sat back on her heels. "And look at the sums."
+"Worse. The library money came through the Reserve, with two letters at the bottom. This has no letters at all. The book carries it the way it carries the house's own name." Nayan sat back on her heels. "And look at the sums."
 
-She showed them. It took the rest of the evening, and the rest of the evening was mostly Nayan crawling between columns with the lantern, and Elara holding sheets to the light, and Rohan writing down dates on a pad balanced on his knee. The line came back every forty days. It came back in all four books at once, in the same week. Bearings, filters, dressings, paper. Sometimes lamp oil in place of the bearings, sometimes seed stock in place of the filters. Small sums. Ordinary things. Each one carried on the founding mark, and no clerk's number anywhere.
+She showed them. It took the rest of the evening, and the rest of the evening was mostly Nayan crawling between columns with the lantern, and Elara holding sheets to the light, and Rohan writing down dates on a pad balanced on his knee. The line came back every forty days. It came back in all four books at once, in the same week. Bearings, filters, dressings, paper. Small sums. Ordinary things. Each one carried on the founding mark, and no clerk's number anywhere.
 
 "Where do they go?" Rohan said.
 
@@ -106,19 +106,19 @@ It was there on the first page. It was older than Nayan's copying.
 
 "How far back does it go?"
 
-"Further than I do." Nayan didn't look pleased about it. "By the shape of it, a long way further. Look." She ran her pencil down the Kubera column without touching the paper. "Lamp oil's doubled in six years. Bearings, nearly. Everything in this city costs more than it did. Every other line on these pages has grown." The pencil stopped. "This one hasn't moved a coin."
+"Further than I do." Nayan didn't look pleased about it. "By the shape of it, a long way further. Look." She ran her pencil down the Kubera column without touching the paper. "Lamp oil's doubled in six years. Bearings, nearly. Everything in this city costs more than it did. Every other line on these pages has grown." The pencil stopped. "Forty reams, six years running. This one has never asked for one sheet more."
 
 Elara looked from the oldest page to the newest, from the door to the wall. The hand's gifts lay near the wall, three of them, recent and swelling, each one larger and louder than the one before. The other line ran the whole length of the floor, the same size at both ends, steady as a pulse taken in a sleeping body.
 
 "The hand feeds," she said. "This one eats. Just enough. For a very long time."
 
-Her fingers had gone cold on the paper. She was thinking, against her own instructions, of a grey wall under the archive and a column at its right-hand edge with nothing in its location field. No house. No floor. She looked at the receiving lists in Nayan's hand, at all the places the dressings and the bearings didn't arrive, and she set the old Drona page back down exactly where it had been, square to its neighbors, and said nothing at all. That wall wasn't on this table. It couldn't be.
+Her fingers had gone cold on the paper. She was thinking, against her own instructions, of a grey wall under the archive and a column at its right-hand edge with nothing in its location field. No house. No floor. She looked at the receiving lists in Nayan's hand, at all the places the dressings and the bearings didn't arrive, and she set the old Drona page back down exactly where it had been, square to its neighbors, and said nothing at all.
 
-Something that wasn't a house had been fed by all four of them for longer than she'd been alive. That was all she knew. She put her hands flat on her thighs to stop them looking for a pencil.
+Something that wasn't a house had been fed by all four of them for longer than anyone had been copying it. That was all she knew. She put her hands flat on her thighs to stop them looking for a pencil.
 
 Across the columns, Rohan hadn't moved.
 
-He was still on his heels at the end of the Ashoka strip, his pad on his knee, and he had gone still in the way he went still on the mat, when he had already decided where he'd be standing when the strike arrived. His eyes weren't on the paper. They were on nothing, a little above it.
+He was still on his heels at the end of the Ashoka strip, his pad on his knee, and he had gone still, the mat stillness. His eyes weren't on the paper. They were on nothing, a little above it.
 
 "Commander?" Nayan said.
 
@@ -156,11 +156,11 @@ Nayan sat down on the floor to put her shoes on. She laced the left one, then st
 
 At the hour when Ashoka's corridors learned to be quiet, Rohan knelt opposite the Dhammapala in the room with two cushions and one lamp, and his left knee told him about the dead-room floor all the way down.
 
-He didn't bring the paper. The paper was in a locker that opened only for three hands at once, and that was where it belonged. He brought what it showed.
+He didn't bring the paper. The paper was in a locker that opened only for three hands at once, and that was where it belonged. He brought what it showed. He did not bring the corridor. That was still his decision, and he had not made it.
 
 He gave it to her in order, with nothing added, as Ashoka taught its officers to report. Four columns. Six years. The hand's gifts at the wall end, three of them, growing. Then the other line. Every forty days, in all four houses' books in the same week. Bearings, filters, dressings, paper. Small sums. Carried on a founding mark no clerk could sign. Bought, and paid for, and never arriving anywhere a house would use them. The same size on the first page ever copied as on the last, though everything else in the city had grown.
 
-He didn't say *the eye*. He said *my copyist*. The door held, even now, even here.
+He said *the eye*, as he always had. He did not say who had knelt beside her.
 
 The Dhammapala listened with her eyes closed. The lamp burned with its true flame and its faint smell of cloves, and when Rohan breathed out at the end, the flame leaned toward the door and came back.
 
@@ -174,21 +174,21 @@ She opened her eyes.
 
 "Whose is it?"
 
-"I told you I would tell you what I could." Her hands lay on her knees, the fingers curled. "So hear this, and only this. There is one room in this city where the four Grandmasters sit at one table. Once in a year, no more. It does not sit at our convenience. But it can be asked to sit out of season, and this week it has been asked. The asking was not mine." A small pause, and her face didn't change across it. "I will carry what you found into that room. It will be answered."
+"I told you I would tell you what I could." Her hands lay on her knees, the fingers curled. "So hear this, and only this. There is one table where the four Grandmasters sit together. Once in a year, no more. We are taken to it. None of us is told the way. But it can be asked to sit out of season, and this week it has been asked. The asking was not mine." A small pause, and her face didn't change across it. "I will carry what you found into that room. It will be answered."
 
 "By whom?"
 
 "By whoever has been eating," she said, "if the balance is kind."
 
-He waited for more. There wasn't any. He found he'd known there wouldn't be.
+He waited for more. There wasn't any.
 
-He shifted his weight off the knee, and the rib that had healed a fraction crooked caught on the in-breath, and he let it catch without changing his face. The Dhammapala's eyes came off the lamp and onto him, and stayed there, as long as it took to see all of it: the knee, the rib, the knuckle on his right hand that had split under its glue again and was crusted dark, the nights of sleep he hadn't had since a notice came in a plain folder.
+He shifted his weight off the knee, and the rib that had healed a fraction crooked caught on the in-breath, and he let it catch without changing his face. The Dhammapala's eyes came off the lamp and onto him, and stayed there, as long as it took to see all of it: the knee, the rib, the knuckle on his right hand that had split under its glue again and was crusted dark, the nights of sleep he hadn't had since a notice came in the ordinary folder.
 
 "You are tired," she said.
 
 "Yes, Dhammapala."
 
-"A tired door begins to want the axe. It tells itself the breaking would be a rest." She said it the way she named a stance, without weight. "Do not let it tell you that. You are not finished being opened and closed."
+"A tired door begins to want the axe. It tells itself the breaking would be a rest." "Do not let it tell you that. You are not finished being opened and closed."
 
 Rohan bowed, low, and stayed down until the knee made him come up.
 
