@@ -108,7 +108,7 @@ Teresa had been her best friend since the morning a five-year-old Elara walked h
 
 Years later it was still happening. The evening after a transfusion that was supposed to buy her a good week, Teresa closed her fingers around a cup of water and couldn't bring it off the table. Elara reached across and steadied it. Teresa looked at her over the rim with gratitude and fear and something underneath both that was already letting go.
 
-At fifteen she'd stowed away alone in a freight pod with a notebook against her chest: everything the Ramayana said about Sanjeevani, the herb that brought the dying back, copied from the scriptures in her father's cabinet. Three days on the ground by herself, and no mountain and no herb. Teresa died on Elara's second night on the ground, in a hospital bed in Trinity-1, and the last word she said was *Elara*, to a room with nobody in it who answered to it.
+At fifteen Elara had stowed away alone in a freight pod with a notebook against her chest: everything the Ramayana said about Sanjeevani, the herb that brought the dying back, copied from the scriptures in her father's cabinet. Three days on the ground by herself, and no mountain and no herb. Teresa died on Elara's second night on the ground, in a hospital bed in Trinity-1, and the last word she said was *Elara*, to a room with nobody in it who answered to it.
 
 Elara changed the category to cooperative compensation. The system held the phrase for less than a second before a red notation replaced it, calling her interpretation interference.
 
@@ -186,7 +186,7 @@ A few minutes later the system logged a water test.
 
 That was the archive's phrase, not hers. Gage had bent over a pouch and then a cup with something in his fingers the lens couldn't resolve, and beside the entry the system set the chamber supply's dosing markers, the line every monitor learned in training not to open. Whatever the water had been carrying since the gates opened, he had found it. After the water test, Gage's intake stopped. Then Ben's. Then Otto's. Elara read the dosing markers and her hands went cold. Someone above this floor had known. She shut the thought away, read the result and let the method go. There were fifteen children in the chamber, and she had a disposition field still blinking.
 
-Later Ben's own signal went disordered, a spray of readings with no pattern in them, and the drone audio filled with Ben shouting, hoarse nonsense about a sandwich, a mind past its floor. Otto moved once. Ben went still, and his breathing evened out.
+Later Ben's own signal went disordered, a spray of readings with no pattern in them, and the drone audio filled with Ben shouting, hoarse nonsense about a sandwich, a mind past its floor. Otto's arm came up once, and Ben went quiet and stayed quiet, his breathing evening out.
 
 The system had its own name for what it had watched: coordinated containment by unauthorized subjects. It had already decided what that required.
 
@@ -240,7 +240,7 @@ There were two lawful roads, and she had walked both to the end in her head whil
 
 "Invoking ledger verification," she said to the room.
 
-It was the one right an operator under review still held: twenty minutes in the sub-tier vaults to pull the printed shift ledgers and check them against the digital record the board would read. Her console status flipped to temporary transit, audit retrieval, and a clock began counting down on the main board in large, helpful numbers.
+It was the one right an operator under review still held, shift lock or not: twenty minutes in the sub-tier vaults to pull the printed shift ledgers and check them against the digital record the board would read. Her console status flipped to temporary transit, audit retrieval, and a clock began counting down on the main board in large, helpful numbers.
 
 Daren's mouth curled at one corner. He thought she was running to build her defense. Ravi watched the authorization post and said nothing. Rohan nodded once.
 
@@ -317,6 +317,10 @@ Elara said nothing.
 
 He stopped close enough that she felt his breath.
 
+"Your note said wait. The model said separate. Now the model's backed down." He held her eyes. "Models don't back down. What did you touch?"
+
+Elara didn't answer.
+
 "You made the system lie for you."
 
 The answer was ready in her mouth. *Somebody pushed my calibration to the ceiling, through my console, while the machine had the room. Shall we ask the system who?* She looked at him and held it. Asking the system would open her console to an inquiry, and an inquiry would read every line she'd touched tonight, pull the tamper flag forward out of the superintendent's queue, and look twice at the one two levels down that was meant to look like nothing. She closed her mouth.
@@ -337,11 +341,9 @@ Daren left first. At the door he hummed his four notes once and was gone. Ravi f
 
 Rohan stopped in front of her.
 
-"Whatever happens next, I will stand with you."
+"They'll want a witness statement," he said. "Mine says nothing happened in this room. Whatever happens next, I will stand with you."
 
 Elara opened her mouth. He was already walking. As he passed under the corridor lights the blue caught the scar along his jaw and shone on it like steel.
-
-He didn't know what she'd done two levels down. He'd promised anyway.
 
 Then she walked to her quarters.
 

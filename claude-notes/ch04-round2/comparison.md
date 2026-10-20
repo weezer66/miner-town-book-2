@@ -98,3 +98,13 @@ The editor's majority stands on both lines.
 Both reviewers said B answers all three questions (what it wins, why it isn't caught, what pushes her), and A leaves them implied. Sonnet said "Rohan nodded once" had been cut. It hadn't; it's in both versions.
 
 **Round 4 adopted (2026-10-20):** the author approved it. `r4-candidate.md` is now the live chapter, and the `.docx` has been regenerated and checked. The previous version is backed up as `04-before-r4.md` in the session scratchpad.
+
+# Round 5: final small fixes (2026-10-20)
+I made these directly, without the two-model drafting; they weren't blind-tested.
+- *"At fifteen Elara had stowed away…"*, so it can't read as Teresa.
+- *"It was the one right an operator under review still held, shift lock or not:"*
+- **Daren's accusation now includes evidence as a question:** *"Your note said wait. The model said separate. Now the model's backed down." He held her eyes. "Models don't back down. What did you touch?" / Elara didn't answer. / "You made the system lie for you."* The "being lead" line (Ch1 setup) and "You made the system lie for you" are kept.
+- **Rohan's vow:** *"They'll want a witness statement," he said. "Mine says nothing happened in this room. Whatever happens next, I will stand with you."* The eight-word vow is **kept**, because Ch10 quotes it word for word ("The eight words after it. *Whatever happens next, I will stand with you.*"). The editor wanted it replaced; instead the concrete line comes before it. "He'd promised anyway." is cut.
+- **Optional, taken:** *"Otto's arm came up once, and Ben went quiet and stayed quiet, his breathing evening out."* The editor's "Ben went down" didn't fit, since Ben is already lying down.
+
+**Possible knock-on for the fork:** Ch10 says Rohan "had said them and gone back to his console." In Ch4 he doesn't return to his station; he walks out. This mismatch already existed before these edits.
