@@ -48,3 +48,8 @@
 - **ch20 correction:** the medic's "had never done" becomes **"had done twice"** (ch3 and ch15). The finger must read as a third, bigger event.
 - **ch22:** when Otto wakes, the crystal's blue quarter must visibly change, or visibly not.
 - **ch19 (sent to drafters):** Daren was looked at "by something no instrument could talk down"; the guard on Meru held his eyes in ch14.
+- **Ch3 rewrite (fork2):**
+  - Flitzberg now tells Camilla "I can" switch the arm off, "from anywhere in this place".
+  - The arm moves unprompted twice. **Don't explain why before the D15/D16 chapters.**
+  - **Done (52eac38):** changed ch9 "Who else can switch my arm off?" to "Is it only the three of you? You, her, and the man who built it?" Flitzberg's reply stays unchanged.
+- **Prose:** go easy on "half a breath". Ch3 is down to 3 uses; use "late" or "a beat behind" instead.
