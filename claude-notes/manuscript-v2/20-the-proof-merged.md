@@ -216,7 +216,7 @@ Then the second.
 
 Afterward he stayed at the railing, because he wasn't sure his legs would carry him and there was nowhere he wanted them to go.
 
-He had wanted to be the force the city arranged itself around. The Grandmaster had promised him that, and the band had made it true. He'd never asked what a force did to the things it moved. It moved what was in its path. He had called that power, and all it had ever been was a room with no one left in it who could tell him no.
+He had wanted to be the hand they went looking for and couldn't find. The Grandmaster had promised him that, and the band had made it true. He'd never asked what a hand like that did to the things it moved. It moved what was in its path. He had called that power, and all it had ever been was a room with no one left in it who could tell him no.
 
 The band was cool now. Waiting. It would do, tonight and tomorrow and for as long as he wore it, exactly what his hand told it, including the things his hand told it that he never heard.
 
