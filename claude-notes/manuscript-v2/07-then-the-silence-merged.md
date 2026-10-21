@@ -16,7 +16,7 @@ She woke with her cheek on the table and the tip of her nose against the paper. 
 
 Her head went down again. A thread of saliva cooled on her cheek. She didn't feel it.
 
-At 5:00 a.m., someone knocked.
+At 6:00 a.m., someone knocked.
 
 Three measured strikes against the sealed panel. The reader announced no name, and no clearance tone followed. She stayed where she was, neck bent against the table's edge, the taste of metal on her tongue, and the knocking came again, harder, and then a third time.
 
@@ -48,7 +48,7 @@ The seal closed between them.
 
 She dressed without the full lights. Uniform. Collar. Seal. She rehearsed the words she could use: procedural judgment, incomplete evidence, candidate safety.
 
-Her father, Vishnu, had never let her think of karma as a court waiting with a sentence. Karma, he said, was the shape a choice makes after it leaves the person who made it. Hers had left her at an unattended terminal in the sub-tier vaults, and it had been travelling ever since.
+Her father, Vishnu, had never let her think of karma as a court waiting with a sentence. Karma, he said, was what a choice did once it left your hands. Hers had left them at an unattended terminal in the vaults.
 
 At seven the collar clasp missed. Her fingernail caught on the metal edge and bent back.
 
@@ -82,7 +82,7 @@ It rose a hand's width above the wood and stopped there, palm down, fingers loos
 
 Then the woman lowered her hand.
 
-Elara's lungs tore open. She bent over the table with one hand at her collar, gasping, ragged, the feeling of drowning and being hauled onto a deck at once. Her eyes ran. Her pulse slammed in her ears. When she could, she forced herself upright. Her voice and her breath were things this table could grant or withhold, and they had wanted her to know it before she said a word.
+Elara's lungs tore open. She bent over the table with one hand at her collar, gasping, ragged, the feeling of drowning and being hauled onto a deck at once. Her eyes ran. Her pulse slammed in her ears. When she could, she forced herself upright. Nobody at the table had moved.
 
 The woman at the end of the table spoke, and the words came in Sanskrit, the language of the scriptures in her father's cabinet, older than Trinity, older than the cities Trinity had replaced.
 
@@ -112,7 +112,7 @@ She had crossed into the living language without a pause, and that unsettled Ela
 
 The seer squared the deck and spread it across the table in a long, uneven fan, dark backs up.
 
-"Choose one."
+"Choose."
 
 *Why?* It rose at once and stopped behind Elara's teeth. Only the questions the council had devised were hers to take up.
 
@@ -136,13 +136,15 @@ A severed head rose against a darkened sun, its mouth open on the light. *Rahu.*
 
 "The danger that keeps returning. He drank the stolen nectar, and the god Vishnu cut him in two before it went down, and he has chased the sun ever since." Draṣṭā laid her fingertip beside the name. "The old word for him is *graha*. That which seizes."
 
+Her father's name. Elara didn't look up.
+
 She left the three cards face up and said nothing about what any of them meant to Elara, and Elara found she couldn't stop looking at the second.
 
 Sarvajña leaned forward. The stones at his cuff touched the wood with a dry click. He took a single printed sheet from inside his robe and slid it across the table to her.
 
 It was a transfer authorization. A new wing for the Drona library, approved through every internal review, carried to Kubera's treasury nine days ago. The amount. The seals. And across the release field, in Kubera's matte gold, one word: FROZEN.
 
-"Nine days," Sarvajña said. "Before your Initiation began. Something is moving inside Kubera with no name and no office on it, and that is the first place it touched us. Nothing moves in that house without the Grandmaster's hand." His thumb turned one of the stones. "Kubera's representative failed at your station, in front of the other houses. He has since disappeared from Kubera's rolls."
+"Nine days," Sarvajña said. "Before your Initiation began. Something is moving inside Kubera with no name and no office on it, and that is the first place it touched us. Nothing moves in that house without the Grandmaster's hand." His thumb turned one of the stones. "Daren of Kubera sat THRESHOLD at your station and failed in front of the other houses. His name has since come off Kubera's rolls."
 
 Daren's chair at THRESHOLD. His pen tapping twice on the printed manual. Elara's thumb went to the raw hangnail on her left hand and pressed until it stung.
 
@@ -178,7 +180,7 @@ Kavik's hand stayed on his pen.
 
 "Drona stands behind you," the Ancient One said. "Not in front. Your mentors will be your shadows from today, whatever follows. They cannot carry it for you."
 
-Elara sat with it. Her name at the end of a struck line, and a door sensor's green eye, and a clerk's felt square worn shiny from other names. She had known when she signed. She hadn't known anyone would come and read it to her.
+Elara sat with it. Her name at the end of a struck line, and a door sensor's green eye, and a clerk's felt square worn shiny from other names.
 
 "Then the file comes to me," she said.
 
@@ -198,9 +200,7 @@ Anandi did not. "Grandmaster, I would have it recorded that I objected."
 
 She looked at Elara for a long moment with the same steady patience she had shown at the start, and something at the corner of her mouth eased.
 
-"Agreed," she said. "Then stay where you are."
-
-"Do you accept?"
+"Agreed," she said. "And the review stands open until this is finished. Do you accept?"
 
 Elara's right hand had curled at her side around a pencil that wasn't there. She opened it and laid it flat on the transfer sheet, over the word FROZEN.
 
