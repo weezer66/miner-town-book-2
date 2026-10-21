@@ -14,15 +14,15 @@ She hadn't slept. She'd gone under a few times and come up in the same place: gr
 
 Each time she surfaced, the oldest medic was in the chair by the wall, hands folded, scrubbed pink to the wrist, and the clear bag had gone down by exactly as much as Camilla would have guessed.
 
-"You're counting the drip," the medic said.
+"You are counting the drip," the medic said.
 
 "Somebody should."
 
-"Somebody is." She got up and checked the shoulder without being asked, two fingers pressed lightly at the edge of the seal. The sealant had set hard and glassy overnight, the blue darker where it was thickest. "It holds. You lost about a third of your blood. It's coming back. And you're angry about the tape."
+"Somebody is." She got up and checked the shoulder without being asked, two fingers pressed lightly at the edge of the seal. The sealant had set hard and glassy overnight, the blue darker where it was thickest. "It holds. You lost about a third of your blood. It is coming back. And you are angry about the tape."
 
 "You said I would be."
 
-"Good. Angry's better than quiet."
+"Good. Angry is better than quiet."
 
 ---
 
@@ -60,13 +60,13 @@ The pencils went still.
 
 It was the medic who answered. She came and stood where Camilla could see her face. Camilla noticed that, and filed it.
 
-"Yes." No pause before the word. "From this room. By me, or by him, if your shoulder rejects it, or if it starts hurting you in a way we can't fix. You'll be told before it happens, and you'll be told why."
+"Yes." No pause before the word. "From this room. By me, or by him, if your shoulder rejects it, or if it starts hurting you in a way we cannot fix. You will be told before it happens, and you will be told why."
 
 "That's you two. Who else?"
 
 The medic looked at the engineer, and the engineer looked at the arm.
 
-"I won't tell you no one," the medic said. "I haven't opened every door in this place, and I won't swear to what's behind the ones I haven't. Here's what I can tell you. Nothing has ever been taken off a person in this room against their will, in my time here, and my time is long. I'd know. I'd have been the one holding the instrument." She paused. "The rest isn't mine to give. There's someone you can ask. You'll see him again."
+"I will not tell you no one," the medic said. "I have not opened every door in this place, and I will not swear to what is behind the ones I have not. Here is what I can tell you. Nothing has ever been taken off a person in this room against their will, in my time here, and my time is long. I would know. I would have been the one holding the instrument." She paused. "The rest is not mine to give. There is someone you can ask. You will see him again."
 
 Flitzberg, then. The man with the dolls. Camilla put the gap where she could find it again.
 
@@ -96,7 +96,7 @@ The sting went and left something behind. She'd been braced for pain. What came 
 
 The engineer set the arm into the cup and turned a collar she couldn't see. Something clicked home. Then weight, real weight, pulling on the shoulder in the old direction, and her body, which had been leaning right all night without telling her, straightened up on its own.
 
-"Don't try to move it," the medic said. "Think about moving it. To the arm, thinking is moving."
+"Do not try to move it," the medic said. "Think about moving it. To the arm, thinking is moving."
 
 The hand that wasn't there had been closed all night. She did something she had no name for, at the place in her head where she had always kept her left hand, and told it to open.
 
@@ -114,7 +114,7 @@ She looked at it. Then she closed the fingers again, slowly, and watched them fo
 
 The engineer looked up from his slate, and something finally moved in his face. "There's a part of it that listens. It isn't a wire. I can show you where it is. I can't tell you how."
 
-"Later," the medic said. "For now you lie still, think about the question, and give me less trouble." She lowered the bed a notch. "I have patients who do as they're told. I've never once enjoyed them."
+"Later," the medic said. "For now you lie still, think about the question, and give me less trouble." She lowered the bed a notch. "I have patients who do as they are told. I have never once enjoyed them."
 
 Camilla lay back. When she thought about her left hand, it moved. She thought about it a great many times in the dark.
 
@@ -132,11 +132,11 @@ Then she looked at everything that wasn't him, because that she could do somethi
 
 "Tell me how it works. All of it."
 
-The medic had expected that. "The gel's cycled. Warm, then cool, then warm again; the wrapped pipe carries the heat in. While it's warm we tell his muscles to work. Small signals, through the gel. It carries current the way salt water does, only better. Nothing he'd feel as pain. His body thinks it's hauling. Then we cool it, and his body thinks it's resting."
+The medic had expected that. "The gel is cycled. Warm, then cool, then warm again; the wrapped pipe carries the heat in. While it is warm we tell his muscles to work. Small signals, through the gel. It carries current the way salt water does, only better. Nothing he would feel as pain. His body thinks it is hauling. Then we cool it, and his body thinks it is resting."
 
 "How long's a cycle?"
 
-"An hour, a bit more. Lots of short days instead of one long one. A body gets used to a real day. We want his to keep being asked." She watched the blue go a shade paler near the base. "His heart's strong. His breath is steady. The instruments can't find anything wrong with him. Whatever's missing isn't in the body. So we keep the body doing what a body does, and we keep it loud. If any part of him is near enough to hear, we want it to hear something worth coming back to."
+"An hour, a bit more. Lots of short days instead of one long one. A body gets used to a real day. We want his to keep being asked." She watched the blue go a shade paler near the base. "His heart is strong. His breath is steady. The instruments cannot find anything wrong with him. Whatever is missing is not in the body. So we keep the body doing what a body does, and we keep it loud. If any part of him is near enough to hear, we want it to hear something worth coming back to."
 
 The paler blue reached his hands. Otto's fingers tightened by a hair, all ten at once, told to haul by a machine.
 
@@ -148,7 +148,7 @@ They opened again, slowly. She put her good hand over the wrist and held it ther
 
 "Has it done anything?" she said. "On the panel."
 
-"His lines have been flat since the trial room." The medic touched the panel's edge. "Except once. Last night, in the hour your brother and Ben sat with him, one line moved. I don't know what it means. I'd be lying if I said I did."
+"His lines have been flat since the trial room." The medic touched the panel's edge. "Except once. Last night, in the hour your brother and Ben sat with him, one line moved. I do not know what it means. I would be lying if I said I did."
 
 "Which line?"
 
@@ -158,11 +158,11 @@ Camilla looked at it until her eyes watered. It stayed flat. She didn't need it 
 
 "When they wake up," she said, "don't bring them to me. Take them to Otto first."
 
-"They'll want to see you first."
+"They will want to see you first."
 
 "A line moved when they sat with him. So they sit with him first." She leaned on the medic's arm to turn, and the nine steps back looked like more. "That's not a favor to me. That's a reading."
 
-"I'll tell them it was your instruction."
+"I will tell them it was your instruction."
 
 "Tell them it was my words."
 

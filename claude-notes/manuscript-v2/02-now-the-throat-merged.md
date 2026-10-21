@@ -6,7 +6,7 @@
 
 ## Now: The fourth room, beneath the city
 
-Cold first. Metal floor, flat against her shoulder blade and the back of her skull. Then a second cold, smaller and wetter, on the place where her left arm stopped. Fresh sealant. It hadn't set yet; it still had the chill of the can in it. Thick at the front, thin at the back. Whoever had sprayed it had been shaking, and hadn't wanted to look.
+Cold first. Metal floor, flat against her shoulder blade and the back of her skull. Then a second cold, smaller and wetter, on the place where her left arm stopped. Fresh sealant. It had skinned over, but it still had the chill of the can in it. Thick at the front, thin at the back. Whoever had sprayed it had been shaking, and hadn't wanted to look.
 
 Ben, then. Gage didn't shake when he worked. Gage pressed too hard.
 
@@ -18,17 +18,17 @@ Voices came before her eyes did.
 
 *Half-dead.* So that was how she looked from up there.
 
-"Wrong question." Smooth, made, even. "Ask what was taken from your parents, and who signed for it."
+"The question is not what I did to you." Smooth, made, even. "The question is: what will you do to regain the freedom that was once your birthright?"
 
 "What does that mean?" Ben, from somewhere low and close.
 
-"That somebody signed. Signatures leave records. You are ready now to read them."
-
-Then someone was choking.
-
 She opened her eyes.
 
-White light, everywhere, the kind that didn't flicker because nothing was burning to make it. She turned her head on the floor and took the room in a piece at a time.
+White light, everywhere, the kind that didn't flicker because nothing was burning to make it. Flitzberg stood over them. His eyes went from Gage to her to Ben to Otto, and three of them looked back.
+
+"You are ready now," he said. "Ready for the journey ahead."
+
+Gage was on him before the last word was out. She turned her head on the floor and took the room in a piece at a time.
 
 Gage, back to her, feet planted, all two hundred and twenty pounds of him set behind one arm, and at the end of the arm a hand, and in the hand Mr. Flitzberg's throat.
 
@@ -36,13 +36,13 @@ Flitzberg hadn't moved. Hands at his sides. His face was going a bad color, but 
 
 Ben, on his knees two body-lengths away, the spray can still in his fist.
 
-Otto. Standing, square to the room, arms at his sides. Chest rising, chest falling. Eyes open, and nothing behind them. He was looking at the far wall, and only at the wall.
+Otto. Standing, square to the room, arms at his sides. Chest rising, chest falling. Eyes open. They didn't follow anything. He was looking at the far wall, and only at the wall.
 
 Behind him, the crystal. Three quarters green. The last quarter pulsing a slow, cold blue.
 
-She counted, because counting was what she did when nothing else would hold still. Gage. Ben. Otto. Her. Four of them. And Flitzberg.
+She counted. Gage. Ben. Otto. Her. Four of them. And Flitzberg.
 
-She checked his jaw. The first time they'd met, he'd been wearing her dead grandfather's face, and a seam of light at the hinge had given him away. No seam now. Pale, smooth, full-cheeked, darkening under Gage's hand. His own face, she thought. Probably.
+She checked his jaw. The first time they'd met, he'd been wearing her dead grandfather Pappy's face, and a seam of light at the hinge had given him away. No seam now. Pale, smooth, full-cheeked, darkening under Gage's hand. His own face, she thought. Probably.
 
 There were no guards in the room. Nobody behind the glass was moving. The man who ran this place had walked in alone and let the strongest boy in Sector One get a hand on his windpipe. Either he'd lost his mind, or he wanted to be within reach.
 
@@ -50,7 +50,7 @@ She didn't think he'd lost his mind.
 
 Gage's grip was trembling. It hadn't tightened. The long muscles in his forearm were jumping.
 
-"You are angry at the right person," Flitzberg got out. He had to stop and swallow, and she watched it go down him. "The right person is also the only one who will answer you. That is why I came in alone."
+"You are angry at the right person," Flitzberg got out. He had to stop and swallow, and she watched it go down him. "The right person is also the only one who will answer you."
 
 Gage's arm shook harder.
 
@@ -68,17 +68,17 @@ Flitzberg didn't rub his throat. He left the marks where they could see them.
 
 "Then answer," Gage said. "Why? What did we ever do to you?"
 
-"Nothing." Flitzberg's voice came out scraped. "You were not —" He stopped, and swallowed, and it cost him. "You were not punished. You were chosen. I know those look the same from where you stand." He swallowed again, and waited for his voice. "At your Initiation the city could not decide whose you were. Three names, no house. No one answerable for whether you came back up. I watched it fail to decide, and I decided." His eyes went to Camilla on the floor. "Your sister needs more than a spray can. Then you can hate me properly."
+"Nothing." Flitzberg's voice came out scraped. "You were —" He stopped, and swallowed, and it cost him. "You were chosen. I know that looks like punishment from where you stand." He swallowed again, and waited for his voice. "At your Initiation the city could not decide whose you were. Three names, and no house answerable for whether you came back up. I watched the city fail to decide, and I decided you were ours. What was taken from your parents was signed for. Signatures leave records. You are ready now to read them." His eyes went to Camilla on the floor. "Your sister needs more than a spray can. Then you can hate me properly."
 
 He raised one hand where they could all see it and beckoned at the glass. "If a stranger had reached her before I did, you would have broken him. So they waited, and I came first."
 
-*Waited.* While she lay on the metal with Ben's sealant still wet on her stump. Camilla added it to the count.
+*Waited.* While she lay on the metal with Ben's sealant still wet on her stump.
 
 Three people came in fast, two with a wheeled stretcher, one with cases, sleeves pushed up. Ben was between them and Camilla before the door finished opening, the can held up like a weapon.
 
 The oldest of them, a woman with grey at her temples and hands scrubbed pink, stopped dead. She set her case on the floor, opened it and turned it so Ben could see inside.
 
-"Clean sealant. Blood. Pain control that won't fog her." She didn't move toward Camilla. "You can walk next to the stretcher with your hand on her the whole way. Nobody's going to make you let go."
+"Clean sealant. Blood. Pain control that will not fog her." She didn't move toward Camilla. "You can walk next to the stretcher with your hand on her the whole way. Nobody is going to make you let go."
 
 Ben looked at Gage. Gage looked at the case. Camilla looked too: sealed instruments in fitted foam, every one of them bright. Nothing she'd ever owned had been bright.
 
@@ -94,7 +94,7 @@ The medic looked at the boy standing in the middle of the room breathing like a 
 
 "I've had practice."
 
-The new sealant went on over Ben's, colder and deeper, and under it came the first warmth her shoulder had given her since the drone. A line went into the back of her right hand. The clear bag above her started to empty. For a while nothing changed, and then everything did: the room's edges came back sharp.
+The new sealant went on over Ben's, colder and deeper, and under it came the first warmth her shoulder had given her since the drone. A line went into the back of her right hand. The clear bag above her started to empty. Then the room's edges came back sharp.
 
 Across the room, the third medic shone the light in Otto's eyes. Left, right. His pupils did what pupils do. His face did nothing. The instrument went to his neck, his wrist, his chest. The medic looked at Flitzberg and didn't need to say anything.
 
@@ -114,11 +114,11 @@ Flitzberg looked past him at Otto, the boy who'd held ten stones open over a lak
 
 Gage took a step toward him. Flitzberg didn't take one back.
 
-"The guard at the doors," Gage said. "'Pass all four, you live. Fail—' He didn't finish. You finish it."
+"The guard at the doors," Gage said. "'You pass all four, you live. You fail—' He didn't finish. You finish it."
 
-"Some who fail die." Flitzberg didn't soften it. "Not by our hand. But the rooms are not theater. That drone was not pretending. When a team breaks in there, the rooms do not get gentler."
+"Some who fail die." Flitzberg didn't soften it. "The rooms are not theater. That drone was not pretending, and it was ours. When a team breaks in there, the rooms do not get gentler."
 
-"And Camilla's arm?" Ben was crying now and not hiding it. "And Otto? That was the price?"
+"That was the price?" Ben was crying now and not hiding it. "Her arm. Him."
 
 "Yes."
 
@@ -144,9 +144,13 @@ Gage turned to the door they'd come in by. "We're going home."
 
 "You don't get to say—"
 
-"In four days," Flitzberg said, and his voice gave out on him again, and he made it work, "the mine writes one word next to your three names on the shift roll. *Absconded.* It is the kindest word it has. Nobody bills a street for a boy who ran. Your slots go back in the pool, Camilla's ration card is not drawn again, and nobody asks why. Miner Town does not go looking for children who walk away." He swallowed. "Before then, you choose. Stay, or go home with a story I give you, one that holds. Walk back through those gates tonight, bleeding, with no story, and you are the trouble the city bills your street for. Rations short. Quotas up. Somebody's door kicked in who had nothing to do with you."
+"Four days after a missed shift," Flitzberg said, and his voice gave out on him again, and he made it work, "the mine writes one word next to your three names on the shift roll. *Absconded.* It is the kindest word it has. Camilla's ration card is not drawn again, and nobody asks why." He swallowed. "Before that, you choose. Stay, or go home with a story I give you, one that holds."
 
-Ben's head came up. "Gretchen's at the gates. She'll be there tomorrow. She'll be there every day."
+"And if we walk out tonight?" Gage said.
+
+"Bleeding, with no story? Then you are the trouble the city bills your street for. Rations short. Quotas up. A door kicked in that had nothing to do with you."
+
+Ben's head came up. "Gretchen'll be at the gates. She'll be there tomorrow. She'll be there every day."
 
 "I know."
 
@@ -162,11 +166,11 @@ Gage's hands had closed. Camilla watched them close.
 
 Then he turned his back on Flitzberg and came to her, and went down on one knee beside the medic, and got an arm under her shoulders. His other hand went under her knees. He was careful of the sealant. He didn't see the line in the back of her hand.
 
-"Hey." The medic's hand came down flat on his forearm. "She's got a line in. You lift her now and that shoulder opens before you're out of this room."
+"Hey." The medic's hand came down flat on his forearm. "She has a line in and a seal that has not cured. You haul her up like that and the shoulder opens before you are out of this room."
 
 "Then pull it."
 
-"I'm not pulling it."
+"I am not pulling it."
 
 "Ben." Gage didn't look up. "Get Otto."
 
@@ -175,6 +179,8 @@ Ben tried to stand. He got one foot under himself and swayed, and put a hand dow
 "Gage." Camilla's head was against his chest. She could feel him breathing, too fast, end-of-shift fast. "Look at Ben. He can't get up. Who's carrying Otto?"
 
 "I'll come back for him."
+
+Whatever was in the bag was holding the edges of her words together. She had to say it before it let go.
 
 "All the way up, and through the gates, and back down. With me on you, and him at the top with nobody." She made herself say the rest. "Gage. I counted him. I've been counting all of you since I opened my eyes, and every time I get to him I get nothing back. He's breathing and he isn't there, and I've been lying here not saying it. He can't eat. He can't drink unless somebody makes him. If we carry him home, Ma can't do that for long. I can't. He stays where the machines are, or he dies in a shack with his eyes open, and I'll be the one who counted that."
 
@@ -192,9 +198,9 @@ Gage looked at her for a long time. Then he laid her back down on the floor, and
 
 "All of it," Flitzberg said. "Then you choose. You have my word."
 
-The medic let out her breath, and checked the line, and taped it flat against Camilla's hand. "That stays in. You'll be stronger by morning, and you'll hate the tape. Both are fine." She nodded to the others. "Now."
+The medic let out her breath, and checked the line, and taped it flat against Camilla's hand. "That stays in. You will be stronger by morning, and you will hate the tape. Both are fine." She nodded to the others. "Now."
 
-They lifted her: four hands under her, nothing jarred, nothing left to find its own way. She'd never been lifted. In Miner Town you got dragged. Ben came with her, his hand on her good shoulder, exactly as he'd been told he could.
+They lifted her: four hands under her, nothing jarred, nothing left to find its own way. She'd never been lifted like this. In Miner Town you got dragged. Ben came with her, his hand on her good shoulder, exactly as he'd been told he could.
 
 Flitzberg went to the inner doors. They opened on a corridor, and the lights woke one at a time ahead of them, each a step beyond the last.
 
@@ -202,14 +208,14 @@ Flitzberg went to the inner doors. They opened on a corridor, and the lights wok
 
 From the stretcher, flat on her back, Camilla got the room one last time.
 
-Gage went to Otto. He said Otto's name once and got nothing back. Then he bent, took Otto's arm across his shoulders, and lifted him. She'd seen this before: months ago, at the end of the Initiation, outside the mine gates on the fourth morning, Gage walking up out of the dark with Otto across his shoulders and Ben by the collar, while the guards waited for the broken boy they'd been told to expect.
+Gage went to Otto. He said Otto's name once and got nothing back. Then he bent, took Otto's arm across his shoulders, and lifted him. She'd seen this before, at the end of the Initiation, outside the mine gates on the fourth morning, Gage walking up out of the dark with Otto across his shoulders and Ben by the collar, while the guards waited for the broken marionette they expected.
 
 He was carrying Otto out again. This time Otto didn't know it.
 
 Behind the empty place where Otto had stood, the crystal. Still a quarter blue.
 
+Then the corridor took her, and the lights woke ahead of the stretcher, running on into the dark faster than anyone could walk.
+
 Four of them. Three awake.
 
 She'd count again in the morning. She'd keep counting until it was four.
-
-Then the corridor took her, and the lights woke ahead of the stretcher, running on into the dark faster than anyone could walk.
