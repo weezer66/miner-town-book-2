@@ -124,7 +124,7 @@ Nothing there. There hadn't been anything there since a room full of orange ligh
 
 A maglev took him across the open dark to Trinity-3. Ashoka was red-black and quieter, and its stone was old. He went down three flights worn hollow in the middle by feet, and at the bottom there was a door with *dead room* on it in plain white paint, and a man in front of it.
 
-Twenty-one, maybe. Red-black, no insignia. A scar along the jaw, old and pale. The knuckles of the right hand split and glued and split again; knuckles went like that when they met bone a lot. He stood as nobody in Miner Town stood, settled, as if the floor had asked him and he'd agreed to it.
+Twenty-one, maybe. Red-black, no insignia. A scar along the jaw, old and pale. The third knuckle of the right hand split and glued and split again; a knuckle went like that when they met bone a lot. He stood as nobody in Miner Town stood, settled, as if the floor had asked him and he'd agreed to it.
 
 "She said they'd send someone who reads patterns."
 

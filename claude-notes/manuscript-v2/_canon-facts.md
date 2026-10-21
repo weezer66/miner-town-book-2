@@ -44,7 +44,7 @@ A compact substitute for rereading everything. If something here conflicts with 
 - **Wrist terminals:** worn on the LEFT wrist; people see only what their terminal underlines. Daren's Kubera bracelet, later the obsidian band, is on the RIGHT.
 - **Elara:** her parents are Vishnu (a priest) and Voss (a teacher). Her childhood friend Teresa died while Elara, 15, was on the ground searching for the Sanjeevani herb. Teresa's last word was "Elara." At 12, Elara falsified a report to protect **Iris** (the strap on the construct), and Preceptor Sen turned the monitor around to show her own telemetry. Her marker: EMPATHY SURGE EVENT, AGE 12.
 - **Daren's habit:** humming four notes, the same four.
-- **Rohan:** scar along his jaw, split knuckles from teaching "the little ones" (the Little Dragons, ages about 5–7). Wadō-ryū, second dan.
+- **Rohan:** scar along his jaw, one split knuckle (the third, right hand) from teaching "the little ones" (the Little Dragons, ages about 5–7). Wadō-ryū, second dan.
 
 ## The mission (revealed to the teens and the reader in ch. 6; don't mention it before ch. 6)
 - **The plan:** finish Gage's Book 1 plan. A **water hammer**: slam the turbine-feed valves shut so the water kicks back into the already-cracked junction in the **Lake Wall** (Basin Sector). That floods the Lower Hub, the turbine floor, the Sector-1 silver veins and the Trinity transport pods.

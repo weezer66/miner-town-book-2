@@ -234,7 +234,7 @@ Rohan was standing at the next bend. He'd waited there since the doors closed, h
 
 Neither of them said anything.
 
-Rohan's hands were at his sides. The knuckles had split again under their glue, the right one dark. Elara watched them. They didn't close. They didn't open either; they hung, and the fingers held a half-curl, the shape of a hand that had decided against something and was still deciding.
+Rohan's hands were at his sides. The knuckle had split again under its glue, dark. Elara watched them. They didn't close. They didn't open either; they hung, and the fingers held a half-curl, the shape of a hand that had decided against something and was still deciding.
 
 "He had a counter he clicked when he was thinking," Rohan said. "He hated lifts." His voice didn't rise. "You'll say his name to his people. Not to me. I'll take you to them, the eye and the ear and Jeebh, who'll do the talking, and you'll stand there and say it, and you won't say *afraid*, because they don't need to carry that too."
 

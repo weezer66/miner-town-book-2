@@ -38,7 +38,7 @@ Her console offered three actions: record the deviation, notify the floor warden
 
 ---
 
-At twelve hours the blue bands in the ceiling brightened to white and the consoles handed the chamber to the automated eyes. The four of them would watch in twelve-hour blocks, the machine taking the hours between. The recovery station next door scanned each of them at the threshold and decided what they were owed. Ravi got tea. Daren got black coffee. Rohan got coffee cut with electrolytes, which came out the color of a bruise. The split knuckles of his right hand had opened again at the console; he'd wrapped them in grey tape from the supply drawer, and the tape was already going dark. Elara's cup printed her fatigue score on its own sleeve, in numbers large enough to be an insult.
+At twelve hours the blue bands in the ceiling brightened to white and the consoles handed the chamber to the automated eyes. The four of them would watch in twelve-hour blocks, the machine taking the hours between. The recovery station next door scanned each of them at the threshold and decided what they were owed. Ravi got tea. Daren got black coffee. Rohan got coffee cut with electrolytes, which came out the color of a bruise. The split knuckle on his right hand had opened again at the console; he'd wrapped it in grey tape from the supply drawer, and the tape was already going dark. Elara's cup printed her fatigue score on its own sleeve, in numbers large enough to be an insult.
 
 She drank. It tasted like a burnt wire.
 
