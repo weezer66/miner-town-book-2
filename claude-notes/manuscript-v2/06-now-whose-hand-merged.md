@@ -84,7 +84,7 @@ Then he asked one more. "The woman in the coat. The Chief Architect." He glanced
 
 Flitzberg looked at him a while, and held up three fingers.
 
-"Once a year the four Grandmasters sit with me, in a room told to no one until the day. They come alone, without escort. It is the one summons none of them may refuse. They leave their wrist instruments at the first door, and they arrive blind and leave blind. That is one. The second is the four of them watching each other; any one could move against this office, and the other three would know at once who had. The third is the ledgers. A century of every house's buried failures. If I do not come back from a meeting, they open, to every representative of every house at once." He let his hand fall. "Nothing in that answer is trust. It is fear, pointing in four directions."
+"Once a year the four Grandmasters sit with me, in a room told to no one until the day. They come alone, without escort. It is the one summons none of them may refuse. They leave their wrist instruments at the first door, and they arrive blind and leave blind. That is one. The second is the four of them watching each other; any one could move against this office, and the other three would know at once who had. The third is the ledgers. A century of every house's buried failures. If I do not come back from a meeting, they open, to every representative of every house at once." He let his hand fall.
 
 Three props, none of them good timber, each one leaning on the other two. Gage had seen galleries held up like that. He'd seen what happened when somebody kicked the wrong one.
 
@@ -99,6 +99,10 @@ Flitzberg sat down. Gage noticed, because the man had stood for everything else.
 "And if we say no," Camilla said.
 
 "Then you go home, with a story that holds. No punishment. No debt. You go back to the shift bells and you say nothing, because you will have given your word and no one would believe you. And you will be watched. Kindly. For the rest of your lives."
+
+"And Otto?" Ben said.
+
+"Goes with you. The tank stays here."
 
 "What does watched look like," Ben said, "at the end?"
 
@@ -142,7 +146,7 @@ Camilla held Flitzberg's eyes for a long time. The metal fingers lay open on the
 
 ---
 
-He didn't move on. He sat with his hands folded, and Gage watched him spend a breath on something.
+He didn't move on. He sat with his hands folded.
 
 "You have made me promise never to lie to you. So I will begin with a thing I would rather have kept until I understood it." He looked at Gage. "The number you wear. Your father's slot. It did not come to you by chance."
 
@@ -154,13 +158,17 @@ Gage's hand left his knee. He didn't send it. It went to his chest, to the place
 
 "I do not know. That is the truth, and it is the part that concerns me. There is a hand in this city that moves people. I do not know whether it meant you kindness, or whether it steered you here." He held Gage's eyes. "When you find out, I hope you will tell me. I wanted you to hear it from me first."
 
+"Was it you?"
+
+"No."
+
+Gage watched him for the lie and didn't find one.
+
 Gage looked at Camilla.
 
-She was already looking at him. Back home, over a copper tag on his palm, she'd told him numbers belonged to positions, not people. He'd taken it as a comfort, the only kind she had to give. Now he watched it land in her face the same time it landed in his. Somebody else had known the rule, and used it, and reached down through all those positions to put a dead man's number on the one person who'd carry it like a weight he'd chosen.
+She was already looking at him. Back home, over a copper tag on his palm, she'd told him numbers belonged to positions, not people. He'd taken it as a comfort, the only kind she had to give. Now he watched it land in her face the same time it landed in his. Somebody else had known the rule, and used it, and reached down through all those positions to put a dead man's number on the one boy who would carry it.
 
 Her metal hand lay still on the table. Then it closed, half a breath late.
-
-Gage put his own hand back on his knee and made it open.
 
 ---
 
@@ -202,7 +210,7 @@ Gage's finger stayed where it was.
 
 "That's mine," he said. "That's my plan." His right hand had made a fist on the table, beside the model. "You watched me build it under my cot. You let me hunt Gerald for two weeks. You could have knocked."
 
-"I could have." Flitzberg did not soften his voice. "I chose not to. A plan handed to you would have been mine. I needed to know whether you would find it yourself, and how far you would go for it with no one's help. Two weeks was the cost of learning that, and you paid it, not I. I will not tell you it was kind. You asked me never to lie to you."
+"I could have." Flitzberg did not soften his voice. "I chose not to. A plan handed to you would have been mine. I needed to know whether you would find it yourself, and how far you would go for it with no one's help. Two weeks was the cost of learning that, and you paid it, not I. I will not tell you it was kind."
 
 Gage made his hand open. It took longer than it should have.
 
@@ -212,7 +220,7 @@ Camilla's breath went out of her. Gage felt it beside him more than he heard it.
 
 "Why?" Ben said. "Why now? Why us?"
 
-"Because the city above is pushing the crews toward the silver nearest the lake. Ground that kills. They have the survey, and they have priced it. And because if Miner Town rises, the city bills the neighbors. A wall that fails is maintenance. No one is punished for a fault in the rock." He paused, and Gage saw him pick the next word up and look at it before he used it. "For Sector One, it would be salvation." He looked at Gage. "And why you? Because you drew it first."
+"Because the city above is pushing the crews toward the silver nearest the lake. Ground that kills. They have the survey, and they have priced it. And because if Miner Town rises, the city bills the street. A wall that fails is maintenance. No one is punished for a fault in the rock." He paused, and Gage saw him pick the next word up and look at it before he used it. "For Sector One, it would be salvation." He looked at Gage. "And why you? Because you drew it first."
 
 "There's a cost," Camilla said.
 
