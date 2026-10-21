@@ -60,7 +60,7 @@ Its hinge was worn bright where a dead man's thumb had worked it, and one thumbs
 
 She walked on.
 
-The corridor narrowed before it ended and opened into the conference wing, where the rooms still kept the shape of the gurukul. In one, two students were restoring a damaged painting, and their mentor guided the angle of a brush with two fingers laid on the back of a hand, and said nothing at all.
+The corridor narrowed before it ended and opened into the conference wing, where the rooms still kept the shape of the gurukul (goo-ROO-kool). In one, two students were restoring a damaged painting, and their mentor guided the angle of a brush with two fingers laid on the back of a hand, and said nothing at all.
 
 The conference room waited at the end of the wing behind a door of clear glass, the committee's shapes already seated on the other side.
 

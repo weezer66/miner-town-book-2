@@ -40,6 +40,7 @@ Generated with the Indic Respelling Checker (`manuscript/Indic Respelling Checke
 | Meera | मीरा | Hindi | MEE-rah | /ˈmiː.ɾaː/ |
 | Arjun | अर्जुन | Hindi | UHR-joon | /ˈəɾ.dʒʊn/ |
 | dal | दाल | Hindi | DAHL | /ˈd̪aːl/ |
+| gurukul | गुरुकुल | Hindi | goo-ROO-kool | /ɡʊ.ˈɾʊ.kʊl/ |
 | Shu Chan |  | hand-written | SHOO CHAHN |  |
 | Wadō-ryū |  | hand-written | WAH-doh RYOO |  |
 | Kusunoki Masashige |  | hand-written | koo-soo-NOH-kee mah-sah-SHEE-geh |  |
