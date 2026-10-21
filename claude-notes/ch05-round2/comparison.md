@@ -59,3 +59,12 @@ Sonnet singled out the bargain as what gives Daren agency and a personal stake. 
 - Both reviewers would still like one more thought at the door, so the turn reads as an active choice with a visible price. The editor asked only for the attendant beat. It's a possible one-line follow-up.
 
 **Round 3 adopted (2026-10-20):** the author approved it. `r3-candidate.md` is now the live chapter, and the `.docx` has been regenerated and checked.
+
+# Round 4: last edits (2026-10-20)
+I made these directly, without the two-model drafting; they weren't blind-tested.
+- **The turn as a motif:** *"He turned before he had decided to. His bare right hand hung open at his side."* It's the band's behaviour before he has the band, and it mirrors Camilla's arm and the chapter's last line.
+- **Why Daren, and why the plan doesn't rely on luck:** after "I could not ask," the Master adds *"I showed you the queue. A man who has counted every rung does not let the house take what he can still hand over."* That pays off the private ladder.
+- **The anger reads as staged:** *"The Master stopped the frame on Elara's name and held it there, unsurprised, long enough for Daren to read it in the gold. Then he turned."*
+- **A plain answer:** *"It answers to your hand now, not the city's. Go to your quarters. Sleep if you can."* I dropped Haiku's "Tomorrow you start on the lower gates," which would clash with the dawn scene's "Drona first."
+- *"Inside lay a bracelet of obsidian. It gave back none of the chamber's light until he tilted it…"* ("black as a wound" is cut).
+- **The cut you approved:** *"You will be the force the city arranges itself around…"* is gone; the paragraph ends on the archivists finding "no order." **Ch20:219's callback** to that promise needs the fork to rewrite it. Requested.

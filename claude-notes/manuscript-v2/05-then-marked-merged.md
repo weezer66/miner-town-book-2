@@ -56,7 +56,7 @@ The ceiling was plated in dark gold, polished to a depthless sheen, and in it th
 
 Then another fragment surfaced. The separation protocol failing to complete. A narrow discrepancy between the executive order and the induction record, with Elara's name beside it.
 
-The pleasure went out of the Master's face all at once, and what replaced it worked his jaw once, hard, a man with something foul on his tongue. He turned.
+The Master stopped the frame on Elara's name and held it there, unsurprised, long enough for Daren to read it in the gold. Then he turned.
 
 His eyes were red at the rims. The anger in them had been given time to become judgment, and it landed on Daren whole. The footage was classified. The other councils weren't meant to have seen it. Daren understood from that face that they had, and laughed over good wine, and that the laughter had climbed the Phoenix ahead of him.
 
@@ -118,7 +118,7 @@ Daren looked at the box, and at the panels, and at the gold ceiling still holdin
 
 "You let them laugh," he said. "You played it for me. You wanted me to have nothing left to keep."
 
-"A man who is asked for his hand bargains for it," the Master said. "I could not ask."
+"A man who is asked for his hand bargains for it," the Master said. "I could not ask. I showed you the queue. A man who has counted every rung does not let the house take what he can still hand over."
 
 "Then no." Daren heard himself say it. "Whatever that is. No."
 
@@ -128,7 +128,7 @@ Daren put his back to him and walked to the doors. They were unlocked. His hand 
 
 Below, at the foot of the hall, an attendant looked up toward the gallery, saw the bare wrist in the light, and looked away before Daren could see what his face did with it.
 
-He turned around.
+He turned before he had decided to. His bare right hand hung open at his side.
 
 "One thing," he said. "When this starts, Elara Nathan's file comes to me."
 
@@ -140,7 +140,7 @@ He let that sit, and then went on in the same even voice.
 
 "And my authority?"
 
-"Greater than that of every other representative. Second only to mine. No title. No insignia. No office. No record that can be followed to its source. When a gate opens that should not have opened, Chanakya's archivists will go looking for the order behind it, and there will be no order. You will be the force the city arranges itself around, and no one in it will be able to say your name."
+"Greater than that of every other representative. Second only to mine. No title. No insignia. No office. No record that can be followed to its source. When a gate opens that should not have opened, Chanakya's archivists will go looking for the order behind it, and there will be no order."
 
 Daren's hand had been declared unauthorized not five minutes ago, and here was power with no mark on it to take away. He found he was already listing names: the people who had corrected him in public, and the ones who had watched it happen. Elara at VARIANCE, peeling a hair off her glass. Three boys asleep against a tunnel wall.
 
@@ -150,7 +150,7 @@ The Master didn't answer.
 
 He opened the box.
 
-Inside lay a bracelet of obsidian, black as a wound in the light. It drank the chamber's glow and gave none of it back, until he tilted it and one narrow edge flashed brighter than any gold Kubera had ever hung on a wall, and went dark again.
+Inside lay a bracelet of obsidian. It gave back none of the chamber's light until he tilted it and one narrow edge flashed brighter than any gold Kubera had ever hung on a wall, and went dark again.
 
 "Extend your right hand."
 
@@ -164,7 +164,7 @@ The window went fully black. Somewhere beyond the walls, systems woke without an
 
 "What just happened?"
 
-The Master closed the gold box. "The city will never see you again. It will only answer you. Go to your quarters. Sleep if you can. Tomorrow you begin learning how much of Trinity is already listening."
+The Master closed the gold box. "It answers to your hand now, not the city's. Go to your quarters. Sleep if you can."
 
 The doors were open when Daren reached them. Down the Phoenix and across the Great Hall, he waited for someone to stop him and ask about the black band. The representatives and attendants he passed stepped out of his way and found somewhere else to put their eyes.
 
