@@ -144,7 +144,7 @@ Sarvajña leaned forward. The stones at his cuff touched the wood with a dry cli
 
 It was a transfer authorization. A new wing for the Drona library, approved through every internal review, carried to Kubera's treasury nine days ago. The amount. The seals. And across the release field, in Kubera's matte gold, one word: FROZEN.
 
-"Nine days," Sarvajña said. "Before your Initiation began. Something is moving inside Kubera with no name and no office on it, and that is the first place it touched us. Nothing moves in that house without the Grandmaster's hand." His thumb turned one of the stones. "Daren of Kubera sat THRESHOLD beside you and failed in front of the other houses. His name has since come off Kubera's rolls."
+"Nine days," Sarvajña said. "Before your Initiation began. Something is moving inside Kubera with no name and no office on it, and that is the first place it touched us. Nothing moves in that house without the Grandmaster's hand." His thumb turned one of the stones. "Daren of Kubera sat THRESHOLD across the grid from you and failed in front of the other houses. His name has since come off Kubera's rolls."
 
 Daren's chair. His pen tapping twice on the printed manual. Elara's thumb went to the raw hangnail on her left hand and pressed until it stung.
 
