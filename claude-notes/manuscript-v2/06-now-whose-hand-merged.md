@@ -30,7 +30,7 @@ Paper. He hadn't expected that. Old deeds under glass, edges gone soft and brown
 
 Camilla's lips moved. She was checking the dates against each other.
 
-"Greed came in," the voice said, "the way water enters a mine."
+"Greed came in," the voice said. Gage knew how. Seep first. Then you're bailing.
 
 The wall showed ledgers, columns that drifted. He found the first bad entry before the voice pointed at it, a figure that didn't carry, and his thumb pressed into his kneecap.
 
@@ -44,7 +44,7 @@ Ben's throat moved.
 
 After that, a post on the boundary, a handful of guards in long coats set to watch from outside. Ben's eyes caught on one of the coats, an old man's, and didn't let go until the wall moved on. Then the ring going up beneath the boundary, a circle with no head and no foot. It would belong to no house, the voice said, so that no house could rot it.
 
-"They called it Patal Loka" (PAH-tahl LOH-kuh), the voice said. "The world beneath the world."
+"They called it Patal Loka," the voice said. "The world beneath the world."
 
 Camilla's head came round a fraction, and Gage saw her file the name.
 
@@ -58,9 +58,9 @@ Flitzberg stood at the end of the table. Camilla looked at his jaw first, checki
 
 Camilla went first. Her good hand was flat on the table.
 
-"The lights. The heat. The drones. In Miner Town they ration candles. Where does this place get its power, and who pays for it?"
+"In Miner Town they ration candles. Who pays for all this?"
 
-"Underneath you. Generators below the lowest level, our own wells, our own air. As for who pays: when the ring was founded, the four houses wrote one line into their own foundations. What this office requires, it may take. When I need something from a house, that house's books show it buying for itself. No clerk is asked. No one signs."
+"When the ring was founded, the four houses wrote one line into their own foundations. What this office requires, it may take. When I need something from a house, that house's books show it buying for itself. No clerk is asked. No one signs."
 
 "So they're paying for you," Camilla said, "and they can't see it."
 
@@ -74,7 +74,7 @@ Ben had his hands folded, waiting his turn. Flitzberg turned to him.
 
 Ben looked at Gage, then at Camilla. Gretchen for him. Rita, their mother, for the other two.
 
-"Three out of three," Ben said, to nobody.
+"Three out of three," Ben said, to nobody. "Still looking."
 
 Then he asked one more. "The woman in the coat. The Chief Architect." He glanced at the dark wall. "Is that you now?"
 
@@ -84,7 +84,7 @@ Then he asked one more. "The woman in the coat. The Chief Architect." He glanced
 
 Flitzberg looked at him a while, and held up three fingers.
 
-"Once a year the four Grandmasters sit with me, in a room told to no one until the day. They come alone, without escort. It is the one summons none of them may refuse. They leave their wrist instruments at the first door, and they arrive blind and leave blind. That is one. The second is the four of them watching each other; any one could move against this office, and the other three would know at once who had. The third is the ledgers. A century of every house's buried failures. If I do not come back from a meeting, they open, to every representative of every house at once." He let his hand fall. "Nothing in that answer is trust. It is fear, pointing in four directions. I will not call it anything better."
+"Once a year the four Grandmasters sit with me, in a room told to no one until the day. They come alone, without escort. It is the one summons none of them may refuse. They leave their wrist instruments at the first door, and they arrive blind and leave blind. That is one. The second is the four of them watching each other; any one could move against this office, and the other three would know at once who had. The third is the ledgers. A century of every house's buried failures. If I do not come back from a meeting, they open, to every representative of every house at once." He let his hand fall. "Nothing in that answer is trust. It is fear, pointing in four directions."
 
 Three props, none of them good timber, each one leaning on the other two. Gage had seen galleries held up like that. He'd seen what happened when somebody kicked the wrong one.
 
@@ -128,7 +128,7 @@ Gage turned. She wasn't looking at him. She'd lifted the metal arm onto the tabl
 
 "Nothing in this place stays closed to me. Not the rooms we walked. Not the drones. Not whatever's in that tank keeping Otto warm. Not this." She turned the arm over, slow, and the wrist came after her a heartbeat behind her face. "You put a machine on me I didn't build and can't open yet. I'll carry it. I won't carry it blind. When I ask how a thing works, you show me, all of it, down to the last wire." Her voice didn't change. "And the switch. You told me you can turn this off from anywhere in this place. Nobody uses it. Not from this room, not from anywhere. And when I ask you where it is, you show me that too."
 
-Ben's eyes went to the arm. Gage had been standing beside her when Flitzberg said it, and he hadn't stopped hearing it since. He kept his hands open.
+Ben's eyes went to the arm. Gage had been standing beside her when Flitzberg said it, and he hadn't stopped hearing it since.
 
 "All of that, yes," Flitzberg said. "Where it is, yes. I will take you to it myself." He kept his eyes on her. "But the switch stays. I will not take it out, and I will not promise never to use it. If that arm ever turns on you," he said, and his eyes went to Gage, "or on him, I want a way to stop it that does not need you awake. You made me promise not to lie. That is the truth."
 
@@ -200,9 +200,13 @@ Flitzberg nodded slowly. "Yes," he said. "That is the mission."
 
 Gage's finger stayed where it was.
 
-"That's mine," he said. "That's my plan."
+"That's mine," he said. "That's my plan." His right hand had made a fist on the table, beside the model. "You watched me build it under my cot. You let me hunt Gerald for two weeks. You could have knocked."
 
-"It is. You had the target, and the weapon, and the window. You did not have the trigger." Flitzberg touched the turbine feeds with the end of a matchstick, not quite hard enough to move them. "Those valves answer to Trinity's safety systems. Cameras, codes, locked rooms. You knew that. It is why you went looking for a man who walked the deep tunnels." He set the matchstick down. "Trinity's systems were built on instruments, and instruments can be made to agree. This office can make those valves obey. All of them, on the second you choose."
+"I could have." Flitzberg did not soften his voice. "I chose not to. A plan handed to you would have been mine. I needed to know whether you would find it yourself, and how far you would go for it with no one's help. Two weeks was the cost of learning that, and you paid it, not I. I will not tell you it was kind. You asked me never to lie to you."
+
+Gage made his hand open. It took longer than it should have.
+
+"It is yours," Flitzberg said. "You had the target, and the weapon, and the window. You did not have the trigger." He touched the turbine feeds with the end of a matchstick, not quite hard enough to move them. "Those valves answer to Trinity's safety systems. Cameras, codes, locked rooms. You knew that. It is why you went looking for a man who walked the deep tunnels." He set the matchstick down. "Trinity's systems were built on instruments, and instruments can be made to agree. This office can make those valves obey. All of them, on the second you choose."
 
 Camilla's breath went out of her. Gage felt it beside him more than he heard it.
 
@@ -216,7 +220,7 @@ Camilla's breath went out of her. Gage felt it beside him more than he heard it.
 
 Camilla's metal hand had found the edge of the table. Gage heard the wood go before he looked: a small dry tick, and when she lifted her fingers there were four pale dents in the grain. Her face had already gone white a heartbeat before that.
 
-"Not him," she said.
+"Not him," she said, and she was looking at Gage.
 
 Gage looked at the split splinter. Otto had said *I'll go* once, back home, across a table with a model on it just like this one. *I'm faster than you.* And Gage had told him no. You had to know the corridors by hand when the lamps went. Gage had worked the deep. He could still walk the run from the Hub to that junction with his eyes shut; some nights he did, lying awake, counting props.
 
@@ -258,11 +262,11 @@ Flitzberg looked at her for a long moment.
 
 Camilla's hand pressed down over the dents.
 
-Nineteen. He'd spent two weeks hunting Gerald, the grid architect with the missing leg, through the ventilation loops just to ask him one question.
+Nineteen. Finding Gerald, the grid architect with the missing leg, in the ventilation loops had taken him fourteen, and that had been for one question.
 
 "That's—"
 
-"Sooner than you are ready." Flitzberg stood. "There is a clock on this, and it is not mine. Something is moving through all four houses at once, tipping a balance that has held for almost a century. When it breaks, it does not break on the houses. You saw the wall. It breaks on the ground." He looked at the three of them. "Nineteen nights. I would give you more if they were mine to give. When I send you, you will not feel ready. No one ever has."
+"Sooner than you are ready." Flitzberg stood. "There is a clock on this, and it is not mine. Something is moving through all four houses at once, tipping a balance that has held for almost a century. When it breaks, it does not break on the houses. You saw the wall. It breaks on the ground." He looked at the three of them. "Nineteen nights. I would give you more if they were mine to give. When I send you, you will not feel ready."
 
 He nodded at the model.
 
