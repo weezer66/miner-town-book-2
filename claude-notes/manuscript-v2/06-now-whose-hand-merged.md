@@ -32,7 +32,7 @@ Camilla's lips moved. She was checking the dates against each other.
 
 "Greed came in," the voice said, "the way water enters a mine."
 
-He'd have written that sentence himself. The wall showed ledgers, columns that drifted. He found the first bad entry before the voice pointed at it, a figure that didn't carry, and his thumb pressed into his kneecap.
+The wall showed ledgers, columns that drifted. He found the first bad entry before the voice pointed at it, a figure that didn't carry, and his thumb pressed into his kneecap.
 
 Ben wasn't watching the paper. Ben was watching faces. Every time one came up on the wall, a clerk, a woman at a checkpoint, a boy with a sack, Ben's eyes went to it and stayed until it was gone.
 
@@ -130,7 +130,15 @@ Gage turned. She wasn't looking at him. She'd lifted the metal arm onto the tabl
 
 Ben's eyes went to the arm. Gage had been standing beside her when Flitzberg said it, and he hadn't stopped hearing it since. He kept his hands open.
 
-"Yes," Flitzberg said. "There is a workshop two levels down. Third door. It has been waiting for someone like you for longer than you have been alive." He looked at the three of them in turn. "Accepted."
+"All of that, yes," Flitzberg said. "Where it is, yes. I will take you to it myself." He kept his eyes on her. "But the switch stays. I will not take it out, and I will not promise never to use it. If that arm ever turns on you," he said, and his eyes went to Gage, "or on him, I want a way to stop it that does not need you awake. You made me promise not to lie. That is the truth."
+
+Gage found his right hand had closed on his knee. He opened it.
+
+Camilla held Flitzberg's eyes for a long time. The metal fingers lay open on the wood between them and did not move.
+
+"Then I build a second one," she said. "In my workshop. And mine answers first."
+
+"There is a workshop two levels down. Third door. It has been waiting for someone like you for longer than you have been alive." He looked at the three of them in turn, and last at her. "Yes. Accepted."
 
 ---
 
@@ -144,7 +152,7 @@ Gage's hand left his knee. He didn't send it. It went to his chest, to the place
 
 "Who?" It came out flat. He hadn't meant it to come out at all.
 
-"I do not know. That is the truth, and it is the part that concerns me. There is a hand in this city that moves people the way you moved charges on a map. I do not know whether it meant you kindness, or whether it steered you here." He held Gage's eyes. "When you find out, I hope you will tell me. I wanted you to hear it from me first."
+"I do not know. That is the truth, and it is the part that concerns me. There is a hand in this city that moves people. I do not know whether it meant you kindness, or whether it steered you here." He held Gage's eyes. "When you find out, I hope you will tell me. I wanted you to hear it from me first."
 
 Gage looked at Camilla.
 
@@ -216,13 +224,13 @@ He said nothing. He kept his hands open on the table on either side of the model
 
 "Gage," Camilla said.
 
-"I know the run," he said. "That's all I said."
+"I know the run," he said. "That's all I'm saying."
 
-"That's not all you said."
+"That's not all you're saying."
 
 Ben's chair scraped. "Wait. Back up." He was looking at Flitzberg, and his voice had gone careful. "The silver stops. The pods stop. Our street eats off that mine. What do they eat after?"
 
-"What they eat now," Flitzberg said. "The ration is drawn on the quota board, not on the vein. The vein is Trinity's profit. The ration is the cheapest way Trinity has found to keep its hands alive, and it does not stop because a wall gives way."
+"The silver stops. The coal does not," Flitzberg said. "What they eat now. The ration is drawn on the quota board, not on the vein, and the quota is coal. The vein is Trinity's profit. The coal keeps the city lit, and the ration is the cheapest way Trinity has found to keep the hands that cut it alive. It does not stop because a wall gives way."
 
 "You said the city bills the street."
 
@@ -236,7 +244,7 @@ Ben held his eyes, then sat back. He didn't say yes. He didn't say no.
 
 Camilla was looking up at the corner of the ceiling, where a lens the size of a fingernail had been watching them since they sat down. "You've got eyes on every corridor in this place," she said. "You've got eyes on our house. And you can't put one on a wall?"
 
-"Our instruments read pipes and doors. Rock they read as noise, and on that night the rock will be nothing but noise. A hand on the stone can tell a blow that landed from a blow that didn't. Nothing we have can."
+"Our instruments read pipes and doors. The pipes will tell us the blow went out. They will not tell us what the rock did with it. Rock they read as noise, and on that night the rock will be nothing but noise. A hand on the stone can tell a blow that landed from a blow that didn't. Nothing we have can."
 
 "Then I'll build you something that can." Her metal fingers lay flat over the four dents, covering them. "You said nothing stays closed to me. Give me your workshop and whatever you've got that listens, and I'll build you eyes for the wall. Then nobody stands there."
 
@@ -250,7 +258,7 @@ Flitzberg looked at her for a long moment.
 
 Camilla's hand pressed down over the dents.
 
-It went through Gage like cold water through boots. He'd spent two weeks hunting Gerald, the grid architect with the missing leg, through the ventilation loops just to ask him one question.
+Nineteen. He'd spent two weeks hunting Gerald, the grid architect with the missing leg, through the ventilation loops just to ask him one question.
 
 "That's—"
 
