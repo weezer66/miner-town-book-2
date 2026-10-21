@@ -86,7 +86,7 @@ Flitzberg looked at him a while, and held up three fingers.
 
 "Once a year the four Grandmasters sit with me, in a room told to no one until the day. They come alone, without escort. It is the one summons none of them may refuse. They leave their wrist instruments at the first door, and they arrive blind and leave blind. That is one. The second is the four of them watching each other; any one could move against this office, and the other three would know at once who had. The third is the ledgers. A century of every house's buried failures. If I do not come back from a meeting, they open, to every representative of every house at once." He let his hand fall.
 
-Three props, none of them good timber, each one leaning on the other two. Gage had seen galleries held up like that. He'd seen what happened when somebody kicked the wrong one.
+Three props, none of them good timber, each one leaning on the other two. Gage had seen galleries held up like that.
 
 ---
 
@@ -102,7 +102,7 @@ Flitzberg sat down. Gage noticed, because the man had stood for everything else.
 
 "Goes with you. The tank stays here."
 
-Camilla went still beside Gage. She was the one who had said it, the first night, with a line still in her hand: he stays where the machines are, or he dies in a shack with his eyes open. Flitzberg looked at her and let it stand.
+Camilla went still beside Gage. She was the one who had said it, last night, with the drip still in her hand: he stays where the machines are, or he dies in a shack with his eyes open. Flitzberg looked at her and let it stand.
 
 "What does watched look like," Ben said, "at the end?"
 
@@ -156,7 +156,7 @@ Gage's hand left his knee. He didn't send it. It went to his chest, to the place
 
 "Who?" It came out flat. He hadn't meant it to come out at all.
 
-"I do not know. That is the truth, and it is the part that concerns me. There is a hand in this city that moves people. I do not know whether it meant you kindness, or whether it steered you here." He held Gage's eyes. "When you find out, I hope you will tell me. I wanted you to hear it from me first."
+"I do not know. That is the part that concerns me. There is a hand in this city that moves people. I do not know whether it meant you kindness, or whether it steered you here." He held Gage's eyes. "When you find out, I hope you will tell me. I wanted you to hear it from me first."
 
 "Was it you?"
 
@@ -210,7 +210,7 @@ Gage's finger stayed where it was.
 
 "That's mine," he said. "That's my plan." His right hand had made a fist on the table, beside the model. "You watched me build it under my cot. You let me hunt Gerald for two weeks. You could have knocked."
 
-"I could have." Flitzberg did not soften his voice. "I chose not to. A plan handed to you would have been mine. I needed to know whether you would find it yourself, and how far you would go for it with no one's help. Two weeks was the cost of learning that, and you paid it, not I. I will not tell you it was kind."
+"I could have." Flitzberg did not soften his voice. "I chose not to. A plan handed to you would have been mine. I needed to know whether you would find it yourself, and how far you would go for it with no one's help. Two weeks was the cost of learning that, and you paid it, not I."
 
 Gage made his hand open. It took longer than it should have.
 
@@ -242,13 +242,13 @@ He said nothing. He kept his hands open on the table on either side of the model
 
 Ben's chair scraped. "Wait. Back up." He was looking at Flitzberg, and his voice had gone careful. "The silver stops. The pods stop. Our street eats off that mine. What do they eat after?"
 
-"The silver stops. The coal does not," Flitzberg said. "What they eat now. The ration is drawn on the quota board, not on the vein, and the quota is coal. The vein is Trinity's profit. The coal keeps the city lit, and the ration is the cheapest way Trinity has found to keep the hands that cut it alive. It does not stop because a wall gives way."
+"The silver stops. The coal does not," Flitzberg said. "Your ration is coal. The silver was never yours."
 
 "You said the city bills the street."
 
 "For a riot. Not for rock."
 
-"Somebody always pays," Ben said. "You told us that the first night. Somebody had to pay." He swallowed. "Gretchen's at the gates every morning. If you're wrong, it's her door."
+"Somebody always pays," Ben said. "Somebody had to pay." He swallowed. "Gretchen's at the gates every morning. If you're wrong, it's her door."
 
 "Then I must not be wrong," Flitzberg said. "And you will watch me, and tell me if I am."
 
