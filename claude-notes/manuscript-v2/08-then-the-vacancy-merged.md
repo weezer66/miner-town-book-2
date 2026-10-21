@@ -30,7 +30,7 @@ A stack of trays went into the belt all at once. Kavik leaned in under it.
 
 "You have been carrying the council's words since you left the chamber."
 
-"I've been trying to work out if they gave me words or a load." She kept her voice beneath the room's. "Sarvajña has a library wing his own gana argued over for ten years, and money that stopped dead the second it reached Kubera's treasury. Draṣṭā has cards. They've both got the shape of a danger. Neither of them told me what it is."
+"I've been trying to work out if they gave me words or a load." She kept her voice beneath the room's. "Sarvajña has a frozen library wing. Draṣṭā has cards. They've both got the shape of a danger. Neither of them told me what it is."
 
 "Because they do not know," Anandi said.
 
@@ -46,7 +46,7 @@ The dispenser let go a burst of steam. Somewhere behind them a chair scraped har
 
 "I altered the record to keep them together. I told myself I was keeping what they chose in that chamber. I don't know what I kept. It might protect them. It might make them easy to see. Three boys who could've survived apart, and I've tied them into one thing every office in Trinity will want to break."
 
-Across the room someone laughed too loudly. The sound hit the ceiling and came apart.
+Across the room someone laughed too loudly.
 
 "Or it may have given them time," Anandi said.
 
@@ -109,15 +109,15 @@ She read the intake slip again. Dependent of record. Every monitor learned the c
 
 "And the pool's almost always empty." She was working it out as she spoke, and Kavik let her. "More bodies waiting than numbers. A slot opens and it's on someone's chest within minutes. So if the inspection closes in the minute he's at the head of the line, there's nothing else in the pool. One number. His father's." She looked up. "Who closes it?"
 
-"The inspection is the one thing our contacts can reach. One of them is a records clerk in the inspection office who was schooled in Drona and never forgot it. They cannot touch the intake clerk, or the queue, or the boy. Only the moment a form is marked finished."
+"The inspection is the one thing our contacts can reach," Kavik said. "One of them is a records clerk in the inspection office who was schooled in Drona and never forgot it. They cannot touch the intake clerk, or the queue, or the boy. Only the moment a form is marked finished."
 
 "No false record," Anandi said. "No named exception. The clerk sees an ordinary vacancy in an ordinary pool, and stamps it."
 
-"Your contacts can close a form. They can't see the line." She looked down at the slip, at the blank lines above his. "I can. I'm on the console at first bell. When he's next, I'll know before the clerk does."
+"Your contacts can close a form. They can't see the line." Elara looked down at the slip, at the blank lines above his. "I can. I'm on the console at first bell. When he's next, I'll know before the clerk does."
 
 Anandi was quiet under the noise. "You are under review. If this is ever traced, you will be the one who was watching when it closed."
 
-"I'm their monitor of record. Watching their intake is the one thing about tomorrow nobody can call strange. I'll send you the word. Nothing goes on the console that isn't already there."
+"I'm their monitor of record. Watching their intake is the one thing about tomorrow nobody can call strange. I won't send you anything. I'll stand up from the console. Have someone where they can see me. Nothing written, nothing sent."
 
 Elara looked at the number until the digits stopped being digits. She had seen the reports from the gate: the bruised steadiness of him, Otto across his shoulders, his fist in Ben's collar. She pictured a stamped tag on a cord, lying over his breastbone every shift for the rest of his life, and the mine no less hungry for it.
 
@@ -155,7 +155,7 @@ Anandi held her eyes. "That boundary is yours to set, and yours to hold us to."
 
 She could still refuse. Leave 4055 to the rotation, and let a clerk be the one who chose.
 
-"Then it's set." Elara's thumb found the crease. "Do it the way you said, with my part in it. Keep the inspection on his father's slot open until Gage is standing at the head of the line. I'll be watching from the console, and when he's next you'll have the word. Close it then, when the pool's empty and 4055's the only number it's got. Nothing forged. Nothing named. Only timing." She breathed in. "I choose that."
+"Then it's set." Elara's thumb found the crease. "Do it the way you said, with my part in it. Keep the inspection on his father's slot open until Gage is standing at the head of the line. I'll be watching from the console, and when he's next I'll stand. Close it then, when the pool's empty and 4055's the only number it's got. Nothing forged. Nothing named. Only timing." She breathed in. "I choose that."
 
 Along the far wall the maintenance cart squeaked past on its bad wheel.
 
@@ -181,11 +181,11 @@ The record was exact about everything except what they had come for. No name, no
 
 "Redacted," Anandi said. "Cleaned implies there is nothing beneath it."
 
-She drew up the record map. The public copy sat on top, the one they were reading. Beneath it, generating it, the native authorization record. Elara reached past her and asked for it, and a legacy firewall turned her clearance back before the request had finished drawing.
+She drew up the record map. The public copy sat on top, the one they were reading. Beneath it, generating it, the native authorization record. Elara leaned in over Anandi's shoulder and asked for it, and a legacy firewall turned her clearance back before the request had finished drawing.
 
 Kavik studied the denial. "Your authority is sufficient. It is your grammar it objects to. The archive does not recognize the language you are asking in."
 
-"Sarvajña saw it frozen this morning. Who moves it today, in a language nobody uses?"
+"It was still frozen when Sarvajña showed us this morning. Who moves it today, in a language nobody uses?"
 
 "Someone who chose to," Anandi said. "The old protocol still authenticates. It predates every audit tool built since. A transaction entered through it is valid and nearly invisible, in the same motion."
 
