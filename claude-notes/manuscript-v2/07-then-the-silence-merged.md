@@ -1,6 +1,6 @@
 # Chapter 7: The Silence
 
-*To her, Gage, Ben, and Otto weren’t children experiencing their first full stomach; they were newly activated units on her ledger. She noted the Engine sharing his polymer pouch — a deviation in resource management — with a flick of her finger.*
+*To her, Gage, Ben, and Otto weren’t children experiencing their first full stomach; they were newly activated units on her ledger.*
 
 — Book 1, Chapter 3: The Initiation
 
@@ -8,7 +8,7 @@
 
 The packet was waiting in her queue when she came in, sealed under the standard tag for post-shift line review. *Cohort 3A, Behavioral Correlation Assessment, Elara Nathan.* Auto-generated at 02:13, in the last dark hours of the shift lock, while she had still been pinned at VARIANCE and the system had been writing about her in another room of itself.
 
-She bathed. She changed. She drank the nutrient broth the room had decided she needed, printed the packet, and sat down at the study table with it. Gage's pulse profile. Ben's stress spikes. Otto's proximity data. On the fourth page, the system's first note on synchronized response, in language so level it could have been describing a pump. The system had seen it before she admitted it. It had only lacked a category, and she had given it one, and then gone down into the vaults and taken it away again.
+She bathed. She changed. She drank the nutrient broth the room had decided she needed, printed the packet, and sat down at the study table with it. Gage's pulse profile. Ben's stress spikes. Otto's proximity data. On the fourth page, the system's first note on synchronized response, in language so level it could have been describing a pump. The system had seen it before she admitted it. It had only lacked a category. She had offered it one at her console, and the system had refused it. Then she had gone down into the vaults and struck out the category it had chosen for itself.
 
 The room dimmed on schedule. Sleep came in short drops. Her head dipped, she jerked up, and the clock on the wall had moved without her. The broth went cold and grew a skin. She pushed through another line, then another, until the letters ran together, and let her forehead come down.
 
@@ -52,7 +52,7 @@ Her father, Vishnu, had never let her think of karma as a court waiting with a s
 
 At seven the collar clasp missed. Her fingernail caught on the metal edge and bent back.
 
-The hallway was familiar enough to hurt: the alcove beside the archive lift, the bench under the ventilation grille, the window that showed only filtered cloud. Then the turn into the Corridor of Knowledge, where the architecture changed without getting any grander. Drona had never needed height to announce itself. Its corridor was narrow and pale and lined with sealed glass cases: a cracked lens, a brass measuring arm, bone-handled instruments for studying the stars. Portraits of scientists hung between shrines to the ancient sanyashis. The oldest books lay open side by side, an astronomical text beside a religious epic.
+The hallway was familiar enough to hurt: the alcove beside the archive lift, the bench under the ventilation grille, the window that showed only filtered cloud. Then the turn into the Corridor of Knowledge, where the architecture changed without getting any grander. Drona had never needed height to announce itself. Its corridor was narrow and pale and lined with sealed glass cases: a cracked lens, a brass measuring arm, bone-handled instruments for studying the stars. Portraits of scientists hung between shrines to the ancient sannyasis. The oldest books lay open side by side, an astronomical text beside a religious epic.
 
 She stopped at the brass arm.
 
@@ -72,13 +72,13 @@ Three strangers sat nearest the center of the table. The first wore a long plain
 
 Beside him, a woman held a deck of cards older than manufacture, thick and hand-beveled, one corner mended with a single stitch of thread. She shuffled them out of habit, without ceremony, as another teacher might roll a pencil.
 
-The last sat at the far end of the table. A plain grey shawl, darned once at the shoulder in thread a shade too dark, over a cotton tunic, a face lined with the patience of years, and no mark of lineage or office anywhere on her. It was hard to look away from her eyes. They held a steadiness older than the room.
+The last sat at the far end of the table. A plain grey shawl, darned once at the shoulder in thread a shade too dark, over a cotton tunic, a face lined with the patience of years, and no mark of lineage or office anywhere on her. It was hard to look away from her eyes. They held a steadiness the room did not have.
 
 Elara took the nearest chair before the table could decide whether she was meant to stand. She drew breath to begin.
 
 The woman at the end lifted one hand.
 
-The palm turned outward, toward Elara, fingers relaxed and open. That was all. The words caught in Elara's throat and stayed there. Her mouth would not open. The breath she had drawn stalled halfway in, and her chest locked around it and would not let it go. The silence thickened until she could not tell whether it belonged to the room or to her own body.
+It rose a hand's width above the wood and stopped there, palm down, fingers loose. That was all. The words caught in Elara's throat and stayed there. Her mouth would not open. The breath she had drawn stalled halfway in, and her chest locked around it and would not let it go. The silence thickened until she could not tell whether it belonged to the room or to her own body.
 
 Then the woman lowered her hand.
 
@@ -104,7 +104,7 @@ The man in the saffron robe spoke first, his voice deep and even. "I am Sarvajñ
 
 The woman at the end of the table waited until the room had settled around her.
 
-"I am Drona's Grandmaster, known by many names depending on who you are and what you believe in," she said. "Today, the Ancient One sits well with me."
+"I am Drona's Grandmaster," she said. "The title passes from Grandmaster to Grandmaster, and whoever holds it leaves her own name at the door. Today, the Ancient One sits well with me."
 
 She had crossed into the living language without a pause, and that unsettled Elara more than the Sanskrit had.
 
@@ -138,13 +138,11 @@ A severed head rose against a darkened sun, its mouth open on the light. *Rahu.*
 
 She left the three cards face up and said nothing about what any of them meant to Elara, and Elara found she couldn't stop looking at the second.
 
-"Prepare while preparation is still possible," Draṣṭā said.
-
 Sarvajña leaned forward. The stones at his cuff touched the wood with a dry click. He took a single printed sheet from inside his robe and slid it across the table to her.
 
 It was a transfer authorization. A new wing for the Drona library, approved through every internal review, carried to Kubera's treasury nine days ago. The amount. The seals. And across the release field, in Kubera's matte gold, one word: FROZEN.
 
-"Nine days," Sarvajña said. "No reason given. No officer named. Something indescribable has begun to form beneath the scales, and that is the first place it has touched us. It has no name and no office, and a thing like that is not built inside Kubera without its Grandmaster." His thumb turned one of the stones. "Kubera's representative failed at your station, in front of the other houses. He has since disappeared from Kubera's rolls."
+"Nine days," Sarvajña said. "Before your Initiation began. Something is moving inside Kubera with no name and no office on it, and that is the first place it touched us. Nothing moves in that house without the Grandmaster's hand." His thumb turned one of the stones. "Kubera's representative failed at your station, in front of the other houses. He has since disappeared from Kubera's rolls."
 
 Daren's chair at THRESHOLD. His pen tapping twice on the printed manual. Elara's thumb went to the raw hangnail on her left hand and pressed until it stung.
 
@@ -166,11 +164,17 @@ Draṣṭā was smiling. It was a different smile from the first.
 
 "Not by destiny," the Ancient One said, "but because you acted while action still mattered. The record carries your name, not ours. There is a line in the Sector One induction file that has been struck through and written again, and beside it an audit reference, and beside that a name. Kubera has read it. Whoever moves against those boys now must move through you." She didn't raise her voice. "We did not choose you, Monitor. You signed."
 
-Nobody at the table asked what she had done in the vaults. Nobody needed to.
+"The vaults, Elara." Anandi's voice was the one from her first-year lectures. "Tell it in order. Leave nothing out."
+
+She told it in order. Ledger verification, the one right an operator under review still held, and twenty minutes counting down on the main board. Her own name in the clerk's register. The duty terminal in its alcove with nobody at it, and the audit reference it had taken as proof.
+
+"I struck two fields and wrote them again," she said. "Standard cohort. Separation directives withheld. The system warned me it was tampering, and I confirmed through the warning. My name is at the end of it."
+
+Anandi heard all of it without interrupting. At the word *withheld* she closed her eyes, and when she opened them they went back to Elara and stayed there.
 
 "So hear the price," the Ancient One said, "since you have already paid the first of it. Drona will not take your name off that record. It will not lie for you. If Kubera brings that line before the houses, Drona will say what is true, that its monitor signed, and nothing more. In return you stay where you put yourself. You are the monitor of record for those three boys for as long as this lasts. Every eye that turns toward them will find you first."
 
-Anandi's hand moved on the table and was still. Kavik's stayed on his pen.
+Kavik's hand stayed on his pen.
 
 "Drona stands behind you," the Ancient One said. "Not in front. Your mentors will be your shadows from today, whatever follows. They cannot carry it for you."
 
@@ -178,21 +182,23 @@ Elara sat with it. Her name at the end of a struck line, and a door sensor's gre
 
 "Then the file comes to me," she said.
 
-Sarvajña's eyebrows rose a fraction.
+Anandi's head came up. Her hand went out across the wood toward Elara's and stopped short of it.
 
 "Cohort 3A. There's a packet on my table now that the system wrote about them while I was still at my console." Her voice was steadier than she was. "If every eye that turns toward them finds me first, then I read what's written about them first. Nothing on those boys goes to any board, from any house, until it has crossed my console. Drona files nothing on them I haven't seen."
 
-"That is a monitor under review asking to audit her own review," Sarvajña said.
+"That is a monitor under review asking to audit her own review," Anandi said. "When Kubera comes for that struck line, it will come for this as well."
 
 "It's a monitor asking to read what's said about the people she answers for. You just told me I answer for them."
 
 Draṣṭā laughed, once, under her breath.
 
-The Ancient One looked at Elara for a long moment with the same steady patience she had shown at the start, and something at the corner of her mouth eased.
+Anandi did not. "Grandmaster, I would have it recorded that I objected."
 
-"Agreed," she said. "And one more thing, Monitor, so it is said aloud in this room. Once you have stood in front of a thing, you do not get to step out of its way."
+"It is recorded." The Ancient One did not turn her head. "So is her answer."
 
-Somewhere down the wing a brush was being guided across a damaged painting by two fingers that would not let it slip.
+She looked at Elara for a long moment with the same steady patience she had shown at the start, and something at the corner of her mouth eased.
+
+"Agreed," she said. "Then stay where you are."
 
 "Do you accept?"
 
