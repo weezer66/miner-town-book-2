@@ -24,11 +24,11 @@ Voices came before her eyes did.
 
 She opened her eyes.
 
-White light, everywhere, the kind that didn't flicker because nothing was burning to make it. Flitzberg stood over them. His eyes went from Gage to her to Ben to Otto, and three of them looked back.
+White light, everywhere, the kind that didn't flicker because nothing was burning to make it. Flitzberg stood with Gage's hand at his throat. His eyes went from Gage to her to Ben to Otto, and three of them looked back.
 
 "You are ready now," he said. "Ready for the journey ahead."
 
-Gage was on him before the last word was out. She turned her head on the floor and took the room in a piece at a time.
+Gage's arm locked before the last word was out. She turned her head on the floor and took the room in a piece at a time.
 
 Gage, back to her, feet planted, all two hundred and twenty pounds of him set behind one arm, and at the end of the arm a hand, and in the hand Mr. Flitzberg's throat.
 
