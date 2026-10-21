@@ -30,7 +30,7 @@ He found her before the gate had finished folding back. He'd always done that. S
 
 "Cami." It came out of him wrecked, a voice that had been shouting at water. His lips were blue at the edges. "Clean?"
 
-They'd made a man with marks on his throat promise it, in a room with a cold floor: nobody here lies to the four of them. The four of them had never needed it said. She'd never once thought what it would cost until now, with the medic's hand on his chest and his eyes on her face, waiting.
+They'd made a man with marks on his throat promise it, across a table in a room of old deeds under glass: nobody here lies to the four of them. The four of them had never needed it said. She'd never once thought what it would cost until now, with the medic's hand on his chest and his eyes on her face, waiting.
 
 "No," she said. "Not clean." She made herself stay on his eyes. "It worked."
 
@@ -344,7 +344,7 @@ Gage laughed, one short breath of it, and it hurt, and he did it anyway.
 
 The door opened.
 
-Flitzberg stood in it. He didn't come in. He was in his own face, his collar open over the marks, his hands empty, and he stood on the threshold and looked at the room as a man looks at a sum he's checked many times and needs to check once more.
+Flitzberg stood in it. He didn't come in. He was in his own face, his collar open where the marks had been, his hands empty, and he stood on the threshold and looked at the room as a man looks at a sum he's checked many times and needs to check once more.
 
 His eyes went to Gage first, in the bed with his leg like a hill. Gage looked back at him. Then to Camilla, at the bedside. She looked back. Then to Ben on the end of the bed, with the pencil behind his ear. Ben looked back.
 

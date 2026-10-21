@@ -168,7 +168,7 @@ Elara was doing the one thing she'd told herself she wouldn't, and doing it lawf
 
 Her own cycle, her own console, her own Initiation: every line of the boys' monitoring record was hers to review under the Ancient One's code. She was a monitor reading her monitoring. If anyone asked, and someone would, that was what she'd say.
 
-The gate scans ran down each record like stitches, every morning in, every evening out. Then, a few mornings back, the stitches stopped. Ben's and Otto's on one morning. Gage's the next.
+The gate scans ran down each record like stitches, every morning in, every evening out. Then, more than a week back, the stitches stopped. Ben's and Otto's on one morning. Gage's the next.
 
 The mine had done what the mine did. It flagged the missed shifts, waited out the days its rules required, and wrote the small cold word the city used for things it had thrown away. *Absconded. Slots released.* Gage's father's number was already back in the pool, waiting for the next body.
 
