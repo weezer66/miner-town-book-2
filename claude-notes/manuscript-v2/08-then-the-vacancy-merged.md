@@ -1,6 +1,6 @@
 # Chapter 8: The Vacancy
 
-*Seeking the final piece, Gage sat with the Worker #4055 tag hanging between his fingers. The system didn’t retire numbers — it refilled them. When Gage survived the Initiation and entered the intake line, the processing clerk had stamped Thorton’s vacated slot onto his son’s chest without a second glance. The position was the asset; Gage was just the next body assigned to fill it. But what was once a symbol of his father’s disposal had become a key to the machine’s destruction. He walked to Camilla.*
+*The system didn’t retire numbers — it refilled them.*
 
 — Book 1, Chapter 6: To Hell and Back
 
@@ -20,7 +20,7 @@ Off the council floor, Kavik talked.
 
 "It is the last week of the cycle every week." He tipped the mug and watched the stew slide back. "And the kitchen has declared war on salt. I have written to them twice. I believe my letters are going into the broth."
 
-Drona never went hungry the way Miner Town did, and it never ate the way Kubera did. Its allocations were fixed and exactly accounted, and by the end of a cycle the kitchens watered the broth to make the ledger close.
+Drona's allocations were fixed and exactly accounted, so by the end of each cycle the kitchens watered the broth until the ledger closed.
 
 Elara's grain and protein cake had cooled into a surface she couldn't bring herself to break. She ran the spoon along its edge. The days held upright at the console had left a band of ache across the top of her back, and it had settled in to stay.
 
@@ -37,8 +37,6 @@ A stack of trays went into the belt all at once. Kavik leaned in under it.
 Elara looked up. "They're elders."
 
 "That is not the same as seeing everything." Anandi lifted her own spoon and set it down unused. "Sarvajña knows what the records allow him to prove. Draṣṭā knows that a pattern is coming."
-
-It should have eased something. It made the space around her next question wider.
 
 "Then why does it feel like I've already done too much?"
 
@@ -66,7 +64,7 @@ Elara said nothing.
 
 "No."
 
-"Then it is yours." Anandi waited until Elara looked at her. "You did not put courage into them. You did not make them carry one another. You did not survive the Initiation in their bodies. You refused to let Trinity turn their survival into a reason to punish them before they reached the gate. That may have consequences. It also has a moral shape." She laid her hand over Elara's fist on the table.
+"Then it is yours." Anandi waited until Elara looked at her. "You did not put courage into them. You did not make them carry one another. You did not survive the Initiation in their bodies. You refused to let Trinity turn their survival into a reason to punish them before they reached the gate. That may have consequences." She laid her hand over Elara's fist on the table.
 
 Kavik set the mug down. "The roads are not destiny's property, Elara. If something larger is moving toward those boys, the road still had to be taken, and the one who took it answers for it."
 
@@ -84,7 +82,7 @@ Her mouth moved, somewhere in the neighborhood of a smile, and Anandi's hand sta
 
 "Kubera may be part of it. Or it may be sheltering something for reasons of its own." He measured the distance to the nearest table without turning his head. "We do not have enough to name the design."
 
-He reached into his sleeve and laid a narrow printed slip beside her tray. It could have been a cafeteria receipt. Someone had already used it as a coaster; a brown half-ring sat across the header, over the name of an intake batch. Most of the lines were blank. One entry near the bottom was not.
+He reached into his sleeve and laid a narrow printed slip beside her tray. It could have been a cafeteria receipt. Someone had already used it as a coaster; a brown half-ring sat across the header, over the words INTAKE SLIP and a batch number. Most of the lines were blank. One entry near the bottom was not.
 
 WORKER SLOT 4055
 PRIOR HOLDER: THORTON, DECEASED. DEPENDENT OF RECORD: GAGE.
@@ -93,13 +91,13 @@ Elara didn't touch it. "Thorton. His father."
 
 She looked at Anandi, not at Kavik. "You objected this morning. To me reading their files."
 
-"I objected to you doing it where Kubera could watch," Anandi said. "This is a date on an inspection form. Nobody in Kubera reads those."
+"I objected to you doing it where Kubera could watch," Anandi said. "What we touch is a date on an inspection form. Kubera reads intake packets. It has never once read a safety inspection."
 
-"So reading their packet's dangerous, and moving his father's number isn't."
+"So reading their packet is dangerous, and this isn't."
 
-"Both are," Anandi said. "Kubera reads intake packets. It has never once read a safety inspection."
+"Yes," Anandi said. "Kubera watches the boys. It does not watch the dead."
 
-She read the slip again. Dependent of record. Every monitor learned the clause in intake training: when a miner died, the ledger flagged his dependents as eligible for the slot, and eligible in Trinity meant a line of paper and nothing else, because the intake queue pooled every open number and handed them out blind.
+She read the intake slip again. Dependent of record. Every monitor learned the clause in intake training: when a miner died, the ledger flagged his dependents as eligible for the slot, and eligible in Trinity meant a line of paper and nothing else, because intake pooled every open number and handed them out blind to whoever stood at the head of the queue.
 
 "Intake's at first bell tomorrow," she said. "He gets whatever's open when he reaches the clerk."
 
@@ -107,15 +105,19 @@ She read the slip again. Dependent of record. Every monitor learned the clause i
 
 "And this one isn't." She looked at the header under the brown ring. "A man dies at his post, his slot is held. A safety inspection is opened to establish what killed him, and nobody can be stamped into the number until it closes."
 
-"His inspection was opened two years ago, and nobody has touched it since. A broken part does not get an inspector's attention. It has sat there holding his number."
+"His inspection was opened two years ago, and nobody has touched it since," Kavik said. "A broken part does not get an inspector's attention. It has sat there holding his number."
 
-"And the queue's almost always empty." She was working it out as she spoke, and Kavik let her. "More bodies waiting than numbers. A slot opens and it's on someone's chest within minutes. So if the inspection closes in the minute he's at the head of the line, there's nothing else in the pool. One number. His father's." She looked up. "Who closes it?"
+"And the pool's almost always empty." She was working it out as she spoke, and Kavik let her. "More bodies waiting than numbers. A slot opens and it's on someone's chest within minutes. So if the inspection closes in the minute he's at the head of the line, there's nothing else in the pool. One number. His father's." She looked up. "Who closes it?"
 
-"The inspection is the one thing our contacts can reach. They cannot touch the clerk, or the queue, or the boy. Only the moment a form is marked finished."
+"The inspection is the one thing our contacts can reach. One of them is a records clerk in the inspection office who was schooled in Drona and never forgot it. They cannot touch the intake clerk, or the queue, or the boy. Only the moment a form is marked finished."
 
-"No false record," Anandi said. "No named exception. The clerk sees an ordinary vacancy in an ordinary queue, and stamps it."
+"No false record," Anandi said. "No named exception. The clerk sees an ordinary vacancy in an ordinary pool, and stamps it."
 
-Elara waited for the rest of it, the why, and Kavik turned his mug a quarter and gave her nothing.
+"Your contacts can close a form. They can't see the line." She looked down at the slip, at the blank lines above his. "I can. I'm on the console at first bell. When he's next, I'll know before the clerk does."
+
+Anandi was quiet under the noise. "You are under review. If this is ever traced, you will be the one who was watching when it closed."
+
+"I'm their monitor of record. Watching their intake is the one thing about tomorrow nobody can call strange. I'll send you the word. Nothing goes on the console that isn't already there."
 
 Elara looked at the number until the digits stopped being digits. She had seen the reports from the gate: the bruised steadiness of him, Otto across his shoulders, his fist in Ben's collar. She pictured a stamped tag on a cord, lying over his breastbone every shift for the rest of his life, and the mine no less hungry for it.
 
@@ -129,7 +131,7 @@ Elara looked at the number until the digits stopped being digits. She had seen t
 
 "Then why this line?"
 
-"Because the queue will put a number on him whether we act or not. That part no one here can prevent." Anandi didn't look away from her. "Every other slot in that pool would make him a location and a task. This one carries his father. Where he worked. What he did. The record Trinity filed as a disposal. If the city insists on giving him a dead man's position, it can give him his own dead."
+"Because intake will put a number on him whether we act or not. That part no one here can prevent." Anandi didn't look away from her. "Every other slot in that pool would make him a location and a task. This one carries his father. Where he worked. What he did. The record Trinity filed as a disposal. If the city insists on giving him a dead man's position, it can give him his own dead."
 
 "He might hate it."
 
@@ -137,7 +139,7 @@ Elara looked at the number until the digits stopped being digits. She had seen t
 
 "Our intention is small," Kavik said. "That the number he carries should mean something to him. We can make it possible for him to inherit it. What he makes of it is no business of ours."
 
-Elara thought of the three of them under the gate lights, moving slowly, moving together, in a shape no report had a word for. She had never seen their future. She had only seen what Trinity meant to do next, and refused it. This was smaller than a future and more dangerous than a certainty: a number on a routine form, a dead man's labor position, a thin line toward a map Gage might one day learn to read.
+Elara thought of the three of them under the gate lights, moving slowly, moving together, in a shape no report had a word for. She had never seen their future. She had only seen what Trinity meant to do next, and refused it. A number on a routine form, a dead man's labor position, a thin line toward a map Gage might one day learn to read. It promised him nothing, and she was going to choose it anyway.
 
 The noise surged as the next shift came in. Trays, chairs, a dozen conversations starting at once. No one looked at their table. No one had a reason to.
 
@@ -147,17 +149,17 @@ She took the slip between two fingers. The paper was soft, already creased down 
 
 "Agreed," Kavik said.
 
-"And no one touches the boys' choices after this. Not through a record. Not through a warning dressed up as help."
+"Then this is the last thing we do to them without asking. I'm not pretending it isn't a hand on his back."
 
-Anandi held her eyes. "That boundary is yours to set."
+Anandi held her eyes. "That boundary is yours to set, and yours to hold us to."
 
 She could still refuse. Leave 4055 to the rotation, and let a clerk be the one who chose.
 
-"Then it's set." Elara's thumb found the crease. "Do it the way you said. Keep the inspection on his father's slot open until Gage is standing at the head of the line, and close it then, when the queue's empty and 4055's the only number it's got. Nothing forged. Nothing named. Only timing." She breathed in. "I choose that."
+"Then it's set." Elara's thumb found the crease. "Do it the way you said, with my part in it. Keep the inspection on his father's slot open until Gage is standing at the head of the line. I'll be watching from the console, and when he's next you'll have the word. Close it then, when the pool's empty and 4055's the only number it's got. Nothing forged. Nothing named. Only timing." She breathed in. "I choose that."
 
 Along the far wall the maintenance cart squeaked past on its bad wheel.
 
-Elara folded the notice once along the crease it already had. Under the clatter of the room it made no sound at all.
+Elara folded the intake slip once along the crease it already had. Under the clatter of the room it made no sound at all.
 
 ---
 
@@ -183,7 +185,7 @@ She drew up the record map. The public copy sat on top, the one they were readin
 
 Kavik studied the denial. "Your authority is sufficient. It is your grammar it objects to. The archive does not recognize the language you are asking in."
 
-"Sarvajña saw it frozen this morning. Who moves it tonight, in a language nobody uses?"
+"Sarvajña saw it frozen this morning. Who moves it today, in a language nobody uses?"
 
 "Someone who chose to," Anandi said. "The old protocol still authenticates. It predates every audit tool built since. A transaction entered through it is valid and nearly invisible, in the same motion."
 
@@ -203,7 +205,7 @@ Elara's pulse moved once in her throat.
 
 "A lawful audit trace," Anandi said. "We are reading a Drona record."
 
-Elara's hand had come off the glass without her telling it to. Her name already sat beside a struck line, and Kubera had read it. Now it would sit against this. She wiped her palm down her sleeve and put it back.
+Elara's hand had come off the glass without her telling it to. Her name already sat beside a struck line, and Kubera had read it. Now this would sit beside it. She wiped her palm down her sleeve and put it back.
 
 The document opened.
 
@@ -225,4 +227,4 @@ Anandi looked at the two letters without touching the glass.
 
 "Close it," she said. "Before the window does."
 
-Elara closed the document before the provisional window ran out. The glass went pale and blank. Her hand was flat on it, she found, low on the panel where nobody's palm had worn anything, and her forefinger had already drawn half a circle in the faint fog of her own breath.
+Elara closed the document. The glass went pale and blank. Her hand was flat on it, she found, low on the panel where nobody's palm had worn anything, and her forefinger had already drawn half a circle in the faint fog of her own breath.
