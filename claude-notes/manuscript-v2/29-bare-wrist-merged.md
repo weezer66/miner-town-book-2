@@ -122,6 +122,8 @@ So they were writing this down too.
 
 She found that it didn't matter. That was the odd thing. It sat in her chest, cold and steady. They'd been watching her hand for weeks, and every one of those weeks the hand had been hers. It had learned an egg without breaking it. It had held a splinter tonight without cracking it any further. Nobody reading it had made it do one thing.
 
+Her good hand, the splinter still in it, had gone up to her collar, to the cord and the small pin on it, the one that answered first. She'd finished it a week ago. Two fingers found it. She held it, and let it go.
+
 She made the metal fingers close. They came late. She let them. She made them open again, slowly, all the way, in front of everyone, and the elbow came down to her side.
 
 "It doesn't wait to see what you want," she said to the man. "It's listening to you being scared, and it does what scared people want before they've finished wanting it. That's all it's for." She looked past him, past the table, at the old man in gold with his bare hands on the wood. "And you're scared of *him*."

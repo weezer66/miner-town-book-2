@@ -162,6 +162,10 @@ She thought about the web, finer than hair, going in under the seal.
 
 "No," he said. "Then you will have to work harder than I would have liked."
 
+"I already am." She touched her collar, where a cord she'd knotted that morning held a pin no longer than her little finger, cut from a tray of the arm's spare parts, one end filed to fit the seam below the elbow. "Mine. It doesn't work yet."
+
+He looked at the cord and not at the pin. "Then it does not lie yet either."
+
 She looked past him at the shelves. On the one nearest his elbow, at the height of her eyes, stood a doll in a miner's jacket with a lamp painted on its forehead, grey moustache, the paint on the cheeks rubbed pale. He saw her looking. He reached over and took it down, and twisted it at the waist, and lifted off the top half.
 
 Inside, a smaller one. The same jacket. The moustache gone, the face younger. He opened that one too. Smaller still: a boy, no lamp. And inside the boy, one no bigger than her thumbnail, painted plain, no face on it at all.
