@@ -14,7 +14,7 @@ Beneath the torch: a time, a clearance code, one line.
 
 REPORT DIRECTLY. NO HANDLER PRESENT.
 
-Daren sat on the edge of the bed with the pane on his knees. He had been awake thirty-one hours. He was twenty. He had been two years in Kubera's measuring rooms, two years of thresholds that held and loss curves that came in under projection, and in all that time no director had said his name aloud in a meeting he was in. He'd kept count anyway. A director who had once stopped behind his desk, read a threshold estimate over his shoulder, and walked on without correcting it; he had lived on that for eight months. A memo forwarded without comment, which in Kubera was nearly praise. Twenty directors held the title, and five of them could ask for an audience upstairs. He'd built a small private ladder out of those numbers and climbed it every night before sleep. A summons with no handler skipped every rung at once.
+Daren sat on the edge of the bed with the pane on his knees. He had been awake thirty-one hours. He was twenty. He had been two years as a junior in Kubera's measuring rooms before this posting, two years of thresholds that held and loss curves that came in under projection, and in all that time no director had said his name aloud in a meeting he was in. He'd kept count anyway. A director who had once stopped behind his desk, read a threshold estimate over his shoulder, and walked on without correcting it; he had lived on that for eight months. A memo forwarded without comment, which in Kubera was nearly praise. Twenty directors held the title, and five of them could ask for an audience upstairs. He'd built a small private ladder out of those numbers and climbed it every night before sleep. A summons with no handler skipped every rung at once.
 
 He was humming before he noticed, the four notes, the same four, into the collar of his shirt.
 
@@ -80,7 +80,7 @@ The device fell silent. The Master looked at Daren a while longer, and then thro
 
 A briefing would have come through his handler. A warning would have named an inquiry. Daren had been brought up the Phoenix so the house could tell him to his face that he no longer resembled it.
 
-He looked at his right hand. Kubera had taught him the hand was an instrument of value. It signed allocations and released reserves and moved lives across a ledger like weights on a scale. The authority lived in the pattern under the palm. The gold bracelet was only its visible seal. A hand couldn't be surrendered. The authority bound to it could.
+He looked at his right hand. Kubera had taught him the hand was an instrument of value. It signed allocations and released reserves and moved lives across a ledger like weights on a scale. The authority lived in the pattern under the palm. The gold bracelet was only its visible seal.
 
 He walked to the founder seal. The Master didn't stop him. He laid his palm on the old gold, and the nearest panel showed the house's revocation already queued behind the chamber walls: credentials, accounts and access, to be stripped before he reached the door.
 
@@ -126,6 +126,8 @@ Daren looked at the box, and at the panels, and at the gold ceiling still holdin
 
 Daren put his back to him and walked to the doors. They were unlocked. His hand found the release again, and the bare wrist came up into the light of the gallery beyond, pale and ridged where the clasp had been. Below that gallery were the founders and the gravel, and the lift, and every face that had seen the footage. He stood there long enough for the release to time out under his fingers.
 
+Below, at the foot of the hall, an attendant looked up toward the gallery, saw the bare wrist in the light, and looked away before Daren could see what his face did with it.
+
 He turned around.
 
 "One thing," he said. "When this starts, Elara Nathan's file comes to me."
@@ -134,7 +136,7 @@ He turned around.
 
 He let that sit, and then went on in the same even voice.
 
-"You have been marked for removal from Kubera. Good. A man struck off is on no roll the other houses can audit. Three councils laughed at your name last night. By spring there will be nothing on file for them to laugh at. Every power in Trinity is real to the others because it is written down. Chanakya keeps a page on each of my directors, his debts, his hours, the name of his tailor. Drona shelves our minutes before the ink is dry. What is on a page can be weighed and countered. None of the houses has learned to fight what refuses to enter a record."
+"You have been marked for removal from Kubera. Good. A man struck off is on no roll the other houses can audit. Three councils laughed at your name last night. By spring there will be nothing on file for them to laugh at. Chanakya keeps a page on each of my directors: his debts, his hours, the name of his tailor. You will keep none."
 
 "And my authority?"
 
@@ -194,7 +196,7 @@ He dressed in plain clothes, folded the uniform once, and left it on the bed for
 
 Two maintenance workers knelt at an open floor panel in the corridor, a coil of cable between them. Their wrist terminals pulsed at the same instant. Both read their screens and dropped their eyes, and the nearer one got up and stood back against the wall to clear the way. His hands were split across every knuckle, grey with grease no washing would reach, and on the third finger of the left a thin ring had been wrapped round and round in electrical tape to keep it from catching. The tape was fresh, neatly done, by someone who cared about it. Daren saw that, put it where he put things that had no column, and walked past.
 
-At the Meru gate the scanner opened before he reached it. At the Phoenix two guards were waiting with the car already open. One gave him a nod that was nearly a salute, and under the raised visor his eyes were bloodshot and puffed, a man at the end of a double shift. Daren noted it. It changed nothing.
+At the Meru gate the scanner opened before he reached it. At the Phoenix two guards were waiting with the car already open. One gave him a nod that was nearly a salute, and under the raised visor his eyes were bloodshot and puffed, a man at the end of a double shift. Daren noted it.
 
 The upper gallery was empty. The black doors stood wide.
 
@@ -234,7 +236,7 @@ It slid off the table into the air, turning lazily, a little water inside it cat
 
 Daren laughed. It came out of him short and startled, a sound he hadn't made in front of a superior in two years, and he didn't care. He looked at the empty table, the ring of damp where the bottle had stood. He tossed it up an inch and caught it with nothing, held it a hand's width above his palm, and laughed again.
 
-"Your glove read the motor impulse before your hand moved," the Master said. "The suit translated it into a short-range field. This is a calibration. The bracelet keys the ensemble to you. I needed to know whether it would answer."
+"It moved before your hand did," the Master said. "Remember that."
 
 Daren set the bottle down on the floor without bending. Then he looked past it at the rear table and the sealed ledgers stacked there, thick as paving stones, bound in brass at the corners.
 
@@ -258,7 +260,7 @@ They talked for more than thirty minutes under the dark window, and nothing was 
 
 "Drona keeps the record. Everything the houses have ever done is on a shelf in Trinity-1, and a shelf can be given as a gift." The Master's fingers rested on the gold box, on the circle with no center. "Let them give it."
 
-"And Elara Nathan?"
+"And her file?"
 
 "Is a line in that record." His eyes went to the dark glass. "Lines can wait."
 

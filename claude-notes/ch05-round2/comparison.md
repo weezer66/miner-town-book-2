@@ -32,3 +32,30 @@ Sonnet singled out the bargain as what gives Daren agency and a personal stake. 
 **Ch17 continuity note (for the fork):** Ch17 says the band "had never once given him an idea." Ch22, and now Ch5's last line, show it finishing wishes below his hearing. This works if Ch17 is Daren's belief and Ch22 is where he learns otherwise.
 
 **Adopted (2026-10-20):** the author chose to keep the bargain. `ch05-candidate.md` is now the live chapter, and the `.docx` has been regenerated and checked. The fork has been asked to add a one-line payoff in Ch29 or Ch30.
+
+# Round 3 (2026-10-20)
+**The review:** 6.75, the third straight rise. The main gap: we never see why Daren turns around at the door.
+
+**The fixes (both drafts):**
+- **The turn.** A new paragraph right before "He turned around.": *"Below, at the foot of the hall, an attendant looked up toward the gallery, saw the bare wrist in the light, and looked away before Daren could see what his face did with it."* The bargain is unchanged and now reads as his price for coming back.
+- **The doctrine is cut** to *"Chanakya keeps a page on each of my directors: his debts, his hours, the name of his tailor. You will keep none."* **Kept against the editor's suggestion:** "You will be the force the city arranges itself around…", because Ch20 recalls that promise. "Second only to mine" and the no-title line are kept too.
+- **Small cuts:** "A hand couldn't be surrendered…" and "It changed nothing."
+- **The dawn callback:** *"And her file?" / "Is a line in that record." … "Lines can wait."*
+- **Optional, both taken:**
+  - *"two years as a junior in Kubera's measuring rooms before this posting"*;
+  - *"It moved before your hand did," the Master said. "Remember that."* replaces the mechanics speech. Ch14 explains the mechanics, and the fork confirmed nothing quotes the old lines.
+- The Tamil line is kept (your choice). The ensemble and gloves are untouched (Ch11 and Ch14 use them).
+
+**The merge:** Fable's draft is used whole. Its attendant beat is its own paragraph right before the turn. Opus put it mid-paragraph, and repeated "marked for removal" and "struck you off" back to back.
+
+**Blind comparison** (A = current, B = combined):
+
+| Reviewer | A | B | Would send |
+|---|---|---|---|
+| Sonnet | 8 | **8.5** | B |
+| Haiku | 7.5 | **8** | B |
+
+**Not taken:**
+- Both reviewers would still like one more thought at the door, so the turn reads as an active choice with a visible price. The editor asked only for the attendant beat. It's a possible one-line follow-up.
+
+**Round 3 adopted (2026-10-20):** the author approved it. `r3-candidate.md` is now the live chapter, and the `.docx` has been regenerated and checked.
