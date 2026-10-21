@@ -12,7 +12,7 @@ Gage settled under VARIANCE, Ben under EVENT, Otto under CORRECTION. Daren's THR
 
 "Sorted," Daren said.
 
-The checklists followed, one per console and each shaped to its gana (GUH-nuh): identity confirmed, baseline logged, drone coverage assigned, and on Rohan's screen four short lines about containment and force that someone had cleared before Otto ever reached the gates. Elara came to the last item in Gage's file, *Initiation environment compatible*, and pressed her thumb beneath a conclusion the system had reached about a boy it hadn't known where to put five minutes earlier.
+The checklists followed, one per console and each shaped to its gana: identity confirmed, baseline logged, drone coverage assigned, and on Rohan's screen four short lines about containment and force that someone had cleared before Otto ever reached the gates. Elara came to the last item in Gage's file, *Initiation environment compatible*, and pressed her thumb beneath a conclusion the system had reached about a boy it hadn't known where to put five minutes earlier.
 
 The gates opened below.
 
@@ -108,7 +108,7 @@ Teresa had been her best friend since the morning a five-year-old Elara walked h
 
 Years later it was still happening. The evening after a transfusion that was supposed to buy her a good week, Teresa closed her fingers around a cup of water and couldn't bring it off the table. Elara reached across and steadied it. Teresa looked at her over the rim with gratitude and fear and something underneath both that was already letting go.
 
-At fifteen Elara had stowed away alone in a freight pod with a notebook against her chest: everything the Ramayana (rah-MAH-yuh-nuh) said about Sanjeevani (sun-JEE-vuh-nee), the herb that brought the dying back, copied from the scriptures in her father's cabinet. Three days on the ground by herself, and no mountain and no herb. Teresa died on Elara's second night on the ground, in a hospital bed in Trinity-1, and the last word she said was *Elara*, to a room with nobody in it who answered to it.
+At fifteen Elara had stowed away alone in a freight pod with a notebook against her chest: everything the Ramayana said about Sanjeevani, the herb that brought the dying back, copied from the scriptures in her father's cabinet. Three days on the ground by herself, and no mountain and no herb. Teresa died on Elara's second night on the ground, in a hospital bed in Trinity-1, and the last word she said was *Elara*, to a room with nobody in it who answered to it.
 
 Elara changed the category to cooperative compensation. The system held the phrase for less than a second before a red notation replaced it, calling her interpretation interference.
 

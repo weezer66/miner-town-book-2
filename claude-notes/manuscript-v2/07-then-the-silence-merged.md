@@ -48,7 +48,7 @@ The seal closed between them.
 
 She dressed without the full lights. Uniform. Collar. Seal. She rehearsed the words she could use: procedural judgment, incomplete evidence, candidate safety.
 
-Her father, Vishnu (VISH-noo), had never let her think of karma (KUHR-muh) as a court waiting with a sentence. Karma, he said, was the shape a choice makes after it leaves the person who made it. Hers had left her at an unattended terminal in the sub-tier vaults, and it had been travelling ever since.
+Her father, Vishnu, had never let her think of karma as a court waiting with a sentence. Karma, he said, was the shape a choice makes after it leaves the person who made it. Hers had left her at an unattended terminal in the sub-tier vaults, and it had been travelling ever since.
 
 At seven the collar clasp missed. Her fingernail caught on the metal edge and bent back.
 
@@ -60,15 +60,15 @@ Its hinge was worn bright where a dead man's thumb had worked it, and one thumbs
 
 She walked on.
 
-The corridor narrowed before it ended and opened into the conference wing, where the rooms still kept the shape of the gurukul (goo-ROO-kool). In one, two students were restoring a damaged painting, and their mentor guided the angle of a brush with two fingers laid on the back of a hand, and said nothing at all.
+The corridor narrowed before it ended and opened into the conference wing, where the rooms still kept the shape of the gurukul. In one, two students were restoring a damaged painting, and their mentor guided the angle of a brush with two fingers laid on the back of a hand, and said nothing at all.
 
 The conference room waited at the end of the wing behind a door of clear glass, the committee's shapes already seated on the other side.
 
-She stepped in, and relief hit her so hard her shoulders dropped. Two of the faces at the long table were hers. Elder Anandi (ah-NUN-dee), whose lectures on observational ethics had shaped her first year. Mentor Kavik, the quiet mathematician who had taught her to separate pattern from impulse, his left thumb stained with ink to the first knuckle, as it had always been. For one breath she believed they would understand.
+She stepped in, and relief hit her so hard her shoulders dropped. Two of the faces at the long table were hers. Elder Anandi, whose lectures on observational ethics had shaped her first year. Mentor Kavik, the quiet mathematician who had taught her to separate pattern from impulse, his left thumb stained with ink to the first knuckle, as it had always been. For one breath she believed they would understand.
 
 Then the room widened beyond them.
 
-Three strangers sat nearest the center of the table. The first wore a long plain robe of saffron and ash, a strange choice in a house that had always insisted learning must not be governed by doctrine. His right wrist rested on the wood, and the cuff of his sleeve was threaded with seven small stones in a narrow line. Four for the Vedas (VAY-duhz), Elara remembered, three for interpretation, silence and living transmission.
+Three strangers sat nearest the center of the table. The first wore a long plain robe of saffron and ash, a strange choice in a house that had always insisted learning must not be governed by doctrine. His right wrist rested on the wood, and the cuff of his sleeve was threaded with seven small stones in a narrow line. Four for the Vedas, Elara remembered, three for interpretation, silence and living transmission.
 
 Beside him, a woman held a deck of cards older than manufacture, thick and hand-beveled, one corner mended with a single stitch of thread. She shuffled them out of habit, without ceremony, as another teacher might roll a pencil.
 
@@ -116,23 +116,23 @@ The seer squared the deck and spread it across the table in a long, uneven fan, 
 
 *Why?* It rose at once and stopped behind Elara's teeth. Only the questions the council had devised were hers to take up.
 
-Draṣṭā (DRUSH-tah) looked at her and smiled faintly, as if she had heard the question cross the table without being spoken. She offered no answer. She waited.
+Draṣṭā looked at her and smiled faintly, as if she had heard the question cross the table without being spoken. She offered no answer. She waited.
 
 If the news was as grave as the summons made it, the danger already existed. A card would not create it, and refusing one would not cancel it. Elara reached for the first card in the fan.
 
-Draṣṭā turned it over. A king hung between a dark sky and the curve of the earth, neither rising nor falling. *Trishanku* (trih-SHUNG-koo).
+Draṣṭā turned it over. A king hung between a dark sky and the curve of the earth, neither rising nor falling. *Trishanku.*
 
 "Hung between categories," Draṣṭā said. "Refused by heaven and by the earth."
 
 "The second."
 
-A warrior beneath a ruined sky, his weapon lowered but not surrendered. *Ashwatthama* (ush-vut-THAH-mah).
+A warrior beneath a ruined sky, his weapon lowered but not surrendered. *Ashwatthama.*
 
 "A conflict that cannot end," Draṣṭā said. "He is the son of Drona. You have drawn a son, and a father's house."
 
 "The last."
 
-A severed head rose against a darkened sun, its mouth open on the light. *Rahu* (RAH-hoo).
+A severed head rose against a darkened sun, its mouth open on the light. *Rahu.*
 
 "The danger that keeps returning. He drank the stolen nectar, and the god Vishnu cut him in two before it went down, and he has chased the sun ever since." Draṣṭā laid her fingertip beside the name. "The old word for him is *graha*. That which seizes."
 
@@ -140,7 +140,7 @@ She left the three cards face up and said nothing about what any of them meant t
 
 "Prepare while preparation is still possible," Draṣṭā said.
 
-Sarvajña (suhr-VUG-yuh) leaned forward. The stones at his cuff touched the wood with a dry click. He took a single printed sheet from inside his robe and slid it across the table to her.
+Sarvajña leaned forward. The stones at his cuff touched the wood with a dry click. He took a single printed sheet from inside his robe and slid it across the table to her.
 
 It was a transfer authorization. A new wing for the Drona library, approved through every internal review, carried to Kubera's treasury nine days ago. The amount. The seals. And across the release field, in Kubera's matte gold, one word: FROZEN.
 

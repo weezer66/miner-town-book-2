@@ -48,7 +48,7 @@ The players' enclosure stood half a level above it, open toward the arena, one t
 
 The far doors opened without announcement, and the elders rose together.
 
-Within the house he was the Arthashastri (uhr-thuh-SHAHS-tree), master of the old science of statecraft that had given the gana its name. Ravi stood and bowed with one hand over his heart. The Grandmaster answered with a slight inclination of the head, half acknowledgment and half assessment, and took the far chair.
+Within the house he was the Arthashastri, master of the old science of statecraft that had given the gana its name. Ravi stood and bowed with one hand over his heart. The Grandmaster answered with a slight inclination of the head, half acknowledgment and half assessment, and took the far chair.
 
 He was smaller than Ravi had expected. His hair was silver-white, pulled back at the nape, his face narrow, his mouth almost gentle until he looked straight at a person. He wore a plain green robe edged in black script so fine the hem seemed to carry arguments. His eyes landed on Ravi and stayed, with none of the searching in between, and Ravi felt himself sorted: ambition, fear, patience, pride, waiting to see which would move first.
 

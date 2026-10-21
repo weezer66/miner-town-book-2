@@ -48,7 +48,7 @@ Whose they were, he didn't know. They were his. He was sure of that as he was su
 
 The shed had smelled of rust and of the old man's tea, which was made of something that wasn't tea and left a skin on the cup. Otto had been six, and then seven, and small for both.
 
-"Again," Shu Chan (SHOO CHAHN) said.
+"Again," Shu Chan said.
 
 Otto breathed. In through the nose, down past the belly, down into the boards. Out slow.
 
@@ -102,6 +102,6 @@ Then the pull in his arms again, someone far off asking him to lift.
 
 He lifted. He set it down.
 
-Somewhere in the blue, near where his hands would be if he could find them, the word was waiting. *Kalinga* (kuh-LING-guh). It lay there like an eleventh stone, the one nobody had shown him how to hold, and he couldn't get his fingers under it.
+Somewhere in the blue, near where his hands would be if he could find them, the word was waiting. *Kalinga.* It lay there like an eleventh stone, the one nobody had shown him how to hold, and he couldn't get his fingers under it.
 
 He hadn't stopped trying.

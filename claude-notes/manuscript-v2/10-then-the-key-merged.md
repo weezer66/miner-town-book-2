@@ -80,7 +80,7 @@ He looked at the bottom of the page first.
 
 *Elara Nathan, Drona*
 
-The decision had been made before he reached the end. No order required it, and he didn't look for one. He had given his word with three ganas watching, because he had seen a monitor hold the line for three boys who were holding it for each other, and then seen the room turn on her for it. He had said eight words and walked away before she could ask their price, because the price was his to pay. A word did not expire because keeping it had become inconvenient. Ashoka had a name for the duty that stood above the chain of command. It called it Dhamma (DHUM-muh), and he had learned the word before he could spell it.
+The decision had been made before he reached the end. No order required it, and he didn't look for one. He had given his word with three ganas watching, because he had seen a monitor hold the line for three boys who were holding it for each other, and then seen the room turn on her for it. He had said eight words and walked away before she could ask their price, because the price was his to pay. A word did not expire because keeping it had become inconvenient. Ashoka had a name for the duty that stood above the chain of command. It called it Dhamma, and he had learned the word before he could spell it.
 
 The letter told him more than its sentences did. She had chosen paper, a public room, and a procedural reason that would survive any inspection. She had counted every risk before she picked up the pen, and she had picked it up anyway.
 
