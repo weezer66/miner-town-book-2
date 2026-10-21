@@ -4,7 +4,7 @@
 
 — Book 1, Chapter 5: The Lottery
 
-## Then: Days One to Three
+## Then: Days Zero to Three
 
 The three names stopped flashing.
 
@@ -161,6 +161,8 @@ She was. She typed that separation might increase individual failure risk, and t
 INTERPRETIVE DEVIATION DETECTED.
 
 At the top of her screen, beside her own name, her operator status changed to *under review*. Nobody in the room said anything. Daren's pen tapped twice on the printed manual and stopped.
+
+On her wrist, the conduct note from the first morning still sat unopened, *Pending review*, and now it had company.
 
 ---
 

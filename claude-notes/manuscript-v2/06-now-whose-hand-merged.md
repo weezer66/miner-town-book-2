@@ -88,8 +88,6 @@ Flitzberg looked at him a while, and held up three fingers.
 
 Three props, none of them good timber, each one leaning on the other two. Gage had seen galleries held up like that. He'd seen what happened when somebody kicked the wrong one.
 
-He didn't say any of that. He kept it.
-
 ---
 
 Flitzberg sat down. Gage noticed, because the man had stood for everything else.
@@ -100,7 +98,7 @@ Flitzberg sat down. Gage noticed, because the man had stood for everything else.
 
 "Then you go home, with a story that holds. No punishment. No debt. You go back to the shift bells and you say nothing, because you will have given your word and no one would believe you. And you will be watched. Kindly. For the rest of your lives."
 
-"And Otto?" Ben said.
+"And Otto?" Gage said.
 
 "Goes with you. The tank stays here."
 
@@ -110,11 +108,11 @@ Camilla went still beside Gage. She was the one who had said it, the first night
 
 Flitzberg didn't answer straight away. Gage got the sense nobody had ever asked.
 
-"Forty years ago, a man sat in that chair and said no. He went home. He worked the seams for thirty-one years, raised two children, and died of what miners die of. He never spoke. When they buried him, two of our people stood at the back. He never knew their names. They put flowers on the grave." He folded his hands. "That is what watched looks like, at the end."
-
-Nobody said anything.
+"Forty years ago, a man sat in that chair and said no. He went home. He worked the seams for thirty-one years, raised two children, and died of what miners die of. He never spoke. When they buried him, two of our people stood at the back. He never knew their names. They put flowers on the grave." He folded his hands.
 
 Gage thought about flowers. He'd never seen one outside Pappy's stories.
+
+Gage looked at Camilla. She lifted the metal hand an inch and let it drop. Ben was watching the door. Nobody said yes.
 
 "Two things," Gage said.
 
@@ -144,7 +142,7 @@ Camilla held Flitzberg's eyes for a long time. The metal fingers lay open on the
 
 "Then I build a second one," she said. "In my workshop. And mine answers first."
 
-"There is a workshop two levels down. Third door. It has been waiting for someone like you for longer than you have been alive." He looked at the three of them in turn, and last at her. "Yes. Accepted."
+"There is a workshop two levels down. Third door. It has been waiting for someone like you for longer than you have been alive." He looked at the three of them in turn, and last at her. "Yes. Accepted. Awake, yours answers first."
 
 ---
 
@@ -166,15 +164,15 @@ Gage's hand left his knee. He didn't send it. It went to his chest, to the place
 
 Gage watched him for the lie and didn't find one.
 
-Gage looked at Camilla.
+He looked at Camilla.
 
 She was already looking at him. Back home, over a copper tag on his palm, she'd told him numbers belonged to positions, not people. He'd taken it as a comfort, the only kind she had to give. Now he watched it land in her face the same time it landed in his. Somebody else had known the rule, and used it, and reached down through all those positions to put a dead man's number on the one boy who would carry it.
 
 Her metal hand lay still on the table. Then it closed, half a breath late.
 
----
+Nobody said anything. Flitzberg let them not say it.
 
-"Now," Flitzberg said. "What this office wants of you."
+"Now," he said. "What this office wants of you."
 
 He reached under the table and set a flat wooden box in front of Gage and slid the lid off. Inside: splinters. Matchsticks, the long kind. Offcuts of pale wood thin as a fingernail. A pot of glue with a brush stuck in it, and a lump of grey clay.
 
@@ -228,7 +226,7 @@ Camilla's breath went out of her. Gage felt it beside him more than he heard it.
 
 "There is." Flitzberg didn't look away from her. "This office can close the valves. It cannot see the wall. Our instruments end where Trinity's do, and Trinity does not instrument rock. Someone will need to be at the junction, to tell us when the blow has landed and when to strike again. Someone may have to be in the tunnel the water claims first."
 
-Camilla's metal hand had found the edge of the table. Gage heard the wood go before he looked: a small dry tick, and when she lifted her fingers there were four pale dents in the grain. Her face had already gone white a heartbeat before that.
+Camilla's metal hand had found the edge of the table. Gage heard the wood go before he looked: a small dry tick, and when she lifted her fingers there were four pale dents in the grain. Her face had gone white first.
 
 "Not him," she said, and she was looking at Gage.
 
