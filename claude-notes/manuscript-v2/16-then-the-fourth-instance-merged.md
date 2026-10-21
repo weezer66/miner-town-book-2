@@ -28,7 +28,7 @@ Rohan had brought four people, and no true names.
 
 Grey fatigues, no insignia, no rank on any collar. A young woman sat at the far end of the table with her back to the room and her face to the wall, copying it. The wall held three handwritten panels, and she was copying them onto a pad in pencil, small and level, never looking down at her hand. In the top corner of the page she had written the date and the hour. Older sheets lay stacked at her elbow, each dated the same way.
 
-"Nayan" (NUH-yun), Rohan said. "The eye."
+"Nayan," Rohan said. "The eye."
 
 "Morning." The pencil didn't stop. "I copy what I read. Dated. When a record changes overnight, I can prove it was ever different. I've got dated copies of all four houses' public books. Six years back. Nobody's ever asked me to lay them side by side." She turned the page.
 
@@ -36,11 +36,11 @@ Rohan was already looking at the door.
 
 A lean, weathered man stood against it with his palm flat on the seam where door met frame, moving his hand down a finger's width at a time, the way a physician reads a ribcage. He had a climber's hands, thick at the knuckle, two fingertips calloused flat and shiny. Something in his trouser pocket clicked when he shifted his weight, and inside his coat, where it fell open, a pencil stub rode against a notebook gone soft at the corners.
 
-"Baju (BAH-joo). The arm."
+"Baju. The arm."
 
-"Seal's good." Baju took his hand off the door and wiped it on his trousers, though there was nothing on it. "Field work. Doors, lifts, platforms. I walk what the logs say was walked, and I count." He patted the pocket. It clicked again. "Machines can be told what to remember. Floors cannot be told what to remember."
+"Seal's good." Baju (BAH-joo) took his hand off the door and wiped it on his trousers, though there was nothing on it. "Field work. Doors, lifts, platforms. I walk what the logs say was walked, and I count." He patted the pocket. It clicked again. "Machines can be told what to remember. Floors cannot be told what to remember."
 
-"And Kaan" (KAHN), Rohan said. "The ear."
+"And Kaan," Rohan said. "The ear."
 
 He nodded at the corner beside the locker, and there was a man in it.
 
@@ -48,15 +48,15 @@ Elara had set her pad down within an arm's length of him, and her eyes had gone 
 
 "He takes up a cover posting tomorrow," Rohan said. "Even I'll know only which building. He asks no questions. He receives."
 
-Kaan said nothing, and went on saying it.
+Kaan (KAHN) said nothing, and went on saying it.
 
 The last of them had his chair tipped back on two legs and his boots crossed at the ankle. He was broad and open-faced, with a market trader's ease, and he sat in the dead room as if it were his stall on a slow afternoon.
 
-"And before you ask," he said, before Rohan could, "I don't know him. Nobody does. There's a story going round the canteens this week about an ear who stood forty minutes in a tea queue and came out knowing which cook was watering the dal (DAHL). I may have started it." He tipped his chin at Kaan. "Jeebh (JEEBH). The tongue. I'm the one who talks."
+"And before you ask," he said, before Rohan could, "I don't know him. Nobody does. There's a story going round the canteens this week about an ear who stood forty minutes in a tea queue and came out knowing which cook was watering the dal. I may have started it." He tipped his chin at Kaan. "Jeebh. The tongue. I'm the one who talks."
 
 Baju let out one breath through his nose, which Elara would come to understand was his laugh. Something in the air let out a notch.
 
-"I keep us invisible," Jeebh said, "by keeping the city bored. It's a gift. My mother said so, at length."
+"I keep us invisible," Jeebh (JEEBH) said, "by keeping the city bored. It's a gift. My mother said so, at length."
 
 "They don't know each other's true names," Rohan said. "Or their units. To each other they're the eye, the arm, the ear and the tongue. If one of them is caught, or turned, the other three stay strangers to whoever's holding him. No one can surrender what they were never given."
 
@@ -84,13 +84,13 @@ The transfer that had doubled in flight, which no one had requested and no one h
 
 "Direction," Elara said. She had waited days to say it to people who would check her instead of comfort her. "An error has no direction. These all lean the same way. Every one moves capability toward a point we can't see. Money, access, reach. And every one is dressed as something ordinary. The acts are designed to be found one at a time."
 
-Nayan spoke without looking up from her copy. "Then the pattern is the evidence. Only shows side by side. Whoever built them is counting on the houses never putting their records in one room."
+Nayan (NUH-yun) spoke without looking up from her copy. "Then the pattern is the evidence. Only shows side by side. Whoever built them is counting on the houses never putting their records in one room."
 
 "The houses have never put their records in one room," Rohan said.
 
 "No," Elara said. "That is what this room is for."
 
-She had brought her own instrument to the work. The Sākṣī mirrors were witness copies, duplicates of the city's records written into a separate archive by hands that had no part in making the originals. A record could be altered. Its mirror, held somewhere else by someone else, remembered what it used to say. Anandi had taught her to read them.
+She had brought her own instrument to the work. The Sākṣī (SAHK-shee) mirrors were witness copies, duplicates of the city's records written into a separate archive by hands that had no part in making the originals. A record could be altered. Its mirror, held somewhere else by someone else, remembered what it used to say. Anandi had taught her to read them.
 
 Since the Initiation she had been watching one narrow band: cross-house allocations, the entries where one gana's money paid for another gana's wants. This hand gave before it took. So she watched for gifts arriving where no gift had ever gone. Generosity had become her tripwire.
 

@@ -238,7 +238,7 @@ Rohan looked up. "Claudia?"
 
 His mind went first to strategists and commanders, then arrived at a purple belt retied in the middle of a mat. Vayun had never met her. He hadn't been in the dojo. His eyes brightened, following the whole path of Rohan's thought.
 
-"She will grow into a great Ashoka representative one day," he said. "Such clarity at so tender an age is rare. Rarer still is the blessing of being guided by a master like Rohan as her sensei" (SEN-say).
+"She will grow into a great Ashoka representative one day," he said. "Such clarity at so tender an age is rare. Rarer still is the blessing of being guided by a master like Rohan as her sensei."
 
 Heat climbed Rohan's neck. He lowered his eyes to the rice and kept them there.
 

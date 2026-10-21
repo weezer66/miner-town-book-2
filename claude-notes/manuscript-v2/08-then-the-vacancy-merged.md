@@ -199,7 +199,7 @@ Kavik studied the denial. "Your authority is sufficient. It is your grammar it o
 
 "Around."
 
-"The Sākṣī (SAHK-shee) path," Anandi said.
+"The Sākṣī path," Anandi said.
 
 Elara knew the name from training exercises and nowhere else. The witness path: the original Drona filing convention, under which every record wrote a mirrored copy of itself in parallel, kept apart from the hands that made the first. It had dropped out of the interface generations ago. No one had ever decommissioned it.
 

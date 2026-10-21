@@ -98,9 +98,9 @@ The meaning had stirred in Elara before Kavik reached it, somewhere at the back 
 
 This time Kavik didn't translate, and didn't need to. *First, honor the teachers at this table. Let them name themselves.*
 
-The man in the saffron robe spoke first, his voice deep and even. "I am Sarvajña (suhr-VUG-yuh), the all-knowing. I keep Drona steady upon its three pillars: knowledge, disciplined inquiry, and the duty to serve truth before power."
+The man in the saffron robe spoke first, his voice deep and even. "I am Sarvajña, the all-knowing. I keep Drona steady upon its three pillars: knowledge, disciplined inquiry, and the duty to serve truth before power."
 
-"I am Draṣṭā (DRUSH-tah), the seer," said the woman with the cards. There was nothing theatrical in it. "My duty is to know the three times: the past, the present, and the future. Nothing is certain, and I do not pretend otherwise."
+"I am Draṣṭā, the seer," said the woman with the cards. There was nothing theatrical in it. "My duty is to know the three times: the past, the present, and the future. Nothing is certain, and I do not pretend otherwise."
 
 The woman at the end of the table waited until the room had settled around her.
 
@@ -116,7 +116,7 @@ The seer squared the deck and spread it across the table in a long, uneven fan, 
 
 *Why?* It rose at once and stopped behind Elara's teeth. Only the questions the council had devised were hers to take up.
 
-Draṣṭā looked at her and smiled faintly, as if she had heard the question cross the table without being spoken. She offered no answer. She waited.
+Draṣṭā (DRUSH-tah) looked at her and smiled faintly, as if she had heard the question cross the table without being spoken. She offered no answer. She waited.
 
 If the news was as grave as the summons made it, the danger already existed. A card would not create it, and refusing one would not cancel it. Elara reached for the first card in the fan.
 
@@ -134,13 +134,13 @@ A warrior beneath a ruined sky, his weapon lowered but not surrendered. *Ashwatt
 
 A severed head rose against a darkened sun, its mouth open on the light. *Rahu* (RAH-hoo).
 
-"The danger that keeps returning. He drank the stolen nectar, and the god Vishnu cut him in two before it went down, and he has chased the sun ever since." Draṣṭā laid her fingertip beside the name. "The old word for him is *graha* (GRUH-huh). That which seizes."
+"The danger that keeps returning. He drank the stolen nectar, and the god Vishnu cut him in two before it went down, and he has chased the sun ever since." Draṣṭā laid her fingertip beside the name. "The old word for him is *graha*. That which seizes."
 
 She left the three cards face up and said nothing about what any of them meant to Elara, and Elara found she couldn't stop looking at the second.
 
 "Prepare while preparation is still possible," Draṣṭā said.
 
-Sarvajña leaned forward. The stones at his cuff touched the wood with a dry click. He took a single printed sheet from inside his robe and slid it across the table to her.
+Sarvajña (suhr-VUG-yuh) leaned forward. The stones at his cuff touched the wood with a dry click. He took a single printed sheet from inside his robe and slid it across the table to her.
 
 It was a transfer authorization. A new wing for the Drona library, approved through every internal review, carried to Kubera's treasury nine days ago. The amount. The seals. And across the release field, in Kubera's matte gold, one word: FROZEN.
 

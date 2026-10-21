@@ -49,6 +49,6 @@ Generated with the Indic Respelling Checker (`manuscript/Indic Respelling Checke
 | kimono |  | hand-written | kih-MOH-noh |  |
 | dojo |  | hand-written | DOH-joh |  |
 
-**Placement:** in narration, right after the word. When the word ends a spoken phrase, the guide goes outside the closing quote (`"Nayan" (NUH-yun), Rohan said.`). A possessive keeps its 's before the bracket (`Drona's (DROH-nuh)`). Epigraphs and headings are skipped.
+**Placement (author decision, 2026-10-20):** at the word's first mention in narration, right after the word, never inside dialogue. A speech tag counts as narration (`"Again," Shu Chan (SHOO CHAHN) said.`). A possessive keeps its 's before the bracket (`Drona's (DROH-nuh)`). Epigraphs and headings are skipped. Words that are only ever spoken (Patal Loka, graha, dal, sensei) get no inline guide. Every word is on the front-matter page, `00-names-and-pronunciation.md`. Run `claude-notes/tools/pronounce.js` to re-apply.
 
 **Left out (say if you want them):** Leonidas (standard English form); Kavik, Tavi, Niko, Sen, Jung, Flitzberg (invented or uncertain origin); English-usable names (Gretchen, Rosa, Teresa, Claudia, Otto, Camilla); the Tamil line in ch5, which is printed in Tamil script.
