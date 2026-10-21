@@ -152,7 +152,7 @@ He didn't move on. He sat with his hands folded.
 
 Gage's hand left his knee. He didn't send it. It went to his chest, to the place under his collarbone where the tag had hung on its cord every day since intake, and found clean cloth there instead, and stayed anyway, flat, pressing.
 
-"The mine gives out numbers blind. Your father's slot should not have been open. A dead man's number is held until an inspection closes it, and that takes weeks. It closed in the minute you reached the head of the line. The minute. I have seen the record. Someone above you arranged it, so well that the clerk who stamped you will never know he was anyone's instrument."
+"The mine gives out numbers blind. Your father's slot should not have been open. A dead man's number is held until an inspection closes it. His had sat untouched for two years. It closed in the minute you reached the head of the line. The minute. I have seen the record. Someone above you arranged it, so well that the clerk who stamped you will never know he was anyone's instrument."
 
 "Who?" It came out flat. He hadn't meant it to come out at all.
 
