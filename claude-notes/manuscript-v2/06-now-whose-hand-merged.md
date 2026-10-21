@@ -112,7 +112,7 @@ Flitzberg didn't answer straight away. Gage got the sense nobody had ever asked.
 
 Gage thought about flowers. He'd never seen one outside Pappy's stories.
 
-Gage looked at Camilla. She lifted the metal hand an inch and let it drop. Ben was watching the door. Nobody said yes.
+He looked at Camilla. She lifted the metal hand an inch and let it drop. Ben was watching the door. Nobody said yes.
 
 "Two things," Gage said.
 
@@ -248,7 +248,7 @@ Ben's chair scraped. "Wait. Back up." He was looking at Flitzberg, and his voice
 
 "For a riot. Not for rock."
 
-"Somebody always pays," Ben said. "Somebody had to pay." He swallowed. "Gretchen's at the gates every morning. If you're wrong, it's her door."
+"Somebody had to pay," Ben said. "You said that last night." He swallowed. "Gretchen's at the gates every morning. If you're wrong, it's her door."
 
 "Then I must not be wrong," Flitzberg said. "And you will watch me, and tell me if I am."
 
