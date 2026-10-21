@@ -20,13 +20,13 @@ She knew the sensation from the council chamber: the Ancient One's hand rising, 
 
 The ventilation grille above the door ticked as it cooled, a small dry sound like a fingernail tapped on a tooth. She counted the ticks until her lungs agreed to the count.
 
-Sarvajña's voice came back first. *Something indescribable has begun to form beneath the scales.*
+Sarvajña's voice came back first. *Something is moving inside Kubera with no name and no office on it.*
 
 Then Draṣṭā's cards, turned one by one on the dark wood. Trishanku, hung between categories. Ashwatthama, a conflict that could not end. Rahu, the danger that kept returning.
 
-*Prepare while preparation is still possible.*
+Draṣṭā had left them face up and said nothing about what any of them meant, and Elara's eyes had kept going back to the second.
 
-Prepare for what, she still didn't know. It had a shape now, two letters wide, and Drona could carry her no closer to whatever stood behind it.
+What they pointed at, she still didn't know. It had a shape now, two letters wide, and Drona could carry her no closer to whatever stood behind it.
 
 She pulled her knees up and locked her arms around them. As a girl she had drilled herself on the difference between a weight she could act on and a weight she could only carry, the way other children drilled multiplication. Her jacket hung on the back of the door with one sleeve still inside out. She looked at it for a long time and could not sort tonight into either column.
 
