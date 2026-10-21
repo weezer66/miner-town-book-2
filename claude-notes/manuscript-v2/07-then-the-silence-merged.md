@@ -144,9 +144,9 @@ Sarvajña leaned forward. The stones at his cuff touched the wood with a dry cli
 
 It was a transfer authorization. A new wing for the Drona library, approved through every internal review, carried to Kubera's treasury nine days ago. The amount. The seals. And across the release field, in Kubera's matte gold, one word: FROZEN.
 
-"Nine days," Sarvajña said. "Before your Initiation began. Something is moving inside Kubera with no name and no office on it, and that is the first place it touched us. Nothing moves in that house without the Grandmaster's hand." His thumb turned one of the stones. "Daren of Kubera sat THRESHOLD at your station and failed in front of the other houses. His name has since come off Kubera's rolls."
+"Nine days," Sarvajña said. "Before your Initiation began. Something is moving inside Kubera with no name and no office on it, and that is the first place it touched us. Nothing moves in that house without the Grandmaster's hand." His thumb turned one of the stones. "Daren of Kubera sat THRESHOLD beside you and failed in front of the other houses. His name has since come off Kubera's rolls."
 
-Daren's chair at THRESHOLD. His pen tapping twice on the printed manual. Elara's thumb went to the raw hangnail on her left hand and pressed until it stung.
+Daren's chair. His pen tapping twice on the printed manual. Elara's thumb went to the raw hangnail on her left hand and pressed until it stung.
 
 "Kubera does not record its humiliations as accidents," Sarvajña said. "When it answers this one, it will start where its representative failed. At your console."
 
@@ -190,7 +190,7 @@ Anandi's head came up. Her hand went out across the wood toward Elara's and stop
 
 "That is a monitor under review asking to audit her own review," Anandi said. "When Kubera comes for that struck line, it will come for this as well."
 
-"It's a monitor asking to read what's said about the people she answers for. You just told me I answer for them."
+"It's a monitor asking to read what's said about the people she answers for. This table just told me I answer for them."
 
 Draṣṭā laughed, once, under her breath.
 
