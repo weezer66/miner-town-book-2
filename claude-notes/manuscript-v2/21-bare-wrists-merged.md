@@ -150,11 +150,11 @@ The recess was where the corridor turned toward the lift, a bay meant for a cart
 
 There, they unclasped their terminals.
 
-Elara had taken hers off before, to wash, to sleep, in the dead room's locker. She had never once walked out of a door without it. Not since a Drona clerk had fastened the first one on a child's arm and told her it would keep her safe. The band had been changed a dozen times since, for size and then for age, and the child's wrist had grown into a woman's, and in all that time the city had never lost sight of it. The skin underneath was pale and faintly ridged where the clasp sat. She switched the terminal off and put it in her coat pocket.
+Elara had taken hers off before, to wash, to sleep, in the dead room's locker. She had never once walked out of a door without it. Not since a Drona clerk had fastened the first one on a child's arm and told her it would keep her safe. The band had been changed a dozen times since, for size and then for age, and the child's wrist had grown into a woman's. The skin underneath was pale and faintly ridged where the clasp sat. She switched the terminal off and put it in her coat pocket.
 
 Rohan did the same. The quiet came at once.
 
-It was their own quiet, and she hadn't known it was there to lose. So much of her attention had lived in the small weight on her wrist: the pulses she didn't notice noticing, the faint warmth when a message landed, the sense, steady as breathing, of being inside a conversation with the city. The city had stopped talking to her. She stood in the recess with one other person, and that was all.
+It was their own quiet. She'd had twelve seconds of it in a doorway every morning, awake, and never more. So much of her attention had lived in the small weight on her wrist: the pulses she didn't notice noticing, the faint warmth when a message landed, the sense, steady as breathing, of being inside a conversation with the city. The city had stopped talking to her. She stood in the recess with one other person, and that was all.
 
 "It feels like going deaf," she said.
 

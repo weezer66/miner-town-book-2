@@ -220,7 +220,7 @@ The service stair's gate. It had taken her code and written it down, and Anandi 
 
 The Ancient One read it without touching it.
 
-"I sat beside him for three days. I know him. But a face in bad light and a blank in a register are two things, and I can't make them one." Elara kept her hands flat on the wood. "Nothing here goes in front of a council."
+"I sat across the grid from him for three days. I know him. But a face in bad light and a blank in a register are two things, and I can't make them one." Elara kept her hands flat on the wood. "Nothing here goes in front of a council."
 
 "Good," the Ancient One said. "Do not turn recognition into proof."
 
