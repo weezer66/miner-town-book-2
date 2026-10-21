@@ -12,13 +12,9 @@ Camilla checked before she checked anything else. She put her good hand on it, p
 
 Then she turned round and looked.
 
-The room was long and low, and it smelled of oil that had gone still. Benches ran down both sides under grey dust sheets tucked at the corners like beds, and the cloth had settled into the shapes beneath it the way snow settles on scrap: a vice, the hump of a drill press, something tall and round that might be a lathe. A sink with a brass tap gone green at the neck. Along the far wall somebody had painted outlines, white on green, one for every tool, and the tools hung in them. Wrenches by size, a staircase of them. A horseshoe magnet, red paint flaking off the bend.
+The room was long and low, and it smelled of oil that had gone still. Benches ran down both sides under grey dust sheets tucked at the corners, and the cloth had settled into the shapes beneath it: a vice, the hump of a drill press, something tall and round that might be a lathe. A sink with a brass tap gone green at the neck. Along the far wall somebody had painted outlines, white on green, one for every tool, and the tools hung in them. Wrenches by size, a staircase of them. A horseshoe magnet, red paint flaking off the bend.
 
 She counted. Sixty-one shapes. Sixty tools.
-
-The empty one hung at shoulder height between a mallet and a pair of tin snips: a long shaft with a hook at one end and a ring at the other, like a key for a lock the size of a door. The paint inside it was a shade whiter than the paint around it. Whatever had hung there had hung there long enough to keep the dust off, and then gone, and the hook under it was still out, waiting.
-
-She didn't know the tool. She knew most tools. She put the shape away in the place where she kept things she'd come back for.
 
 Gage had to duck the lintel. He'd already pulled the cloth off the far bench and set the flat wooden box on it, and his hands were in the matchsticks before the lid was off. Nobody asked.
 
@@ -34,7 +30,7 @@ Books. Forty, maybe, lying on their sides. Grey cloth over board, a number stamp
 
 Camilla stopped walking.
 
-She had learned to read off those spines, on the shack floor with Pappy's lamp turned low so Rita wouldn't see the oil going. The same blue stripe that came off on your thumb if you were sweating. She'd thought the blue was something he'd done himself, to mark which ones were his.
+She had learned to read off those spines, on the shack floor with Pappy's lamp turned low so Rita wouldn't see the oil going. The same blue stripe that came off on your thumb if you were sweating.
 
 She pulled one. It opened on its own to a page it had been opened to before: a pump in section, every part lettered. The paper smelled of floorboards.
 
@@ -42,7 +38,7 @@ She pulled one. It opened on its own to a page it had been opened to before: a p
 
 "Cami?" Ben said.
 
-"It's a manual." She slid it back and squared the spine to the others with one finger, so nobody looking would know it had been out. Her good hand stayed on it a while. "It's just a manual."
+"It's a manual." She slid it back and squared the spine to the others with one finger. "It's just a manual."
 
 ---
 
@@ -60,27 +56,31 @@ She looked at the two places. Then at her good hand, which was one hand.
 
 So she did it with the other. She laid the metal arm on the bench, palm up, and brought the metal fingers round until the thumb sat on the inside of its own forearm and the first finger on the outside, and thought about pressing, and half a breath later it pressed.
 
-A seam she hadn't been able to find came open along the whole forearm with a sound like a cold lid lifting. The cover rose a hair and sat. She lifted it off with her right hand and looked in.
+A seam she hadn't been able to find came open along the whole forearm with a small cold sound. The cover rose a hair and sat. She lifted it off with her right hand and looked in.
 
-She'd been ready for wires, the way you're ready for blood when you open a bandage, and the arm hadn't bothered with any. The forearm was a trough of the same grey metal, small dense pistons where the tendons ought to be, and lying along its floor, where the long bones would have been, was something she had to lean in to see at all. A web. Finer than hair, finer than the hair on her arm, grey on grey, so fine she saw it first as a change in the way the light sat and only afterward as lines. It lay in the trough the way frost lies on a window: all over, touching everything, weighing nothing.
+She'd been ready for wires, and the arm hadn't bothered with any. The forearm was a trough of the same grey metal, small dense pistons where the tendons ought to be, and lying along its floor, where the long bones would have been, was something she had to lean in to see at all. A web. Finer than hair, finer than the hair on her arm, grey on grey, so fine she saw it first as a change in the way the light sat and only afterward as lines. It lay in the trough the way frost lies on a window: all over, touching everything, weighing nothing.
 
 It lay exactly where her nerves had been. It branched where they'd branch.
 
 "Close the hand," the engineer said.
 
-The fingers closed on the bench, late. The web didn't move. Only, for the length of the movement, one line of it went a shade darker and then paled again, the way a wet mark pales as it dries.
+The fingers closed on the bench, late. The web didn't move. Only, for the length of the movement, one line of it went a shade darker and then paled again.
 
 "It's not pulling anything."
 
 "No. Each joint has its own small strength, and takes its orders." He tipped his head at the web. "That does not move. That listens. Your shoulder speaks, and this hears it and tells the hand what was said. It is the ear of the thing. The arm is only the arm."
 
-She wanted to touch it worse than she'd wanted to touch anything in her life, and didn't, because he'd said *learn*. The thing in the trough was taking notes.
+"Whose ear?"
+
+He was slow to answer. "The arm's."
+
+She wanted to touch it worse than she'd wanted to touch anything in her life, and didn't, because he'd said *learn*.
 
 An ear. A thing that sat still and heard what the rest of a body was about to do. She thought of a wall a long way down, and of rock that talked before it broke, and she knew what she was going to build with the rest of the bench.
 
 She followed it up to the shoulder. Under the cup it gathered and ran in, thickening into a band the width of her smallest finger, going in toward her, under the seal. And there, on the inside curve of the metal, just before the cup met the seal and became part of her, there was a mark.
 
-A circle, pressed into the metal, and inside the circle something that had once been a shape, rubbed almost flat the way a coin goes smooth in a pocket. The lamp caught a curve going the wrong way for any letter she knew. She tried it upside down.
+A circle, pressed into the metal, and inside the circle something that had once been a shape, rubbed almost flat. The lamp caught a curve going the wrong way for any letter she knew. She tried it upside down.
 
 "Who made this?"
 
@@ -106,7 +106,7 @@ It went on the way it had come off: lay it along the trough, think about the two
 
 Gage had built it again.
 
-He'd built it on the far bench, with his back to the room, and when she came and stood beside him he didn't cover it. Clay basin. Splinter wall, the middle one split a hair with his thumbnail. He'd built it from memory and it was the same to the millimetre, and she knew because she'd moved two of the pieces that morning and he'd put them where she'd moved them.
+He'd built it on the far bench, with his back to the room, and when she came and stood beside him he didn't cover it. Clay basin. Splinter wall, the middle one split a hair with his thumbnail. He'd built it from memory, and she knew because she'd moved two of the pieces that afternoon, and he'd put them back where she'd moved them.
 
 "He said take it apart," she said.
 
@@ -144,6 +144,20 @@ He was at his table with his back to her, drawing on clean white paper, and the 
 
 "Ah." He turned his chair to face her. His own face, the smooth one with the full cheeks; she checked the jaw. "Then you have come about the switch."
 
+"In a minute." She stayed where she was, inside the door. "Gage wants to know where you get flowers. I want to know where Pappy got your manuals."
+
+"Flowers." He did not quite smile. "We grow them. Under lamps. Someone here remembers what they were for."
+
+"And the manuals."
+
+He did not answer straight away. He picked up the pencil and laid it parallel to the paper's edge again, though it had not moved, and his eyes went somewhere past her shoulder, to the shelves or through them.
+
+"Not from me," he said.
+
+She turned that over. *Not from me* wasn't *no*. She put it in the place where she kept things she'd come back for.
+
+"Now," he said. "The switch."
+
 "Is it only the three of you? You, her, and the man who built it?"
 
 "Three people," he said. "The medic who fitted it. The man who built it. And I." He let that stand. "No one above. No house. No one up there has been told that it exists, and none will be. The medic gave you a door she would not swear to. I am the door. There is no one behind me."
@@ -162,7 +176,7 @@ She thought about the web, finer than hair, going in under the seal.
 
 "No," he said. "Then you will have to work harder than I would have liked."
 
-"I already am." She touched her collar, where a cord she'd knotted that morning held a pin no longer than her little finger, cut from a tray of the arm's spare parts, one end filed to fit the seam below the elbow. "Mine. It doesn't work yet."
+"I already am." She touched her collar, where a cord she'd knotted an hour ago held a pin no longer than her little finger, cut from a tray of the arm's spare parts, one end filed to the inside point below the elbow. "Mine. It doesn't work yet."
 
 He looked at the cord and not at the pin. "Then it does not lie yet either."
 
@@ -178,7 +192,7 @@ He set them out in a row on the drawing.
 
 "Why them?"
 
-He looked at the four small figures, and his manufactured calm did not change at all, and that was the worst of it.
+He looked at the four small figures. Nothing in his face moved.
 
 "I keep the faces of people this office owes," he said. "It is a short collection, and it grows. I put one on when I need to be reminded what the debt looks like from the front." He touched the smallest doll with the end of his finger and didn't move it. "Your grandfather was owed a great deal. I wore him to meet you because I thought you should be met by someone we had failed. I see now that was a cruelty. I did not see it then."
 
@@ -194,7 +208,7 @@ She found the metal hand had closed at her side. She hadn't sent it. She let it 
 
 "No one, yet." He began putting them back, smallest first, each half twisting home onto its other half. "That is why it has no face."
 
-She waited until the miner was whole again and back on the shelf, lamp facing out. Then she looked at his jaw, close, the way she'd look at a weld.
+She waited until the miner was whole again and back on the shelf, lamp facing out. Then she looked at his jaw, close.
 
 "Keep wearing that one," she said. "It's the only one I've checked."
 
@@ -228,7 +242,7 @@ On the screen, Gretchen shifted her weight from one foot to the other, and set i
 
 ---
 
-The workshop was empty when they got back. Gage's bench was swept, the box shut, the clay pressed flat. He'd gone up to sit with Otto; it was his hour. Somewhere above them the tank was going pale and then deeper and then pale, and the flat line was being flat.
+The workshop was empty when they got back. Gage's bench was swept, the box shut, the clay pressed flat. He'd gone up to sit with Otto; it was his hour. Somewhere above them the tank was going pale and then deeper and then pale, and the line on the monitor had not changed.
 
 Ben sat on a stool by the door. His hand was on his hip.
 
