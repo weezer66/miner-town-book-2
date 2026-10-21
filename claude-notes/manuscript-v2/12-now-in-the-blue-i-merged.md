@@ -48,7 +48,7 @@ Whose they were, he didn't know. They were his. He was sure of that as he was su
 
 The shed had smelled of rust and of the old man's tea, which was made of something that wasn't tea and left a skin on the cup. Otto had been six, and then seven, and small for both.
 
-"Again," Shu Chan said.
+"Again," Shu Chan (SHOO CHAHN) said.
 
 Otto breathed. In through the nose, down past the belly, down into the boards. Out slow.
 
@@ -70,7 +70,7 @@ The butterfly was on his shoulder that night, opening and closing. The proof. Ot
 
 Later, when it was nearly full dark and the old man had sent him home twice and he hadn't gone, Shu Chan stood in a stance in the middle of the floor. Low, one foot forward, his weight sunk so far into the boards that the whole shed seemed to lean toward him. He held it so long Otto's own thighs burned to watch, and the big toe of his left foot lifted off the boards a hair and stayed lifted, like something under the floor was pulling at it and he was declining. And under his breath, so low it was nearly the breath itself, he said a word.
 
-"Kalinga."
+"Kalinga" (kuh-LING-guh).
 
 "What's Kalinga?"
 

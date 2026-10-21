@@ -28,7 +28,7 @@ Rohan had brought four people, and no true names.
 
 Grey fatigues, no insignia, no rank on any collar. A young woman sat at the far end of the table with her back to the room and her face to the wall, copying it. The wall held three handwritten panels, and she was copying them onto a pad in pencil, small and level, never looking down at her hand. In the top corner of the page she had written the date and the hour. Older sheets lay stacked at her elbow, each dated the same way.
 
-"Nayan," Rohan said. "The eye."
+"Nayan" (NUH-yun), Rohan said. "The eye."
 
 "Morning." The pencil didn't stop. "I copy what I read. Dated. When a record changes overnight, I can prove it was ever different. I've got dated copies of all four houses' public books. Six years back. Nobody's ever asked me to lay them side by side." She turned the page.
 
@@ -36,11 +36,11 @@ Rohan was already looking at the door.
 
 A lean, weathered man stood against it with his palm flat on the seam where door met frame, moving his hand down a finger's width at a time, the way a physician reads a ribcage. He had a climber's hands, thick at the knuckle, two fingertips calloused flat and shiny. Something in his trouser pocket clicked when he shifted his weight, and inside his coat, where it fell open, a pencil stub rode against a notebook gone soft at the corners.
 
-"Baju. The arm."
+"Baju (BAH-joo). The arm."
 
 "Seal's good." Baju took his hand off the door and wiped it on his trousers, though there was nothing on it. "Field work. Doors, lifts, platforms. I walk what the logs say was walked, and I count." He patted the pocket. It clicked again. "Machines can be told what to remember. Floors cannot be told what to remember."
 
-"And Kaan," Rohan said. "The ear."
+"And Kaan" (KAHN), Rohan said. "The ear."
 
 He nodded at the corner beside the locker, and there was a man in it.
 
@@ -52,7 +52,7 @@ Kaan said nothing, and went on saying it.
 
 The last of them had his chair tipped back on two legs and his boots crossed at the ankle. He was broad and open-faced, with a market trader's ease, and he sat in the dead room as if it were his stall on a slow afternoon.
 
-"And before you ask," he said, before Rohan could, "I don't know him. Nobody does. There's a story going round the canteens this week about an ear who stood forty minutes in a tea queue and came out knowing which cook was watering the dal. I may have started it." He tipped his chin at Kaan. "Jeebh. The tongue. I'm the one who talks."
+"And before you ask," he said, before Rohan could, "I don't know him. Nobody does. There's a story going round the canteens this week about an ear who stood forty minutes in a tea queue and came out knowing which cook was watering the dal (DAHL). I may have started it." He tipped his chin at Kaan. "Jeebh (JEEBH). The tongue. I'm the one who talks."
 
 Baju let out one breath through his nose, which Elara would come to understand was his laugh. Something in the air let out a notch.
 

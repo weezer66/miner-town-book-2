@@ -18,6 +18,7 @@ These apply to both drafting models on every chapter. Each chapter's own brief (
 - Then a one-line heading: `## Then: <place or time>` or `## Now: <place>`.
 - Scene breaks are a line with `---`.
 - Plain Markdown otherwise. Use `*italic*` for thoughts and emphasis. ALL-CAPS for system messages, three at most per chapter.
+- Pronunciation guides appear once, at a word's first body occurrence, from _pronunciation-guide.md; don't add or repeat them in drafts. New non-English words get added to the glossary first.
 
 ## Voice
 - **The author's voice:** close third, past tense, precise, image-led, measured, with an occasional dry line. The existing `manuscript/` chapters are the reference for the tower thread. Book 1 is the reference for Camilla, Gage, Ben and Otto: grittier, more sensory, wry.

@@ -44,7 +44,7 @@ Ben's throat moved.
 
 After that, a post on the boundary, a handful of guards in long coats set to watch from outside. Ben's eyes caught on one of the coats, an old man's, and didn't let go until the wall moved on. Then the ring going up beneath the boundary, a circle with no head and no foot. It would belong to no house, the voice said, so that no house could rot it.
 
-"They called it Patal Loka," the voice said. "The world beneath the world."
+"They called it Patal Loka" (PAH-tahl LOH-kuh), the voice said. "The world beneath the world."
 
 Camilla's head came round a fraction, and Gage saw her file the name.
 

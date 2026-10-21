@@ -22,7 +22,7 @@ Elara looked over her shoulder, as if some other Nathan might be standing in the
 
 Her terminal warmed against the bone of her wrist, and a green band ran across it and faded. She slept with it off, face down on the shelf by her bed. This morning she'd stood in her doorway with it in her hand for twelve seconds before she buckled it on, and for those twelve seconds the city hadn't been able to hear her. Now it could. Her pulse came down toward sixty-five, the number the towers liked their watchers to hold, and she held it there.
 
-The Skylark lifted her toward the monitoring floor. RISE ABOVE SUFFERING ran along its walls in soft blue letters. Through the glass the city fell away in layers — Drona's spires, the cloud, and somewhere under the cloud, the mine — and above everything hung the dark underside of Meru, where Kubera kept its money and the best view of all of them.
+The Skylark lifted her toward the monitoring floor. RISE ABOVE SUFFERING ran along its walls in soft blue letters. Through the glass the city fell away in layers — Drona's (DROH-nuh) spires, the cloud, and somewhere under the cloud, the mine — and above everything hung the dark underside of Meru (MAY-roo), where Kubera (koo-BAY-ruh) kept its money and the best view of all of them.
 
 In the door's polished metal she caught herself leaning forward.
 
@@ -38,11 +38,11 @@ The first thing she noticed was how young they all were. Nobody over twenty-one.
 
 This cycle the Initiation belonged to Sector 1, so the watch sat in Drona's tower, and the other three houses had sent their monitors up as guests, with borrowed rooms and full consoles.
 
-Ravi came first, in Chanakya's green-gray. When he lifted his hand to the panel, his cuff turned, and she caught a line of script stitched inside it, too small to read. He nodded to her once, and she had the uncomfortable feeling she'd just been filed somewhere.
+Ravi (RUH-vee) came first, in Chanakya's (chah-NUK-yuh) green-gray. When he lifted his hand to the panel, his cuff turned, and she caught a line of script stitched inside it, too small to read. He nodded to her once, and she had the uncomfortable feeling she'd just been filed somewhere.
 
 Daren came in Kubera's muted gold, the insignia at his collar set dead center. He was humming, four notes under his breath, the same four over and over, and his eyes went across badges and doors without stopping on anyone's face.
 
-Rohan came last, in Ashoka's red-black, broad through the shoulders, a scar along one side of his jaw. The knuckles of his right hand were split and scabbing, three in a row. Elara looked at them a beat too long.
+Rohan (ROH-hun) came last, in Ashoka's (uh-SHOH-kuh) red-black, broad through the shoulders, a scar along one side of his jaw. The knuckles of his right hand were split and scabbing, three in a row. Elara looked at them a beat too long.
 
 "Children's class," he said. "The little ones. They've started hitting back."
 

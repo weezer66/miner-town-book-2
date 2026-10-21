@@ -6,11 +6,11 @@
 
 ## Then: Trinity-3
 
-The knot at Claudia's waist had come loose again. She stopped in the middle of the mat to retie it, tongue pinched between her teeth, while Dev waited with his gloves up and his weight rocking from heel to heel. Her headguard had been made for a larger head, and she'd solved that herself with a knot of red tape at the back strap that stuck out like a small horn.
+The knot at Claudia's waist had come loose again. She stopped in the middle of the mat to retie it, tongue pinched between her teeth, while Dev (DAYV) waited with his gloves up and his weight rocking from heel to heel. Her headguard had been made for a larger head, and she'd solved that herself with a knot of red tape at the back strap that stuck out like a small horn.
 
-Rohan let her finish. A purple belt tied badly would trip her, and the rules of the dojo were older than the rules of sparring.
+Rohan let her finish. A purple belt tied badly would trip her, and the rules of the dojo (DOH-joh) were older than the rules of sparring.
 
-The rest of the Little Dragons knelt along the red boundary line in white cotton and mismatched elbows. Tavi had put himself nearest the door, as he always did, so he could watch it instead of the match. Meera sat on her hands to keep them still. Niko wore a scrape on his chin from the falling drill and kept touching it to make sure it was still there. Arjun was counting the ceiling lights under his breath. On the shoe rack, a single small sock had sat inside out for a week, and nobody would admit to it.
+The rest of the Little Dragons knelt along the red boundary line in white cotton and mismatched elbows. Tavi had put himself nearest the door, as he always did, so he could watch it instead of the match. Meera (MEE-rah) sat on her hands to keep them still. Niko wore a scrape on his chin from the falling drill and kept touching it to make sure it was still there. Arjun (UHR-joon) was counting the ceiling lights under his breath. On the shoe rack, a single small sock had sat inside out for a week, and nobody would admit to it.
 
 "Ready," Rohan said. "Bow."
 
@@ -102,17 +102,17 @@ GRANDMASTER ASCENSION: EIGHTH DAN.
 
 ATTENDANCE REQUESTED.
 
-Nothing else. An ascension to the eighth dan was a ceremony of state, with generals from the defense divisions, ministers, and strategists whose decisions shaped the three Trinitys long before the public heard of them. Rohan was a second dan and an Initiation monitor. He sat on the edge of the bed in his training trousers and turned the question over until sleep took it from him.
+Nothing else. An ascension to the eighth dan (DAHN) was a ceremony of state, with generals from the defense divisions, ministers, and strategists whose decisions shaped the three Trinitys long before the public heard of them. Rohan was a second dan and an Initiation monitor. He sat on the edge of the bed in his training trousers and turned the question over until sleep took it from him.
 
 At 4:00 a.m. the panel brightened, and he was up before it finished.
 
-His red-black duty uniform hung by the door, the one the city knew. He left it there. A dan ascension belonged to the art, and inside the art a man presented his rank, not his office. Wadō-ryū was one of the old fighting arts Ashoka had carried out of the Old Era, when the rest of the world's knowledge was being sealed away. He put on the Ashoka Wadō-ryū kimono instead: white cloth, black trim, and a black belt embroidered with 二段 [second dan] beside his name, ローハン [Rohan]. The glue on his knuckle snagged the sleeve as he pulled it straight.
+His red-black duty uniform hung by the door, the one the city knew. He left it there. A dan ascension belonged to the art, and inside the art a man presented his rank, not his office. Wadō-ryū (WAH-doh RYOO) was one of the old fighting arts Ashoka had carried out of the Old Era, when the rest of the world's knowledge was being sealed away. He put on the Ashoka Wadō-ryū kimono (kih-MOH-noh) instead: white cloth, black trim, and a black belt embroidered with 二段 [second dan] beside his name, ローハン [Rohan]. The glue on his knuckle snagged the sleeve as he pulled it straight.
 
 By dawn the central hall was full. Red standards hung from the galleries. Generals stood in rows beneath their division insignia. Rohan took a place in the back row among the junior instructors and set his hands on his knees.
 
-The Grandmaster entered without procession. The hall went silent anyway. In the command halls she was the Grandmaster. In the dojo she was the Dhammapala, keeper of Dhamma, the duty Ashoka held above every order, and the dojo used the title more because it named what the rank was for.
+The Grandmaster entered without procession. The hall went silent anyway. In the command halls she was the Grandmaster. In the dojo she was the Dhammapala (dhum-muh-PAH-luh), keeper of Dhamma, the duty Ashoka held above every order, and the dojo used the title more because it named what the rank was for.
 
-Then an inner door opened at the far end of the floor, and Master Vayun came through it alone.
+Then an inner door opened at the far end of the floor, and Master Vayun (VAH-yoon) came through it alone.
 
 He was ancient the way mountains were ancient, worn down to what could not be worn further. White hair to his shoulders. A narrow face, the skin drawn tight over high cheekbones. An ivory kimono with no crest. At his waist, a belt so old its black had rubbed away thread by thread over the decades, back toward the white it had started as. Anyone who knew the art understood. The beginner's colour, returned. The circle walked to its end.
 
@@ -220,9 +220,9 @@ The chamber was round. Statues stood in recessed alcoves set above the floor, la
 
 Emperor Ashoka stood nearest the doors, the gana's namesake and every visitor's first meeting, a sword laid flat across his open palms instead of raised, remembered for the war at Kalinga that made him renounce conquest.
 
-Cincinnatus stood beside a plow, the Roman handed absolute power in a crisis who used it and gave it back. Leonidas held a narrow pass with his shield locked, and someone had chipped the rim of the shield long ago and left it. Rani Lakshmibai sat a stone horse with her sword raised.
+Cincinnatus stood beside a plow, the Roman handed absolute power in a crisis who used it and gave it back. Leonidas held a narrow pass with his shield locked, and someone had chipped the rim of the shield long ago and left it. Rani Lakshmibai (RAH-nee luk-shmee-BAH-ee) sat a stone horse with her sword raised.
 
-Rohan stopped in front of Kusunoki Masashige.
+Rohan stopped in front of Kusunoki Masashige (koo-soo-NOH-kee mah-sah-SHEE-geh).
 
 The carver had given him the face of a man who had finished deciding. He had kept his duty knowing the cause was already lost, riding out under a plan he had argued against because his lord commanded it. At fifteen, a cadet with a fresh jaw scar and too many opinions, Rohan had called that obedience. His instructor had put him in horse stance and told him to stay there until he could explain the difference between obedience and duty. He had held it until his legs shook and the explanation still wouldn't come.
 
@@ -238,7 +238,7 @@ Rohan looked up. "Claudia?"
 
 His mind went first to strategists and commanders, then arrived at a purple belt retied in the middle of a mat. Vayun had never met her. He hadn't been in the dojo. His eyes brightened, following the whole path of Rohan's thought.
 
-"She will grow into a great Ashoka representative one day," he said. "Such clarity at so tender an age is rare. Rarer still is the blessing of being guided by a master like Rohan as her sensei."
+"She will grow into a great Ashoka representative one day," he said. "Such clarity at so tender an age is rare. Rarer still is the blessing of being guided by a master like Rohan as her sensei" (SEN-say).
 
 Heat climbed Rohan's neck. He lowered his eyes to the rice and kept them there.
 

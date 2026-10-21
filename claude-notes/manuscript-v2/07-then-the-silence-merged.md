@@ -48,7 +48,7 @@ The seal closed between them.
 
 She dressed without the full lights. Uniform. Collar. Seal. She rehearsed the words she could use: procedural judgment, incomplete evidence, candidate safety.
 
-Her father, Vishnu, had never let her think of karma as a court waiting with a sentence. Karma, he said, was the shape a choice makes after it leaves the person who made it. Hers had left her at an unattended terminal in the sub-tier vaults, and it had been travelling ever since.
+Her father, Vishnu (VISH-noo), had never let her think of karma (KUHR-muh) as a court waiting with a sentence. Karma, he said, was the shape a choice makes after it leaves the person who made it. Hers had left her at an unattended terminal in the sub-tier vaults, and it had been travelling ever since.
 
 At seven the collar clasp missed. Her fingernail caught on the metal edge and bent back.
 
@@ -64,11 +64,11 @@ The corridor narrowed before it ended and opened into the conference wing, where
 
 The conference room waited at the end of the wing behind a door of clear glass, the committee's shapes already seated on the other side.
 
-She stepped in, and relief hit her so hard her shoulders dropped. Two of the faces at the long table were hers. Elder Anandi, whose lectures on observational ethics had shaped her first year. Mentor Kavik, the quiet mathematician who had taught her to separate pattern from impulse, his left thumb stained with ink to the first knuckle, as it had always been. For one breath she believed they would understand.
+She stepped in, and relief hit her so hard her shoulders dropped. Two of the faces at the long table were hers. Elder Anandi (ah-NUN-dee), whose lectures on observational ethics had shaped her first year. Mentor Kavik, the quiet mathematician who had taught her to separate pattern from impulse, his left thumb stained with ink to the first knuckle, as it had always been. For one breath she believed they would understand.
 
 Then the room widened beyond them.
 
-Three strangers sat nearest the center of the table. The first wore a long plain robe of saffron and ash, a strange choice in a house that had always insisted learning must not be governed by doctrine. His right wrist rested on the wood, and the cuff of his sleeve was threaded with seven small stones in a narrow line. Four for the Vedas, Elara remembered, three for interpretation, silence and living transmission.
+Three strangers sat nearest the center of the table. The first wore a long plain robe of saffron and ash, a strange choice in a house that had always insisted learning must not be governed by doctrine. His right wrist rested on the wood, and the cuff of his sleeve was threaded with seven small stones in a narrow line. Four for the Vedas (VAY-duhz), Elara remembered, three for interpretation, silence and living transmission.
 
 Beside him, a woman held a deck of cards older than manufacture, thick and hand-beveled, one corner mended with a single stitch of thread. She shuffled them out of habit, without ceremony, as another teacher might roll a pencil.
 
@@ -98,9 +98,9 @@ The meaning had stirred in Elara before Kavik reached it, somewhere at the back 
 
 This time Kavik didn't translate, and didn't need to. *First, honor the teachers at this table. Let them name themselves.*
 
-The man in the saffron robe spoke first, his voice deep and even. "I am Sarvajña, the all-knowing. I keep Drona steady upon its three pillars: knowledge, disciplined inquiry, and the duty to serve truth before power."
+The man in the saffron robe spoke first, his voice deep and even. "I am Sarvajña (suhr-VUG-yuh), the all-knowing. I keep Drona steady upon its three pillars: knowledge, disciplined inquiry, and the duty to serve truth before power."
 
-"I am Draṣṭā, the seer," said the woman with the cards. There was nothing theatrical in it. "My duty is to know the three times: the past, the present, and the future. Nothing is certain, and I do not pretend otherwise."
+"I am Draṣṭā (DRUSH-tah), the seer," said the woman with the cards. There was nothing theatrical in it. "My duty is to know the three times: the past, the present, and the future. Nothing is certain, and I do not pretend otherwise."
 
 The woman at the end of the table waited until the room had settled around her.
 
@@ -120,21 +120,21 @@ Draṣṭā looked at her and smiled faintly, as if she had heard the question c
 
 If the news was as grave as the summons made it, the danger already existed. A card would not create it, and refusing one would not cancel it. Elara reached for the first card in the fan.
 
-Draṣṭā turned it over. A king hung between a dark sky and the curve of the earth, neither rising nor falling. *Trishanku.*
+Draṣṭā turned it over. A king hung between a dark sky and the curve of the earth, neither rising nor falling. *Trishanku* (trih-SHUNG-koo).
 
 "Hung between categories," Draṣṭā said. "Refused by heaven and by the earth."
 
 "The second."
 
-A warrior beneath a ruined sky, his weapon lowered but not surrendered. *Ashwatthama.*
+A warrior beneath a ruined sky, his weapon lowered but not surrendered. *Ashwatthama* (ush-vut-THAH-mah).
 
 "A conflict that cannot end," Draṣṭā said. "He is the son of Drona. You have drawn a son, and a father's house."
 
 "The last."
 
-A severed head rose against a darkened sun, its mouth open on the light. *Rahu.*
+A severed head rose against a darkened sun, its mouth open on the light. *Rahu* (RAH-hoo).
 
-"The danger that keeps returning. He drank the stolen nectar, and the god Vishnu cut him in two before it went down, and he has chased the sun ever since." Draṣṭā laid her fingertip beside the name. "The old word for him is *graha*. That which seizes."
+"The danger that keeps returning. He drank the stolen nectar, and the god Vishnu cut him in two before it went down, and he has chased the sun ever since." Draṣṭā laid her fingertip beside the name. "The old word for him is *graha* (GRUH-huh). That which seizes."
 
 She left the three cards face up and said nothing about what any of them meant to Elara, and Elara found she couldn't stop looking at the second.
 
