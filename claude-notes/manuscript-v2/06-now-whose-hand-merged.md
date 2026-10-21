@@ -104,6 +104,8 @@ Flitzberg sat down. Gage noticed, because the man had stood for everything else.
 
 "Goes with you. The tank stays here."
 
+Camilla went still beside Gage. She was the one who had said it, the first night, with a line still in her hand: he stays where the machines are, or he dies in a shack with his eyes open. Flitzberg looked at her and let it stand.
+
 "What does watched look like," Ben said, "at the end?"
 
 Flitzberg didn't answer straight away. Gage got the sense nobody had ever asked.
