@@ -200,7 +200,7 @@ Ground personnel were marked insufficient for the combined strength profiles of 
 
 INFINITY GUARD RESPONSE AUTHORIZED.
 
-Only the final extraction would route back down, to CORRECTION. Four hours from the guard chambers to Miner Town. Ravi's jaw set. Daren studied the cost estimate. Rohan stood with both hands flat on CORRECTION, the split knuckles gone pale across the tops.
+Only the final extraction would route back down, to CORRECTION. Four hours from the guard chambers to Miner Town. Ravi's jaw set. Daren studied the cost estimate. Rohan stood with both hands flat on CORRECTION, the split knuckle gone pale.
 
 Their twelve-hour watch should have ended there. Instead the handoff to automation was suspended, and a shift lock closed over the room: all four of them at their stations until the deployment resolved or the gates opened.
 
