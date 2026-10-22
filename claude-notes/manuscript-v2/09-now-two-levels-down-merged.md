@@ -54,7 +54,7 @@ She looked at the two places. Then at her good hand, which was one hand.
 
 "It won't open for one," he said. "That is on purpose."
 
-So she did it with the other. She laid the metal arm on the bench, palm up, and brought the metal fingers round, and the wrist folded back farther than any wrist should, until the thumb sat on the inside of its own forearm and the first finger on the outside, and thought about pressing, and half a breath later it pressed.
+So she did it with the other. She laid the metal arm on the bench, palm up, and brought the metal fingers round, and the wrist folded back farther than any wrist should, until the thumb sat on the inside of its own forearm and the first finger on the outside, and she thought about pressing, and half a breath later it pressed.
 
 A seam she hadn't been able to find came open along the whole forearm with a small cold sound. The cover rose a hair and sat. She lifted it off with her right hand and looked in.
 
@@ -76,7 +76,7 @@ He was slow to answer. "The arm's."
 
 She wanted to touch it worse than she'd wanted to touch anything in her life, and didn't, because he'd said *learn*.
 
-An ear. A thing that sat still and heard what the rest of a body was about to do. She thought of a wall a long way down, and of rock that talked before it broke, and she knew what she was going to build with the rest of the bench.
+An ear. A thing that sat still and heard what the rest of a body was about to do. She thought of the Lake Wall, and the groan rock makes before it lets go.
 
 She followed it up to the shoulder. Under the cup it gathered and ran in, thickening into a band the width of her smallest finger, going in toward her, under the seal. And there, on the inside curve of the metal, just before the cup met the seal and became part of her, there was a mark.
 
@@ -170,17 +170,19 @@ She turned that over. *Not from me* wasn't *no*.
 
 "I don't like three."
 
-"No. I would not, either." He folded his hands on his knee. "I cannot give you proof. So you will go on doing what you did this afternoon. And when you have taken it apart to the last wire, you will know whether I lied."
+"No. I would not, either." He folded his hands on his knee. "I cannot prove an absence. You will look, and not find, and decide what not finding is worth."
 
 She thought about the web, finer than hair, going in under the seal.
 
-"There aren't any wires."
+"There aren't any wires to find."
 
-"No," he said. "Then you will have to work harder than I would have liked."
+"No," he said. "Then you will have to look harder than I would have liked."
 
 "I already am." She touched her collar, where a cord she'd knotted an hour ago held a pin no longer than her little finger, cut from a tray of the arm's spare parts, one end filed to the inside point below the elbow. Her own switch, if she could make it answer first. "Mine. It doesn't work yet."
 
 He looked at the cord a long time. "File the other end as well," he said, and looked down at his drawing.
+
+Both points at once. He was telling her how.
 
 She looked past him at the shelves. On the one nearest his elbow, at the height of her eyes, stood a doll in a miner's jacket with a lamp painted on its forehead, grey moustache, the paint on the cheeks rubbed pale. He saw her looking. He reached over and took it down, and twisted it at the waist, and lifted off the top half.
 
