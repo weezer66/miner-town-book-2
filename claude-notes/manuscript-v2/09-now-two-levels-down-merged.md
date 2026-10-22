@@ -20,7 +20,7 @@ Gage had to duck the lintel. He'd already pulled the cloth off the far bench and
 
 Ben stood in the doorway with his right hand flat against his hip, over a pocket. The facility greys had no pocket there. He pressed anyway, found cloth, took the hand away, and a few breaths later it went back.
 
-Four times since the briefing room. She didn't say anything. She filed it.
+Four times since the briefing room. She didn't say anything.
 
 ---
 
@@ -58,7 +58,7 @@ So she did it with the other. She laid the metal arm on the bench, palm up, and 
 
 A seam she hadn't been able to find came open along the whole forearm with a small cold sound. The cover rose a hair and sat. She lifted it off with her right hand and looked in.
 
-She'd been ready for wires, and the arm hadn't bothered with any. The forearm was a trough of the same grey metal, small dense pistons where the tendons ought to be, and lying along its floor, where the long bones would have been, was something she had to lean in to see at all. A web. Finer than hair, finer than the hair on her arm, grey on grey, so fine she saw it first as a change in the way the light sat and only afterward as lines. It lay in the trough the way frost lies on a window: all over, touching everything, weighing nothing.
+She'd been ready for wires, and the arm hadn't bothered with any. The forearm was a trough of the same grey metal, small dense pistons where the tendons ought to be, and lying along its floor, where the long bones would have been, was something she had to lean in to see at all. A web. Finer than hair, finer than the hair on her arm, grey on grey, so fine she saw it first as a change in the way the light sat and only afterward as lines. It lay over everything in the trough and weighed nothing.
 
 It lay exactly where her nerves had been. It branched where they'd branch.
 
@@ -140,6 +140,8 @@ He was at his table with his back to her, drawing on clean white paper, and the 
 
 "Come in, Camilla." He set his pencil down parallel to the paper's edge. "Two hours in the workshop and you have not yet opened a bench. I had a wager with myself."
 
+Two hours. He'd been counting. She thought of the pin at her collar, filed at that bench, and didn't touch it.
+
 "I opened my arm."
 
 "Ah." He turned his chair to face her. His own face, the smooth one with the full cheeks; she checked the jaw. "Then you have come about the switch."
@@ -168,7 +170,7 @@ She turned that over. *Not from me* wasn't *no*. She put it in the place where s
 
 "I don't like three."
 
-"No. I would not, either." He folded his hands on his knee. "I cannot give you proof you would accept, and I would think less of you if you accepted any I could give. So you will go on doing what you did this afternoon. And when you have taken it apart to the last wire, you will know whether I lied."
+"No. I would not, either." He folded his hands on his knee. "I cannot give you proof. So you will go on doing what you did this afternoon. And when you have taken it apart to the last wire, you will know whether I lied."
 
 She thought about the web, finer than hair, going in under the seal.
 
@@ -176,9 +178,9 @@ She thought about the web, finer than hair, going in under the seal.
 
 "No," he said. "Then you will have to work harder than I would have liked."
 
-"I already am." She touched her collar, where a cord she'd knotted an hour ago held a pin no longer than her little finger, cut from a tray of the arm's spare parts, one end filed to the inside point below the elbow. "Mine. It doesn't work yet."
+"I already am." She touched her collar, where a cord she'd knotted an hour ago held a pin no longer than her little finger, cut from a tray of the arm's spare parts, one end filed to the inside point below the elbow. Her own switch, if she could make it answer first. "Mine. It doesn't work yet."
 
-He looked at the cord and not at the pin. "Then it does not lie yet either."
+He looked at the cord a long time. "File the other end as well," he said, and turned back to his drawing.
 
 She looked past him at the shelves. On the one nearest his elbow, at the height of her eyes, stood a doll in a miner's jacket with a lamp painted on its forehead, grey moustache, the paint on the cheeks rubbed pale. He saw her looking. He reached over and took it down, and twisted it at the waist, and lifted off the top half.
 
@@ -232,6 +234,8 @@ Ben didn't move. His right hand went to his hip and pressed flat over nothing, a
 
 "No," the medic said. "I am sorry. Nothing goes up that the ground could read."
 
+Camilla heard whose sentence it was.
+
 Ben nodded.
 
 Camilla looked at the screen next to it, and the next. The basins. The queue. The washing lines between the shacks. She went along the whole bottom row and up the next, every grey woman with her arms in water and every grey woman in the line, the shape of the shoulders, the way one of them held her head, and it wasn't Rita, and the next one wasn't Rita either.
@@ -258,6 +262,6 @@ She pushed the dish along the bench until it was in front of Ben.
 
 He took his hand off his hip. He didn't touch the dish. He leaned over it, close, and the needle trembled when he breathed.
 
-"His did that," Ben said.
+"Dad's did that," Ben said.
 
 The needle swung, and swung less, and came to rest pointing at the wall, at nothing, at the one direction it knew.
