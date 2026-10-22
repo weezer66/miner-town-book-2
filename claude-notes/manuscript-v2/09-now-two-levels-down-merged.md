@@ -54,7 +54,7 @@ She looked at the two places. Then at her good hand, which was one hand.
 
 "It won't open for one," he said. "That is on purpose."
 
-So she did it with the other. She laid the metal arm on the bench, palm up, and brought the metal fingers round until the thumb sat on the inside of its own forearm and the first finger on the outside, and thought about pressing, and half a breath later it pressed.
+So she did it with the other. She laid the metal arm on the bench, palm up, and brought the metal fingers round, and the wrist folded back farther than any wrist should, until the thumb sat on the inside of its own forearm and the first finger on the outside, and thought about pressing, and half a breath later it pressed.
 
 A seam she hadn't been able to find came open along the whole forearm with a small cold sound. The cover rose a hair and sat. She lifted it off with her right hand and looked in.
 
@@ -106,7 +106,7 @@ It went on the way it had come off: lay it along the trough, think about the two
 
 Gage had built it again.
 
-He'd built it on the far bench, with his back to the room, and when she came and stood beside him he didn't cover it. Clay basin. Splinter wall, the middle one split a hair with his thumbnail. He'd built it from memory, and she knew because she'd moved two of the pieces that afternoon, and he'd put them back where she'd moved them.
+He'd built it on the far bench, with his back to the room, and when she came and stood beside him he didn't cover it. Clay basin. Splinter wall, the middle one split a hair with his thumbnail. He'd built it from memory, and she knew because she'd moved two of the pieces that afternoon, and he'd built them where she'd left them.
 
 "He said take it apart," she said.
 
@@ -140,7 +140,7 @@ He was at his table with his back to her, drawing on clean white paper, and the 
 
 "Come in, Camilla." He set his pencil down parallel to the paper's edge. "Two hours in the workshop and you have not yet opened a bench. I had a wager with myself."
 
-Two hours. He'd been counting. She thought of the pin at her collar, filed at that bench, and didn't touch it.
+Two hours. He'd been counting. She thought of the pin at her collar, filed on the lip of the sink, and didn't touch it.
 
 "I opened my arm."
 
@@ -156,11 +156,11 @@ He did not answer straight away. He picked up the pencil and laid it parallel to
 
 "Not from me," he said.
 
-She turned that over. *Not from me* wasn't *no*. She put it in the place where she kept things she'd come back for.
+She turned that over. *Not from me* wasn't *no*.
 
 "Now," he said. "The switch."
 
-"Is it only the three of you? You, her, and the man who built it?"
+"Is it only the three of you? You, the medic, and the man who built it?"
 
 "Three people," he said. "The medic who fitted it. The man who built it. And I." He let that stand. "No one above. No house. No one up there has been told that it exists, and none will be. The medic gave you a door she would not swear to. I am the door. There is no one behind me."
 
@@ -180,7 +180,7 @@ She thought about the web, finer than hair, going in under the seal.
 
 "I already am." She touched her collar, where a cord she'd knotted an hour ago held a pin no longer than her little finger, cut from a tray of the arm's spare parts, one end filed to the inside point below the elbow. Her own switch, if she could make it answer first. "Mine. It doesn't work yet."
 
-He looked at the cord a long time. "File the other end as well," he said, and turned back to his drawing.
+He looked at the cord a long time. "File the other end as well," he said, and looked down at his drawing.
 
 She looked past him at the shelves. On the one nearest his elbow, at the height of her eyes, stood a doll in a miner's jacket with a lamp painted on its forehead, grey moustache, the paint on the cheeks rubbed pale. He saw her looking. He reached over and took it down, and twisted it at the waist, and lifted off the top half.
 
@@ -196,7 +196,7 @@ He set them out in a row on the drawing.
 
 He looked at the four small figures. Nothing in his face moved.
 
-"I keep the faces of people this office owes," he said. "It is a short collection, and it grows. I put one on when I need to be reminded what the debt looks like from the front." He touched the smallest doll with the end of his finger and didn't move it. "Your grandfather was owed a great deal. I wore him to meet you because I thought you should be met by someone we had failed. I see now that was a cruelty. I did not see it then."
+"I keep the faces of people this office owes," he said. "It is a short collection, and it grows. I put one on when I need to be reminded what the debt looks like from the front." He touched the smallest doll with the end of his finger and didn't move it. "Your grandfather was owed a great deal. I wore him to meet you because I thought you should be met by someone we had failed."
 
 "You said it was to put me at ease."
 
@@ -246,7 +246,7 @@ On the screen, Gretchen shifted her weight from one foot to the other, and set i
 
 ---
 
-The workshop was empty when they got back. Gage's bench was swept, the box shut, the clay pressed flat. He'd gone up to sit with Otto; it was his hour. Somewhere above them the tank was going pale and then deeper and then pale, and the line on the monitor had not changed.
+The workshop was empty when they got back. Gage's bench was swept, the box shut, the clay pressed flat. He'd gone up to sit with Otto; it was his hour. She didn't need to see the tank to know it was going pale and deep and pale, and that the line hadn't moved.
 
 Ben sat on a stool by the door. His hand was on his hip.
 
@@ -258,10 +258,10 @@ She cut a thin round off the cork, laid the needle across it, and set the cork o
 
 It turned. It went round almost a full circle, slow, and swung back past where it wanted to be, and back again, the cork nudging the edge of the dish.
 
-She pushed the dish along the bench until it was in front of Ben.
+She hung the magnet back on its outline. Then she pushed the dish along the bench until it was in front of Ben.
 
 He took his hand off his hip. He didn't touch the dish. He leaned over it, close, and the needle trembled when he breathed.
 
 "Dad's did that," Ben said.
 
-The needle swung, and swung less, and came to rest pointing at the wall, at nothing, at the one direction it knew.
+The needle swung, and swung less, and came to rest pointing at the wall.
