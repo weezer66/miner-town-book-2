@@ -108,7 +108,7 @@ The two converge at "Maintenance Fault" (which also matches the midpoint), then 
 | # | Thread · POV | Chapter | Built from | Words |
 |---|---|---|---|---|
 | **ACT I** | | | | |
-| 1 | THEN · Elara | **Assigned to Witness.** Blood test, "Empathy surge risk: low"; she sleeps without her band and feels the silence (the bare-wrist seed); four young monitors, "our first day"; ends on UNASSIGNED ×3 and "Assign Gage to me." Gage at **220 lb**. (The pouch split moves to ch. 4.) | Ch1, tightened | 2,500 |
+| 1 | THEN · Elara | **Assigned to Witness.** Blood test, "Empathy surge risk: low"; she sleeps without her band and feels the silence (the bare-wrist seed); four young monitors; ~1,500 words; ends on Otto, "That one's mine." Gage at **220 lb**. (The pouch split moves to ch. 4.) | Ch1, tightened | 2,500 |
 | 2 | NOW · Camilla | **The Throat.** She comes back to consciousness to the sound of her brother choking a man. Flitzberg's "I do not know" about Otto. Carried out, she counts the faces: three looking back. | Ch19, first half, retold from Camilla's POV | 3,000 |
 | 3 | NOW · Camilla | **Found One.** The arm offered and fitted; Otto's tank; "Lost an arm. Found one." | Ch21, opening scenes, in Camilla's POV | 3,000 |
 | 4 | THEN · Elara | **The Altered Record.** The pouch split ("the first to feed someone else"); Daren's sabotage (with a look between them); 72 hours told briefly; the heist; Rohan's pledge; two Teresa flashes. | Ch2 (pieces) + Ch3 (pieces) + Ch4 + Ch5 | 5,000 |

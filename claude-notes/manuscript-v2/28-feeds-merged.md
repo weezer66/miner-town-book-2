@@ -114,7 +114,7 @@ She had one word in her mouth, and it belonged to the wall.
 
 The door behind her opened.
 
-A girl stood in it, a few years older than her, in Drona's grey-blue, the jacket buttoned wrong by one hole. Her left wrist was bare, the skin paler in a band where an instrument had been. There was a red crease across her forehead, sharp and straight, where she'd been leaning it on glass.
+A girl stood in it, a few years older than her, in Drona's gray-blue, the jacket buttoned wrong by one hole. Her left wrist was bare, the skin paler in a band where an instrument had been. There was a red crease across her forehead, sharp and straight, where she'd been leaning it on glass.
 
 She didn't look at Camilla first. She looked at the top right screen, at the open door with nobody in front of it.
 

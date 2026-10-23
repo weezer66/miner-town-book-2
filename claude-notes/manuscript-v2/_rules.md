@@ -18,7 +18,7 @@ These apply to both drafting models on every chapter. Each chapter's own brief (
 - Then a one-line heading: `## Then: <place or time>` or `## Now: <place>`.
 - Scene breaks are a line with `---`.
 - Plain Markdown otherwise. Use `*italic*` for thoughts and emphasis. ALL-CAPS for system messages, three at most per chapter.
-- Pronunciation lives only on the front page (00.1-names-and-pronunciation-merged.md). Never put bracketed guides in chapter text. A new non-English word gets added to claude-notes/pronunciation/entries.js and to the front page.
+- Pronunciation lives only on the back page (99-names-and-pronunciation-merged.md), with a one-line pointer at the front (00.1-a-note-on-names-merged.md). Never put bracketed guides in chapter text. A new non-English word gets added to claude-notes/pronunciation/entries.js and to the back page.
 
 ## Voice
 - **The author's voice:** close third, past tense, precise, image-led, measured, with an occasional dry line. The existing `manuscript/` chapters are the reference for the tower thread. Book 1 is the reference for Camilla, Gage, Ben and Otto: grittier, more sensory, wry.

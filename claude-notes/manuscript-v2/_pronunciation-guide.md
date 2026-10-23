@@ -49,6 +49,6 @@ Generated with the Indic Respelling Checker (`manuscript/Indic Respelling Checke
 | kimono |  | hand-written | kih-MOH-noh |  |
 | dojo |  | hand-written | DOH-joh |  |
 
-**Placement (author decision, 2026-10-20):** the guides are printed on the front page, chapter 0.1 (`00.1-names-and-pronunciation-merged.md`), and nowhere in the chapter text. No bracketed guides appear in any chapter.
+**Placement (author decision, 2026-10-20):** the guides are printed on a back-matter page after Chapter 30 (`99-names-and-pronunciation-merged.md`), with a one-line pointer at the front (`00.1-a-note-on-names-merged.md`: *A guide to names and pronunciation is at the back of the book.*), and nowhere in the chapter text. Moved from the front on 2026-10-23 (author decision: front matter eats the KDP sample). No bracketed guides appear in any chapter.
 
 **Left out (say if you want them):** Leonidas (standard English form); Kavik, Tavi, Niko, Sen, Jung, Flitzberg (invented or uncertain origin); English-usable names (Gretchen, Rosa, Teresa, Claudia, Otto, Camilla); the Tamil line in ch5, which is printed in Tamil script.

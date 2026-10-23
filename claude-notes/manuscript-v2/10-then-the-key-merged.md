@@ -126,7 +126,7 @@ Her terminal ticked once against her wrist. She turned it over.
 
 *Monitor left station during live intake.* The station had read her standing as gone. *Appended to open review.*
 
-Beneath it, where it had sat since her first night on this floor, the conduct note was still pending. The new line had gone into the same file.
+Beneath it, where it had sat since her first morning on this floor, the conduct note was still pending. The new line had gone into the same file.
 
 She sat down. The column stepped up. The pool read zero.
 
