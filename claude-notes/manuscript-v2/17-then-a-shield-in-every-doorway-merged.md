@@ -200,7 +200,7 @@ Rohan stood in the commanders' hall and watched the duty board grow. The house c
 
 His name was on ten of the new postings.
 
-Lower on the second board, a clerk had begun a column of training sessions suspended until further notice. His was fourth. *Little Dragons, juniors, morning hall.* Whoever copied it had copied the class roster in full, six small names in tidy chalk, and beside the fifth had added, as a courtesy, *brown belt (new)*.
+Lower on the second board, a clerk had begun a column of training sessions suspended until further notice. His was fourth. *Little Dragons, juniors, morning hall.* Whoever copied it had copied the class roster in full, six small names in tidy chalk, and beside the fifth had added, as a courtesy, *blue belt (new)*.
 
 Claudia.
 
