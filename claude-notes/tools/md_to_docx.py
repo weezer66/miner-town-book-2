@@ -4,6 +4,7 @@ Usage: python md_to_docx.py CHAPTER.md TEMPLATE.docx OUT.docx
 
 - Bold black title, a blank spacer, the italic grey epigraph and attribution, and bold subheadings.
 - Inline *italic*, **bold** and ~~strikethrough~~ runs.
+- A "---" scene break is kept as its own paragraph, matching the manuscript .docx files.
 - A block whose lines are all upper case (ledger and record lines) becomes one paragraph per line.
 - The template is opened read-only; the output is re-read and checked paragraph by paragraph.
 """
@@ -21,7 +22,7 @@ if not blocks[0].startswith("# "):
     raise SystemExit("Chapter Markdown must begin with a level-one heading")
 
 title = blocks[0][2:].strip()
-body = [b for b in blocks[1:] if b.strip() != "---"]
+body = blocks[1:]  # "---" scene breaks stay as their own paragraph, as in the manuscript .docx files
 
 doc = Document(template_path)
 title_style = doc.paragraphs[0].style

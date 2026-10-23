@@ -130,8 +130,6 @@ Ravi kept his hands flat on the table's edge. Chanakya had also taught him what 
 
 The room let him finish seeing it on his own.
 
-"The lottery was told to fall to you."
-
 He had believed, until then, that he was managing the evening. The match had been the honor of his life, his proof that somewhere in the house's machinery merit could still surface by itself. He had not been chosen. He had been retrieved. In his pocket his thumb found the pale seam in the king's base and pressed it until the edge bit.
 
 "Why," he said. It didn't come out as a question.
@@ -152,7 +150,7 @@ Ravi made himself look away from the column, because he could feel what the look
 
 "Good." The approval in the tonelessness was worse than anger would have been. "A man who can be bought at the first asking is a poor investment. Now the other table."
 
-A routing reconstruction assembled itself, the kind Chanakya's auditors built to trace a message home. At its top sat the narrow line that had crossed the Grandmaster's private display in the arena. Ravi still couldn't read the message. He could read the routing beneath it, relay by relay, down to a masked origin.
+A routing reconstruction rose on the glass, the kind Chanakya's auditors built to trace a message home. At its top sat the narrow line that had crossed the Grandmaster's private display in the arena. Ravi still couldn't read the message. He could read the routing beneath it, relay by relay, down to a masked origin.
 
 "Watch."
 
@@ -172,7 +170,7 @@ He hunted for the seam, a timestamp out of sequence, a relay that didn't exist. 
 
 "I show you that instrument once, so that I never have to reach for it," the room said. "Fear makes analysts stupid, and I am not recruiting your fear. Here is what I came to give you."
 
-The trail dissolved, origin field first. In its place lay a document Ravi had read perhaps thirty times: the standing petition for the Analysts' Annex. A second archive floor. Climate-sealed stacks. Forty consultation rooms. Retrieval that didn't queue. Kubera's allocation council had declined it every cycle for eleven years with the same word, *non-essential*, until the whole house had grown up inside the refusal.
+The trail faded, origin field first. In its place lay a document Ravi had read perhaps thirty times: the standing petition for the Analysts' Annex. A second archive floor. Climate-sealed stacks. Forty consultation rooms. Retrieval that didn't queue. Kubera's allocation council had declined it every cycle for eleven years with the same word, *non-essential*, until the whole house had grown up inside the refusal.
 
 "Within one quarter," the room said, "Kubera's allocation system will approve this petition in full. The decision will trace to a memorandum on the cost of Chanakya's retrieval delays. The memorandum will carry your name. You will not write it. You have seen what I can make a record say against you. This is what I can make a record say for you."
 
@@ -208,9 +206,9 @@ He hadn't moved in more than an hour. Twice a cleaning drone had come along the 
 
 Ravi hadn't said yes. Daren had planned for that, and wanted it. The grants had been refused and the trail understood. The Annex had been neither. It had only been wanted.
 
-Daren turned his right wrist and watched the band drink the light coming up from the hall. The Master of the Reserve had put it there, and he could ask for it back. But if the old man ever reached for the leash, Daren thought, he'd first have to name the two letters, to the council and to the houses he meant to rule. The confession would end him long before it ended Daren. His thumb rubbed the lower edge of the band, down to where the old gold clasp had ridged the skin a finger below it, and he noticed that he was smiling.
+Daren turned his right wrist and watched the band drink the light coming up from the hall. The Master of the Reserve had put it there, and he could ask for it back. But the old man could never ask for it in any room with a record, Daren thought. To take it back, he would first have to say he had given it. His thumb rubbed the lower edge of the band, down to where the old gold clasp had ridged the skin a finger below it, and he noticed that he was smiling.
 
-He thought about retrieving the king and let it stand. The lamps would record it there, unexplained. Some archivist's query would die the way queries did, and Ravi would pass this hall a hundred times in the years ahead and always know what had stood at its center, and which way it faced.
+He thought about retrieving the king and let it stand. The lamps would record it there, unexplained. Some archivist's query would die unanswered, and Ravi would pass this hall a hundred times in the years ahead and always know what had stood at its center, and which way it faced.
 
 The maglev took him. Trinity-2 fell away behind the glass, its ten thousand lamps still lit. He stood at the dark end of the last carriage, and the four notes came up in his throat, low, the same four. The woman nearest him glanced at her wrist and moved one seat along without knowing why.
 
