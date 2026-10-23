@@ -14,7 +14,7 @@ The rest of the Little Dragons knelt along the red boundary line in white cotton
 
 "Ready," Rohan said. "Bow."
 
-Dev was seven and a blue belt, long in the arm, with the confidence of a boy who had never had to wonder whether his body would obey him. Pema was five, the smallest child on the mat and one rank below him, the Little Dragon who had refused to bow out of class until he accepted her paper crane. Padded gloves, controlled contact, a bow at every fall: the rules existed so Rohan could see what was left of a child once she was tired and no longer sure of winning.
+Dev was seven and a blue belt, long in the arm, with the confidence of a boy who had never had to wonder whether his body would obey him. Pema was five, the smallest child on the mat and one rank below him, the Little Dragon who had refused to bow out of class until Rohan accepted her paper crane. Padded gloves, controlled contact, a bow at every fall: the rules existed so Rohan could see what was left of a child once she was tired and no longer sure of winning.
 
 Dev scored first, a straight punch that slipped around her guard and tapped her chest pad. Pema's mouth went flat. She bowed and reset her feet.
 
@@ -222,7 +222,7 @@ The Grandmaster laughed. It was open and warm and unexpectedly young, nothing li
 
 Vayun turned his cup a quarter turn on the table.
 
-"I had a student long ago who fell well," he said. "Better than anyone I have taught since." "The student went below and never came back."
+"I had a student long ago who fell well," he said. "Better than anyone I have taught since. The student went below and never came back."
 
 The Grandmaster's laugh had gone. She did not look at him.
 
@@ -244,11 +244,11 @@ Vayun ate another sweet.
 
 Rohan didn't move.
 
-"It told me, too, that she stood up at her console on intake morning, and in the same minute a dead miner's number cleared for his son. A held slot does not clear because a monitor stands. It did not tell me who cleared it. Either she would not say, or you would not."
+"Your request also told me that she stood up at her console on intake morning, and in the same minute a dead miner's number cleared for his son. A held slot does not clear because a monitor stands. It did not tell me who cleared it. Either she would not say, or you would not."
 
 "She would not say," Rohan said. "I did not ask."
 
-"Then I am asking you. Someone inside Drona cleared Thorton's slot on her signal, and whoever it was is the nearest door we have into that house. Find me the name."
+"Then I am asking you. Someone inside Drona cleared Thorton's slot for his son on her signal, and whoever it was is the nearest door we have into that house. Find me the name."
 
 "I do not know it, Grandmaster, and I will not find it out for you."
 
@@ -266,11 +266,11 @@ Vayun took the sweet.
 
 "And until this is finished," she said, "someone else teaches the Little Dragons."
 
-He thought of the scrap of red tape from Pema's headguard, still stuck, he realized, to the sleeve of the training jacket he'd left hanging by the door.
+He thought of the scrap of red tape from Pema's headguard, still stuck, he realized, to the sleeve of the training jacket he'd left hanging by the door, and of the promise the children had made him give before they let him go.
 
 "Yes, Grandmaster."
 
-"If you had given me the name," the Grandmaster said, "I would have had a name, and no one I could trust with the rest of it." She unfolded her hands. "Four of Ashoka's investigators will be placed at your disposal. Quiet ones, chosen for discretion, answerable to you alone. Follow the altered records, the permissions no one signed, the resources that move without explanation. Do what seems right according to your code."
+"If you had given me the name," the Grandmaster said, "I would have had a name, and no one I could trust with the rest of it." She unfolded her hands. "Four of Ashoka's investigators will be placed at your disposal. Quiet ones, chosen for discretion, answerable to you alone. Follow the altered records, the permissions no one signed, the resources that move without explanation. If the trail reaches the hand that cleared that slot, the name comes to me, not to you. Do what seems right according to your code."
 
 Rohan bowed his head. "I will."
 
@@ -292,7 +292,7 @@ Vayun's eyes narrowed with amusement. "You are still asking the wrong question."
 
 "Why did you step forward?"
 
-Rohan had no answer.
+Rohan thought of the step he had taken between Elara and Daren, and could not tell whether it was courage or only the nearest place to stand.
 
 Vayun smiled and turned his cup a quarter turn.
 
