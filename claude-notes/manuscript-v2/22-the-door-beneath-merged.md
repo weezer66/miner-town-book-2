@@ -98,6 +98,24 @@ He looked at it a while longer. "Looks heavy."
 
 Nobody was going to wake him.
 
+The younger medic had the night log open on the panel. She turned back a page to check something against the older woman's square hand, and read it half aloud, for her own count. "Second rise. Evening. Present: Ben. Camilla."
+
+Gage lifted his head off the blanket.
+
+He didn't look at the log. He looked at Camilla. His hands stayed where they were, closed round Otto's.
+
+"Evening," he said.
+
+"Yes."
+
+"I was in the workshop. Building it."
+
+"I know. I was at the door."
+
+He looked at her for a long time. Then he put his head back down on the blanket, beside Otto's hand, and turned his face to the wall.
+
+Ben looked at the floor. The younger medic closed the log without a sound.
+
 ---
 
 Ben went out a little after that. When he didn't come back, Camilla went down one level after him, to the room where they'd first woken.
@@ -118,7 +136,7 @@ She stood in the doorway and waited for it to brighten. It didn't. It didn't dim
 
 Neither of them said anything else. There was nothing to say that either of them could check.
 
-She went back up and stood in the tank-room doorway. The tank was empty and drying, a blue tidemark round its base. Gage was in the chair by the bed with his hands still closed round Otto's, his head down on the blanket beside them, asleep or not.
+She went back up and stood in the tank-room doorway. The tank was empty and drying, a blue tidemark round its base. Gage was in the chair by the bed with his hands still closed round Otto's, his head down on the blanket beside them, his face still turned to the wall, asleep or not.
 
 Twelve left, the evening of the egg. One night on from that. Eleven left of the nineteen.
 
@@ -126,7 +144,7 @@ Otto didn't know about the Lake Wall, or the valves, or the ten minutes, or the 
 
 She let the metal hand fold into a fist at her side. She wasn't telling him tonight.
 
-She counted the room one more time, by habit, and got to four, and all four of them were breathing on their own, and she had to put her good hand on the doorframe.
+She counted the room one more time, by habit, and got to four, and all four of them were breathing on their own, and one of them had his back to her. She had to put her good hand on the doorframe.
 
 ---
 
