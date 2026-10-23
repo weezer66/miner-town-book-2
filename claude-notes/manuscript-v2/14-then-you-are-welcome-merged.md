@@ -38,7 +38,7 @@ At ten past eight, in a room that appeared on no registry, Daren dressed for a m
 
 The room was in the Drona monitor tower, where guests rotated away every cycle and nobody looked twice at a man who stayed. It held a narrow bed, one table, and the dark display above the bed, which he had never once switched on.
 
-The ensemble closed around him piece by piece, each plate seating against the next along seams too fine to see. The band went on last, on his right wrist. It read the small motor impulses that run ahead of every movement and finished what he had already begun. As far as he could tell, it had never once given him an idea. Every intention was his. He put it on the way one wakes a hand.
+The ensemble closed around him piece by piece, each plate seating against the next along seams too fine to see. The band went on last, on his right wrist. It read the small motor impulses that run ahead of every movement and finished what he had already begun. As far as he could tell, it had never once given him an idea. Every intention was his.
 
 The door slid aside before his hand rose toward the release, and its log recorded nothing. According to every registry in Trinity, the room behind him stood empty, and the band kept the building loyal to that story.
 
@@ -156,7 +156,7 @@ A routing reconstruction assembled itself, the kind Chanakya's auditors built to
 
 "Watch."
 
-The mask dissolved, and characters filled the field. A console identifier. A residential node. A credential string.
+The mask dissolved, and characters filled the field. A console identifier: the player relay beneath the arena floor, wired to his own seat. A credential string.
 
 His own.
 
@@ -182,7 +182,7 @@ The trail dissolved, origin field first. In its place lay a document Ravi had re
 
 Ravi sat very still.
 
-He realized he had been counting the consultation rooms on the plan, and made himself stop at thirty-one. This came dressed as the thing he'd wanted since he was seventeen: standing. The elders' eyes finding him. His name on something the whole house had given up wanting aloud.
+He realized he had been counting the consultation rooms on the plan, and made himself stop at thirty-one. The offer came dressed as the thing he'd wanted since he was seventeen: standing. The elders' eyes finding him. His name on something the whole house had given up wanting aloud.
 
 "And in return," he said.
 
@@ -212,6 +212,6 @@ Daren turned his right wrist and watched the band drink the light coming up from
 
 He thought about retrieving the king and let it stand. The lamps would record it there, unexplained. Some archivist's query would die the way queries did, and Ravi would pass this hall a hundred times in the years ahead and always know what had stood at its center, and which way it faced.
 
-The maglev took him. Trinity-2 fell away behind the glass, its ten thousand lamps still grading the city's arguments into the night. He stood at the dark end of the last carriage, and the four notes came up in his throat, low, the same four. The woman nearest him glanced at her wrist and moved one seat along without knowing why.
+The maglev took him. Trinity-2 fell away behind the glass, its ten thousand lamps still lit. He stood at the dark end of the last carriage, and the four notes came up in his throat, low, the same four. The woman nearest him glanced at her wrist and moved one seat along without knowing why.
 
 He rode home, past Meru's lit terraces overhead, to an unlisted room in a Drona tower, where according to every record in Trinity no one was waiting and no one arrived.
