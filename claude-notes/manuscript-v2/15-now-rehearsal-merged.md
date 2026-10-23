@@ -18,7 +18,7 @@ She'd been doing cups all week: a cup of water filled to the lip, carried the le
 
 She hated that. The arm was learning her, and she was learning to like being learned, and she didn't want to like anything in this place she hadn't taken apart.
 
-She thought about the egg. The metal fingers came round it a third of a breath behind her, closed, lifted. It sat in the grey palm, whole. The hand had done it. She had done it. She couldn't say any more where one of those ended. She set it down on the rag. The engineer said nothing, which from him was a speech.
+She thought about the egg. The metal fingers came round it a third of a breath behind her, closed, lifted. It sat in the grey palm, whole. The hand had done it. She had done it. She couldn't say any more where one of those ended. She set it down on the rag. The engineer nodded once.
 
 "Again," she said.
 
@@ -54,7 +54,7 @@ The man ate dry crackers from a tin at his elbow, one every few minutes, without
 
 On the top row a picture of a guard post at the head of the Hub lift. Two men, one going off, one coming on. The one going off looked down at his boots. The one coming on hadn't looked up yet from the board he was signing.
 
-"Eleven," Ben said. "He scratches his neck before he hands the board over. Every time. Then nobody's looking at the gauges for eleven seconds." He pointed without touching the glass. "That one, on the turbine floor, he's slower. He talks to the new man about his kid. Sixteen, if the kid's sick. Nine if he's not."
+"Eleven," Ben said. "He scratches his neck before he hands the board over. Every time. Then nobody's looking at the gauges for eleven seconds." He pointed without touching the glass. "That one, on the turbine floor, he's slower. He talks to the new man about his kid. Sixteen, if the kid's sick. Nine if he's not. Clear is when he's off the floor."
 
 The man in the headset took a cracker, ate it, and wrote something down.
 
@@ -92,9 +92,7 @@ Gage's finger went to the junction. "Landed," he said, because someone would hav
 
 It went on like that, the four of them trading words over the clay. At six minutes Ben opened his eyes.
 
-"Wait," he said. "No. Sorry. He's slow. The turbine man. It's the kid." He shut his eyes again. "Clear now."
-
-Two minutes of sand had run while they waited for a man who didn't exist.
+"Wait," he said. "No. Sorry. He's slow. The turbine man. It's the kid." He shut his eyes again. They waited. The sand ran. "Clear," he said at last, and two minutes had gone on a sick kid nobody had invented.
 
 "Stop," she said. "Again."
 
@@ -122,17 +120,15 @@ She could see him, the grey picture on the top row, a man laughing at the start 
 
 "I know," she said. Her metal hand was flat on the bench beside the model, and she felt the wood begin to give under it before she knew she'd pressed. She lifted it. Four pale marks in the grain again, smaller than the first ones. She could count that too. "Again."
 
-She looked at Gage's hand while the engineer turned the glass over. He'd taken it off the model. He'd laid it open on the bench, the way he'd been keeping it, and as the sand began to fall it went back on its own, down the right side of the mountain, the feeds, the Hub, and on along the wall to the split splinter.
+She looked at Gage's hand while the engineer turned the glass over. He'd taken it off the model. He'd laid it open on the bench, and as the sand began to fall it went back on its own, down the right side of the mountain, the feeds, the Hub, and on along the wall to the split splinter.
 
-It had ended there every time: the run where Ben hesitated, the run where Gage lost the count, the run where she'd killed a man who wasn't real. The three of them were rehearsing three jobs, and his finger was rehearsing a fourth.
-
-Nobody said that either.
+It had ended there every time: the run where Ben hesitated, the run where Gage lost the count, the run where she'd killed a man who wasn't real.
 
 The fourth run, Ben said "Clear" in the right place, and she said "Feeds" a beat after him, and Flitzberg said "Closed," and Gage counted the blows to twelve without stopping and said "Through" at the last, low, and lifted his finger off the wall. The sand ran out. The engineer looked at the empty top of the glass and then at his clocks and nodded once.
 
 "Clean," Camilla said.
 
-It was. Nobody late, nobody early, and on the model the water ran lake to pods the way it was supposed to, past a split splinter where a finger had been and wasn't now.
+It was. Nobody late, nobody early, and on the model the water ran lake to pods on schedule, past a split splinter where a finger had been and wasn't now.
 
 She wished one of them had got it wrong.
 
@@ -140,7 +136,7 @@ Gage looked at the pad of his finger. There was a small pale line on it where th
 
 ---
 
-The crystal was still in the room where they'd woken, which had been every room, because nobody had found a way to move it, or nobody had wanted to.
+The crystal was still in the room where they'd woken, the same room every trial had turned out to be, because nobody had found a way to move it, or nobody had wanted to.
 
 Ben had taken to going there in the evenings. She found him sitting on the metal floor with his back against the wall and his knees up, in the same place he'd knelt with a spray can a lifetime ago. The crystal hung in the air in the middle of it, turning slowly, three quarters green, steady, and the last quarter blue.
 
@@ -148,13 +144,13 @@ Ben had taken to going there in the evenings. She found him sitting on the metal
 
 She sat. The floor was cold through the greys. She looked at the blue.
 
-It pulsed. She'd seen it pulse the night they woke here, and thought of it the way you think of a lamp, a thing that's on. Sitting there, she saw it brighten, and dim, and brighten, and Ben's lips moving with it. After a while she started to count too. Twelve, and the next one took thirteen. Thirteen. Fourteen. The pulse was getting slower.
+It pulsed. She'd seen it pulse the night they woke here, and thought of it as a lamp, a thing that's on. Sitting there, she saw it brighten, and dim, and brighten, and Ben's lips moving with it. After a while she started to count too. Twelve, and the next one took thirteen. Thirteen. Fourteen. The pulse was getting slower.
 
 "It goes slow," Ben said, "and then it comes back quick. Then slow. It takes about an hour, a little more, to go round. I've done it four nights. It's the same every night." He rubbed his eyes. "I thought it was a light. It's keeping time."
 
 "To what?"
 
-He didn't answer. He didn't have to. She was already seeing it: a tank on the level above, the gel inside going pale and then deeper and then pale, warm and then cool, slow as a tide. The pulse in front of her slowed, and slowed, and she knew without looking at anything that upstairs the cool was coming in. Or that Otto's chest was rising on a long breath, the long one that came every few minutes, when his body seemed to remember it had lungs.
+He didn't answer. He didn't have to. She was already seeing it: a tank on the level above, the gel inside going pale and then deeper and then pale, warm and then cool, slow as a tide. The pulse in front of her slowed, and slowed, and she knew without looking at anything that upstairs the cool was coming in. Or that something in Otto was turning over on its own slow clock, and the gel only followed.
 
 "It's him," she said.
 
@@ -180,7 +176,7 @@ Ben had stopped counting. "Can I ask something else?" He didn't wait. "Your wall
 
 Flitzberg turned his head and looked at Ben in a way Camilla hadn't seen yet, the look he gave the dolls.
 
-"There is an old astronomers' lesson," he said. "A black hole. You cannot see it. You find it only by the way light bends around what cannot be seen." He turned back to the crystal. "I have been looking at that bend for a long time, Ben. It is good to have someone else look."
+"Yes," he said. "Everything bends round it. I have been looking at the bend for a long time."
 
 The blue came round, quick now, quicker, warm.
 
@@ -214,17 +210,17 @@ On the screen the line moved.
 
 Camilla saw it because she was looking at everything. A single small rise in the green, low, near the right edge, no higher than a fingernail is thick. It went up. It came down. The line ran on flat behind it. That was the second time. The first, the medic had only told them about.
 
-Ben had stopped in the middle of the sentence. He was sitting with his mouth still open on the next word. He hadn't turned his head to the screen; he'd been looking at Otto's face, the way he always did. But he'd seen it the same way she had, out of the side of everything. She watched his hands on his knees. They'd gone completely still, the way they went when a coil hummed under them after an hour of nothing.
+Ben had stopped in the middle of the sentence. He was sitting with his mouth still open on the next word. He hadn't turned his head to the screen; he'd been looking at Otto's face, as he always did. But he'd seen it the same way she had, out of the side of everything. She watched his hands on his knees. They'd gone completely still, the way they went when a coil hummed under them after an hour of nothing.
 
 In the corner, the medic's pen had stopped too.
 
-Camilla looked at her. The woman didn't look up. She sat with her pen above the paper, and then she set it down, and wrote one line, short, and blotted it, and turned the page over, and went on with what she'd been writing before. Her face did nothing at all. Camilla understood that *exact* meant you wrote down one rise and didn't call it anything yet.
+Camilla looked at her. The woman didn't look up. She sat with her pen above the paper, and then she set it down, and wrote one line, short, and blotted it, and turned the page over, and went on with what she'd been writing before. Her face did nothing at all. Camilla understood what that meant: you wrote down one rise and didn't call it anything yet.
 
 Ben breathed in. He shut his mouth, and opened it again, and started the sentence from the beginning.
 
 "Gretchen was at the gates this morning."
 
-He left the gap. The same length. Camilla counted it, and it was the same length to the beat, as if he'd measured it against something.
+He left the gap. The same length. Camilla counted it: the same length to the beat.
 
 Nothing came.
 
@@ -238,11 +234,9 @@ The door with the handle on the inside was half open. White lamp. Gage was at th
 
 She stood at the door with her good hand on the frame and her metal one at her side. It had closed. She hadn't told it to.
 
-She could tell him. She could walk in and say *the line moved* and watch his whole face come apart and go back together again, and he'd be up those stairs before she'd finished the sentence. He'd been told the first time, and he'd sat in that chair all night, and nothing had moved for him. Twice was still a reading. She'd learned that before she learned her letters, on Pappy's gauges: a needle that kicks goes in the log, and you wait on it. You don't hand it to someone who has twelve nights and a finger that keeps going to the same place on the wall.
+She could tell him. She could walk in and say *the line moved* and watch his whole face come apart and go back together again, and he'd be up those stairs before she'd finished the sentence. He'd been told the first time, and he'd sat in that chair all night, and nothing had moved again. Twice was still a reading. She'd learned that before she learned her letters, on Pappy's gauges: a needle that kicks goes in the log, and you wait on it. You don't hand it to someone who has twelve nights and a finger that keeps going to the same place on the wall.
 
 Or it was the only thing that would make him take the finger off the wall.
-
-She didn't know which, the same way she didn't know which it was in the crystal, the tank or the breath. This place kept giving her two answers and no way to take either apart.
 
 Inside, Gage laid the Lake Wall, three splinters in a row, and split the middle one with his thumbnail.
 
