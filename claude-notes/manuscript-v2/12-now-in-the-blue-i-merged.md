@@ -28,7 +28,7 @@ He remembered the blood starting at his nose, warm and then cool on his lip, tas
 
 He'd said it so the big idiot would climb. It had worked. Gage always climbed if you found him a reason the right size.
 
-Then he had gone down into the stillness to hold the stones, deeper than he had ever gone. He had found the floor of it. He had stood on that floor and held ten stones open over the fire and then let them close, and the others had gone out through the hole, and he had turned to come back up the way he always came up.
+Then he had gone down into the stillness to hold the stones, deeper than he had ever gone. He had found the floor of it. He had stood on that floor and held ten stones open over the fire until the others were out through the hole, and then let them close, and he had turned to come back up the way he always came up.
 
 And it had not let him go.
 
@@ -48,7 +48,7 @@ Whose they were, he didn't know. They were his. He was sure of that as he was su
 
 The shed had smelled of rust and of the old man's tea, which was made of something that wasn't tea and left a skin on the cup. Otto had been six, and then seven, and small for both.
 
-"Again," Shu Chan said.
+"Again," Master Chan said.
 
 Otto breathed. In through the nose, down past the belly, down into the boards. Out slow.
 
@@ -60,7 +60,7 @@ Otto breathed. In through the nose, down past the belly, down into the boards. O
 
 Otto looked round the shed. A chair with one short leg. A bucket. The old man. "The chair."
 
-"The chair has done nothing to you." Shu Chan's hand rested on his own knee, and at its edge, where the skin met the dark of the shed, there was the blue: faint, the shimmer that comes off a slag heap at noon. "The fist is the last thing, Otto. Everything else comes first. The fist is what is left when you have run out of better ideas."
+"The chair has done nothing to you." Master Chan's hand rested on his own knee, and at its edge, where the skin met the dark of the shed, there was the blue: faint, the shimmer that comes off a slag heap at noon. "The fist is the last thing, Otto. Everything else comes first. The fist is what is left when you have run out of better ideas."
 
 "What if I don't have any better ideas?"
 
@@ -70,13 +70,13 @@ The butterfly was on the old man's shoulder that night, opening and closing. The
 
 Somewhere above the shed the cool arrived, and the pull came into his arms, and went.
 
-Later, when it was nearly full dark and the old man had sent him home twice and he hadn't gone, Shu Chan stood in a stance in the middle of the floor. Low, one foot forward, his weight sunk so far into the boards that the whole shed seemed to lean toward him. He held it so long Otto's own thighs burned to watch, and the big toe of his left foot lifted off the boards a hair and stayed lifted. And under his breath, so low it was nearly the breath itself, he said a word.
+Later, when it was nearly full dark and the old man had sent him home twice and he hadn't gone, Master Chan stood in a stance in the middle of the floor. Low, one foot forward, his weight sunk so far into the boards that the whole shed seemed to lean toward him. He held it so long Otto's own thighs burned to watch, and the big toe of his left foot lifted off the boards a hair and stayed lifted. And under his breath, so low it was nearly the breath itself, he said a word.
 
 "Kalinga."
 
 "What's Kalinga?"
 
-Shu Chan wiped his palms down his trousers. He looked at the door, which was shut, and somewhere past it.
+Master Chan wiped his palms down his trousers. He looked at the door, which was shut, and somewhere past it.
 
 "The last place I stood watch," he said. And then, correcting himself, or taking it back: "A door." Otto opened his mouth, and the old man said, "Go home. Someone will think I have eaten you."
 
@@ -88,7 +88,7 @@ The one that stayed was there again. He knew it before he knew anything else: th
 
 It had been there a long while. It was not going to leave. And something in Otto that had been built to answer that kind of waiting put its feet under it and pushed.
 
-He did it the way Master Chan had taught him. Breath first. Weight down into the floor of the place, and then up off it. The stillness gave. It had never given before, or he had never pushed from here before, with that warmth to push toward, and the blue thinned above him. He took a breath that was his. He felt it go in on its own and come out again, and he was the one doing it.
+He did it the way Master Chan had taught him. Breath first. Weight down into the floor of the place, and then up off it. The stillness gave. It had never given before. He had never had anything to push toward. The blue thinned above him. He took a breath that was his. He felt it go in on its own and come out again, and he was the one doing it.
 
 And far off, out past the edge of what he could feel, in a hand he could not find, something moved. A finger, closing on nothing.
 
@@ -96,7 +96,7 @@ Then Gage's face came, upturned at the hole, the scar white, waiting for him to 
 
 *I promise, brother.*
 
-One more stone. He felt it settle, and he knew its weight now. It was the exact weight of a thing you said to make someone climb. The floor came up under him, the blue went deep again, and the stillness took the push, the way he had built it to.
+One more stone. He felt it settle, and he knew its weight now. If he came up, he'd have to look at that face and be the brother who lied. Down here he was still the one holding the stones. The floor came up under him, the blue went deep again, and the stillness took the push, the way he had built it to.
 
 The warmth was still there on his one side. The hand was still out there too, wherever it was. He hadn't known that. He'd thought nothing out past the blue could still move.
 
