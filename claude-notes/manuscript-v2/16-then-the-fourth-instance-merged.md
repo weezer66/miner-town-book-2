@@ -194,7 +194,7 @@ The Dhammapala listened with her eyes closed, which in her meant the reverse of 
 
 Rohan's hands lay on his thighs. The split knuckle on the right one had opened again under its glue, and he watched a bead of blood rise there and didn't wipe it. He didn't pretend the strike had missed.
 
-"There is one more thing," she said. "You hunt a hand that hides in lawful shadows. You may find ground that has already been walked, questions answered before you ask them. There are safeguards in this city older than Ashoka. They do not report to me. If your hunt ever crosses a path that feels like your own thinking arriving ahead of you, do not chase it. Mark the place, and bring it to me, and I will tell you what I can, which will not be everything."
+"There is one more thing," she said. "You hunt a hand that hides in lawful shadows. You may find ground that has already been walked, questions answered before you ask them. There are safeguards in this city older than Ashoka. They do not report to me. If the balance is kind, you will never need to know what they are. If your hunt ever crosses a path that feels like your own thinking arriving ahead of you, do not chase it. Mark the place, and bring it to me, and I will tell you what I can, which will not be everything."
 
 "Whose path would it be?"
 
