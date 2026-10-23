@@ -44,7 +44,7 @@ She'd known it would be. Three in four, and every one of the three with stone ag
 
 *Then build it. And if it sees, someone may still have to carry it in.*
 
-She had built it so that nobody would stand there. She'd built it with her teeth set and the egg yolk dried in her knuckles, and every night of the nineteen she'd watched his finger walk down the clay to the split splinter and stop. She'd said so once. *It goes there,* he'd told her, and swept the splinters into the box. She'd known since the briefing room. She'd known on the stairs, when he'd crouched for Otto. It didn't help. Her metal hand had taken hold of the back of Ben's stool, and the frame gave a small dry creak under it before she made the fingers let go.
+She had built it so that nobody would stand there. She'd built it with her teeth set and the egg yolk dried in her knuckles, and every night of the nineteen she'd watched his finger walk down the clay to the split splinter and stop. She'd said so once. *It goes there,* he'd told her, and swept the splinters into the box. She hadn't said it again. She'd known since the briefing room. She'd known on the stairs, when he'd crouched for Otto. It didn't help. Her metal hand had taken hold of the back of Ben's stool, and the frame gave a small dry creak under it before she made the fingers let go.
 
 "Fourteen," she said. "Where the water comes in on the left. Try it there."
 
