@@ -48,7 +48,7 @@ The players' enclosure stood half a level above it, open toward the arena, one t
 
 The far doors opened without announcement, and the elders rose together.
 
-Within the house he was the Arthashastri, master of the old science of statecraft that had given the gana its name. Ravi stood and bowed with one hand over his heart. The Grandmaster answered with a slight inclination of the head, half acknowledgment and half assessment, and took the far chair.
+The Grandmaster came through them alone. Within the house he was the Arthashastri, master of the old science of statecraft that had given the gana its name. Ravi stood and bowed with one hand over his heart. The Grandmaster answered with a slight inclination of the head, half acknowledgment and half assessment, and took the far chair.
 
 He was smaller than Ravi had expected. His hair was silver-white, pulled back at the nape, his face narrow, his mouth almost gentle until he looked straight at a person. He wore a plain green robe edged in black script so fine the hem seemed to carry arguments. His eyes landed on Ravi and stayed, with none of the searching in between, and Ravi felt himself sorted: ambition, fear, patience, pride, waiting to see which would move first.
 
@@ -174,23 +174,25 @@ YOU ARE WELCOME.
 
 Ravi didn't touch either.
 
-The Grandmaster could have sent them. That was the easiest explanation. He set it aside. A man who meant to spare him wouldn't have built the cage so completely, or released the queen only after the alert came. There were older players in the ten, sharper ones. Nobody had a reason to protect Ravi from a full defeat.
+The Grandmaster could have sent them. That was the easiest explanation. He set it aside. A man who meant to spare him wouldn't have built the cage so completely, or let go of the queen only after the alert came. There were older players in the ten, sharper ones. Nobody had a reason to protect Ravi from a full defeat.
 
 Unless the defeat had never been the point.
 
-Someone had known the board. Someone had known the Grandmaster was one move from mate and had reached far enough into Chanakya to interrupt him, then got the king off a guarded table and into this room before Ravi's feet had finished the walk. The card said the interruption had been done for him. It didn't say why, which meant he was supposed to come and ask.
+Someone had known the board. Someone had known the Grandmaster was one move from mate and had reached far enough into Chanakya to interrupt him, then got the king off a guarded table and into this room before Ravi's feet had finished the walk. The card said only that he was welcome. It did not say who had stopped the mate, or why, which meant he was supposed to come and ask.
 
 He picked up the king and the card, and closed his hand around the king. The stone was warmer than the room.
 
-He sat on the narrow bed without undressing and let his mind work. Access path. Motive. Board state. Each answer split into three, and every branch bent back to the same fact: someone had stopped a checkmate before it became a loss and wanted him to know it. The window went from the color of the walls to darker than the walls, and the wing outside his door went quiet. No call came to return him to his console. He got up and checked the room: the recess panel, the door log, the window seal. Clean. Near midnight he lay back with the king in his fist. Whoever came for it would have to come past him. He meant to be awake for that. The run and the board took him somewhere between one argument and the next; the card slid off his knee onto the blanket, and he slept.
+He sat on the narrow bed without undressing and let his mind work. Access path. Motive. Board state. Each answer split into three, and every branch bent back to the same fact: someone had stopped a checkmate before it became a loss and wanted him to know it. The window went from the color of the walls to darker than the walls, and the wing outside his door went quiet. No call came to return him to his console. He rebuilt the final position on the writing surface and played the last moves through again. The alert had come one move before mate, to the move. Someone had been watching the board. He got up and checked the room: the recess panel, the door log, the window seal. Clean. Near midnight he lay back with the king in his fist. Whoever came for it would have to come past him. He meant to be awake for that. The run and the board took him somewhere between one argument and the next; the card slid off his knee onto the blanket, and he slept.
 
 ---
 
-Daren had set the king down with minutes to spare.
+Daren had set the king down with minutes to spare, and gone.
 
-The storage recess smelled of laundry starch and stacked spare coats, and a hanger's hook had been pressing between his shoulder blades since the match ended. The interrupt had been one narrow line sent from the arena gallery through the band into the Grandmaster's private display, on a path that would wear someone else's name if anyone ever walked it back. The black king had gone into its case with the others, and the case had gone down a service lift that, for ninety seconds, stopped at the wrong floor, where Daren was waiting. Ravi's check of the room had found what it was allowed to find: the recess had read as a sealed maintenance panel all afternoon, and the door log had shown nothing because nothing had been allowed to show. Daren waited a minute after Ravi's breathing went long. Then he opened the recess from the inside and stepped out without a sound.
+The interrupt had left the gallery under someone else's name. The king had come down a service lift that, for ninety seconds, stopped at the wrong floor.
 
-In the unlit room the ensemble was darker than the walls. The Chanakya boy lay on his back with the king still clenched, his mouth slightly open, a crease between his brows where the problem had followed him under. Daren had watched the footage of the Initiation get passed round this gana. They'd laughed loudest. Now one of their best had gone to sleep inside a question and failed to think his way out.
+He came back after midnight. The door opened for him without a sound and wrote nothing in its log.
+
+In the unlit room his black ensemble was darker than the walls. The Chanakya boy lay on his back with the king still clenched, his mouth slightly open, a crease between his brows where the problem had followed him under. Daren had watched the footage of the Initiation get passed round this gana. They'd laughed loudest. Now one of their best had gone to sleep inside a question.
 
 The card lay on the edge of the blanket. Daren lifted it between two fingers and slid it into the inner seam of his right glove, where the mesh met the cuff just short of the band. The first card had only said he was welcome. The second was the invitation. He wanted Ravi to read it in the morning, with the first card gone, and understand that someone had stood over him while he slept. In its place, beside Ravi's open hand, he set the second.
 
@@ -208,6 +210,6 @@ The four notes came up in his throat, the same four, low enough to stay in the r
 
 The residential corridor was green-gray and thin with the night rotation, representatives walking to analysis rooms with panes under their arms. As Daren came within range a wrist terminal flickered on a clerk's left arm. A wall sensor dimmed. A route marker on the floor slid aside, and a woman stepped with it without looking down. Nobody stopped him. These were people trained since childhood to notice what others missed, and they parted around him, each following a floor marker that had moved a hand's width for him.
 
-Drona first, the old man, the Master of the Reserve, had said. Nobody had said Chanakya last.
+Drona first, Kubera's old man had said. Nobody had said Chanakya last.
 
 He kept walking, and the corridor kept making room.
