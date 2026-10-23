@@ -174,7 +174,7 @@ The borrowed room in Trinity-1 looked the same: narrow bed, dark display above i
 
 In the dark the band disappeared, swallowing the weak light that rose from the city until his wrist and the night were one color. Only when he turned his hand to the glass did a razor edge pick up a star.
 
-His hand went to the glass pane beside the bed, the reflex of a man who had always been able to open a ledger and put his finger on the line that was himself. He stopped before he touched it. The entries were still in the archive somewhere, with his name taken off them. His thumb found the ridge the old clasp had left, under the black now, and kept rubbing it. The Master had been right about the cold.
+His hand went to the glass pane beside the bed, the reflex of a man who had always been able to open a ledger and put his finger on the line that was himself. He stopped before he touched it. The entries were still in the archive somewhere, with his name taken off them. His thumb found the ridge the old clasp had left, a finger below the black now, and kept rubbing it. The Master had been right about the cold.
 
 The stars looked too orderly tonight. He counted them without meaning to. Seven in the upper quadrant. Four below the ventilation tower. Years of failure curves had trained his eye to find the point where an arrangement stopped being natural, and tonight it found one: a patch of dark between the stars, no larger than a fingernail against the sky. The lights near it bent into thin arcs and ran on tight, wrong paths, one vanishing at its edge and coming back above it. Whatever sat at the center gave off nothing at all.
 
