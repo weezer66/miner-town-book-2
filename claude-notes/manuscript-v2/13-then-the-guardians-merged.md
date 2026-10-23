@@ -86,7 +86,7 @@ They bowed. Then discipline came apart all at once. Niko ran into his legs first
 
 She stepped into it.
 
-For several seconds the chief instructor stood buried in small arms and warm heads, a broad, immovable shape the children treated like a beloved bear who happened to know how to stop a fight. He rested his hands across their backs and didn't close them. They respected him because he was strong. They climbed on him because he had never once made them afraid of it.
+For several seconds the chief instructor stood buried in small arms and warm heads, a broad, immovable shape the children treated like a beloved bear who happened to know how to stop a fight. He rested his hands across their backs and didn't close them.
 
 They let him go only after he promised to come back. The tape horn had come off Pema's headguard somewhere in the pile, and he found it stuck to his own sleeve on the walk back to his quarters, a small red flag he didn't remove.
 
@@ -190,7 +190,7 @@ The applause was still going when the Grandmaster turned from the officials wait
 
 "Come with me," she said. "To the Chamber of Spirits."
 
-He had heard the name only in lowered voices and unfinished stories. No one had ever warned him away from it. No one had needed to. A man didn't fear to enter the place. He doubted he was worth the door.
+He had heard the name only in lowered voices and unfinished stories. No one had ever warned him away from it. No one had needed to.
 
 They left through a door behind a red standard, Vayun on her other side, and the noise of the hall fell away within a dozen steps. The passage descended beneath the dojo. Its walls changed from polished composite to dark stone worn smooth at shoulder height by generations of hands. At the bottom, two volunteers bowed and opened a pair of bronze doors whose handles had been rubbed to the shape of thumbs.
 
@@ -212,7 +212,7 @@ Vayun set his cup down. "I am a great admirer of Pema."
 
 Rohan looked up. "Pema?"
 
-His mind went first to strategists and commanders, then arrived at a purple belt retied in the middle of a mat. Vayun had never met her. He hadn't been in the dojo. His eyes brightened, following the whole path of Rohan's thought.
+His mind went first to strategists and commanders, then arrived at a green belt retied in the middle of a mat. Vayun had never met her. He hadn't been in the dojo. The old man's eyes brightened, following the whole path of Rohan's thought.
 
 "She will grow into a great Ashoka representative one day," he said. "Such clarity at so tender an age is rare."
 
@@ -222,7 +222,7 @@ The Grandmaster laughed. It was open and warm and unexpectedly young, nothing li
 
 Vayun turned his cup a quarter turn on the table.
 
-"I had a student long ago who fell well," he said. "Better than anyone I have taught since." He turned the cup again. "The student went below and never came back."
+"I had a student long ago who fell well," he said. "Better than anyone I have taught since." "The student went below and never came back."
 
 The Grandmaster's laugh had gone. She did not look at him.
 
@@ -240,15 +240,15 @@ The Grandmaster folded her hands.
 
 Vayun ate another sweet.
 
-"A transfer, a signature, a calibration," she said. "An error, an old authorization, a malfunction. That is what makes it dangerous. If one gana gains control of the others through a power no institution can name, competition will become domination before anyone admits the balance has failed."
+"That is what makes it dangerous," she said. "If one gana gains control of the others through a power no institution can name, competition will become domination before anyone admits the balance has failed."
 
 Rohan didn't move.
 
-"It told me, too, what she did at VARIANCE on the morning of the intake. It did not tell me who closed the flag for her. A held number does not clear because a monitor stands. Either she would not say, or you would not."
+"It told me, too, that she stood up at her console on intake morning, and in the same minute a dead miner's number cleared for his son. A held slot does not clear because a monitor stands. It did not tell me who cleared it. Either she would not say, or you would not."
 
 "She would not say," Rohan said. "I did not ask."
 
-"Then I am asking you. Someone inside Drona cleared a dead man's slot on her signal, and whoever it was is the nearest door we have into that house. Find me the name."
+"Then I am asking you. Someone inside Drona cleared Thorton's slot on her signal, and whoever it was is the nearest door we have into that house. Find me the name."
 
 "I do not know it, Grandmaster, and I will not find it out for you."
 
@@ -264,15 +264,15 @@ The water in his cup had stopped moving before she spoke.
 
 Vayun took the sweet.
 
+"And until this is finished," she said, "someone else teaches the Little Dragons."
+
+He thought of the scrap of red tape from Pema's headguard, still stuck, he realized, to the sleeve of the training jacket he'd left hanging by the door.
+
+"Yes, Grandmaster."
+
 "If you had given me the name," the Grandmaster said, "I would have had a name, and no one I could trust with the rest of it." She unfolded her hands. "Four of Ashoka's investigators will be placed at your disposal. Quiet ones, chosen for discretion, answerable to you alone. Follow the altered records, the permissions no one signed, the resources that move without explanation. Do what seems right according to your code."
 
 Rohan bowed his head. "I will."
-
-"And until this is finished," she said, "someone else teaches the Little Dragons."
-
-He thought of the scrap of red tape from Pema's headguard, still stuck to the cuff of his training jacket.
-
-"Yes, Grandmaster."
 
 "Two nights in the review room," Vayun said, "and the footage you pulled was not yours to pull. I know. So does someone else."
 
