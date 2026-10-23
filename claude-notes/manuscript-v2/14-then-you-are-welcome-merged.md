@@ -210,7 +210,7 @@ He hadn't moved in more than an hour. Twice a cleaning drone had come along the 
 
 Ravi hadn't said yes. Daren had planned for that, and wanted it. The grants had been refused and the trail understood. The Annex had been neither. It had only been wanted.
 
-Daren turned his right wrist and watched the band drink the light coming up from the hall. The Master of the Reserve had put it there, and he could ask for it back. Daren thought that to take back the band, the old man would first have to find the man wearing it. His thumb rubbed the edge of the band, over the place where the old gold clasp had ridged the skin, under the black now, and he noticed that he was smiling.
+Daren turned his right wrist and watched the band drink the light coming up from the hall. The Master of the Reserve had put it there, and he could ask for it back. Daren thought that to take back the band, the old man would first have to find the man wearing it. His thumb rubbed the lower edge of the band, down to where the old gold clasp had ridged the skin a finger below it, and he noticed that he was smiling.
 
 He thought about retrieving the king and let it stand. The lamps would record it there, unexplained. Some archivist's query would die the way queries did, and Ravi would pass this hall a hundred times in the years ahead knowing exactly what stood at its center, and which way it faced.
 
