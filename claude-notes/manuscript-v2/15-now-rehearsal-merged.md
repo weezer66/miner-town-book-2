@@ -138,7 +138,7 @@ The crystal was still in the room where they'd woken, the same room every trial 
 
 Ben had taken to going there in the evenings. She found him sitting on the metal floor with his back against the wall and his knees up, in the same place he'd knelt with a spray can a lifetime ago. The crystal hung in the air in the middle of it, turning slowly, three quarters green, steady, and the last quarter blue.
 
-"Sit down," Ben said. "Don't talk. I'm at two hundred and six."
+"Sit down," Ben said. "Don't talk. I'm counting pulses. I'm at two hundred and six."
 
 She sat. The floor was cold through the greys. She looked at the blue.
 
@@ -172,7 +172,7 @@ Flitzberg looked at the blue quarter for a long time.
 
 Ben had stopped counting. "Can I ask something else?" He didn't wait. "Your wall. The one with the four houses' books on it. I've been looking. Every one of them leaks, and all the leaks bend. Round one place. And the place isn't in any of the books."
 
-Flitzberg turned his head and looked at Ben the way she had only seen him look at the dolls.
+Flitzberg turned his head and looked at Ben the way she had only seen him look at the dolls. "Not here," he said.
 
 The blue came round, quick now, quicker, warm.
 
@@ -230,9 +230,9 @@ The door with the handle on the inside was half open. White lamp. Gage was at th
 
 She stood at the door with her good hand on the frame and her metal one at her side. It had closed. She hadn't told it to.
 
-She could tell him. She could walk in and say *the line moved* and watch his whole face come apart and go back together again, and he'd be up those stairs before she'd finished the sentence. He'd been told the first time, and he'd sat in that chair all night, and nothing had moved again. Twice was still a reading. She'd learned that before she learned her letters, on Pappy's gauges: a needle that kicks goes in the log, and you wait on it.
+Ben wouldn't tell him. Ben would leave it in the gap, where he left everything. She could tell him. She could walk in and say *the line moved* and watch his whole face come apart and go back together again, and he'd be up those stairs before she'd finished the sentence. He'd been told the first time, and he'd sat in that chair all night, and nothing had moved again. Twice was still a reading. She'd learned that before she learned her letters, on Pappy's gauges: a needle that kicks goes in the log, and you wait on it.
 
-Or it was the only thing that would make him take the finger off the wall.
+Or it was the only thing that might make him walk back out of that tunnel.
 
 Inside, Gage laid the Lake Wall, three splinters in a row, and split the middle one with his thumbnail.
 
