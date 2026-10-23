@@ -80,7 +80,7 @@ The automation handed the room back at twenty-four hours. Nobody in the chamber 
 
 "Neither is isolation," Elara said.
 
-His eyes stayed on her instead of the board. He tapped his pen twice on the printed manual, opened his mouth, and shut it again. Then he turned back to his console. Across the grid Ravi looked from one of them to the other and went very carefully back to his own screen.
+His eyes stayed on her instead of the board. He tapped his pen twice on the printed manual, opened his mouth, and shut it again. Then he turned back to his console. At her elbow Ravi looked from one of them to the other and went back to his own screen.
 
 "From here the real decisions start," Rohan said, without looking away from Otto's feed. "The force ladder stays shut unless there's an actual threat."
 

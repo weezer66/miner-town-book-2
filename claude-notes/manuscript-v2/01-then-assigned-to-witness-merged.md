@@ -1,6 +1,6 @@
 # Chapter 1: Assigned to Witness
 
-*[Gage] looked at the silver needles on the horizon and realized that for the elite … this Initiation was just a high-stakes strategy game, and he, Ben, and Otto were finally on the board.*
+*[Gage] looked at the silver needles on the horizon and realized that for the elite in their isolated ecospheres, this Initiation was just a high-stakes strategy game, and he, Ben, and Otto were finally on the board.*
 
 — Book 1, Chapter 3: The Initiation
 
@@ -20,13 +20,13 @@ Nothing in a drop of blood could say that. That was the model talking — her re
 
 Elara looked over her shoulder, as if some other Nathan might be standing in the corridor behind her. The corridor was empty. Nobody had told her.
 
-Her terminal warmed against the bone of her wrist, and a green band ran across it and faded. She slept with it off, face down on the shelf by her bed. This morning she'd stood in her doorway with it in her hand for twelve seconds before she buckled it on, and for those twelve seconds the city hadn't been able to hear her. Now it could. Her pulse came down toward sixty-five, the number the towers liked their watchers to hold, and she held it there.
+Her terminal warmed against the bone of her wrist, and a green band ran across it and faded. She slept with it off, face down on the shelf by her bed. Every morning she stood in her doorway with it in her hand for twelve seconds before she buckled it on, and for those twelve seconds the city couldn't hear her. Now it could. Her pulse came down toward sixty-five, the number the towers liked their watchers to hold, and she held it there.
 
 The Skylark lifted her toward the monitoring floor. RISE ABOVE SUFFERING ran along its walls in soft blue letters. Through the glass the city fell away in layers — Drona's spires, the cloud, and somewhere under the cloud, the mine — and above everything hung the dark underside of Meru.
 
 In the door's polished metal she caught herself leaning forward.
 
-She hadn't meant to. She was about to spend three days watching children be broken on purpose, and some part of her couldn't wait to see what they'd do. She straightened her gray-blue collar before the doors opened.
+She hadn't meant to. She was about to spend three days watching sixteen kids be broken on purpose, and some part of her couldn't wait to see what they'd do. She straightened her gray-blue collar before the doors opened.
 
 ---
 
@@ -108,11 +108,11 @@ Elara pulled up the first profile.
 
 She ran the numbers again. A Miner Town ration built one kind of body: lean, tough, worn down by the time you were seventeen. It didn't build this. Somebody had spent years putting their own rations into this boy.
 
-"That mass doesn't close against his ration history," she said. "Someone's been giving him their share since he was a kid, and the system never flagged it."
+"That mass doesn't close against his ration history," she said.
 
 "Then the anomaly has parents," Daren said, without looking up. "File it."
 
-The prompt sat under her thumb. FILE. She kept her thumb where it was and didn't press.
+The prompt sat under her thumb: *File*. She kept her thumb where it was and didn't press.
 
 Filed, he would be a closed anomaly, one line in a log nobody reread. She had marked a hundred files like that in training, practice records with practice names. This one had a pulse-line running under it, slow and steady, a boy somewhere under the cloud who didn't know her name.
 
