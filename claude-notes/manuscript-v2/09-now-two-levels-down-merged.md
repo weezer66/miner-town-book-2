@@ -100,7 +100,9 @@ She looked at the circle until the lamp swam. Then she picked up the cover.
 
 It went on the way it had come off: lay it along the trough, think about the two points, press. The seam closed with the same cold sound and was gone. She ran her thumbnail down where it had been and felt nothing. She opened the hand and closed it. Half a breath. She did it again and the half was shorter, and she caught the engineer counting the gap too.
 
-"Right," he said, and she heard it was the highest thing he had.
+"Right," he said.
+
+When he had gone she found the tray of the arm's spares at the end of the bench, small grey parts sorted into foam. She took a pin no longer than her little finger and cut it with the tin snips, and carried it to the sink. The metal hand held it against the lip, late, while she filed one end to the inside point below the elbow. Her own switch, if she could make it answer first. She knotted it onto a cord and put the cord inside her collar.
 
 ---
 
@@ -178,11 +180,11 @@ She thought about the web, finer than hair, going in under the seal.
 
 "No," he said. "Then you will have to look harder than I would have liked."
 
-"I already am." She touched her collar, where a cord she'd knotted an hour ago held a pin no longer than her little finger, cut from a tray of the arm's spare parts, one end filed to the inside point below the elbow. Her own switch, if she could make it answer first. "Mine. It doesn't work yet."
+"I already am." She touched the cord at her collar. "Mine. It doesn't work yet."
 
 He looked at the cord a long time. "File the other end as well," he said, and looked down at his drawing.
 
-Both points at once. He was telling her how.
+Both points. She'd known that since the bench. What she hadn't known was that he'd help.
 
 She looked past him at the shelves. On the one nearest his elbow, at the height of her eyes, stood a doll in a miner's jacket with a lamp painted on its forehead, grey moustache, the paint on the cheeks rubbed pale. He saw her looking. He reached over and took it down, and twisted it at the waist, and lifted off the top half.
 
@@ -220,7 +222,7 @@ She waited until the miner was whole again and back on the shelf, lamp facing ou
 
 Ben was in a room she hadn't been in, on the level between.
 
-The medic had brought him; she was standing at the back with her hands folded and her pink-scrubbed wrists, and she inclined her head to Camilla and didn't speak. One wall was screens, small, a grid of them, grey pictures with no sound. A man at a desk underneath them wore a headset and didn't look round. The pictures moved. The pump. A shaft head. The ration queue, from above. Miner Town, all of it, without its noise.
+The medic had brought him; she was standing at the back with her hands folded and her pink-scrubbed wrists, and she inclined her head to Camilla and said, low, "He asked to see the gates. I thought he should be allowed to." One wall was screens, small, a grid of them, grey pictures with no sound. A man at a desk underneath them wore a headset and didn't look round. The pictures moved. The pump. A shaft head. The ration queue, from above. Miner Town, all of it, without its noise.
 
 Ben was standing in front of one screen in the bottom row. The gates.
 
