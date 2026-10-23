@@ -1,6 +1,6 @@
 # Chapter 10: The Key
 
-*Ben looked between them — the Engine about to charge blindly into the dark, the Fighter about to collapse into himself — and said the only thing that mattered: “We stay together. We think. Then we move.”*
+*“We stay together. We think. Then we move.”*
 
 — Book 1, Chapter 4: Emily’s Not Talking
 
@@ -40,7 +40,7 @@ Elara got up and turned the lights one notch higher.
 
 Her wrist terminal sat dark on her left arm. Anything she wrote into it would be underlined somewhere she couldn't see, so she took a sheet of plain paper from the drawer and a pen that needed shaking before it would run. She hadn't written by hand since her examinations, and the slowness made every word pay for its place. She wrote two notes. The shorter one went to Anandi, and said only that she needed a room in Ashoka, lawfully (Review Room Two, at nineteen hundred, if it could be had), and a reason that would survive being read by anyone. The longer one she wrote three times, crossing out every sentence that sounded like a plea, until what remained sounded like an office talking to an office.
 
-She folded it once. By the time the grille stopped ticking, it was on its way to a door in the Ashoka barracks.
+She folded the longer note once. By the time the grille stopped ticking, it was on its way to a door in the Ashoka barracks.
 
 ---
 
@@ -50,7 +50,7 @@ The room held nothing that didn't serve discipline. A narrow bed. A folded unifo
 
 The one exception was wedged into the slot of the boot rack: a paper crane, lopsided, one wing folded twice and the head bent the wrong way. The smallest of the Little Dragons had refused to bow out of class until he accepted it. He had not found a regulation that covered it, so it stayed.
 
-He held the horse stance low, thighs level, until they trembled and then past the trembling. Controlled descents that denied the body its momentum. Breath measured against the strain until the mind stopped asking when it would end. Sweat ran down the scar along his jaw. The split across his third knuckle had opened again in pad work, because the little ones hit with their whole bodies and his hands took whatever the pads missed; he had sealed it with a thread of medical glue that pulled when he made a fist. Failure might happen. Surrender was never permitted to arrive first.
+He held the horse stance low, thighs level, until they trembled and then past the trembling. Controlled descents that denied the body its momentum. Breath measured against the strain until the mind stopped asking when it would end. Sweat ran down the scar along his jaw. The split across his third knuckle had opened again in pad work, because the little ones hit with their whole bodies and his hands took whatever the pads missed; he had sealed it with a thread of medical glue that pulled when he made a fist.
 
 He had lowered himself into the last hold when a pale rectangle slid under the door.
 
@@ -88,7 +88,7 @@ AUTHORITY: DRONA, GRANDMASTER'S SEAL.
 
 He stayed on the last line until the reader dimmed. The letter had touched no system. The room had, and the room carried the seal of Drona's own Grandmaster. Whatever Elara meant to ask, someone far above her had agreed to hold the door open while she asked it.
 
-Rohan went back to the center of the floor and sank into the stance a second time, the way he did before any deployment.
+Rohan went back to the center of the floor and sank into the stance a second time. He did the same before any deployment.
 
 ---
 
@@ -114,7 +114,7 @@ Second.
 
 She watched the clerk's mark stamp a woman's file and send her off, and then the top of the column read GAGE. DEPENDENT OF RECORD. NEXT.
 
-Elara pushed the chair back and stood up.
+Elara pushed the chair back and stood up. Someone would see it. That was the arrangement.
 
 That was all of it. She didn't look at the door, or the High Command button, or anywhere a person might be. She stood at VARIANCE with her arms at her sides and watched the held list.
 
@@ -128,7 +128,7 @@ In the corner of the grid a feed from the lift head waited, grey and coarse, one
 
 Her terminal ticked once against her wrist. She turned it over.
 
-*Monitor left station during live intake. Appended to open review.*
+*Monitor left station during live intake.* The station had read her standing as gone. *Appended to open review.*
 
 Beneath it, where it had sat since her first night on this floor, the conduct note was still pending. The new line had gone into the same file.
 
@@ -148,17 +148,13 @@ At the platform beneath the research wing she pressed her left wrist to the read
 
 The train arrived without a sound and rode a hand's width above the rail on nothing at all, and the carriage was moving before she felt it move.
 
-She read the passengers by habit, the way the monitoring room had taught her to read everything. A Kubera allocation officer sat with a ledger pane on one knee, his muted-gold insignia centered to the millimeter, moving figures across the glass with small proprietary flicks. By the central rail stood an Ashoka responder, broad enough to make the carriage seem narrower, balanced against its motion without touching the rail at all. He carried no weapon. He was one.
+She read the passengers by habit; the monitoring room had taught her to read everything. A Kubera allocation officer sat with a ledger pane on one knee, his muted-gold insignia centered to the millimeter, moving figures across the glass with small proprietary flicks. By the central rail stood an Ashoka responder, broad enough to make the carriage seem narrower, balanced against its motion without touching the rail at all. He carried no weapon. He was one.
 
 Across from Elara sat a mother with an infant bound against her chest in a sling of faded orange cloth.
 
-The infant didn't look away the way the adults did. It stared at Elara's collar, freed one fist from the sling, and pointed straight at the Drona mark. Then it turned to its mother and delivered a solemn burst of explanation, every syllable urgent and none of them words. The mother followed the finger, met Elara's eyes, and smiled an apology.
+The adults looked away. The infant didn't. It stared at Elara's collar, freed one fist from the sling, and pointed straight at the Drona mark. Then it turned to its mother and delivered a solemn burst of explanation, every syllable urgent and none of them words. The mother followed the finger, met Elara's eyes, and smiled an apology.
 
 Elara laughed before she could stop it, a small sound into her own sleeve. The child had identified her entire authority in one gesture and then asked for a second opinion. The infant, satisfied, put the fist in its mouth.
-
-Drona fell away behind them in layers of pale stone: observation rings turning slowly on the institute spires, laundry lines strung across maintenance balconies in defiance of three separate ordinances.
-
-Between towers, Trinity opened beneath the carriage, and far below it the lower levels vanished into cloud.
 
 Trinity-3 changed before the signs did. Drona's buildings invited the eye to rest. Ashoka's rose in hard planes, with reinforced bridges and landing decks broad enough for armored transports.
 
@@ -184,29 +180,29 @@ One moved first. The other blocked, stepped back, and stopped with the staff a f
 
 The recruit lowered the staff. "Because the threat had ended."
 
-The request she was carrying grew heavier with every name on the wall. Drona answered a request with analysis. Ashoka answered with bodies, and she was about to ask it to stake them on a judgment she could not prove, with a line on her review from this morning that she could not explain.
+The request she was carrying grew heavier with every name on the wall. Drona answered a request with analysis. Ashoka answered with bodies, and she was about to ask it to stake them on a judgment she could not prove, with a line on her review from this morning that she would not explain.
 
 Review Room Two waited behind a red door marked with a single white numeral. The seal opened at her palm without a question.
 
 Rohan was already seated at the far side of the table, shoulders still, hands resting where he could reach anything without appearing ready to. His face gave away nothing. The table between them had a shallow dent near his end where someone had once brought a fist down, and Ashoka had evidently decided the dent should stay too.
 
-She sat. She did not tell him what he had watched from the CORRECTION console three consoles from her own. She laid the events in sequence instead, the way Drona built a case, until the separate incidents stopped looking separate and began to look like a direction.
+She sat. She did not tell him what he had watched from the CORRECTION console three consoles from her own. She laid the events in sequence instead, by Drona's method, until the separate incidents stopped looking separate and began to look like a direction.
 
 Then she stopped, because the next part could not be reported. It had to be admitted.
 
-"Before the boys walked out of the mine gates, I altered the record," she said. "I kept them together. No one authorized it. I decided that what they chose in that chamber was evidence, and I preserved it." Her voice held. Her hands, flat on the table, did not. "And this morning at first bell I left my station during a live intake. The terminal logged it. It's appended to my open review, and I won't tell you why, in this room or any other. You should know that before you agree to anything. The person asking for Ashoka's help has already broken procedure twice."
+"Before the boys walked out of the mine gates, I altered the record," she said. "I kept them together. No one authorized it. I decided that what they chose in that chamber was evidence, and I preserved it." Her voice held. Her hands, flat on the table, did not. "And this morning at first bell I left my station during a live intake. The terminal logged it. It's appended to my open review. I won't tell you why I stood up, in this room or any other. You should know that before you agree to anything. The person asking for Ashoka's help has already broken procedure twice."
 
-Rohan's eyes went to her left cuff and came back. His expression didn't move. "I stood three consoles away. I watched Daren accuse you, and I made you a promise anyway. Ashoka does not retract its word because the truth arrives with details."
+Rohan's eyes went to her left cuff and came back. His expression didn't move. "I stood three consoles away. I watched Daren accuse you, and I made you a promise anyway." He let the silence sit. "A promise is not a deployment. Go on."
 
 She gave him the rest: the council, the cards, the library wing, the doubled transfer, the native record, and at the bottom of it two letters that no registry contained. He listened without interrupting.
 
 "So," he said, and leaned forward by the smallest possible degree. "What do you want from Ashoka that you could not put in the letter?"
 
-"We are stuck," Elara said. "Not only Drona. Whatever this is, it is moving through the balance that keeps Trinity standing. Push on it, and each gana falls back on its own instinct. Ashoka will spend its strength on containment. Drona will turn inward to guard what it knows."
+"We are stuck," Elara said. "Whatever this is, it is moving through the balance that keeps Trinity standing. Push on it, and each gana falls back on its own instinct. Ashoka will contain. Drona will hoard. Kubera will close its books. Nobody will look at the gap. Whoever signed those two letters is counting on it."
 
 "You are describing every house doing its job."
 
-"Yes. That is the trap." She kept her eyes on his. "Kubera will close around its reserves. Chanakya will defend its interpretations instead of testing them. Four houses, each doing exactly what it was built for, and the city left unwatched in the middle. Whoever signed those two letters is counting on it."
+"Yes. That is the trap."
 
 "Then say what you need."
 
@@ -226,9 +222,21 @@ Anandi, Kavik, Sarvajña, Draṣṭā, the Ancient One: none of them had given h
 
 Rohan's hands closed once on the table edge and opened again.
 
-"Then hear the price," he said. "If my people find this, Ashoka hears it before you do. And your name goes on the request."
+"Then hear the price," he said. "Ashoka does not deploy for someone who hides her own breach. Tell me why you stood up, or take your request back to Drona."
 
-Whatever they found would reach Ashoka first, and her when Ashoka chose. And her name would sit on a request to another gana's Grandmaster, where anyone who came looking for the struck line in the induction file, or the line from this morning, would find it waiting. *You signed,* the Ancient One had said.
+She had carried the morning here under her cuff and meant to carry it out again. It was not only hers to give, and he was asking for all of it.
+
+"There was a held number on the inspection list," she said. "4055. A dead man's slot, flagged for two years and never read. This morning the flag closed while the pool was empty and one boy stood at the head of the line, and the slot went to him. His father's number." Her palms pressed the wood and would not stop shaking. "I stood up so that it would close then. No one ordered it. I did it alone."
+
+"An inspection flag does not clear because a monitor stands."
+
+"No."
+
+He looked at her hands and did not ask the next question.
+
+"The rest of the price," he said. "If my people find this, Ashoka hears it before you do. And your name goes on the request."
+
+Whatever they found would reach Ashoka first, and reach her only when Ashoka chose. And her name would sit on a request to another gana's Grandmaster, where anyone who came looking for the struck line in the induction file, or the line from this morning, would find it waiting. *You signed,* the Ancient One had said.
 
 "Put it there," Elara said. "Elara Nathan, Drona."
 
@@ -236,10 +244,6 @@ He held her eyes until he was sure she meant it.
 
 "Then it is Ashoka's problem," he said. "It was already. You just told me where to look."
 
-He rose.
-
-"Very well, Monitor Nathan. I will request an audience with the Grandmaster, and bring you word as soon as I am heard."
-
-He held his right hand out across the dented table. Elara stood and took it. His grip was firm and brief and had no ceremony in it at all, the glue on his knuckle rough under her fingers. It was the grip of someone agreeing to a plan.
+He rose and held his right hand out across the dented table. Elara stood and took it. His grip was firm and brief and had no ceremony in it at all, the glue on his knuckle rough under her fingers.
 
 In Drona's ledgers, the doubled transfer went on turning into shelves and scaffolding.
