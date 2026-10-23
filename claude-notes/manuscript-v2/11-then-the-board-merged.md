@@ -54,7 +54,7 @@ He was smaller than Ravi had expected. His hair was silver-white, pulled back at
 
 Ravi sat. The board became the only world there was.
 
-Below the rail, the living board filled the arena floor: sixty-four pale and dark squares, each large enough to hold a rider. Sixteen footmen in white faced sixteen in black, short ceremonial spears upright. Behind them stood the elephants, real and immense, handlers in lacquered harness on their necks. Horses stamped at the flanks beside tall camels draped in geometric cloth. On each back rank an adorned horseman under a high crested helm stood for the king, and beside him a lady of honor sat a dark mare, robed in green and gold beneath a slender circlet, standing for the queen. A footman taken here would walk to the square where he was taken, stand in it, and be led off in front of everyone.
+Below the rail, the living board filled the arena floor: sixty-four pale and dark squares, each large enough to hold a rider. Eight footmen in white faced eight in black, short ceremonial spears upright. Behind them stood the elephants, real and immense, handlers in lacquered harness on their necks. Horses stamped at the flanks beside tall camels draped in geometric cloth. On each back rank an adorned horseman under a high crested helm stood for the king, and beside him a lady of honor sat a dark mare, robed in green and gold beneath a slender circlet, standing for the queen. A footman taken here would walk to the square where he was taken, stand in it, and be led off in front of everyone.
 
 The Grandmaster touched a white pawn and moved it two squares. On the floor a white footman stepped forward and struck his spear butt once.
 
@@ -100,7 +100,7 @@ He moved the queen.
 
 Below, the white lady of honor touched her heel to the mare, and the mare went from stillness into motion. She crossed on a line Ravi had counted and dismissed four moves earlier, her robe lifting as the mare turned, and when she stopped the whole arena seemed to pull toward her.
 
-"White queen to king's knight four. Counter-threat."
+"White queen. Counter-threat."
 
 His hand hung above the board. He traced the pressure: the queen, the elephant's file, the footman pushed without ambition, the camel he'd sent forward because the attack had looked free. It had been invited.
 
@@ -108,7 +108,7 @@ He moved a pawn up to blunt the queen's line. On the floor a black footman stepp
 
 The queen took him. The white mare crossed into the black line, slowly enough for everyone to see it.
 
-"White queen takes king's knight pawn. Check."
+"White queen takes. Check."
 
 Ravi saw the cage. His horse could come back, too late. His camel had gone too far to cover the square it had left. The elephant held one escape, the queen another, and two white footmen he had ignored for being too humble to matter sealed the last. Every forward move he'd made had emptied a defense behind it.
 
@@ -124,7 +124,7 @@ The Grandmaster's fingers closed over the white queen. Ravi saw the square befor
 
 The Grandmaster's side of the clock flashed red.
 
-Nothing sounded. Chanakya did not embarrass urgency by making it loud. A narrow line of text opened on the Grandmaster's private display, visible to no one else, and his face changed before it had finished writing itself. The gentleness went out of it. Behind Ravi the elders sat straighter without knowing why.
+Nothing sounded. Chanakya did not embarrass urgency by making it loud. A narrow line of text opened on the Grandmaster's private display, visible to no one else, and his face changed before it had finished writing itself. The gentleness went out of it. Behind Ravi, chairs creaked as the elders sat straighter.
 
 The Grandmaster let go of the queen without moving her.
 
@@ -210,6 +210,6 @@ The four notes came up in his throat, the same four, low enough to stay in the r
 
 The residential corridor was green-gray and thin with the night rotation, representatives walking to analysis rooms with panes under their arms. As Daren came within range a wrist terminal flickered on a clerk's left arm. A wall sensor dimmed. A route marker on the floor slid aside, and a woman stepped with it without looking down. Nobody stopped him. These were people trained since childhood to notice what others missed, and they parted around him, each following a floor marker that had moved a hand's width for him.
 
-Drona first, Kubera's old man had said. Nobody had said Chanakya last.
+Drona first, Kubera's old man had said. He had never said what came after.
 
 He kept walking, and the corridor kept making room.
