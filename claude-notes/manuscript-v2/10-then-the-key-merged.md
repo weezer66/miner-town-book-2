@@ -10,27 +10,23 @@ Elara sat on the edge of her bed with the lights turned down to the last notch b
 
 There was a grey smudge on the pad of her forefinger from the archive glass. She rubbed it against her thumb and it stayed.
 
-Two letters. Every other signature in Drona's records was a door with a person behind it, an office or an elder or a line of succession she could walk back up until it reached a face. This one opened onto nothing, and the system had obeyed it anyway.
+OG. Two letters, and no registered authority behind them. Every other signature in Drona's records was a door with a person behind it, an office or an elder or a line of succession she could walk back up until it reached a face. This one opened onto nothing, and the system had obeyed it anyway.
 
 Her breath came shorter than the small room needed.
 
-She knew the sensation from the council chamber: the Ancient One's hand rising, and the air leaving her chest as if a valve had closed. Tonight the archive had declined to give her an answer. Both felt like the same hand.
+She knew the sensation from the council chamber: the Ancient One's hand rising, and the air leaving her chest as if a valve had closed. Tonight the archive had done the same thing without raising one.
 
 The ventilation grille above the door ticked as it cooled. She counted the ticks until her lungs agreed.
 
 Sarvajña's voice came back first. *Something is moving inside Kubera with no name and no office on it.*
 
-Then Draṣṭā's cards, turned one by one on the dark wood. Trishanku, hung between categories. Ashwatthama, a conflict that could not end. Rahu, the danger that kept returning.
+It had a shape now, two letters wide, and Drona could carry her no closer to what stood behind it.
 
-Draṣṭā had left them face up and said nothing about what any of them meant, and Elara's eyes had kept going back to the second.
-
-What they pointed at, she still didn't know. It had a shape now, two letters wide, and Drona could carry her no closer to whatever stood behind it.
-
-The archive had shown her the wall and proved that something stood behind it. It could not follow two letters through another house's corridors to the hand that had written them. It could not put itself between three boys and a sealed order on the day the order became force.
+The archive could not follow two letters through another house's corridors to the hand that had written them. It could not put itself between three boys and a sealed order on the day the order became force.
 
 If Drona meant to do more than know, it needed someone who could find whoever was moving behind those letters, and stand in the way.
 
-She thought of Ashoka. Set aside the force ladder and the uniforms, and what was left was the Ashoka its own instructors believed in: strength kept under discipline, a body placed between a person and an accusation before the accusation hardened into a sentence.
+She thought of Ashoka. Set aside the force ladder and the uniforms, and what was left was the Ashoka its own instructors believed in: strength kept under discipline, a body placed between a person and an accusation.
 
 Then she thought of Rohan.
 
@@ -138,7 +134,7 @@ She sat down. The column stepped up. The pool read zero.
 
 That evening Elara fastened the gray-blue collar in the narrow mirror and aligned the small Drona mark at her throat.
 
-Kubera dressed to be envied and Ashoka to be obeyed. Drona dressed for the work, plain enough to disappear beside whatever it studied. She checked the closure at each wrist. On the left, under the cuff, the terminal still held the morning's line. She let the cuff cover it and pulled her hair back from her face.
+She checked the closure at each wrist. On the left, under the cuff, the terminal still held the morning's line. She let the cuff cover it and pulled her hair back from her face.
 
 Anandi's answer had come before dawn, three lines in her small upright hand. She had gone to the Ancient One in the night and asked for one narrow thing: a formal Ashoka review of the Initiation response protocols, with Elara permitted to present unresolved findings directly to Rohan. It had been released under the Ancient One's own authority.
 
@@ -146,9 +142,9 @@ She touched the edge of her collar once and left before she could find a reason 
 
 At the platform beneath the research wing she pressed her left wrist to the reader. The maglev asked no fare, but it asked identity, and it found the review code filed under the Ancient One's name and lit her route before she could state it.
 
-The train arrived without a sound and rode a hand's width above the rail on nothing at all, and the carriage was moving before she felt it move.
+The train arrived without a sound, and the carriage was moving before she felt it move.
 
-She read the passengers by habit; the monitoring room had taught her to read everything. A Kubera allocation officer sat with a ledger pane on one knee, his muted-gold insignia centered to the millimeter, moving figures across the glass with small proprietary flicks. By the central rail stood an Ashoka responder, broad enough to make the carriage seem narrower, balanced against its motion without touching the rail at all. He carried no weapon. He was one.
+She read the passengers by habit. By the central rail stood an Ashoka responder, balanced against the carriage's motion without touching the rail at all. He carried no weapon, and nobody sat within arm's reach of him.
 
 Across from Elara sat a mother with an infant bound against her chest in a sling of faded orange cloth.
 
@@ -156,17 +152,11 @@ The adults looked away. The infant didn't. It stared at Elara's collar, freed on
 
 Elara laughed before she could stop it, a small sound into her own sleeve. The child had identified her entire authority in one gesture and then asked for a second opinion. The infant, satisfied, put the fist in its mouth.
 
-Trinity-3 changed before the signs did. Drona's buildings invited the eye to rest. Ashoka's rose in hard planes, with reinforced bridges and landing decks broad enough for armored transports.
-
 "Ashoka Headquarters," the carriage said. "Authorized personnel only."
 
-The station narrowed to a single gate of red-marked steel, and when Elara laid her hand to the scanner it read her insignia, the Ancient One's authority, and her destination.
+The station narrowed to a single gate of red-marked steel. It read her insignia, the Ancient One's authority, and her destination, and opened one body wide.
 
-"Monitor Elara Nathan. Drona. Review Room Two. Access approved."
-
-The gate opened one body wide and sealed behind her. A thin red line lit along the floor's edge, tracing her route.
-
-Ashoka Headquarters rose around a central training court where recruits drilled under silent instructors. At the far end of the court, a red insignia had been set into the floor so deep it looked less like decoration than a wound the building had chosen to keep visible.
+Ashoka Headquarters rose around a central training court where recruits drilled under silent instructors. At the far end of the court, a red insignia was cut so deep into the floor that recruits stepped around it.
 
 Along one corridor wall, names had been cut into the metal: responders who had died holding evacuation routes, or containing fires, or standing between civilians and a force they could not stop. Some of the letters had been rubbed bright at shoulder height, where people passing had touched them.
 
@@ -190,7 +180,7 @@ She sat. She did not tell him what he had watched from the CORRECTION console th
 
 Then she stopped, because the next part could not be reported. It had to be admitted.
 
-"Before the boys walked out of the mine gates, I altered the record," she said. "I kept them together. No one authorized it. I decided that what they chose in that chamber was evidence, and I preserved it." Her voice held. Her hands, flat on the table, did not. "And this morning at first bell I left my station during a live intake. The terminal logged it. It's appended to my open review. I won't tell you why I stood up, in this room or any other. You should know that before you agree to anything. The person asking for Ashoka's help has already broken procedure twice."
+"Before the boys walked out of the mine gates, I altered the record," she said. "I kept them together. No one authorized it. I decided that what they chose in that chamber was evidence, and I preserved it." Her voice held. Her hands, flat on the table, did not. "And this morning at first bell I left my station during a live intake. The terminal logged it. It's appended to my open review. I won't tell you why I stood up. You should know that before you agree to anything. The person asking for Ashoka's help has already broken procedure twice."
 
 Rohan's eyes went to her left cuff and came back. His expression didn't move. "I stood three consoles away. I watched Daren accuse you, and I made you a promise anyway." He let the silence sit. "A promise is not a deployment. Go on."
 
@@ -226,7 +216,7 @@ Rohan's hands closed once on the table edge and opened again.
 
 She had carried the morning here under her cuff and meant to carry it out again. It was not only hers to give, and he was asking for all of it.
 
-"There was a held number on the inspection list," she said. "4055. A dead man's slot, flagged for two years and never read. This morning the flag closed while the pool was empty and one boy stood at the head of the line, and the slot went to him. His father's number." Her palms pressed the wood and would not stop shaking. "I stood up so that it would close then. No one ordered it. I did it alone."
+"There was a held number on the inspection list," she said. "4055. A dead man's slot, flagged for two years and never read. This morning the flag closed while the pool was empty and one boy stood at the head of the line, and the slot went to him. His father's number." Her palms pressed the wood and would not stop shaking. "I stood up so that it would close then."
 
 "An inspection flag does not clear because a monitor stands."
 
