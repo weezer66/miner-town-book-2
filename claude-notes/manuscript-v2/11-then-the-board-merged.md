@@ -1,8 +1,8 @@
 # Chapter 11: The Board
 
-*Otto listened without interrupting. When she finished, he sat still for a long time. Then he said: “Master Chan did something close to this once. His hand locked up after he overworked it — weeks of cramping, fingers that wouldn’t open even when he willed them. He didn’t try to force it. He sat cross-legged every morning and opened the hand in his mind — slowly, fully, every finger uncurling, an hour at a time. After a month the hand started answering him again. I never understood why it worked. But what you just described — the brain needing feedback to break the loop — that’s the same principle. You give the brain a mirror; Chan gave it attention.”*
+*"You're a big boy, Gage. The faster a structure moves, the easier it is to tip."*
 
-— Book 1, Chapter 17: Mirror Mirror in the Box
+— Book 1, Chapter 9: Badge 732
 
 ## Then: Trinity-2
 
@@ -18,7 +18,7 @@ GYMNASIUM ROTATION: 05:00.
 
 STRATEGIC EXERCISE: GRANDMASTER TABLE, LOTTERY SELECTION CONFIRMED.
 
-He lay looking at the last line until the display dimmed to save power.
+He lay looking at the last line until the display dimmed to save power. The summons released him from EVENT for the whole of intake morning.
 
 Every year Chanakya ranked its top ten across policy simulation, adversarial debate, probability games and classical chess, and the ten drew lots for one formal match against the Grandmaster. Most lost quickly. A few lasted long enough to earn a comment. The elders' ranking notes had a small mark beside Ravi's name, *youngest of the ten*, twenty years old and three years into the analyst track. He had seen the mark. He had been meant to.
 
@@ -74,7 +74,9 @@ Ravi kept his hand near the pieces. "Only when the answer reveals something."
 
 A footman went forward one square on the white side, so modest beside the camel's reach that it looked like nothing. Ravi understood the offer. The Grandmaster had left the camel alone and asked it to declare its purpose.
 
-Ravi brought his horse out instead, and below, the black horse crossed the squares with its mane braided in ink-green thread. Two of his pieces now pressed on the white center.
+Ravi brought his horse out instead, and below, the black horse crossed the squares with its mane braided in ink-green thread. Two of his pieces now pressed on the white center. He castled, and the black king's horseman and the near elephant traded squares at a walk.
+
+"Black castles," the announcer called.
 
 "Ambition has good posture," the Grandmaster said. "It stands taller just before it overreaches."
 
@@ -88,7 +90,7 @@ The animal crossed into the open file with slow, crushing feet, dust rolling hea
 
 He had been attacking the center. The Grandmaster had been opening a road.
 
-Ravi pushed the camel deeper. "Black camel to king's rook five," the announcer called. "Check threat declared." The students near the back made a low sound. Several elders stopped writing.
+Ravi pushed the camel deeper. "Black camel to king's rook five," the announcer called. The students near the back made a low sound. Several elders stopped writing.
 
 The Grandmaster lifted his eyes from Ravi to the camel.
 
@@ -112,7 +114,7 @@ The queen took him. The white mare crossed into the black line like a blade draw
 
 Ravi saw the cage. His horse could come back, too late. His camel had gone too far to cover the square it had left. The elephant held one escape, the queen another, and two white footmen he had ignored for being too humble to matter sealed the last. Every forward move he'd made had emptied a defense behind it.
 
-The Grandmaster folded his hands. "A player may win the first argument. The board decides whether the argument mattered."
+The Grandmaster folded his hands. "You won the center. I let you."
 
 Heat climbed under Ravi's collar. A quick loss could be filed as a mistake. This was a lesson, laid out so that every legal move kept the game alive and made the truth of it worse. On the floor the black king's horseman shifted in his saddle and drew his reins tight.
 
@@ -152,9 +154,7 @@ A rebellion delayed by nine years.
 
 A law passed with language no one understood until it was too late to amend.
 
-Ravi had walked this hall a hundred times as a student and stopped at the famine, because the famine was the one they tested. Today he slowed at the last panel. His legs had begun to shake under the coat, late, the run and the board arriving together, and he stood until they stopped. The board didn't always end when the strongest move was made. Sometimes it ended when one side decided how the move would be remembered, and someone had just decided that for him.
-
-Past the Hall, in the narrow Corridor of Unsaid Things, an instructor stood with two apprentices before a black glass case holding one blank sheet of paper, teaching them to read it as a decision someone had made.
+Ravi had walked this hall a hundred times as a student and stopped at the famine, because the famine was the one they tested. Today he slowed at the last panel. His legs had begun to shake under the coat, late, the run and the board arriving together, and he stood until they stopped. Someone had decided how this game would be remembered. It hadn't been him.
 
 People looked at Ravi differently on the way back to the residential wing. Chanakya rarely did anything openly when a subtler option existed, but eyes lifted, held, and moved on. The story had begun to set around him before anyone said it aloud.
 
@@ -170,29 +170,31 @@ He let his door close behind him.
 
 The black king from the match sat on his writing surface.
 
-He knew it at once: dark stone, a pale seam through the base, one shoulder of the crown worn smooth. Twenty minutes ago it had been on the Grandmaster's table, trapped. Beside it lay a small printed card.
+He knew it at once: dark stone, a pale seam through the base, one shoulder of the crown worn smooth. Half an hour ago it had been on the Grandmaster's table, trapped. Beside it lay a small printed card.
 
 YOU ARE WELCOME.
 
 Ravi didn't touch either.
 
-The Grandmaster could have sent them. That was the easiest explanation and so the least trustworthy. A man who meant to spare him wouldn't have built the cage so completely, or released the queen only after the alert came. There were older players in the ten, sharper ones. Nobody had a reason to protect Ravi from a full defeat.
+The Grandmaster could have sent them. That was the easiest explanation. He set it aside. A man who meant to spare him wouldn't have built the cage so completely, or released the queen only after the alert came. There were older players in the ten, sharper ones. Nobody had a reason to protect Ravi from a full defeat.
 
 Unless the defeat had never been the point.
 
 Someone had known the board. Someone had known the Grandmaster was one move from mate and had reached far enough into Chanakya to interrupt him, then lifted the king off a guarded table, carried it through the wing, and set it in this room before Ravi's feet had finished the walk. The card said the interruption had been done for him. It didn't say why, which meant he was supposed to come and ask.
 
-He picked up the king and closed his hand around it. The stone was warmer than the room.
+He picked up the king and the card, and closed his hand around the king. The stone was warmer than the room.
 
-He sat on the narrow bed without undressing and let his mind work. Access path. Motive. Board state. Each answer split into three, and every branch bent back to the same fact: someone had stopped a checkmate before it became a loss and wanted him to know it. The window went from grey to the color of the walls, and then darker than the walls. The card slid off his knee onto the blanket. He didn't notice. Eventually the arguments stopped standing up, and he lay back with the king in his fist and slept.
+He sat on the narrow bed without undressing and let his mind work. Access path. Motive. Board state. Each answer split into three, and every branch bent back to the same fact: someone had stopped a checkmate before it became a loss and wanted him to know it. The window went from the color of the walls to darker than the walls, and the wing outside his door went quiet. No call came to return him to his console. The card slid off his knee onto the blanket. He didn't notice. Eventually the arguments stopped standing up, and he lay back with the king in his fist and slept.
 
 ---
 
-The storage recess had smelled of laundry starch and stacked spare coats, and a hanger's hook had been pressing between Daren's shoulder blades since midday. He waited a minute after Ravi's breathing went long. Then he opened the recess from the inside and stepped out without a sound.
+Daren had set the king down with minutes to spare.
+
+The storage recess smelled of laundry starch and stacked spare coats, and a hanger's hook had been pressing between his shoulder blades since the match ended. The first part had been the band: one narrow line sent from the arena gallery into the Grandmaster's private display, on a path that would wear someone else's name if anyone ever walked it back. The second part had been hands. While the elders rose and the tiers broke into whispers, the black king had left the guarded table inside his glove, and it had been standing on the writing surface before Ravi finished the Hall. Then the recess, and the long afternoon, and the dark. He waited a minute after Ravi's breathing went long. Then he opened the recess from the inside and stepped out without a sound.
 
 In the unlit room the ensemble was darker than the walls. The Chanakya boy lay on his back with the king still clenched, his mouth slightly open, a crease between his brows where the problem had followed him under. Daren had watched the footage of the Initiation get passed round this gana. They'd laughed loudest. Now one of their best had gone to sleep inside a question and failed to think his way out.
 
-The card lay on the edge of the blanket. Daren lifted it between two fingers and slid it into the inner seam of his right glove, where the mesh met the cuff just short of the band. In its place, beside Ravi's open hand, he set the other card.
+The card lay on the edge of the blanket. Daren lifted it between two fingers and slid it into the inner seam of his right glove, where the mesh met the cuff just short of the band. The first card had only said he was welcome. The second was the invitation, and it was for the morning, when Ravi woke and understood that someone had stood over him while he slept. In its place, beside Ravi's open hand, he set the other card.
 
 21:00.
 
@@ -200,12 +202,14 @@ East Policy Conservatory.
 
 Come alone.
 
+He would have the whole day to decide whether to come.
+
 The window above the writing surface held Chanakya's slice of sky. He found it without looking for it: the patch of dark between the stars, the lights around it bent into tight wrong arcs, one dropping out of sight at the edge and coming back above. The mass at the center showed itself only in what it moved.
 
 The four notes came up in his throat, the same four, low enough to stay in the room. Ravi didn't stir. Daren closed his mouth on the last one and let himself out.
 
-The residential corridor was green-gray and busy with the evening rotation, representatives walking to analysis rooms with panes under their arms. As Daren came within range a wrist terminal flickered on a clerk's left arm. A wall sensor dimmed. A route marker on the floor slid a hand's width to the side, and a woman stepped with it without looking down. Nobody stopped him. Eyes went to tablets, cuffs, floor grids, anywhere but the dark figure moving among them. These were people trained since childhood to notice what others missed, and they parted around him the way water parts around a stone it has decided isn't there.
+The residential corridor was green-gray and thin with the night rotation, representatives walking to analysis rooms with panes under their arms. As Daren came within range a wrist terminal flickered on a clerk's left arm. A wall sensor dimmed. A route marker on the floor slid a hand's width to the side, and a woman stepped with it without looking down. Nobody stopped him. These were people trained since childhood to notice what others missed, and they parted around him, eyes on cuffs and tablets, each certain the gap was their own idea.
 
-Drona first, the old man had said. Nobody had said Chanakya last.
+Drona first, the Master had said. Nobody had said Chanakya last.
 
 He kept walking, and the corridor kept making room.
