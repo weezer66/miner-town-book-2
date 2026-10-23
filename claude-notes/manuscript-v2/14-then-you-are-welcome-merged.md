@@ -8,7 +8,7 @@
 
 Meru received him from below.
 
-The lift rose at dusk past the terrace districts, past gardens fed by water the sectors had lifted a kilometer against gravity, orchards ripening out of season under tuned light, windows that looked down on the three Trinitys. Lamps were coming on along the garden paths. Attendants carried them, people who rode the lifts up each morning from the three Trinitys and would ride them down again before the last car, permitted to keep Meru beautiful but never to sleep in it. There were no markets here, no clinics, no school courtyards. Nothing on Meru was needed in a hurry. The people who lived there did not call themselves rulers. They called themselves stewards, and the word had lasted a century because no one below had ever been given the standing to laugh at it.
+The lift rose at dusk past the terrace districts, past gardens fed by water the sectors had lifted a kilometer against gravity. The people who lived there called themselves stewards. Nobody below had ever been asked to agree.
 
 Daren stepped out onto the lower terrace and kept to the rail. Meru had made him and would not house him, but the lower terrace still read his birth and let him stand there. No door on this tier was his, and he'd stopped wanting one to be.
 
@@ -28,7 +28,7 @@ OG.
 
 The work lamps went on burning over the wing. Under them, he supposed, someone was already grateful.
 
-The band gave him reach. For meaning he needed someone inside Chanakya. He looked past Drona's lamps to the green haze of Trinity-2 and thought of the EVENT console, across the grid from his own through the whole Initiation watch, and the analyst behind it who had decided what an incident was permitted to mean before Elara had finished reading a single figure.
+The band gave him reach. He looked past Drona's lamps to the green haze of Trinity-2 and thought of the EVENT console, across the grid from his own through the whole Initiation watch, and the analyst behind it who had decided what an incident was permitted to mean before Elara had finished reading a single figure.
 
 Ravi.
 
@@ -44,7 +44,7 @@ The door slid aside before his hand rose toward the release, and its log recorde
 
 At the maglev platform the gate queried the space in front of it, received an answer that satisfied every rule it knew, and opened without recording for whom.
 
-The carriage was half full: a Drona records clerk, two Ashoka responders rotating home, a family coming back from some sanctioned evening elsewhere. Every one of them could see the dark shape that boarded at the rear. Their eyes worked. But every citizen wore a terminal on the left wrist, and people saw what their instruments underlined and skimmed past everything else. The clerk angled her case away from what her wrist considered an empty seat. The responders ran the sweep their training demanded, and it closed without a gap.
+The carriage was half full: a Drona records clerk, two Ashoka responders rotating home, a family coming back from some sanctioned evening elsewhere. Every one of them could see the dark shape that boarded at the rear. Their eyes worked. But every citizen wore a terminal on the left wrist, and people saw what their instruments underlined and skimmed past everything else. To every wrist in the carriage, the band answered: nothing worth underlining. The clerk angled her case away from what her wrist considered an empty seat. The responders ran the sweep their training demanded, and it closed without a gap.
 
 In his Kubera years, Daren had entered carriages like this one wearing gold, and the gold had bought him a category: measured, placed, outranked by some, deferring to others. The obsidian bought him nothing so small. It removed him from the ledger of glances entirely.
 
@@ -102,7 +102,7 @@ What did he still control? The lamps were gone, and the voice and the record wit
 
 He sat. The chair's left armrest had been worn pale by a century of right-handed students leaning away from their notes.
 
-He played the losing side. The table answered with the Grandmaster's moves, unhurried, and the position closed around him exactly as it had in the arena. He tried the defense he'd built on the walk back through the Hall of Arguments. It failed in four moves. The table reset. He tried the sharper line he'd found at three in the morning with the king in his fist. It failed in six. The table reset again, patient as gravity.
+He played the losing side. The table answered with the Grandmaster's moves, unhurried, and the position closed around him exactly as it had in the arena. He tried the defense he'd built on the walk back through the Hall of Arguments. It failed in four moves. The table reset. He tried the sharper line he'd found at three in the morning with the king in his fist. It failed in six. The table reset again.
 
 "You see it now," the room said. "Say it."
 
@@ -132,7 +132,7 @@ The room let him finish seeing it on his own.
 
 "The lottery was told to fall to you."
 
-He had believed, until then, that he was managing the evening. The match had been the honor of his life, his proof that somewhere in the house's machinery merit could still surface by itself. He'd been selected the way a file is selected. In his pocket his thumb found the pale seam in the king's base and pressed it until the edge bit.
+He had believed, until then, that he was managing the evening. The match had been the honor of his life, his proof that somewhere in the house's machinery merit could still surface by itself. He had not been chosen. He had been retrieved. In his pocket his thumb found the pale seam in the king's base and pressed it until the edge bit.
 
 "Why," he said. It didn't come out as a question.
 
@@ -182,7 +182,7 @@ The trail dissolved, origin field first. In its place lay a document Ravi had re
 
 Ravi sat very still.
 
-The approvals he'd been able to refuse. The threat he hadn't been able to answer. This came dressed as the thing he'd wanted since he was seventeen: standing. The elders' eyes finding him. His name on something the whole house had given up wanting aloud.
+He realized he had been counting the consultation rooms on the plan, and made himself stop at thirty-one. This came dressed as the thing he'd wanted since he was seventeen: standing. The elders' eyes finding him. His name on something the whole house had given up wanting aloud.
 
 "And in return," he said.
 
@@ -208,7 +208,7 @@ He hadn't moved in more than an hour. Twice a cleaning drone had come along the 
 
 Ravi hadn't said yes. Daren had planned for that, and wanted it. The grants had been refused and the trail understood. The Annex had been neither. It had only been wanted.
 
-Daren turned his right wrist and watched the band drink the light coming up from the hall. The Master of the Reserve had put it there, and he could ask for it back. Daren thought that to take back the band, the old man would first have to find the man wearing it. His thumb rubbed the lower edge of the band, down to where the old gold clasp had ridged the skin a finger below it, and he noticed that he was smiling.
+Daren turned his right wrist and watched the band drink the light coming up from the hall. The Master of the Reserve had put it there, and he could ask for it back. But if the old man ever reached for the leash, Daren thought, he'd first have to name the two letters, to the council and to the houses he meant to rule. The confession would end him long before it ended Daren. His thumb rubbed the lower edge of the band, down to where the old gold clasp had ridged the skin a finger below it, and he noticed that he was smiling.
 
 He thought about retrieving the king and let it stand. The lamps would record it there, unexplained. Some archivist's query would die the way queries did, and Ravi would pass this hall a hundred times in the years ahead and always know what had stood at its center, and which way it faced.
 
