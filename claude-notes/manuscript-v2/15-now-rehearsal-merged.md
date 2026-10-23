@@ -60,7 +60,7 @@ The man in the headset took a cracker, ate it, and wrote something down.
 
 "How do you know when the kid's sick?" Camilla said.
 
-"He doesn't laugh at the start." Ben's hand had gone to his hip and pressed flat over the pocket that wasn't there. "I'm good at this, Cami. I don't like it. I'm not watching people anymore, I'm watching the holes between them." He watched the man on the turbine floor laugh, a short one, and the gap close. "They're just going home."
+"He doesn't laugh at the start." Ben's hand had gone to his hip and pressed flat over the pocket that wasn't there. "I'm good at this, Cami. I don't like it." He watched the man on the turbine floor laugh, a short one, and the gap close. "They're just going home."
 
 ---
 
@@ -128,9 +128,9 @@ The fourth run, Ben said "Clear" in the right place, and she said "Feeds" a beat
 
 It was. Nobody late, nobody early, and on the model the water ran lake to pods on schedule, past a split splinter where a finger had been and wasn't now.
 
-She wished one of them had got it wrong.
+"Your finger," she said.
 
-Gage looked at the pad of his finger. There was a small pale line on it where the split edge had pressed. He put the hand flat on the bench, open, and then he swept the splinters into the box with the side of it. He pressed the clay flat. He didn't start again, which he always did, and she didn't ask him why.
+Gage looked at the pad of his finger. There was a small pale line on it where the split edge had pressed. "It goes there," he said, and swept the splinters into the box with the side of his hand. He pressed the clay flat. He didn't start again, which he always did, and she didn't ask him why.
 
 ---
 
@@ -142,7 +142,7 @@ Ben had taken to going there in the evenings. She found him sitting on the metal
 
 She sat. The floor was cold through the greys. She looked at the blue.
 
-It pulsed. She'd seen it pulse the night they woke here, and thought of it as a lamp, a thing that's on. Sitting there, she saw it brighten, and dim, and brighten, and Ben's lips moving with it. After a while she started to count too. Twelve, and the next one took thirteen. Thirteen. Fourteen. The pulse was getting slower.
+It pulsed. She'd seen it pulse the night they woke here, and thought of it as a lamp, a thing that's on. Sitting there, she saw it brighten, and dim, and brighten, and Ben's lips moving with it. After a while she counted too, under her breath, the seconds between pulses. Twelve. Thirteen. Fourteen. The pulse was getting slower.
 
 "It goes slow," Ben said, "and then it comes back quick. Then slow. It takes about an hour, a little more, to go round. I've done it four nights. It's the same every night." He rubbed his eyes. "I thought it was a light. It's keeping time."
 
@@ -172,7 +172,7 @@ Flitzberg looked at the blue quarter for a long time.
 
 Ben had stopped counting. "Can I ask something else?" He didn't wait. "Your wall. The one with the four houses' books on it. I've been looking. Every one of them leaks, and all the leaks bend. Round one place. And the place isn't in any of the books."
 
-Flitzberg turned his head and looked at Ben in a way Camilla hadn't seen yet, the look he gave the dolls.
+Flitzberg turned his head and looked at Ben the way she had only seen him look at the dolls.
 
 The blue came round, quick now, quicker, warm.
 
@@ -186,7 +186,7 @@ Camilla stood in the doorway, because the room only had one chair and it was his
 
 Ben pulled the chair up to the glass and sat with his elbows on his knees.
 
-"Gage did the corridor again today," he said. "With the lights off. He ducked under a beam that isn't there. He'd hate me telling you that."
+"Cami says Gage did the corridor again today," he said. "With the lights off. He ducked under a beam that isn't there. He'd hate me telling you that."
 
 He stopped. The gap went by, the length of a sentence, room for a reply. Nothing filled it. Ben went on.
 
@@ -230,10 +230,10 @@ The door with the handle on the inside was half open. White lamp. Gage was at th
 
 She stood at the door with her good hand on the frame and her metal one at her side. It had closed. She hadn't told it to.
 
-She could tell him. She could walk in and say *the line moved* and watch his whole face come apart and go back together again, and he'd be up those stairs before she'd finished the sentence. He'd been told the first time, and he'd sat in that chair all night, and nothing had moved again. Twice was still a reading. She'd learned that before she learned her letters, on Pappy's gauges: a needle that kicks goes in the log, and you wait on it. You don't hand it to someone who has twelve nights and a finger that keeps going to the same place on the wall.
+She could tell him. She could walk in and say *the line moved* and watch his whole face come apart and go back together again, and he'd be up those stairs before she'd finished the sentence. He'd been told the first time, and he'd sat in that chair all night, and nothing had moved again. Twice was still a reading. She'd learned that before she learned her letters, on Pappy's gauges: a needle that kicks goes in the log, and you wait on it.
 
 Or it was the only thing that would make him take the finger off the wall.
 
 Inside, Gage laid the Lake Wall, three splinters in a row, and split the middle one with his thumbnail.
 
-She counted the props he set down after that. She got to thirty-one, standing in the door, with the egg yolk still dried in the grooves of her knuckles, and she didn't go in, and she didn't go away, and she counted the gap she was leaving and couldn't find the end of it.
+She counted the props he set down after that. She got to thirty-one, standing in the door, with the egg yolk still dried in the grooves of her knuckles, and she didn't go in, and she didn't go away. Thirty-two. He was still setting them down.
