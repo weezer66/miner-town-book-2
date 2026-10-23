@@ -10,7 +10,7 @@ Meru received him from below.
 
 The lift rose at dusk past the terrace districts, past gardens fed by water the sectors had lifted a kilometer against gravity, orchards ripening out of season under tuned light, windows that looked down on the three Trinitys. Lamps were coming on along the garden paths. Attendants carried them, people who rode the lifts up each morning from the three Trinitys and would ride them down again before the last car, permitted to keep Meru beautiful but never to sleep in it. There were no markets here, no clinics, no school courtyards. Nothing on Meru was needed in a hurry. The people who lived there did not call themselves rulers. They called themselves stewards, and the word had lasted a century because no one below had ever been given the standing to laugh at it.
 
-Daren stepped out onto the lower terrace and kept to the rail. Meru had made him and would not house him. No door on this tier was his, and he'd stopped wanting one to be.
+Daren stepped out onto the lower terrace and kept to the rail. Meru had made him and would not house him, but the lower terrace still read his birth and let him stand there. No door on this tier was his, and he'd stopped wanting one to be.
 
 A guard in gold stood at the Phoenix landing with his visor raised to the evening air, a tray of someone's unfinished glasses at his elbow, the condensation rings bleeding into one another on the lacquer. Daren knew the face. It had been closed under that same visor the night he walked between the black doors with Kubera's gold on his wrist, and it had been open and bloodshot the next dawn, when he came back through the Phoenix with nothing on his wrist the house could name.
 
@@ -20,13 +20,11 @@ The guard's eyes dropped to his own left wrist, found nothing there to tell him 
 
 Daren waited for his own pulse to answer. It didn't. He'd been afraid of men in gold since he was nine years old. He went looking for the fear and found only the place where it had lived: the rank, the record, the name, everything Kubera could take away. All three were gone. Whatever had moved into the space they'd left was hungrier. He noticed, as a separate fact, that he hadn't eaten since morning.
 
-He walked on to the far end of the rail, where the view opened over Trinity-1.
+He walked on to the far end of the rail. From the lower terrace all three Trinitys lay open at once, and he had come up to look at one lamp.
 
 Drona's towers sat low in their own lamplight. On the flank of the archive, where the Restricted Wing had stood dark for a decade, a frame of new scaffolding had gone up in the last week, ringed with work lamps, small and yellow and impossible to mistake. Drona had asked for a library. He'd given it twice what it asked for. The doubled sum had moved through the Continuity Reserve, a channel built for founder-tier authority and so old it never asked who had requested, which office had signed, which account would gain. The ledger had recognized what the band made him and released the funds without a question. At the base of the transfer, where a protocol too old to want a name still wanted a mark, the field had accepted two letters.
 
 OG.
-
-Obsidian Guard.
 
 The work lamps went on burning over the wing. Under them, he supposed, someone was already grateful.
 
@@ -40,15 +38,15 @@ At ten past eight, in a room that appeared on no registry, Daren dressed for a m
 
 The room was in the Drona monitor tower, where guests rotated away every cycle and nobody looked twice at a man who stayed. It held a narrow bed, one table, and the dark display above the bed, which he had never once switched on.
 
-The ensemble closed around him piece by piece, each plate seating against the next along seams too fine to see. The band went on last, on his right wrist. It read the small motor impulses that run ahead of every movement and finished what he had already begun. As far as he could tell, it had never once given him an idea. Every intention was his. He no longer put it on the way one picks up a tool. He put it on the way one wakes a hand.
+The ensemble closed around him piece by piece, each plate seating against the next along seams too fine to see. The band went on last, on his right wrist. It read the small motor impulses that run ahead of every movement and finished what he had already begun. As far as he could tell, it had never once given him an idea. Every intention was his. He put it on the way one wakes a hand.
 
 The door slid aside before his hand rose toward the release, and its log recorded nothing. According to every registry in Trinity, the room behind him stood empty, and the band kept the building loyal to that story.
 
 At the maglev platform the gate queried the space in front of it, received an answer that satisfied every rule it knew, and opened without recording for whom.
 
-The carriage was half full: a Drona records clerk, two Ashoka responders rotating home, a family coming back from some sanctioned evening elsewhere. Every one of them could see the dark shape that boarded at the rear. Their eyes worked. But every citizen wore a terminal on the left wrist, and the terminals watched the world and named what mattered: this one outranks you, this one is flagged, this one needs your seat, your caution, your report. Attention had been handed over a generation ago. People saw what their instruments underlined and skimmed past everything else. To the clerk's terminal the band answered with an authorization class that made him none of her business; to the responders' duty catalog, a status that filed him as cleared and someone else's problem; to the family's, nothing worth underlining at all. The clerk angled her case away from what her wrist considered an empty seat. The responders ran the sweep their training demanded, and it closed without a gap, and neither man felt one, because the feeling of completeness came from the instrument too.
+The carriage was half full: a Drona records clerk, two Ashoka responders rotating home, a family coming back from some sanctioned evening elsewhere. Every one of them could see the dark shape that boarded at the rear. Their eyes worked. But every citizen wore a terminal on the left wrist, and people saw what their instruments underlined and skimmed past everything else. The clerk angled her case away from what her wrist considered an empty seat. The responders ran the sweep their training demanded, and it closed without a gap.
 
-In his Kubera years, Daren had entered carriages like this one wearing gold, and the gold had bought him a category: measured, placed, outranked by some, deferring to others. The obsidian bought him nothing so small. It removed him from the ledger of glances entirely, and the removal was itself the rank.
+In his Kubera years, Daren had entered carriages like this one wearing gold, and the gold had bought him a category: measured, placed, outranked by some, deferring to others. The obsidian bought him nothing so small. It removed him from the ledger of glances entirely.
 
 The family's cat saw him.
 
@@ -62,7 +60,7 @@ Trinity-2 didn't announce itself. It assembled. First the glow, ten thousand rec
 
 At twenty to nine he reached the East Policy Conservatory and went up into the gallery.
 
-In this city, meetings were built out of records. When Elara had crossed to Ashoka, a review code under the Ancient One's name had lit her route before she could state it. Tonight the conservatory held no booking, only a maintenance window that had appeared in its schedule that afternoon, requested by no one. Elara had traveled as a signature on a ledger. Daren convened as an absence on a calendar. The city made room for both.
+In this city, meetings were built out of records. Tonight the conservatory held no booking, only a maintenance window that had appeared in its schedule that afternoon, requested by no one.
 
 ---
 
@@ -102,7 +100,7 @@ The voice came from the room itself, from the address system that announced exam
 
 What did he still control? The lamps were gone, and the voice and the record with them. He had his own play, and that was all. And the board was the one language in which an opponent couldn't lie. A voice could be scrubbed of its owner. Moves showed how a mind thought.
 
-He sat the way an analyst opens a file. The chair's left armrest had been worn pale by a century of right-handed students leaning away from their notes.
+He sat. The chair's left armrest had been worn pale by a century of right-handed students leaning away from their notes.
 
 He played the losing side. The table answered with the Grandmaster's moves, unhurried, and the position closed around him exactly as it had in the arena. He tried the defense he'd built on the walk back through the Hall of Arguments. It failed in four moves. The table reset. He tried the sharper line he'd found at three in the morning with the king in his fist. It failed in six. The table reset again, patient as gravity.
 
@@ -158,7 +156,7 @@ A routing reconstruction assembled itself, the kind Chanakya's auditors built to
 
 "Watch."
 
-The mask dissolved, and characters filled the field the way a record fills when a clerk keys it in. A console identifier. A residential node. A credential string.
+The mask dissolved, and characters filled the field. A console identifier. A residential node. A credential string.
 
 His own.
 
@@ -178,9 +176,9 @@ The trail dissolved, origin field first. In its place lay a document Ravi had re
 
 "Within one quarter," the room said, "Kubera's allocation system will approve this petition in full. The decision will trace to a memorandum on the cost of Chanakya's retrieval delays. The memorandum will carry your name. You will not write it. You have seen what I can make a record say against you. This is what I can make a record say for you."
 
-"Why does Kubera's gold need Chanakya at all?"
+"Anyone with money could build it. Why put my name on it?"
 
-"Kubera can pay for a wing. It cannot make the city believe the wing was wisdom. That is done in your house."
+"Money can build a wing. Your house decides whether the city calls it wisdom."
 
 Ravi sat very still.
 
@@ -212,7 +210,7 @@ Ravi hadn't said yes. Daren had planned for that, and wanted it. The grants had 
 
 Daren turned his right wrist and watched the band drink the light coming up from the hall. The Master of the Reserve had put it there, and he could ask for it back. Daren thought that to take back the band, the old man would first have to find the man wearing it. His thumb rubbed the lower edge of the band, down to where the old gold clasp had ridged the skin a finger below it, and he noticed that he was smiling.
 
-He thought about retrieving the king and let it stand. The lamps would record it there, unexplained. Some archivist's query would die the way queries did, and Ravi would pass this hall a hundred times in the years ahead knowing exactly what stood at its center, and which way it faced.
+He thought about retrieving the king and let it stand. The lamps would record it there, unexplained. Some archivist's query would die the way queries did, and Ravi would pass this hall a hundred times in the years ahead and always know what had stood at its center, and which way it faced.
 
 The maglev took him. Trinity-2 fell away behind the glass, its ten thousand lamps still grading the city's arguments into the night. He stood at the dark end of the last carriage, and the four notes came up in his throat, low, the same four. The woman nearest him glanced at her wrist and moved one seat along without knowing why.
 
