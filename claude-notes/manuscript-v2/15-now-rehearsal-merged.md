@@ -28,19 +28,19 @@ It was warm on metal that couldn't feel warm.
 
 "Again," the engineer said, and from under the bench he brought out a second egg.
 
-At the far end of the same bench, under a cloth, sat the other thing: a coil wound on a spindle of old pipe, a plate of clay for it to sit in, a needle that was meant to jump when the clay shook. The listener, for the wall. She'd tapped the clay with a spanner a hundred times this week, and the needle had jumped for the spanner and for her own footsteps and for Gage shutting a drawer two rooms away. It couldn't yet tell rock from anything else.
+At the far end of the same bench, under a cloth, sat the other thing: a coil wound on a spindle of old pipe, a plate of clay for it to sit in, a needle that was meant to jump when the clay shook. The listener, for the wall. She'd tapped the clay with a spanner a hundred times this week, and the needle had jumped for the spanner and for her own footsteps and for Gage shutting a drawer two rooms away. It couldn't yet tell rock from anything else. If it ever could, nobody would have to stand at the junction.
 
 ---
 
 Gage was in the long corridor on level four, the one with no doors in it.
 
-She stood at the end and watched him walk it. He'd asked for the lights off, and somebody had done it without asking why. He went with his left hand flat on the wall and his eyes shut. The wall was smooth grey, nothing on it. His fingers moved along it the way they'd move along timbers.
+She stood at the end and watched him walk it. He'd asked for the lights off, and somebody had done it without asking why. He went with his left hand flat on the wall and his eyes shut. The wall was smooth grey, nothing on it. His fingers moved along it, testing for splits.
 
 "Nine," he said, under his breath. "Ten." His hand lifted off the wall and came back a stride on. "Eleven. Lip." He stepped high over nothing, over the drain sill at the Hub mouth, a long way above them. Three strides later he ducked. The ceiling was a foot over his head. He ducked anyway, the whole of his height folding down for a beam that had been there his entire working life.
 
 "Fourteen. Water on the left." He turned his head toward a sound nobody else could hear.
 
-At the far end of the corridor his hand stopped on the wall and stayed there, pressing, fingers spread. That was the junction. She knew the count without hearing it. Gage's lips had made thirty-one.
+At the far end of the corridor his hand stopped on the wall and stayed there, pressing, fingers spread. That was the junction. In the dark she caught the last number, barely a breath: "Thirty-one."
 
 He stood there with his hand on the place a long time. Then he opened his eyes and turned round and walked back with the lights off and both hands at his sides, and he didn't count at all.
 
@@ -78,7 +78,7 @@ The engineer turned the glass over.
 
 Ben counted the shift out loud, low. The men coming off. The board signed. The neck scratched. Gage's finger walked down the right side of the model, the feeds, the Hub, and stopped. Camilla watched the sand.
 
-"Clear," Ben said.
+"Wait," Ben said. "No. Sorry. He's slow. The turbine man. It's the kid." They waited. The sand ran. "Clear," he said at last, and two minutes had gone on a sick kid who only lived in Ben's head.
 
 "Feeds," Camilla said.
 
@@ -90,9 +90,7 @@ Gage's finger went to the junction. "Landed," he said, because someone would hav
 
 "Closed."
 
-It went on like that, the four of them trading words over the clay. At six minutes Ben opened his eyes.
-
-"Wait," he said. "No. Sorry. He's slow. The turbine man. It's the kid." He shut his eyes again. They waited. The sand ran. "Clear," he said at last, and two minutes had gone on a sick kid nobody had invented.
+It went on like that, the four of them trading words over the clay, until the sand ran out with the wall still standing.
 
 "Stop," she said. "Again."
 
@@ -116,7 +114,7 @@ Silence on the bench. On the stool Ben had opened his eyes and was looking at he
 
 "He hadn't gone yet," Ben said. "The man on the turbine floor."
 
-She could see him, the grey picture on the top row, a man laughing at the start of a sentence because his kid was well. Standing on the floor the water would want second.
+She could see him, the grey picture on the top row, a man laughing at the start of a sentence because his kid was well. He was standing on the floor the water would reach second.
 
 "I know," she said. Her metal hand was flat on the bench beside the model, and she felt the wood begin to give under it before she knew she'd pressed. She lifted it. Four pale marks in the grain again, smaller than the first ones. She could count that too. "Again."
 
@@ -162,7 +160,7 @@ Behind them the door opened and Flitzberg came in, and stood, and looked at the 
 
 Flitzberg looked at the blue quarter for a long time.
 
-"Yes," he said. "I had seen that it moved. I had not seen with what." He kept his hands folded. "I will tell you the next part, because you will ask it. I do not know why. I do not know what it is doing."
+"Yes," he said. "I had seen that it moved. I had not seen with what." He kept his hands folded. "I do not know why. I do not know what it is doing."
 
 "You built a test round a thing you don't understand," Camilla said.
 
@@ -175,8 +173,6 @@ Flitzberg looked at the blue quarter for a long time.
 Ben had stopped counting. "Can I ask something else?" He didn't wait. "Your wall. The one with the four houses' books on it. I've been looking. Every one of them leaks, and all the leaks bend. Round one place. And the place isn't in any of the books."
 
 Flitzberg turned his head and looked at Ben in a way Camilla hadn't seen yet, the look he gave the dolls.
-
-"Yes," he said. "Everything bends round it. I have been looking at the bend for a long time."
 
 The blue came round, quick now, quicker, warm.
 
@@ -210,11 +206,11 @@ On the screen the line moved.
 
 Camilla saw it because she was looking at everything. A single small rise in the green, low, near the right edge, no higher than a fingernail is thick. It went up. It came down. The line ran on flat behind it. That was the second time. The first, the medic had only told them about.
 
-Ben had stopped in the middle of the sentence. He was sitting with his mouth still open on the next word. He hadn't turned his head to the screen; he'd been looking at Otto's face, as he always did. But he'd seen it the same way she had, out of the side of everything. She watched his hands on his knees. They'd gone completely still, the way they went when a coil hummed under them after an hour of nothing.
+Ben had stopped in the middle of the sentence. He was sitting with his mouth still open on the next word. He hadn't turned his head to the screen; he'd been looking at Otto's face, as he always did. But he'd seen it the same way she had, out of the side of everything. She watched his hands on his knees. They'd gone completely still.
 
 In the corner, the medic's pen had stopped too.
 
-Camilla looked at her. The woman didn't look up. She sat with her pen above the paper, and then she set it down, and wrote one line, short, and blotted it, and turned the page over, and went on with what she'd been writing before. Her face did nothing at all. Camilla understood what that meant: you wrote down one rise and didn't call it anything yet.
+Camilla looked at her. The woman didn't look up. She sat with her pen above the paper, and then she set it down, and wrote one line, short, and blotted it, and turned the page over, and went on with what she'd been writing before. Her face did nothing at all.
 
 Ben breathed in. He shut his mouth, and opened it again, and started the sentence from the beginning.
 
