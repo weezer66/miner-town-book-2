@@ -1,8 +1,8 @@
 # Chapter 13: The Guardians
 
-*Thorton had been the human glue that held their fractured lives together. But the mines harbored malice for anything not forged of cold metal. Three days after Gage’s fifteenth birthday, the hum of the earth shifted to a high-pitched scream — a critical valve seizing in Shaft 4. While guards retreated to upper vents, the miners remained trapped. Thorton grabbed a rusted wrench and threw his frame against the release lever, holding the line until the scream faded. The effort tore through his chest like a closing fist. His heart gave out, and he collapsed into the sludge. In the cold ledger of Miner Town, they didn’t record a hero; they recorded a broken part.*
+*Otto spent the next two years in that shed, learning what Shu Chan called the long-lost art — a way of holding the body that turned breath and skeleton into a fortress no chemical and no blade could enter. Shu Chan called the discipline karate, a word from the buried world.*
 
-— Book 1, Chapter 6: To Hell and Back
+— Book 1, Chapter 3: The Initiation
 
 ## Then: Trinity-3
 
@@ -14,7 +14,7 @@ The rest of the Little Dragons knelt along the red boundary line in white cotton
 
 "Ready," Rohan said. "Bow."
 
-Dev was seven and a brown belt, long in the arm, with the confidence of a boy who had never had to wonder whether his body would obey him. Claudia was five, the smallest child on the mat and one rank below him. Padded gloves, controlled contact, a bow at every fall: the rules existed so Rohan could see what was left of a child once she was tired and no longer sure of winning.
+Dev was seven and a blue belt, long in the arm, with the confidence of a boy who had never had to wonder whether his body would obey him. Claudia was five, the smallest child on the mat and one rank below him, the Little Dragon who had refused to bow out of class until he accepted her paper crane. Padded gloves, controlled contact, a bow at every fall: the rules existed so Rohan could see what was left of a child once she was tired and no longer sure of winning.
 
 Dev scored first, a straight punch that slipped around her guard and tapped her chest pad. Claudia's mouth went flat. She bowed and reset her feet.
 
@@ -24,7 +24,7 @@ She stumbled back, caught herself, and looked at Rohan. He gave her nothing. Thi
 
 He had been giving himself nothing for two days.
 
-Two nights at the review table, the Initiation footage running without sound: Gage dividing his ration, Ben turning toward the injured, Otto moving before the force ladder could decide what his movement meant. Then the same footage with sound, the alarms giving every frame a command. Separate. Contain. Escalate. Correct. He had watched the separation order appear on the record. He had watched it vanish, and the record close smoothly over the space where it had been, the way water closes over a dropped stone. And he had sat across a dented table while Elara told him, with her hands flat and shaking, what she had done, and would not say who else had.
+Two nights at the review table, the Initiation footage running without sound: Gage dividing his ration, Ben turning toward the injured, Otto moving before the force ladder could decide what his movement meant. Then the same footage with sound, the alarms giving every frame a command. Separate. Contain. Escalate. Correct. He had watched the separation order appear on the record. He had watched it vanish, and the record close smoothly over the space where it had been. And he had sat across a dented table while Elara told him, with her hands flat and shaking, what she had done, and would not say who else had.
 
 On the first viewing it looked like personal judgment, and personal judgment was the gap where any case against her would strike first. By the third, the gap had moved. She had given three boys the nearest thing the Initiation had ever offered them to a fair chance.
 
@@ -64,7 +64,7 @@ Dev glanced at Claudia. "That I was chasing the point."
 
 She thought about it with her whole face. "That falling isn't the end of the lesson."
 
-Rohan knelt and untied the purple belt from her waist. He folded it once and laid it in her hands, then took a brown belt from the rack and wrapped it around her, tightening the knot at the centre until it would stay. Dev started the applause, louder than anyone. Claudia's mouth fought itself and lost.
+Rohan knelt and untied the purple belt from her waist. He folded it once and laid it in her hands, then took a blue belt from the rack and wrapped it around her, tightening the knot at the centre until it would stay. Dev started the applause, louder than anyone. Claudia's mouth fought itself and lost.
 
 "You've met the requirements," Rohan said. "You didn't beat Dev. You kept your head clear and your body under control, and you came back to the work when it would've been easier to quit."
 
@@ -106,7 +106,7 @@ Nothing else. An ascension to the eighth dan was a ceremony of state, with gener
 
 At 4:00 a.m. the panel brightened, and he was up before it finished.
 
-His red-black duty uniform hung by the door, the one the city knew. He left it there. A dan ascension belonged to the art, and inside the art a man presented his rank, not his office. Wadō-ryū was one of the old fighting arts Ashoka had carried out of the Old Era, when the rest of the world's knowledge was being sealed away. He put on the Ashoka Wadō-ryū kimono instead: white cloth, black trim, and a black belt embroidered with 二段 [second dan] beside his name, ローハン [Rohan]. The glue on his knuckle snagged the sleeve as he pulled it straight.
+His red-black duty uniform hung by the door, the one the city knew. He left it there. A dan ascension belonged to the art, and inside the art a man presented his rank, not his office. Wadō-ryū was one of the old fighting arts carried out of the Old Era, when the rest of the world's knowledge was being sealed away. Above, Ashoka kept it. Below, it was a word from a buried world. He put on the Ashoka Wadō-ryū kimono instead: white cloth, black trim, and a black belt with his second dan embroidered beside his name in the old characters. The glue on his knuckle snagged the sleeve as he pulled it straight.
 
 By dawn the central hall was full. Red standards hung from the galleries. Generals stood in rows beneath their division insignia. Rohan took a place in the back row among the junior instructors and set his hands on his knees.
 
@@ -114,7 +114,7 @@ The Grandmaster entered without procession. The hall went silent anyway. In the 
 
 Then an inner door opened at the far end of the floor, and Master Vayun came through it alone.
 
-He was ancient the way mountains were ancient, worn down to what could not be worn further. White hair to his shoulders. A narrow face, the skin drawn tight over high cheekbones. An ivory kimono with no crest. At his waist, a belt so old its black had rubbed away thread by thread over the decades, back toward the white it had started as. Anyone who knew the art understood. The beginner's colour, returned. The circle walked to its end.
+He was worn down to what could not be worn further. White hair to his shoulders. A narrow face, the skin drawn tight over high cheekbones. An ivory kimono with no crest. At his waist, a belt so old its black had rubbed away thread by thread over the decades, back toward the white it had started as. Anyone who knew the art understood. The beginner's colour, returned. The circle walked to its end.
 
 He crossed the floor without seeming to hurry. Generals stopped whispering. Strategists lowered their tablets. Nothing these people commanded carried any weight on that floor, and they knew it. Vayun was the last living tenth dan of Wadō-ryū, and the only person alive whose judgment could confer the eighth. He had trained responders before Ashoka's modern divisions existed.
 
@@ -154,23 +154,13 @@ She changed the angle of her wrist and the set of her thumb, and closed her fing
 
 The bamboo split with three dry cracks.
 
-The sound was small. It went through the hall like thunder, because no one had expected the hand to win.
-
-"It tested whether she could gather it without anger," Rohan said under his breath.
-
-"No," said Vayun. "It measured whether force could arrive without anger."
+The sound was small, and it went through the whole hall, because no one had expected the hand to win.
 
 Four volunteers carried in a plate of steel armor cut from a single sheet and stood it upright at the centre of the floor. Vayun presented a sword, long and bright enough to make everyone near it aware of distance. The Grandmaster took it with both hands and stood with the blade lowered, watching the plate the way she would watch an opponent's breathing. Her shoulders dropped. Her feet settled.
 
 The sword rose in one arc. Sparks burst from the steel in a bright fan, and Rohan heard the movement before he understood it was over.
 
 She stood beyond the plate, blade down, perfectly still.
-
-One second.
-
-Two.
-
-Three.
 
 The plate parted along a line so fine it had looked like a shadow. The halves leaned away from each other and fell with one enormous crash, and only then did the hall breathe.
 
@@ -198,11 +188,11 @@ Vayun looked at the fist. Then at her eyes.
 
 The Grandmaster lowered her hand and bowed deeply. Vayun returned the bow.
 
-The hall erupted. Ministers stood; the generals followed. Rohan stayed on his knees a heartbeat longer than everyone else, seeing a five-year-old's open hand stop against the centre of a chest guard.
+The hall erupted. Ministers stood; the generals followed. Rohan stayed on his knees a heartbeat longer than everyone else.
 
 Vayun laid the eighth-dan belt across the Grandmaster's forearms.
 
-"She has learned to carry force," he said. "She has learned to stop it. She has learned that neither achievement is complete without the humility to bow when another person reveals what remains unseen."
+"She has learned to carry force," he said. "She has learned to stop it."
 
 Rohan thought of a console in a room with no galleries, and a hand on a record, and no one to lay anything across her arms afterward.
 
@@ -220,8 +210,6 @@ The chamber was round. Statues stood in recessed alcoves set above the floor, la
 
 Emperor Ashoka stood nearest the doors, the gana's namesake and every visitor's first meeting, a sword laid flat across his open palms instead of raised, remembered for the war at Kalinga that made him renounce conquest.
 
-Cincinnatus stood beside a plow, the Roman handed absolute power in a crisis who used it and gave it back. Leonidas held a narrow pass with his shield locked, and someone had chipped the rim of the shield long ago and left it. Rani Lakshmibai sat a stone horse with her sword raised.
-
 Rohan stopped in front of Kusunoki Masashige.
 
 The carver had given him the face of a man who had finished deciding. He had kept his duty knowing the cause was already lost, riding out under a plan he had argued against because his lord commanded it. At fifteen, a cadet with a fresh jaw scar and too many opinions, Rohan had called that obedience. His instructor had put him in horse stance and told him to stay there until he could explain the difference between obedience and duty. He had held it until his legs shook and the explanation still wouldn't come.
@@ -238,7 +226,7 @@ Rohan looked up. "Claudia?"
 
 His mind went first to strategists and commanders, then arrived at a purple belt retied in the middle of a mat. Vayun had never met her. He hadn't been in the dojo. His eyes brightened, following the whole path of Rohan's thought.
 
-"She will grow into a great Ashoka representative one day," he said. "Such clarity at so tender an age is rare. Rarer still is the blessing of being guided by a master like Rohan as her sensei."
+"She will grow into a great Ashoka representative one day," he said. "Such clarity at so tender an age is rare."
 
 Heat climbed Rohan's neck. He lowered his eyes to the rice and kept them there.
 
@@ -256,35 +244,45 @@ Vayun reached across and filled Rohan's water cup to the brim, and said nothing 
 
 The Grandmaster folded her hands.
 
-"A new power is rising through the ganas," she said. "It has shown itself three times, a transfer, a signature and a calibration, each one explainable on its own: an error, an old authorization, a malfunction. That is what makes it dangerous. If one gana gains control of the others through a power no institution can name, competition will become domination before anyone admits the balance has failed."
+"Elara Nathan's request came to me under her own name," she said. "It names two things. A transfer that went through Drona's ledgers twice, and a signature of two letters with no registered authority behind them. Each is explainable on its own. An error. An old authorization. Two could still be coincidence, and Ashoka does not move on coincidence."
+
+"There is a third, Grandmaster," Rohan said. "The alert calibration was pushed to its ceiling through the Drona monitor's console. CORRECTION went twitchy with it. I was at the console when it jumped, and it is on the diagnostic margin for anyone who runs the record back. The record shows the console. It does not show the hand, and no inquiry has found one."
+
+"Three," the Grandmaster said.
+
+Vayun ate another sweet.
+
+"A transfer, a signature, a calibration," she said. "An error, an old authorization, a malfunction. That is what makes it dangerous. If one gana gains control of the others through a power no institution can name, competition will become domination before anyone admits the balance has failed."
 
 Rohan didn't move.
 
-She weighed something, and he saw her decide.
+"Your request told me what she did at VARIANCE on the morning of the intake. It did not tell me who closed the flag for her. A held number does not clear because a monitor stands. Either she would not say, or you would not."
 
-"This city has safeguards older than Ashoka. I will not tell you what they are, and you will not ask me."
+"She would not say," Rohan said. "I did not ask."
 
-He didn't ask what they were. He asked the other thing.
+"Then I am asking you. Someone inside Drona cleared a dead man's slot on her signal, and whoever it was is the nearest door we have into that house. Find me the name."
 
-"And if those safeguards are part of the problem, Grandmaster?"
+"I do not know it, Grandmaster, and I will not find it out for you."
 
-She held his eyes long enough for the water in his cup to settle.
+Vayun's hand stopped above the sweets.
 
-"A Grandmaster who leaves the balance for someone else to keep has already failed her own house," she said. "If other hands are moving, let them move. Dhamma does not wait its turn."
+"She gave me her breach at a price I set," Rohan said. "I took it. I did not ask the next question, and she did not offer the answer. If I go looking for it now, I have taken more than she paid." He kept his eyes on hers. "You can order me to, Grandmaster. I was taught in this house that Dhamma stands above the order, and that is where my word to her sits."
 
-He understood that he had been told something and refused something in the same breath, and he put both away.
+The water in his cup had stopped moving before she spoke.
 
-"I am glad you have already decided to help Elara," she went on. "She needs someone who can test what she sees without dismissing it, and act when the evidence requires action. Four of Ashoka's investigators will be placed at your disposal. Quiet ones, chosen for discretion, answerable to you alone. Follow the altered records, the permissions no one signed, the resources that move without explanation. Expect to hear more from us. Until then, do what seems right according to your code."
+"You have refused your Grandmaster," she said, "in her own chamber, over a promise to a monitor from another house."
+
+"Yes."
+
+Vayun took the sweet.
+
+"If you had given me the name," the Grandmaster said, "I would have had a name, and no one I could trust with the rest of it." She unfolded her hands. "Four of Ashoka's investigators will be placed at your disposal. Quiet ones, chosen for discretion, answerable to you alone. Follow the altered records, the permissions no one signed, the resources that move without explanation. Do what seems right according to your code."
 
 Rohan bowed his head. "I will."
 
-"Rohan," Vayun said, "you are no ordinary Ashoka warrior. A person of your caliber, integrity, and capability is always watched."
+"Two nights in the review room," Vayun said, "and the footage you pulled was not yours to pull. I know. So does someone else."
 
-"By whom, Master?"
-
-"By everyone who understands what integrity becomes when it is placed under pressure."
-
-Rohan couldn't tell whether it was a warning or a compliment.
+Rohan held still.
 
 The Grandmaster rose. "Finish your meal. A person who intends to carry responsibility should not begin by neglecting the body that must carry it."
 
