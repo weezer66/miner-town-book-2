@@ -24,7 +24,7 @@ She stumbled back, caught herself, and looked at Rohan. He gave her nothing. Thi
 
 He had been giving himself nothing for two days.
 
-Two nights at the review table, the Initiation footage running without sound: Gage dividing his ration, Ben turning toward the injured, Otto moving before the force ladder could decide what his movement meant. Then the same footage with sound, the alarms giving every frame a command. Separate. Contain. Escalate. Correct. He had watched the separation order appear on the record. He had watched it vanish, and the record close smoothly over the space where it had been, the way water closes over a dropped stone. And he had sat across a dented table while Elara told him, with her hands flat and shaking, that she had done it alone.
+Two nights at the review table, the Initiation footage running without sound: Gage dividing his ration, Ben turning toward the injured, Otto moving before the force ladder could decide what his movement meant. Then the same footage with sound, the alarms giving every frame a command. Separate. Contain. Escalate. Correct. He had watched the separation order appear on the record. He had watched it vanish, and the record close smoothly over the space where it had been, the way water closes over a dropped stone. And he had sat across a dented table while Elara told him, with her hands flat and shaking, what she had done, and would not say who else had.
 
 On the first viewing it looked like personal judgment, and personal judgment was the gap where any case against her would strike first. By the third, the gap had moved. She had given three boys the nearest thing the Initiation had ever offered them to a fair chance.
 
