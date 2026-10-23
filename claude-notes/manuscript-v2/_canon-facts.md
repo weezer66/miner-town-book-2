@@ -60,6 +60,7 @@ A compact substitute for rereading everything. If something here conflicts with 
 - Emperor Ashoka's statue in the Chamber of Spirits is "remembered for the war at Kalinga."
 - Vayun mentions **a student long ago who went below and never came back.**
 - **Payoff (later):** "Kalinga" was the name of Ashoka's old boundary post watching the ring. Shu Chan was its last guard, and Vayun's student.
+- **Ages:** Vayun is about 98. Shu Chan was 15 to 20 years his junior, already old when the post was dissolved (ch25: "He was old. So am I.").
 - **Don't explain any of this before the payoff chapter.**
 
 ## Camilla's arm (D15, D16; author decisions 2026-10-19)

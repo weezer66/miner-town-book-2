@@ -252,7 +252,7 @@ Rohan said, "Master," and came to stand at Otto's shoulder, not touching.
 
 On the way out Otto stopped at the shoe rack. He crouched, which his knees disliked, and picked up the small inside-out sock, and turned it right side out, and laid it back on the shelf in its patch of clean wood among the dust.
 
-"Claudia's," Rohan said. "She swears it isn't."
+"Pema's," Rohan said. "She swears it isn't."
 
 "It's always somebody's," Otto said.
 

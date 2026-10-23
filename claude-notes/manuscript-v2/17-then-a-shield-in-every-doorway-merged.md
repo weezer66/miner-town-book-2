@@ -200,9 +200,9 @@ Rohan stood in the commanders' hall and watched the duty board grow. The house c
 
 His name was on ten of the new postings.
 
-Lower on the second board, a clerk had begun a column of training sessions suspended until further notice. His was fourth. *Little Dragons, juniors, morning hall.* Whoever copied it had copied the class roster in full, six small names in tidy chalk, and beside the fifth had added, as a courtesy, *blue belt (new)*.
+Lower on the second board, a clerk had begun a column of training sessions suspended until further notice. The fourth had been his until the Grandmaster gave it to someone else. *Little Dragons, juniors, morning hall.* Whoever copied it had copied the class roster in full, six small names in tidy chalk, and beside the fifth had added, as a courtesy, *blue belt (new)*.
 
-Claudia.
+Pema.
 
 The scrap of red tape from her headguard was still stuck to the cuff of his training jacket. He hadn't taken it off. Someone would have to tell them. He looked at the clerk's careful letters. Or someone already had, in the same plain lettering the house used for everything, to six sets of parents who'd read it off their wrists over breakfast. He didn't know which was worse.
 

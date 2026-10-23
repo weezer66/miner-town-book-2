@@ -72,7 +72,7 @@ Built 2026-10-18 from a full read of `manuscript/chapter-01` through `chapter-24
   - **Baju** (arm; lean, climber's hands): **DEAD** (Ch22), on the fourth-level corridor of the Drona monitor tower, third panel, killed by a line test. His notebook is taken; his counter is listed among his effects.
   - **Kaan** (ear; forgettable face): on a cover posting in Chanakya (clerk, porter or maintenance hand). He has read Ravi's slip and left "Room Four. Two hours." under it (Ch24).
   - **Jeebh** (tongue; a trader's warmth): cover stories, three dull sub-audits, the "eleven years of lobbying" rumor.
-- Little Dragons: Claudia (5, purple belt then brown), Dev (7, brown), Tavi, Meera, Niko, Arjun.
+- Little Dragons: Pema (5, green belt then blue; renamed from Claudia, 2026-10-23), Dev (7, blue), Tavi, Meera, Niko, Arjun. Pema made Rohan's paper crane (ch10). From ch13 the class is taught by someone else (the Dhammapala's price).
 
 ### Patal Loka
 - **Mr. Flitzberg:** let Gage choke him. Promised never to lie to the recruits. Hunting "a hand."

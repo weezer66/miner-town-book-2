@@ -6,17 +6,17 @@
 
 ## Then: Trinity-3
 
-The knot at Claudia's waist had come loose again. She stopped in the middle of the mat to retie it, tongue pinched between her teeth, while Dev waited with his gloves up and his weight rocking from heel to heel. Her headguard had been made for a larger head, and she'd solved that herself with a knot of red tape at the back strap that stuck out like a small horn.
+The knot at Pema's waist had come loose again. She stopped in the middle of the mat to retie it, tongue pinched between her teeth, while Dev waited with his gloves up and his weight rocking from heel to heel. Her headguard had been made for a larger head, and she'd solved that herself with a knot of red tape at the back strap that stuck out like a small horn.
 
-Rohan let her finish. A purple belt tied badly would trip her, and the rules of the dojo were older than the rules of sparring.
+Rohan let her finish. A green belt tied badly would trip her, and the rules of the dojo were older than the rules of sparring.
 
 The rest of the Little Dragons knelt along the red boundary line in white cotton and mismatched elbows. Tavi had put himself nearest the door, as he always did, so he could watch it instead of the match. Meera sat on her hands to keep them still. Niko wore a scrape on his chin from the falling drill and kept touching it to make sure it was still there. Arjun was counting the ceiling lights under his breath. On the shoe rack, a single small sock had sat inside out for a week, and nobody would admit to it.
 
 "Ready," Rohan said. "Bow."
 
-Dev was seven and a blue belt, long in the arm, with the confidence of a boy who had never had to wonder whether his body would obey him. Claudia was five, the smallest child on the mat and one rank below him, the Little Dragon who had refused to bow out of class until he accepted her paper crane. Padded gloves, controlled contact, a bow at every fall: the rules existed so Rohan could see what was left of a child once she was tired and no longer sure of winning.
+Dev was seven and a blue belt, long in the arm, with the confidence of a boy who had never had to wonder whether his body would obey him. Pema was five, the smallest child on the mat and one rank below him, the Little Dragon who had refused to bow out of class until he accepted her paper crane. Padded gloves, controlled contact, a bow at every fall: the rules existed so Rohan could see what was left of a child once she was tired and no longer sure of winning.
 
-Dev scored first, a straight punch that slipped around her guard and tapped her chest pad. Claudia's mouth went flat. She bowed and reset her feet.
+Dev scored first, a straight punch that slipped around her guard and tapped her chest pad. Pema's mouth went flat. She bowed and reset her feet.
 
 He scored again.
 
@@ -30,13 +30,13 @@ On the first viewing it looked like personal judgment, and personal judgment was
 
 The words *fair chance* troubled him more than the word *override*. Override was a procedural crime with a procedural answer. Fair chance was the minimum condition under which judgment meant anything.
 
-Dev came forward a third time, certain he knew what Claudia would do. She stepped aside instead of back. His glove passed her shoulder, and her palm landed against his ribs, light enough to show control and firm enough to count.
+Dev came forward a third time, certain he knew what Pema would do. She stepped aside instead of back. His glove passed her shoulder, and her palm landed against his ribs, light enough to show control and firm enough to count.
 
 "Point," Rohan said.
 
-Dev frowned. Claudia bowed.
+Dev frowned. Pema bowed.
 
-He came again, harder. Nothing illegal, only the impatience of a boy who wanted the exchange finished. Claudia's feet tangled and she went down on one knee. The room stilled. Dev stopped with his glove raised. Claudia looked at the mat under her hand.
+He came again, harder. Nothing illegal, only the impatience of a boy who wanted the exchange finished. Pema's feet tangled and she went down on one knee. The room stilled. Dev stopped with his glove raised. Pema looked at the mat under her hand.
 
 Rohan watched the choice arrive in her face. She could stay down and let the round end. She could come up angry and turn the next exchange into a collision. Or she could breathe.
 
@@ -48,23 +48,23 @@ Elara had no oath to Ashoka. She had never worn the red-black or passed through 
 
 He couldn't make it sound like praise. Every time he said it to himself, it landed on his own house.
 
-Claudia breathed once. Then she stood.
+Pema breathed once. Then she stood.
 
 The next time Dev came in, she borrowed his strength. Her forearm guided his strike past her shoulder, her foot slid outside his line, and her open hand stopped against the centre of his chest guard. She held it for one breath and withdrew before the point could turn into a shove.
 
 "Enough."
 
-Dev lowered his gloves. Claudia was breathing hard, her cheek red under the rim of her headguard, and she still hadn't looked away from her partner.
+Dev lowered his gloves. Pema was breathing hard, her cheek red under the rim of her headguard, and she still hadn't looked away from her partner.
 
 "What did you learn?" Rohan asked Dev.
 
-Dev glanced at Claudia. "That I was chasing the point."
+Dev glanced at Pema. "That I was chasing the point."
 
 "And you?"
 
 She thought about it with her whole face. "That falling isn't the end of the lesson."
 
-Rohan knelt and untied the purple belt from her waist. He folded it once and laid it in her hands, then took a blue belt from the rack and wrapped it around her, tightening the knot at the centre until it would stay. Dev started the applause, louder than anyone. Claudia's mouth fought itself and lost.
+Rohan knelt and untied the green belt from her waist. He folded it once and laid it in her hands, then took a blue belt from the rack and wrapped it around her, tightening the knot at the centre until it would stay. Dev started the applause, louder than anyone. Pema's mouth fought itself and lost.
 
 "You've met the requirements," Rohan said. "You didn't beat Dev. You kept your head clear and your body under control, and you came back to the work when it would've been easier to quit."
 
@@ -82,13 +82,13 @@ Rohan opened his mouth. For two days he had argued the same case from both sides
 
 "Line up," he said. "Bow out."
 
-They bowed. Then discipline came apart all at once. Niko ran into his legs first. Tavi wrapped both arms around his waist. Meera and Arjun came in from either side, and Dev, after a show of being too old for it, pressed in as well. Claudia stood back with her new belt, trying to look composed, until Rohan opened one arm toward her.
+They bowed. Then discipline came apart all at once. Niko ran into his legs first. Tavi wrapped both arms around his waist. Meera and Arjun came in from either side, and Dev, after a show of being too old for it, pressed in as well. Pema stood back with her new belt, trying to look composed, until Rohan opened one arm toward her.
 
 She stepped into it.
 
 For several seconds the chief instructor stood buried in small arms and warm heads, a broad, immovable shape the children treated like a beloved bear who happened to know how to stop a fight. He rested his hands across their backs and didn't close them. They respected him because he was strong. They climbed on him because he had never once made them afraid of it.
 
-They let him go only after he promised to come back. The tape horn had come off Claudia's headguard somewhere in the pile, and he found it stuck to his own sleeve on the walk back to his quarters, a small red flag he didn't remove.
+They let him go only after he promised to come back. The tape horn had come off Pema's headguard somewhere in the pile, and he found it stuck to his own sleeve on the walk back to his quarters, a small red flag he didn't remove.
 
 ---
 
@@ -106,7 +106,7 @@ Nothing else. An ascension to the eighth dan was a ceremony of state, with gener
 
 At 4:00 a.m. the panel brightened, and he was up before it finished.
 
-His red-black duty uniform hung by the door, the one the city knew. He left it there. A dan ascension belonged to the art, and inside the art a man presented his rank, not his office. Wadō-ryū was one of the old fighting arts carried out of the Old Era, when the rest of the world's knowledge was being sealed away. Above, Ashoka kept it. Below, it was a word from a buried world. He put on the Ashoka Wadō-ryū kimono instead: white cloth, black trim, and a black belt with his second dan embroidered beside his name in the old characters. The glue on his knuckle snagged the sleeve as he pulled it straight.
+His red-black duty uniform hung by the door, the one the city knew. He left it there. A dan ascension belonged to the art, and inside the art a man presented his rank, not his office. Wadō-ryū: one school of what the Old Era had called karate, and one of the few things Ashoka had refused to let be sealed away. Above, Ashoka kept it. Below, it was a word from a buried world. He put on the Ashoka Wadō-ryū kimono instead: white cloth, black trim, and a black belt with his second dan embroidered beside his name in the old characters. The glue on his knuckle snagged the sleeve as he pulled it straight.
 
 By dawn the central hall was full. Red standards hung from the galleries. Generals stood in rows beneath their division insignia. Rohan took a place in the back row among the junior instructors and set his hands on his knees.
 
@@ -156,21 +156,9 @@ The bamboo split with three dry cracks.
 
 The sound was small, and it went through the whole hall, because no one had expected the hand to win.
 
-Four volunteers carried in a plate of steel armor cut from a single sheet and stood it upright at the centre of the floor. Vayun presented a sword, long and bright enough to make everyone near it aware of distance. The Grandmaster took it with both hands and stood with the blade lowered, watching the plate the way she would watch an opponent's breathing. Her shoulders dropped. Her feet settled.
+Vayun rose for the second time and stepped onto the floor.
 
-The sword rose in one arc. Sparks burst from the steel in a bright fan, and Rohan heard the movement before he understood it was over.
-
-She stood beyond the plate, blade down, perfectly still.
-
-The plate parted along a line so fine it had looked like a shadow. The halves leaned away from each other and fell with one enormous crash, and only then did the hall breathe.
-
-"Restraint," Rohan said.
-
-Vayun's mouth moved by less than a smile. "It measured whether she could stop after the correct action."
-
-Vayun rose for the third time and stepped onto the floor.
-
-He didn't remove his kimono or stretch. He didn't bow to the officials, because the bow belonged to the art, and only two people in the room stood inside it. He bowed to the Grandmaster, the full, unhurried bow of one practitioner to another, and she returned it to the same depth. Then he settled into position, one foot forward, hands open, spine loose.
+He didn't remove his kimono or stretch. He didn't bow to the officials, because the bow belonged to the art. On that floor, only the Grandmaster was owed one. He bowed to the Grandmaster, the full, unhurried bow of one practitioner to another, and she returned it to the same depth. Then he settled into position, one foot forward, hands open, spine loose.
 
 He moved first. His hand crossed the distance without warning, and though she turned her shoulder and redirected it, the contact carried her three steps across the boards. He was already there when she recovered. His foot touched behind her heel; his palm stopped under her elbow. She dropped her weight and rolled free before he could finish the throw.
 
@@ -220,9 +208,9 @@ At the centre of the chamber, a low table had been laid for three, the food stil
 
 For a long while no one spoke.
 
-Vayun set his cup down. "I am a great admirer of Claudia."
+Vayun set his cup down. "I am a great admirer of Pema."
 
-Rohan looked up. "Claudia?"
+Rohan looked up. "Pema?"
 
 His mind went first to strategists and commanders, then arrived at a purple belt retied in the middle of a mat. Vayun had never met her. He hadn't been in the dojo. His eyes brightened, following the whole path of Rohan's thought.
 
@@ -244,9 +232,9 @@ Vayun reached across and filled Rohan's water cup to the brim, and said nothing 
 
 The Grandmaster folded her hands.
 
-"Elara Nathan's request came to me under her own name," she said. "It names two things. A transfer that went through Drona's ledgers twice, and a signature of two letters with no registered authority behind them. Each is explainable on its own. An error. An old authorization. Two could still be coincidence, and Ashoka does not move on coincidence."
+"Your request came to me with Elara Nathan's name on it," she said. "And with two things she must have told you. A transfer that went through Drona's ledgers twice, and a signature of two letters with no registered authority behind them. Each is explainable on its own. An error. An old authorization. Two could still be coincidence, and Ashoka does not move on coincidence."
 
-"There is a third, Grandmaster," Rohan said. "The alert calibration was pushed to its ceiling through the Drona monitor's console. CORRECTION went twitchy with it. I was at the console when it jumped, and it is on the diagnostic margin for anyone who runs the record back. The record shows the console. It does not show the hand, and no inquiry has found one."
+"There is a third, Grandmaster," Rohan said. "The alert calibration was pushed to its ceiling through the Drona monitor's console. CORRECTION's thresholds jumped with it. I was at the console when it jumped, and it is on the diagnostic margin for anyone who runs the record back. The record shows the console. It does not show the hand, and no inquiry has found one."
 
 "Three," the Grandmaster said.
 
@@ -256,7 +244,7 @@ Vayun ate another sweet.
 
 Rohan didn't move.
 
-"Your request told me what she did at VARIANCE on the morning of the intake. It did not tell me who closed the flag for her. A held number does not clear because a monitor stands. Either she would not say, or you would not."
+"It told me, too, what she did at VARIANCE on the morning of the intake. It did not tell me who closed the flag for her. A held number does not clear because a monitor stands. Either she would not say, or you would not."
 
 "She would not say," Rohan said. "I did not ask."
 
@@ -280,6 +268,12 @@ Vayun took the sweet.
 
 Rohan bowed his head. "I will."
 
+"And until this is finished," she said, "someone else teaches the Little Dragons."
+
+He thought of the scrap of red tape from Pema's headguard, still stuck to the cuff of his training jacket.
+
+"Yes, Grandmaster."
+
 "Two nights in the review room," Vayun said, "and the footage you pulled was not yours to pull. I know. So does someone else."
 
 Rohan held still.
@@ -300,6 +294,6 @@ Vayun's eyes narrowed with amusement. "You are still asking the wrong question."
 
 Rohan had no answer.
 
-Vayun smiled and returned to his tea.
+Vayun smiled and turned his cup a quarter turn.
 
 Rohan left the Chamber of Spirits alone, past the emperor with the sword lying flat in his hands.
