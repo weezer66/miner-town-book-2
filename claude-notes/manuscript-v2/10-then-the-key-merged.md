@@ -22,7 +22,7 @@ Sarvajña's voice came back first. *Something is moving inside Kubera with no na
 
 It had a shape now, two letters wide, and Drona could carry her no closer to what stood behind it.
 
-The archive could not follow two letters through another house's corridors to the hand that had written them. It could not put itself between three boys and a sealed order on the day the order became force.
+The archive could not follow two letters through another house's corridors to the hand that had written them. It could not put itself between three boys and a separation directive on the day review stopped withholding it.
 
 If Drona meant to do more than know, it needed someone who could find whoever was moving behind those letters, and stand in the way.
 
@@ -36,7 +36,7 @@ Elara got up and turned the lights one notch higher.
 
 Her wrist terminal sat dark on her left arm. Anything she wrote into it would be underlined somewhere she couldn't see, so she took a sheet of plain paper from the drawer and a pen that needed shaking before it would run. She hadn't written by hand since her examinations, and the slowness made every word pay for its place. She wrote two notes. The shorter one went to Anandi, and said only that she needed a room in Ashoka, lawfully (Review Room Two, at nineteen hundred, if it could be had), and a reason that would survive being read by anyone. The longer one she wrote three times, crossing out every sentence that sounded like a plea, until what remained sounded like an office talking to an office.
 
-She folded the longer note once. By the time the grille stopped ticking, it was on its way to a door in the Ashoka barracks.
+She folded the longer note once. By the time the grille stopped ticking, a Drona runner was carrying it to a door in the Ashoka barracks.
 
 ---
 
@@ -44,7 +44,7 @@ At 4:00 a.m., Rohan was awake behind that door.
 
 The room held nothing that didn't serve discipline. A narrow bed. A folded uniform. A wash basin of brushed steel. A rack for boots and armor, each piece set to the edge of its mark on the floor. Above the door, the Ashoka insignia in matte red, too plain to be admired and too large to be forgotten.
 
-The one exception was wedged into the slot of the boot rack: a paper crane, lopsided, one wing folded twice and the head bent the wrong way. The smallest of the Little Dragons had refused to bow out of class until he accepted it. He had not found a regulation that covered it, so it stayed.
+The one exception was wedged into the slot of the boot rack: a paper crane, lopsided, one wing folded twice and the head bent the wrong way. The smallest of the Little Dragons, the barracks' youngest class, had refused to bow out of class until he accepted it. He had not found a regulation that covered it, so it stayed.
 
 He held the horse stance low, thighs level, until they trembled and then past the trembling. Controlled descents that denied the body its momentum. Breath measured against the strain until the mind stopped asking when it would end. Sweat ran down the scar along his jaw. The split across his third knuckle had opened again in pad work, because the little ones hit with their whole bodies and his hands took whatever the pads missed; he had sealed it with a thread of medical glue that pulled when he made a fist.
 
@@ -206,7 +206,7 @@ Rohan looked toward the narrow windows, where the red lights of the outer platfo
 
 "Ashoka does not act on hunches," he said. "If we deploy our investigative wing and confirm a threat, we will move fast, and the consequences for the target may be severe. I will not pretend that is not a risk." He didn't look away. "Are you certain this is real? Serious enough for Ashoka?"
 
-Anandi, Kavik, Sarvajña, Draṣṭā, the Ancient One: none of them had given her certainty. They had given her the discipline to act without it.
+Anandi, Kavik, Sarvajña, Draṣṭā, the Ancient One: none of them had given her certainty. She had come anyway.
 
 "No," she said. "I am not certain. If I waited for certainty, it would arrive in the form of the damage itself. What I am certain of is what I have seen, what the records show, and what it will cost if we are slow."
 
