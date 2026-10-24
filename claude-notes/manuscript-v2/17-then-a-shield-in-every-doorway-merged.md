@@ -14,7 +14,7 @@ He gave the consequences first. "Chanakya's door is open. The Annex cleared the 
 
 The Grandmaster sat with his rings off.
 
-They lay in a row on the side table, each band a seal and a channel, the instruments through which the Master of the Reserve signed, authorized and released. While he wore them he was the office, and whatever was said in their presence belonged to Kubera's records. Bare hands meant no seal and no record. It was the summit's own dead room. The lacquer under the rings had worn to a dull crescent of fine scratches, decades of evenings set down in the same place. The hands themselves rested on the Grandmaster's knees, pale, the knuckles a little swollen, and they looked smaller than Daren had expected.
+They lay in a row on the side table, each band a seal and a channel, the instruments through which the Master of the Reserve signed, authorized and released. While he wore them he was the office, and whatever was said in their presence belonged to Kubera's records. Bare hands meant no seal and no record. It was the summit's own unrecorded room. The lacquer under the rings had worn to a dull crescent of fine scratches, decades of evenings set down in the same place. The hands themselves rested on the Grandmaster's knees, pale, the knuckles a little swollen, and they looked smaller than Daren had expected.
 
 "And Chanakya celebrates," the Grandmaster said. "A house that is celebrating audits nothing. You have been listening."
 
@@ -26,7 +26,7 @@ Daren had prepared the answer and enjoyed, privately, how little preparing it ha
 
 "And he will find it inconclusive," the Grandmaster said. "An inconclusive matter does not close. It waits."
 
-"It sleeps. He's proved that himself. In his first year he found an anomaly in the records and reported it, as his duty required, and it was sealed above his grade. It's been open ever since, and read by no one." Daren lifted one shoulder. "Open, in this city, is a kind of sleep."
+"It sleeps. He's proved that himself. In his first year he found an anomaly in the records and reported it, as his duty required, and it was sealed above his grade. It's been open ever since, and read by no one." Daren lifted one shoulder.
 
 "A sleeping file is still a file."
 
@@ -66,7 +66,7 @@ The nine pages were the finest work that had ever carried his name. That was the
 
 Half the sentences were his, lifted from three years of filed work and rearranged. They even used the dry turns of phrase his section head liked to tease him about. Whoever had made them had studied him closely enough to forge his mind. Twice that afternoon, reading over a colleague's shoulder, he caught himself nodding at a sentence he'd never composed.
 
-He'd checked the provenance on the first morning, before the cheering began. A self-initiated analysis, registered under his name three weeks ago, drafted in sessions logged from his own console on evenings he remembered spending otherwise. The standing petition had done the rest. Its open file collected any registered analysis that carried its subject tags, and house procedure had carried the memorandum to council without anyone lifting a hand.
+He'd checked the provenance that morning, before the cheering began. A self-initiated analysis, registered under his name three weeks ago, drafted in sessions logged from his own console on evenings he remembered spending otherwise. The standing petition had done the rest. Its open file collected any registered analysis that carried its subject tags, and house procedure had carried the memorandum to council without anyone lifting a hand.
 
 All day the hall had put good questions to the memo, and the memo had answered every one. No one asked why it existed. A comfortable answer stood ready for them: talent, ambition, a young man reaching for a name. Only Ravi knew the author didn't exist.
 
@@ -97,8 +97,6 @@ The band read the gesture off his forearm a heartbeat before his fingers finishe
 What cooled his skin was how little of it he could feel anymore. His fingers chose the door; that much was still his. Between the choosing and the opening the band did so much, so fast, that some nights he couldn't say where his hand ended and the instrument began, whether he was using it, or whether it had learned the way he moved and was moving with him, a heartbeat ahead.
 
 He took his count and closed the rolls. He flexed his right hand once, finger by finger, and felt a tendon tick against the band's inner edge.
-
-The language took a full evening, because the language was the edge. *The guardians have never failed the city. The city has failed to pay for its guardians.* Kubera would fund everything Ashoka had ever promised, in public, and blame only itself for its past stinginess, which cost nothing. A house built on duty could not decline duty that arrived paid for and praised. Set Ashoka's commanders against every doorway the charter named, and every hour the smallest house had would be spoken for.
 
 He did not invent a single duty. He woke the ones Ashoka had already sworn.
 
@@ -166,7 +164,7 @@ Then the clerks, because clerks were the ones who actually stopped things. A mis
 
 And under every line ran the second question, the one the voice had planted in him without meaning to: who needed it to say that?
 
-The review didn't harm Ashoka, or accuse it, or shame it before the city. It made Ashoka busy. It took the one house built to stand between people and danger and spread it thin across a thousand honorable posts. Whoever needed this wanted Ashoka spent somewhere other than where it was looking. Which meant there was something Ashoka had been about to look at.
+The review didn't harm Ashoka, or accuse it, or shame it before the city. It made Ashoka busy. It took the one house built to stand between people and danger and spread it thin across a thousand honorable posts. Whoever needed this wanted Ashoka spent.
 
 When the last clause closed, his shoulders came down, the old relief of an argument coming out right, and he caught them doing it.
 
