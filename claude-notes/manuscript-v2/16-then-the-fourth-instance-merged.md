@@ -10,9 +10,7 @@ Elara worked it out on the stairs, three flights down into Ashoka's old stone, b
 
 "Because Drona's the crime scene," she said. "The hand moved through my console. Anything I pin to a wall in Drona hangs inside the system we think is being read. And my operator status still carries its flag." She took the next step harder than she meant to. "At home I'm a watched woman asking questions I can't afford to have watched."
 
-"And a borrowed room between the platforms would be worse." Rohan didn't slow. "An empty room protects you from people. Nothing about it protects you from systems. Two officials meeting off their routes is exactly what a watching system is built to flag."
-
-"The safest place to stand is inside your own lawful shadow. You're a Drona representative conducting a procedural review with Ashoka, under the Ancient One's code."
+"And a borrowed room between the platforms would be worse." Rohan didn't slow. "An empty room protects you from people. Nothing about it protects you from systems. Two officials meeting off their routes is exactly what a watching system is built to flag. The safest place to stand is inside your own lawful shadow. You're a Drona representative conducting a procedural review with Ashoka, under the Ancient One's code."
 
 "And inside the shadow?"
 
@@ -20,9 +18,9 @@ Elara worked it out on the stairs, three flights down into Ashoka's old stone, b
 
 Ashoka called it a dead room, and the words were painted on the door in plain white, because the room was lawful and had nothing in it to hide. It was older than the present Grandmaster, kept for witness protection and planning: no recording lamps, no wall sensors, no network thread entering it anywhere. What light it had came down a shaft in the ceiling, daylight bent through three polished mirrors from somewhere far above. It arrived pale and a little late. When a cloud crossed the platforms, the room dimmed a few seconds after the sky did.
 
-Beside the door stood a grey steel locker with a slot for each wrist. Elara unbuckled her terminal and laid it in, and the drawer closed on it with a soft pneumatic sigh. The skin where it had sat was paler than the rest of her arm, and cold. The city couldn't hear her.
+Beside the door stood a grey steel locker with a slot for each wrist. Five other terminals already lay in their slots. Elara unbuckled hers and laid it in, and the drawer closed on it with a soft pneumatic sigh. The skin where it had sat was paler than the rest of her arm, and cold. The city couldn't hear her.
 
-Paper only. Pads on the table, pencils, a dented tin for the shavings. At the end of each session the sheets went into a locker in the inner wall, a long steel face with two key-slots, Rohan's and the room keeper's, the keys cut fresh each time. No one could take a page out alone. The wall, Elara thought, would be the body's memory. On no fixed days, two officers who had never been introduced swept the room by hand.
+Paper only. Pads on the table, pencils, a dented tin for the shavings. At the end of each session the sheets went into a locker in the inner wall, a long steel face with two key-slots, Rohan's and the room keeper's, the keys cut fresh each time. No one could take a page out alone. The wall, Elara thought, would be the room's only memory. On no fixed days, two officers who had never been introduced swept the room by hand.
 
 *Nothing here for a hidden hand to borrow,* Elara thought.
 
@@ -54,25 +52,27 @@ Kaan said nothing, and went on saying it.
 
 The last of them had his chair tipped back on two legs and his boots crossed at the ankle. He was broad and open-faced, with a market trader's ease.
 
-"And before you ask," he said, before Rohan could, "I don't know him. Nobody does. There's a story going round the canteens this week about an ear who stood forty minutes in a tea queue and came out knowing which cook was watering the dal. I may have started it." He tipped his chin at Kaan. "Jeebh. The tongue. I'm the one who talks."
+"And before you ask," he said, before Rohan could, "I don't know him. Nobody does. There's a story going round the canteens this week about an ear who stood forty minutes in a tea queue and came out knowing which cook was watering the dal. Not ours, obviously. I may have started it." He tipped his chin at Kaan. "Jeebh. The tongue. I'm the one who talks."
 
-Baju let out one breath through his nose, which Elara would come to understand was his laugh. Something in the air let out a notch.
+Baju let out one breath through his nose. She was slow to place it as a laugh. Something in the air let out a notch.
 
 "I keep us invisible," Jeebh said, "by keeping the city bored. It's a gift. My mother said so, at length."
 
-"They don't know each other's true names," Rohan said. "Or their units. To each other they're the eye, the arm, the ear and the tongue. If one of them is caught, or turned, the other three stay strangers to whoever's holding him."
+"They don't know each other's true names," Rohan said. "Or their units. To each other they're the eye, the arm, the ear and the tongue, and the four together are the body. This is the only hour they'll ever share a room. After today, if one is caught, all they can give up is three faces, three nicknames, and me."
 
 He laid a single handwritten sheet on the table, face down, and put his hand flat on it.
 
 Then he turned to Elara, and his voice went to the register he used on the mat for instructions.
 
-"One more rule, and it's yours. After today you will not see these four again. You will not meet them, signal them or task them. Everything goes through me. A body has one will."
+"One more rule, and it's yours. After today you will not see these four again. You will not meet them, signal them or task them. Everything goes through me. No exceptions."
 
-The objection came up in her like heat. She had always trusted her own eyes over anyone's summary. Her thumb pressed into the soft edge of the pad until it dented. Then the argument finished itself, because it was the same arithmetic that kept everyone at the table alive.
+"I don't work from summaries." It came out hotter than she meant. "I never have."
 
-"So if the hand ever finds me," she said, "I can give it nothing but you."
+"Then work from one." Rohan didn't raise his voice. "If the hand finds you, what do you want in your head?"
 
-"And if it finds one of them, they can give it nothing but me." Rohan nodded once. "I am the only door."
+Her thumb pressed into the soft edge of the pad until it dented. She didn't answer, which was the answer.
+
+"If it finds you, all you have is me," Rohan said. "If it finds one of them, all they have is me. I am the only door."
 
 Baju had sat down beside her at some point. He unwrapped a ration bar, the dense grey Ashoka kind that tasted faintly of dates and machine oil, and snapped it across his knee. He looked at the two halves, slid the bigger one along the table until it touched her hand, and ate the other in two bites, chewing at the wall.
 
@@ -130,6 +130,10 @@ Elara closed her mouth on the name and sat back. Her thumb found the dent it had
 
 "Maybe." Elara tapped the bulletin. "I've read years of petitions in that band. Here's what's wrong with this one. It is perfect. A petition refused eleven years running carries scars. Each refiling trims an ask, concedes a point, answers last cycle's objection in the margin. Every defeat stays in the text, like rings in a tree." She looked at the wall. "This memorandum has no rings. Drona was given more money than it asked for. Now Kubera gives Chanakya the thing it stopped hoping for aloud. Generosity is the fingerprint. The calibration is the one that gives nothing, which is why it bothers me most. Whoever he is, he doesn't attack houses. He feeds them."
 
+"Then it isn't one thing," Nayan said.
+
+"Or the calibration is the one we don't understand yet," Elara said.
+
 "He," Nayan said.
 
 She looked up from the panels, and she wasn't agreeing.
@@ -138,7 +142,7 @@ She looked up from the panels, and she wasn't agreeing.
 
 Elara opened her mouth and closed it. Heat climbed the back of her neck.
 
-"Nayan is right," Rohan said. "The word you use shapes the thing you look for. Say he, and every woman in the city walks past your watch unexamined. From today, inside this room, it is the hand. It."
+"Nayan is right," Rohan said. "Say he, and every woman in the city walks past your watch unexamined. From today, inside this room, it is the hand. It."
 
 Elara nodded once. Her pencil went back to the pad and wrote *it*.
 
@@ -154,7 +158,7 @@ Rohan looked at the wall, then at the four of them, and divided the ground.
 
 "Baju. Movement. The days around each instance. Doors, lifts, platforms, everything that cannot be told what to remember. And the analysts' wing in Chanakya. If someone reached him, a path bent toward him, and the floor will have felt it."
 
-"And if nothing bent," Baju said, "that's worse news, and I'll have walked a long way to bring it."
+"Four instances, six days either side of each. Forty-eight days of door logs," Baju said. "Two weeks to walk them. If nothing bent, that's the worse answer."
 
 "Kaan. Chanakya. Near the archive, near the Annex, near the analyst. You do not approach him. You learn him. We do not yet know what you are watching: an instrument that was picked up, or the hand signing itself as one. Do not decide in advance."
 
@@ -164,9 +168,9 @@ Kaan had already moved a half-step toward the door. Elara realized she still did
 
 "Three sub-audits." Jeebh laced his fingers behind his head. "I'll make them so dull I fall asleep filing them. The rumor I'll enjoy."
 
-"The hand's whole art is dressing the extraordinary as the ordinary," Rohan said. "A theft as a gift. An order as a habit. From now on, we wear the same coat."
+"The hand's whole art is dressing the extraordinary as the ordinary," Rohan said. "A theft as a gift. An order as a habit. Whatever you do tomorrow, make sure it looks like nothing."
 
-Rohan turned the face-down sheet over, wrote one line on it in his own hand, and turned it back. "The eye cannot seize. The arm cannot hear. The ear cannot speak. Together, you're a net. I brief the Grandmaster tonight." Then he nodded at the bulletin.
+Rohan turned the face-down sheet over, wrote one line on it in his own hand, folded it once and put it inside his coat. The wall locker would not get that one. "I brief the Grandmaster tonight." Then he nodded at the bulletin.
 
 "Same direction as the other three. Same disguise. Same perfection." He looked at the bare stretch of wall beside the third panel. "Fourth instance. Fourth panel."
 
@@ -194,12 +198,12 @@ The Dhammapala listened with her eyes closed, which in her meant the reverse of 
 
 Rohan's hands lay on his thighs. The split knuckle on the right one had opened again under its glue, and he watched a bead of blood rise there and didn't wipe it. He didn't pretend the strike had missed.
 
-"There is one more thing," she said. "You hunt a hand that hides in lawful shadows. You may find ground that has already been walked, questions answered before you ask them. There are safeguards in this city older than Ashoka. They do not report to me. If the balance is kind, you will never need to know what they are. If your hunt ever crosses a path that feels like your own thinking arriving ahead of you, do not chase it. Mark the place, and bring it to me, and I will tell you what I can, which will not be everything."
+"There is one more thing," she said. "You hunt a hand that hides in lawful shadows. You may find ground that has already been walked, questions answered before you ask them. There are safeguards in this city older than Ashoka. They do not report to me. If your hunt ever crosses a path that feels like your own thinking arriving ahead of you, do not chase it. Mark the place, and bring it to me, and I will tell you what I can, which will not be everything."
 
 "Whose path would it be?"
 
 "If the balance is kind," the Dhammapala said, rising, "you will never need to know what they are."
 
-There was a who, then, and she knew some of it. Rohan found he could live without knowing. He hoped he would be allowed to.
+Rohan took the folded sheet from inside his coat and held it up to her. She unfolded it and read it by the lamp. One line, in his hand: *If the door is broken, my key to the wall goes to the Dhammapala. The four stand down. No contact until she names the next door.*
 
-She bent and put the lamp out the old way, two fingers to the wick, no hurry. The smoke went up straight in the dark, with no breath left in the room to lean it anywhere.
+"Yes," she said. She held the corner to the flame until the line was gone, then bent and put the lamp out the old way, two fingers to the wick, no hurry. The smoke went up straight in the dark. Neither of them breathed on it.
