@@ -38,7 +38,7 @@ The fear arrived in Daren's stomach first, then his throat. The man had nothing.
 
 He did nothing.
 
-He didn't stop. He didn't turn. He didn't raise his hand, or lower it, or close it. He walked past a crouching man in a half-lit corridor with his right arm loose at his side, and he was afraid, and somewhere under the fear, too quick to be a decision, too small to be called a thought, his body wanted the man gone. Every frightened body wants that. In an ordinary man the wish would have died where it was born, a flicker in the nerves of the forearm that never became a fist. But the bracelet lay against those nerves and listened to them, and the bracelet had never once waited for a flicker to become a fist.
+He didn't stop. He didn't turn. He didn't raise his hand, or lower it, or close it. He walked past a crouching man in a half-lit corridor with his right arm loose at his side, and he was afraid, and somewhere under the fear, too quick to be a decision, too small to be called a thought, his body wanted the man gone. In an ordinary man the wish would have died where it was born, a flicker in the nerves of the forearm that never became a fist. But the bracelet lay against those nerves and listened to them, and the bracelet had never once waited for a flicker to become a fist.
 
 The band grew warm against the bone of his wrist.
 
@@ -52,7 +52,7 @@ Behind Daren came a sharp crack, like a dry board breaking, and a flash that lit
 
 Daren's legs stopped.
 
-They stopped the way a machine stops when something jams inside it, and he stood in the half-light with his back to the panel and his breath gone somewhere he couldn't reach. His pulse was in his ears. His mouth had filled with something sour. He was a treasury officer. He had spent his life moving numbers between columns, and the worst thing he had ever done to another person he'd done with a signature, from a long way off, to people he would never see. He had never been in a room when it happened. He had never heard it.
+He stood in the half-light with his back to the panel and his breath gone somewhere he couldn't reach. His pulse was in his ears. His mouth had filled with something sour. He was a treasury officer. He had spent his life moving numbers between columns, and the worst thing he had ever done to another person he'd done with a signature, from a long way off, to people he would never see. He had never been in a room when it happened. He had never heard it.
 
 He made himself turn around.
 
@@ -98,7 +98,7 @@ The word reached Rohan on the eastern transit platform, four hours into a guardi
 
 Ashoka didn't let its dead be filed by strangers. When one of its own died on another house's ground, the body and the paperwork both came home, and the notice went to the officer who had signed the posting. The rule accused no one. It existed because a posting looked like paperwork when you signed it, a name, a place, a stamp, and the house wanted the man who signed it to feel, at least once, what the paperwork weighed.
 
-He had arranged Baju's posting himself. A technician's assignment in Drona's monitor tower, under a name that wasn't Baju, which was the point of working names and no comfort at all.
+He had arranged Baju's posting himself. A technician's assignment in Drona's monitor tower, under a cover name. Not even his working one.
 
 *Maintenance fault. Drona monitor tower, service corridor, fourth level. Unscheduled inspection by technician on temporary assignment. Line test discharged through panel frame during contact. No witnesses. Corridor sensor logged maintenance interval for the period. Death immediate.*
 
@@ -146,7 +146,7 @@ At the lift doors, the Dhammapala spoke to him from the lamplit room in his head
 
 He heard it. He pressed the call plate anyway, and felt the scar along his jaw pull tight as the doors opened.
 
-There was one other message to send tonight. It would go by the oldest route Ashoka had, a folded slip carried hand to hand by people who never read what they carried, to a man in Chanakya with a face that gave nothing to remember. Kaan's orders had been to watch the analyst and never approach him. Learn him. Decide nothing in advance.
+There was one other message to send tonight. It would go by the oldest route Ashoka had, a folded slip carried hand to hand by people who never read what they carried, to Kaan, posted in Chanakya's shadow with a face that gave nothing to remember. His orders had been to watch the analyst and never approach him. Learn him. Decide nothing in advance.
 
 Rohan wrote two words on the slip in his own upright hand: *stop listening.*
 
@@ -186,7 +186,7 @@ Thorton, deceased. Rita, spouse, surviving. Dependents of record: Gage. And a li
 
 *Camilla. Half-sister. Two years younger. Non-labor.*
 
-Flagged twice. Once as a child: *obstruction of a guard, minor*, a bite on the hand, during the detention of the dependent Gage. Once in the weeks before the Initiation: *unaccounted absence, two days, direction of travel toward the Heights waste-fields. Returned. No action taken.*
+Flagged twice. Once as a child: *obstruction of a guard, minor*, a bite on the hand, during the detention of the dependent Gage. Once in the weeks before the Initiation: *unaccounted absence, two days, direction of travel toward the Heights waste-chutes. Returned. No action taken.*
 
 "The Heights," Elara said. "Is that far?"
 
@@ -210,9 +210,9 @@ Her ration card, the only way the city counted a child too young for the mine. L
 
 Four people from three shacks, gone within a day of each other, and a city that had looked once and moved on.
 
-Wherever the boys were, the sister was with them. The one who'd armed them before anyone knew they needed arming.
+Wherever the boys were, the sister was with them.
 
-Her cursor sat on *source to be established.* Open it, and the city would start looking for Camilla too. Leave it, and she had nothing lawful to follow. She opened it. The header changed. *Reviewer: Nathan, E.*
+On her wrist, the strip's record still sat open at *source to be established.* Open it, and the city would start looking for Camilla too, with Elara's name at the top of the search. Leave it, and four people stayed *absconded* for good. She thought of Teresa, and of every adult who had told her, kindly, that nothing could be done. She opened it. The header changed. *Reviewer: Nathan, E.* She looked at her own name on it until the clerk spoke.
 
 "Find what you wanted?" the clerk said.
 
