@@ -22,7 +22,7 @@ Daren registered him the way he registered everyone now, barely, and kept walkin
 
 Then he saw the wrist.
 
-The man's left sleeve was pushed back, and the wrist under it was bare. No terminal. Every citizen of the three Trinitys had worn one since childhood, and the city's whole machinery of attention ran through them: the instruments looked, the instruments named what mattered, people saw what their wrists underlined. A bare wrist wasn't a crime. It meant there was nothing on this man for the band to speak to. Nothing to tell him the shape in the corridor was cleared, or beneath notice.
+The man's left sleeve was pushed back, and the wrist under it was bare. No terminal. Nothing on this man for the band to speak to. Nothing to tell him the shape in the corridor was cleared, or beneath notice.
 
 The man's eyes had come up off the log face. They found Daren, and they stayed.
 
@@ -32,7 +32,7 @@ The man didn't flinch. He didn't look elsewhere or reach for anything. He watche
 
 Daren understood it a heartbeat after he did.
 
-The log face showed the corridor's sensors moment by moment. Right now, with a man walking past them in plain view, it showed *maintenance interval, no personnel.* On every other night that blank had been invisible, because no one was standing beside it to compare it with the corridor. Tonight someone was. He had a corridor in front of his eyes with a stranger in it, and a screen under his hands that swore the corridor was empty, and he had laid the two side by side.
+The log face showed the corridor's sensors moment by moment. A breath ago it had shown one technician on station, and the technician was him. Right now, with a man walking past them in plain view, it showed *maintenance interval, no personnel.* On every other night that blank had been invisible, because no one was standing beside it to compare it with the corridor. Tonight someone was. He had a corridor in front of his eyes with a stranger in it, and a screen under his hands that swore the corridor was empty, and he had laid the two side by side.
 
 The fear arrived in Daren's stomach first, then his throat. The man had nothing. A bare-wristed technician's word against the city's own records was no weapon at all. But the fear was older than that, and it didn't care. It was the cat's fear, of being seen by something that couldn't be told what it was seeing, the fear he'd carried off the maglev and filed under things that had no column.
 
@@ -67,8 +67,6 @@ He hadn't. That was true, and it would stay true, and it would not help. The ban
 It had never once given him an idea. Tonight it hadn't needed one. It had found the nearest way to finish what his forearm began.
 
 He had not opened that door. He had only been afraid in front of it.
-
-He hadn't known that, for him, those had stopped being different things.
 
 His left hand came off the wall and went to his right wrist. He didn't decide to do it. His fingers found the edge of the band and hooked under it and pulled.
 
@@ -106,7 +104,7 @@ He had arranged Baju's posting himself. A technician's assignment in Drona's mon
 
 *Maintenance fault. Drona monitor tower, service corridor, fourth level. Unscheduled inspection by technician on temporary assignment. Line test discharged through panel frame during contact. No witnesses. Corridor sensor logged maintenance interval for the period. Death immediate.*
 
-The platform crowd moved around him the way water moves around a post. A tram came in, and a vendor's steam cart hissed at his back, and the board over the gates rolled its arrivals with a dry flutter of slats.
+The crowd parted around him and closed again. A tram came in, and a vendor's steam cart hissed at his back, and the board over the gates rolled its arrivals with a dry flutter of slats.
 
 He went through the notice the way Baju would have, walking it line by line, counting what had been walked, and found what wasn't there.
 
@@ -140,9 +138,9 @@ He thought of the dead room. A grey ration bar snapped across a knee, the two ha
 
 The young officer looked at his face, and closed his mouth, and took the postings.
 
-Rohan had told the body, in the dead room, to make whatever it did look like nothing. So the cell would do the same: move slowly, look dull, make every true thing look like routine, so the hand would never feel them coming.
+Rohan had told the four of them, in the dead room, to make whatever they did look like nothing. So the cell would do the same: move slowly, look dull, make every true thing look like routine, so the hand would never feel them coming.
 
-The eye worked slowly, and he had let her. The ear only listened, because he'd told it to. The arm had been patient, and the arm was dead. Rohan was the door of this body, and the hand had walked round the door and killed the first of them who got close enough to see it, without leaving a mark on any record in the city. If it could do that, the records were never going to catch it. Something else would have to.
+The eye worked slowly, and he had let her. The ear only listened, because he'd told it to. The arm had been patient, and the arm was dead. Rohan had been the only door. Whatever killed Baju had walked around him and left no mark on any record in the city. If it could do that, the records were never going to catch it. Something else would have to.
 
 He walked toward the lifts with the notice crackling against his chest at every step. He would send for Elara by runner. She would hear it from him tonight, before any channel told her.
 
@@ -156,7 +154,7 @@ Rohan wrote two words on the slip in his own upright hand: *stop listening.*
 
 Kaan would know what the other half of that was.
 
-Baju had found the hand. That was what the notice said under its two words. He'd got close enough that it had to kill him, and it had done it in a hurry, with a blank any careful hunter would know for what it was. A hand that could be hurried was a hand that could make mistakes.
+Baju had found the hand. That was what the notice said, underneath. He'd got close enough that it had to kill him, and it had done it in a hurry, with a blank any careful hunter would know for what it was. A hand that could be hurried was a hand that could make mistakes.
 
 Rohan meant to give it every reason to hurry.
 
@@ -184,7 +182,7 @@ Gage hadn't found it in the chamber. He'd carried it in. Someone at home had sew
 
 The household archive sat two floors down, a long room of pale drawers and one reading table, where the city kept the parts of a family it didn't think worth reading. The drawers were labelled by district in a typeface two generations old, and the shack-rows had a drawer to themselves, down by the skirting board. The clerk on duty was older than anyone else on the floor, with a cardigan buttoned wrong by one button and a cup of tea she wasn't drinking. She drew the file without asking why, and read the label on her way to the table.
 
-"I grew up two rows from the Thorton shack," she said. "People in those rows stand near one another."
+"I've filed that row for thirty years," she said. "People in those rows stand near one another."
 
 Thorton, deceased. Rita, spouse, surviving. Dependents of record: Gage. And a line beneath his that Elara had seen before and never opened.
 
@@ -208,9 +206,9 @@ She went back to the strip's line. *Origin: unregistered.* A fifteen-year-old gi
 
 At fifteen Elara had hidden in a freight pod and gone down to the ground alone, with a notebook full of notes on a herb that didn't exist. Three days. Teresa died on the second night. Every adult with the power to help had told her, kindly, that nothing could be done, and she hadn't waited for their permission.
 
-Camilla had gone out to the Heights alone, the same way, for the same reason. The difference was that Camilla had come back with something that worked. The city had a category for that. It called it a compassion anomaly and filed it under risk.
+Camilla had gone out to the Heights alone, on foot, and Elara could guess why. The difference was that Camilla had come back with something that worked.
 
-"Her ration card," the clerk said. She had turned the file a quarter toward herself and was reading it upside down with the ease of long practice. "The only way the city counts a child too young for the mine. Last drawn the same morning as the Parker boy's and the Baxter boy's, Ben and Otto, last scan. Nothing since."
+Her ration card, the only way the city counted a child too young for the mine. Last drawn the same morning as Ben's and Otto's last scans. Nothing since.
 
 Four people from three shacks, gone within a day of each other, and a city that had looked once and moved on.
 
@@ -220,6 +218,8 @@ Wherever the boys were, the sister was with them. The one who'd armed them befor
 
 "I found who," Elara said, and closed the file.
 
+The header had changed. *Source to be established: reopened. Reviewer: Nathan, E.*
+
 The girl's intake photograph was the last thing to go dark: flat, unsmiling, her eyes already busy with something out of frame.
 
-Elara went back upstairs to the hunt. Across the platforms, Rohan had already sent for her, the notice folded against his chest.
+Elara went back upstairs to the hunt. At the top of the stairs a runner was waiting, a folded slip in his fist. He held it out to her without having read it.
