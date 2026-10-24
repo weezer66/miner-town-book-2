@@ -38,7 +38,7 @@ A lean, weathered man stood against it with his palm flat on the seam where door
 
 "Baju. The arm."
 
-"Seal's good." Baju took his hand off the door and wiped it on his trousers, though there was nothing on it. "Field work. Doors, lifts, platforms. I walk what the logs say was walked, and I count." He patted the pocket. It clicked again. "Machines can be told what to remember."
+"Seal's good." Baju took his hand off the door and wiped it on his trousers, though there was nothing on it. "Field work. Doors, lifts, platforms. I walk what the logs say was walked, and I count." He patted the pocket. It clicked again. "A log says I walked it. My knees say whether I did."
 
 "And Kaan," Rohan said. "The ear."
 
@@ -58,7 +58,7 @@ Baju let out one breath through his nose. Elara was slow to place it as a laugh.
 
 "I keep us invisible," Jeebh said, "by keeping the city bored. It's a gift. My mother said so, at length."
 
-"They don't know each other's true names," Rohan said. "Or their units. To each other they're the eye, the arm, the ear and the tongue, and the four together are the body. This is the only hour they'll ever share a room. After today, if one is caught, all they can give up is three faces, three nicknames, me, and you. Which is why you were never here."
+"They don't know each other's true names," Rohan said. "Or their units. To each other they're the eye, the arm, the ear and the tongue, and the four together are the body. This is the only hour they'll ever share a room. After today, if one is caught, all they can give up is three faces, three nicknames, and me. They never heard your name. Keep it that way."
 
 He laid a single handwritten sheet on the table, face down, and put his hand flat on it.
 
@@ -70,7 +70,7 @@ Then he turned to Elara, and his voice went to the register he used on the mat f
 
 "Then work from one." Rohan didn't raise his voice. "If the hand finds you, what do you want in your head?"
 
-Her thumb pressed into the soft edge of the pad until it dented. She didn't answer, which was the answer.
+Her thumb pressed into the soft edge of the pad until it dented. She didn't answer.
 
 "If it finds you, all you have is me," Rohan said. "If it finds one of them, all they have is me. I am the only door."
 
@@ -92,7 +92,7 @@ Nayan spoke without looking up from her copy. "Then the pattern is the evidence.
 
 "No," Elara said. "That is what this room is for."
 
-She had brought the Sākṣī mirrors. Since the Initiation she had watched one narrow band, cross-house allocations, for money arriving where nobody had asked for it. Nayan, on paper, had been watching the same water.
+She had brought the Sākṣī mirrors, copied out by hand, two nights' work, because nothing with a thread crossed that door. Since the Initiation she had watched one narrow band, cross-house allocations, for money arriving where nobody had asked for it. Nayan, on paper, had been watching the same water.
 
 Two knocks came at the door, close together.
 
@@ -118,7 +118,7 @@ Her lips had parted on *I know him*. Rohan's hand came down flat on the face-dow
 
 Nayan's pencil paused, and went on. The eye had seen the look.
 
-Elara closed her mouth on the name and sat back. Her thumb found the dent it had made in the pad. An hour ago the rule had cost her nothing.
+Elara closed her mouth on the name and sat back. Her thumb found the dent it had made in the pad. An hour ago she had argued with the rule. Now she was keeping it.
 
 "Houses change their minds," Baju said. He didn't sound as if he believed it. He sounded as if he wanted it tested.
 
@@ -144,7 +144,7 @@ Elara opened her mouth and closed it. Heat climbed the back of her neck.
 
 Elara nodded once. Her pencil went back to the pad and wrote *it*.
 
-"If you are right," Rohan said, "then the pattern has a fourth instance. And look at the date. The first three happened weeks and months ago. This one happened this morning, while we were pinning the other three to a wall." His jaw worked once along the old scar. "We came here to read history. This is traffic. It is still moving."
+"If you are right," Rohan said, "then the pattern has a fourth instance. And look at the date. The first three happened weeks and months ago. This one happened this morning, while we sat looking at the other three." His jaw worked once along the old scar. "We came here to read history. This is traffic. It is still moving."
 
 "And there's the name." Elara touched the signature line with one fingertip. "Either the analyst is the hand, and the hand doesn't sign its real name. Or he's standing where it wanted him to stand, and doesn't know whose weight he's carrying." Her eyes went, without her permission, to the third panel and her own console's name on it. "Someone should find out which. Before someone else decides for him."
 
@@ -156,7 +156,7 @@ Rohan looked at the wall, then at the four of them, and divided the ground.
 
 "Baju. Movement. The days around each instance. Doors, lifts, platforms, everything that cannot be told what to remember. And the analysts' wing in Chanakya. If someone reached him, a path bent toward him, and the floor will have felt it."
 
-"Four instances, six days either side of each. Forty-eight days of door logs," Baju said. "Two weeks to walk them. If nothing bent, that's the worse answer."
+"Three instances, six days either side of each, and the six before this morning. Forty-two days of door logs," Baju said. "Two weeks to walk them. If nothing bent, that's the worse answer."
 
 "Kaan. Chanakya. Near the archive, near the Annex, near the analyst. You do not approach him. You learn him. We do not yet know what you are watching: an instrument that was picked up, or the hand signing itself as one. Do not decide in advance."
 
@@ -170,7 +170,7 @@ Kaan had already moved a half-step toward the door. Elara realized she still did
 
 Rohan turned the face-down sheet over, wrote one line on it in his own hand, folded it once and put it inside his coat. The wall locker would not get that one. "I brief the Grandmaster tonight." Then he nodded at the bulletin.
 
-"Same direction as the other three. Same disguise. Same perfection." He looked at the bare stretch of wall beside the third panel. "Fourth instance. Fourth panel."
+"Same disguise. Same perfection. Same direction as the transfer." He looked at the bare stretch of wall beside the third panel. "Fourth instance. Fourth panel."
 
 Baju was already reaching for it, a brass pin held between his lips, the counter in his pocket clicking once as he stood.
 
