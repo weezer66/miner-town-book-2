@@ -8,7 +8,7 @@
 
 The warm was going out.
 
-It went from under him first, the backs of his knees, then the hollow of his spine, then everywhere, like a tide pulling off a rock somebody's been asleep on. The cool came in behind it. The pull came into his arms and asked, and went.
+It went from under him first, the backs of his knees, then the hollow of his spine, then everywhere. The cool came in behind it. The pull came into his arms and asked, and went.
 
 Far up the shaft, the patient voice started.
 
@@ -20,7 +20,7 @@ Nearly whole. Most of them arrived as gravel, worn round, nothing to catch on. T
 
 *Gretchen.*
 
-The picture came with it, so sharp after all the blue that it ached somewhere behind his eyes. A small girl at the gates, in a coat too big for her, the cuffs turned back twice by someone else's hands. Ben's sister. Ben said her name like a man patting a pocket to check something was still in it.
+The picture came with it, so sharp after all the blue that it ached somewhere behind his eyes. A girl at the water pump, sleeves turned back, saying something that made Ben stop and listen. Ben's sister. Ben said her name like a man patting a pocket to check something was still in it.
 
 So the voice was Ben.
 
@@ -48,7 +48,7 @@ Otto lay in the gap and felt it.
 
 The gap had a width. It was a hole left in the air the exact size of an answer, a sentence long, and the sentence was his. Ben had been cutting it out for him every time, setting it down at the bottom of the shaft, and going on, and Otto had never once picked it up.
 
-He couldn't now. He tried, and the stillness drank the trying. But he could feel the edges of the gap the way you feel the edges of a chair in a room with no lamp, and he knew who it was for.
+He couldn't now. He tried, and the stillness drank the trying. But he could feel the edges of the gap, and he knew who it was for.
 
 *Fine*, said the old Otto-mobile part of him. *Leave another one. I'm not going anywhere.*
 
@@ -62,13 +62,13 @@ Two pieces. Gage at the hole, the old scar standing out pale, face turned up, wa
 
 But Ben had stopped in the middle, and gone back, and said it again.
 
-Otto turned that over. A sentence you go back to isn't finished. A promise only broke when the one who'd made it quit, and he hadn't quit. He was still down here holding the floor, still answering every pull in his arms. He hadn't jumped *yet*, was all.
+Otto turned that over. A sentence you go back to isn't finished. He hadn't jumped. Yet.
 
 The two pieces lay in the blue with him, the same as ever.
 
 The weight came off them.
 
-It turned round where it lay, and where it had pressed down on him, it drew up. In the blue, the hole hung the other way: Gage was above him now, at the lip of it, and he saw the hands: both of them down over the lip of the hole, open, knuckles skinned, and running down from them into the dark, the promise, a rope let down a shaft. Rough. A knot at every arm's length, the fibres furred at the knots where big hands had been worrying them. At the top of it, Gage had his heels dug in and his whole weight leaned back, the way he'd lean on a stuck valve, and he wasn't letting go of his end, and he wasn't going to.
+It turned round where it lay, and where it had pressed down on him, it drew up. In the blue, the hole hung the other way. Gage was above him now, at the lip, knuckles skinned. Down from his fists into the dark ran the promise, and it was a rope: rough, a knot at every arm's length, the fibres furred where big hands had been worrying them, and one knot thicker than the rest, where two pieces had been tied back together. Up top, Gage had his heels dug in and his whole weight leaned back, and he wasn't letting go of his end, and he wasn't going to.
 
 Otto couldn't climb it. He couldn't find his hands to take hold.
 
