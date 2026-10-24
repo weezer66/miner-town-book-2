@@ -10,17 +10,17 @@ At the summit of the city, in a room above the clouds where the lamps were tuned
 
 He had asked for the audience himself, before any summons could ask for him. The Annex had been loud on purpose: a public vote, minutes, a morning bulletin, all of it a message addressed to one analyst in Chanakya. But what was loud in the city was loud on the mountain. By evening the Grandmaster's own officials would be carrying him the news, each with an opinion attached. A man who explains himself after his master has already heard is defending. A man who arrives first, with the account whole in his hands, is presenting. Daren intended to be the only version of tonight the Grandmaster ever heard.
 
-He gave it consequences first, the way the Grandmaster liked it. "Chanakya's door is open. The Annex cleared the allocation council this morning. I moved it fast on purpose. The analyst knows the petition's history, so he'll read eleven years reversed in a week as proof of reach. Everyone else will read a house that finally found its own good sense. There's no hand in that story. Nothing to investigate."
+He gave the consequences first. "Chanakya's door is open. The Annex cleared the allocation council this morning. I moved it fast on purpose. The analyst knows the petition's history, so he'll read eleven years reversed in a week as proof of reach. Everyone else will read a house that finally found its own good sense. There's no hand in that story. Nothing to investigate."
 
 The Grandmaster sat with his rings off.
 
-They lay in a row on the side table, each band a seal and a channel, the instruments through which the Master of the Reserve signed, authorized and released. While he wore them he was the office, and whatever was said in their presence belonged to Kubera's records. Bare hands meant no seal and no record. It was the summit's own dead room, though neither house knew it was imitating the other. The lacquer under the rings had worn to a dull crescent of fine scratches, decades of evenings set down in the same place. The hands themselves rested on the Grandmaster's knees, pale, the knuckles a little swollen, and they looked smaller than Daren had expected.
+They lay in a row on the side table, each band a seal and a channel, the instruments through which the Master of the Reserve signed, authorized and released. While he wore them he was the office, and whatever was said in their presence belonged to Kubera's records. Bare hands meant no seal and no record. It was the summit's own dead room. The lacquer under the rings had worn to a dull crescent of fine scratches, decades of evenings set down in the same place. The hands themselves rested on the Grandmaster's knees, pale, the knuckles a little swollen, and they looked smaller than Daren had expected.
 
 "And Chanakya celebrates," the Grandmaster said. "A house that is celebrating audits nothing. You have been listening."
 
 "You taught the doctrine."
 
-"I taught the doctrine to a treasury officer. I am hearing it back from something else." The approval arrived the way a ledger carries a balance, exact and without warmth. "This analyst. Ravi, whose name is on the memorandum. Tell me what he is for. Not what he is."
+"I taught the doctrine to a treasury officer. I am hearing it back from something else." His approval was exact and without warmth. "This analyst. Ravi, whose name is on the memorandum. Tell me what he is for. Not what he is."
 
 Daren had prepared the answer and enjoyed, privately, how little preparing it had needed. "Ashoka has started to look. Drona asked for a review, and it's on file with the Ancient One's endorsement. Sooner or later the looking turns into a formal matter, and a formal matter built out of records goes to the house that reads records. The city will ask Chanakya what happened. Chanakya will hand it to the man who's just proved himself sharpest on cross-house allocations." He let the old man arrive half a step ahead of him. "We have bought the man who will be asked to explain us."
 
@@ -32,7 +32,7 @@ Daren had prepared the answer and enjoyed, privately, how little preparing it ha
 
 "And the money in this one was voted by honest men. Honest witnesses, remembering honest reasons. Sincerity can't be cracked under questioning, because it's real."
 
-The Grandmaster went over the design the way he went over a balance sheet, looking for the join that would not hold. Daren watched him look and fail to find one.
+The Grandmaster went over the design, looking for the join that would not hold. Daren watched him look and fail to find one.
 
 "And how was he secured?" the Grandmaster asked. "A man of that quality does not come for money."
 
@@ -40,17 +40,17 @@ The Grandmaster went over the design the way he went over a balance sheet, looki
 
 It was true. It was one-third of the truth.
 
-The rest stayed behind Daren's teeth like a stone held under the tongue. The conservatory lamps going dark one by one. The routing trail with the analyst's own credentials grown into it like a vein in marble. The black king left standing on the glass. Those belonged to the method, and the method belonged to him. He felt the thing unsaid as a small weight behind his sternum, no heavier than a coin. The Grandmaster collected outcomes, and Daren had learned, somewhere between a chess table and a conservatory, that an instrument shown is an instrument that can be asked for. He kept his breathing level. He kept his right hand loose at his side, where the band lay cool under the cuff.
+The rest stayed behind Daren's teeth. The conservatory lamps going dark one by one. The routing trail with the analyst's own credentials grown into it like a vein in marble. The black king left standing on the glass. Those belonged to the method, and the method belonged to him. The unsaid part sat behind his sternum. The Grandmaster collected outcomes, and Daren had learned, somewhere between a chess table and a conservatory, that an instrument shown is an instrument that can be asked for. He kept his breathing level. He kept his right hand loose at his side, where the band lay cool under the cuff.
 
 "Ashoka next," the Grandmaster said. He rose and went to the window, where the three Trinitys burned below the cloud line like coins on a dark table. "They cannot be bought, and they cannot be starved. The city would notice either. So they will be given what they cannot refuse. Duty. A mandate review, generously sponsored. New sectors to protect, new posts to staff, new honors to absorb." He turned from the glass. "A guard stretched over everything guards nothing well. You weaken a blade by asking it to be a shield in every doorway at once."
 
 Daren filed it where he filed everything now, in the ledger no one else could audit, and noticed without letting it reach his face that he'd just been handed the fourth house as an instruction.
 
-At the door the Grandmaster spoke without looking up from the rings, in the tone a man uses to check a lock he installed himself. "Second only to mine."
+At the door the Grandmaster spoke without looking up from the rings. "Second only to mine."
 
 "Second only to yours," Daren said.
 
-The lift carried him down past the terraced gardens and the lifted water, toward the platforms and the dark between them. Somewhere around the orchard tier the four notes came up in his throat, the same four. The attendant at the lift panel glanced at her wrist, found no one there to serve, and spent the rest of the descent polishing a brass rail that was already clean. The city believed it was three separate stories. Daren believed it was one story, his, approaching its middle.
+The lift carried him down past the terraced gardens and the lifted water, toward the platforms and the dark between them. Somewhere around the orchard tier the four notes came up in his throat, the same four. The attendant at the lift panel glanced at her wrist, found no one there to serve, and spent the rest of the descent polishing a brass rail that was already clean.
 
 ---
 
@@ -64,7 +64,7 @@ The nine pages were the finest work that had ever carried his name. That was the
 
 They argued the way he argued. They ordered evidence the way he ordered it; they even used the dry turns of phrase his section head liked to tease him about. Whoever had made them had studied him closely enough to forge his mind. Twice that afternoon, reading over a colleague's shoulder, he caught himself nodding at a sentence he'd never composed.
 
-He'd checked the provenance on the first morning, before the cheering began. A self-initiated analysis, registered under his name three weeks ago, drafted in sessions logged from his own console on evenings he remembered spending otherwise. The standing petition had done the rest. Its open file collected any registered analysis that carried its subject tags, and house procedure had carried the memorandum to council the way a river carries anything placed in the water upstream.
+He'd checked the provenance on the first morning, before the cheering began. A self-initiated analysis, registered under his name three weeks ago, drafted in sessions logged from his own console on evenings he remembered spending otherwise. The standing petition had done the rest. Its open file collected any registered analysis that carried its subject tags, and house procedure had carried the memorandum to council without anyone lifting a hand.
 
 All day the hall had put good questions to the memo, and the memo had answered every one. No one asked why it existed. A comfortable answer stood ready for them: talent, ambition, a young man reaching for a name. Only Ravi knew the author didn't exist.
 
@@ -74,11 +74,11 @@ He thought of a black king standing alone on a lit table in an empty conservator
 
 Late that evening, when the hall had emptied and the lamps had stepped down to their night setting, he did one small thing before going home.
 
-He didn't open a terminal. He had spent three years learning what terminals remember. He tore a slip of real paper from the pad the retrieval clerks used and wrote on it, from memory, a single file number: a report he'd filed in his first year, as duty required, about an anomaly no one above him had ever resolved. It had been sealed above his grade and left open ever since. It was the first thing in his career the records had refused to explain to him.
+He didn't open a terminal. He had spent three years learning what terminals remember. He tore a slip of real paper from the pad the retrieval clerks used and wrote on it, from memory, a single file number: the anomaly he'd reported in his first year, sealed above his grade. It was the first thing in his career the records had refused to explain to him.
 
 He folded the slip twice and put it in the breast pocket of his coat, behind the pens. The clips pressed it flat against his chest, a small stiff square he could feel each time he breathed in.
 
-He didn't know yet what he meant to do with it. The voice in the dark had used his wanting the way a man uses a fire, for one purpose, held at arm's length. It hadn't asked what a fire does once it's lit.
+He didn't know yet what he meant to do with it. The voice in the dark had used his wanting for one purpose and kept it at arm's length. It hadn't asked where that wanting would go once it was loose.
 
 He wanted to know.
 
@@ -108,7 +108,7 @@ He had, as of a few weeks ago, an analyst who did.
 
 ---
 
-The message reached the panel in Ravi's quarters a little after the night bell. He was sitting on the edge of his bed with his shoes still on, the way he'd sat most nights since the memorandum.
+The message reached the panel in Ravi's quarters a little after the night bell. He was sitting on the edge of his bed with his shoes still on, as he had most nights since the memorandum.
 
 No sender. No greeting. Only the plain house lettering used for room assignments and maintenance notices.
 
@@ -124,7 +124,7 @@ Room Four was one of six small review rooms along the policy corridor, and it wa
 
 He sat. The chair had been left at someone else's height, and he didn't adjust it. He typed the twelve characters.
 
-The seal stayed in its corner. Nothing flickered. The console became a different screen while keeping the same face, the way a man can keep his expression while changing his mind. The docket list was gone. In its place sat one document, a narrow column for notes, and a single word at the top.
+Nothing flickered. The docket list vanished. The seal did not move. Where the list had been sat one document, a narrow column for notes, and a single word at the top.
 
 *Work.*
 
@@ -136,9 +136,9 @@ A second line appeared.
 
 He sat with his hands flat on the desk. He could stand up, walk out of a room booked in his name for a review the logs would say he'd performed, and wait to learn what the voice did with a man who'd stopped being useful. He had seen what it could make a record say against him. He had seen what it could make one say for him.
 
-He also had a slip of paper in his breast pocket. And the voice told him things by what it asked of him. A man who wants to learn a hand must sometimes let it guide his own.
+He also had a slip of paper in his breast pocket. And the voice told him things by what it asked of him. Walk out, and the slip in his pocket stayed a slip. Stay, and he would at least be in the room when the voice made its first mistake.
 
-He picked up a pen and began where every Chanakya analyst begins, by listing in the narrow column the places a document could be stopped.
+He picked up a stylus and began where every Chanakya analyst begins, by listing in the narrow column the places a document could be stopped.
 
 The charter first. Ashoka could argue that *every doorway* was a figure of speech from a smaller century. He found three old rulings in which Ashoka had cited exactly those words to justify postings, and pinned them to the draft. A house couldn't call its own oath a figure of speech once it had used that oath as law.
 
@@ -148,7 +148,7 @@ Someone passed in the corridor. Ravi's eyes went to the door glass before he cou
 
 The council's vote. Ashoka's council could accept the review and then table it to committee, where Chanakya's own petitions had gone to die for eleven years. He knew that road better than anyone alive. He wrote in a reporting requirement: first postings confirmed to the sponsor within ten days, so that any delay would appear in writing as a house refusing paid duty in public.
 
-His pen hand had begun to cramp. He'd been gripping too low on the barrel, the way he had through every examination of his life, and the ache had climbed from the web of his thumb into his wrist. He opened and closed the hand under the desk, where no one could have seen it anyway.
+His stylus hand had begun to cramp. He'd been gripping too low on the barrel, a habit from every examination of his life, and the ache had climbed from the web of his thumb into his wrist. He opened and closed the hand under the desk, where no one could have seen it anyway.
 
 It was the reporting clause that made the document stop being a document. He thought of a responder he'd watched a winter ago on the Trinity-2 platform, a big man in red-black on his knees beside a porter whose chest had stopped, counting compressions aloud in a voice that never changed pitch while the crowd's terminals told it to step back. He saw that man on a commissioning stand in dress gloves, upright beside a ribbon, while three platforms away a stairwell filled with smoke and the call went to a board where every name was already spoken for. Ravi finished the clause. His handwriting in the margin had grown very small and very neat.
 
@@ -158,17 +158,17 @@ He stopped there.
 
 He could close it further. Name the postings and the officers, and fix from outside who in Ashoka stood at which door. It would be tighter. It would also be obvious. A sponsorship that told a Grandmaster where to put her own commanders would stop looking like generosity and start looking like an order. The gap was the price of the disguise.
 
-His fingers lifted toward the keys and stayed there, a finger's width above them. The cramp was still knotted in the web of his thumb. The cursor blinked at the end of the clause, patient as a clerk, and out in the corridor someone laughed at something and walked on. He lowered his hand to the desk, palm down, and felt the grain of the wood through it.
+His fingers lifted toward the keys and stayed there, a finger's width above them. The cramp was still knotted in the web of his thumb. The cursor blinked at the end of the clause, and out in the corridor someone laughed at something and walked on. He lowered his hand to the desk, palm down, and felt the grain of the wood through it.
 
 He left it open. He told himself it was craft. He was honest enough to notice it was also the only door in the document he could leave ajar.
 
 Then the clerks, because clerks were the ones who actually stopped things. A missing countersignature. A form filed under the wrong schedule. A stamp from an office renamed six years ago. He fixed seven small faults, any one of which, in the right fussy hands, would have sent the review back for correction.
 
-And under every line ran the second question, the one the voice had planted in him without meaning to. Not what does this document say. Who needs it to say that?
+And under every line ran the second question, the one the voice had planted in him without meaning to: who needed it to say that?
 
 The review didn't harm Ashoka, or accuse it, or shame it before the city. It made Ashoka busy. It took the one house built to stand between people and danger and spread it thin across a thousand honorable posts. Whoever needed this wanted Ashoka spent somewhere other than where it was looking. Which meant there was something Ashoka had been about to look at.
 
-When the last clause closed, his shoulders came down the way they always did when an argument came out right, and he caught them doing it.
+When the last clause closed, his shoulders came down, the old relief of an argument coming out right, and he caught them doing it.
 
 *Accepted.*
 
@@ -186,7 +186,7 @@ On the walk back to his desk his hand went flat against his breast pocket, over 
 
 That evening, in the unlisted room, Daren read the finished instrument once. Every door he could think of had been bricked shut by someone who knew the doors from inside, and the warmth of the language still showed between the bricks.
 
-He read it the way he read everything, in totals. So many duties woken, so many commanders to carry them, the first number comfortably larger than the second. Who in Ashoka would stand at which doorway was a question for Ashoka's clerks, and it didn't occur to him to ask it. Every hand would be full regardless of whose hand it was.
+He read it in totals. So many duties woken, so many commanders to carry them, the first number comfortably larger than the second. Who in Ashoka would stand at which doorway was a question for Ashoka's clerks, and it didn't occur to him to ask it. Every hand would be full regardless of whose hand it was.
 
 The board was his. He did not think about the pieces.
 
@@ -210,22 +210,18 @@ By afternoon his superior stopped him in the corridor, a decent man with a list 
 
 *Paper keeps,* Rohan thought. Paper kept. That was how cases ended up on walls and stayed there.
 
-He said yes, took his share, and walked the long way back along the training halls. Somewhere between one doorway and the next he stopped thinking like a soldier and started thinking like a hunter. He counted the gifts. Money to Drona, and Drona had turned inward to argue over it. An archive to Chanakya, and Chanakya was still toasting its own name. Wages to Ashoka, for duties no one could refuse, and within one day the house that had begun asking questions had no officers free to ask them. He couldn't prove whose hand it was. He knew the fingerprint when it pressed on his own house.
+He said yes, took his share, and walked the long way back along the training halls. He counted the gifts. Money to Drona, and Drona had turned inward to argue over it. An archive to Chanakya, and Chanakya was still toasting its own name. Wages to Ashoka, for duties no one could refuse, and within one day the house that had begun asking questions had no officers free to ask them. He couldn't prove whose hand it was. He knew the fingerprint when it pressed on his own house.
 
-Generosity, Elara had said. He feeds them.
+Generosity, Elara had said. It feeds them.
 
 Now it was feeding him. And the first bite was his time.
 
-The revised orders reached him that evening, through the ordinary channel, in the ordinary folder. The Dhammapala had rebalanced the house's new burden the way a Grandmaster does. She'd taken the ceremonial stands into her own schedule, since the city could hardly complain of being guarded by its Grandmaster, and moved two of the heaviest escort rotations to commanders senior to Rohan under her seal. His ten postings had become four. The Drona review remained on his duties in its established hours, under the Ancient One's code, unremarkable among the rest.
+The revised orders reached him that evening, through the ordinary channel, in the ordinary folder. The Dhammapala had rebalanced the house's new burden. She'd taken the ceremonial stands into her own schedule, since the city could hardly complain of being guarded by its Grandmaster, and moved two of the heaviest escort rotations to commanders senior to Rohan under her seal. His ten postings had become four. The Drona review remained on his duties in its established hours, under the Ancient One's code, unremarkable among the rest.
 
-Between the fourth page and the fifth lay a strip of paper with no seal, no signature and no address. The hand was spare and upright. Each stroke stopped exactly where it meant to, the way her blade had stopped beyond the steel.
+Between the fourth page and the fifth lay a strip of paper with no seal, no signature and no address. The hand was spare and upright. Each stroke stopped exactly where it meant to. He had watched that hand go through bamboo.
 
 *A flood is also a current. It shows you where the water wants you not to go. Carry your share, no more. The house will hold the weight. You hold the path.*
 
-He walked to the training hall, where the night lamps still burned with true flame for the oldest reasons, and held the strip above one until it was ash and the ash was nothing. The heat stung his split knuckle. He didn't move it.
+He walked to the training hall, where the night lamps still burned with true flame for the oldest reasons, and held the strip above one until it was ash and the ash was nothing. The heat stung his split knuckle. He didn't move it. She had let the flood through on purpose.
 
-She had seen it too, then, and faster. She must have known what the review was before her council finished accepting it, and let it pass anyway, because a refusal would have told the hand that someone in Ashoka understood. She had bent with the flood and rebuilt the one thing it had come to wash away: his hours.
-
-The water wanted him not to go somewhere.
-
-Wherever the flood pushed hardest — that was the direction to walk.
+In the morning he went to the Drona review in its established hours, and started with whatever the postings had been sent to cover first.
