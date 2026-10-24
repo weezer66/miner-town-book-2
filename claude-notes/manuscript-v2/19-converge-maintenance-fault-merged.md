@@ -10,13 +10,13 @@ The band's channels into Meru worked best from close by, so Daren left the unlis
 
 The door slid aside before his hand reached it. The sensor outside wrote what it had been told to write, which was nothing, and the corridor closed behind him smooth as water.
 
-The quickest way to the Skylark was the service corridor on the fourth level, a maintenance passage that ran behind the working floors, meant for technicians and their carts. He didn't need it empty. The band made a crowd as safe as an empty hall. But at this hour it was empty, and he'd come to prefer that without ever deciding to. A man who is never looked at gets out of the habit.
+The quickest way to the Skylark was the service corridor on the fourth level, a maintenance passage that ran behind the working floors, meant for technicians and their carts. He didn't need it empty. The band made a crowd as safe as an empty hall. But at this hour it was empty, and he'd come to prefer that without ever deciding to.
 
 Lights at half. Pipes along the ceiling, one of them sweating a slow bead of water every few steps onto a stain the shape of a hand. A row of service panels down the wall, steel cabinets waist-high, each with a closed cover and a small green light above it to say everything behind the cover was working.
 
 One cover was open.
 
-A man crouched in front of it, with the panel's log face lit grey in front of him, the little screen every Trinity panel carried for maintenance hands, showing what the corridor's sensors had seen. A technician's coat. A toolbag at his knee. One palm flat on the steel frame to steady himself while he read, the way a climber steadies himself on rock. The hand was thick at the knuckle, two fingertips worn flat and shiny. When he shifted his weight, something in his trouser pocket clicked once.
+A man crouched in front of it, with the panel's log face lit grey in front of him, the little screen every Trinity panel carried for maintenance hands, showing what the corridor's sensors had seen. A technician's coat. A toolbag at his knee. One palm flat on the steel frame to steady himself while he read. The hand was thick at the knuckle, two fingertips worn flat and shiny. When he shifted his weight, something in his trouser pocket clicked once.
 
 Daren registered him the way he registered everyone now, barely, and kept walking.
 
@@ -62,7 +62,9 @@ Daren's knees went. He caught himself on the wall with his left hand and stayed 
 
 When thought came back, it came as a question. *Who did this?*
 
-He hadn't. That was true, and it would stay true, and it would not help. The band couldn't choose a man. It didn't know what a man was. It knew his hand, and his hand had been afraid, and it had read the wish off his forearm like any other reach and finished it a heartbeat early, the way it finished everything.
+He hadn't. That was true, and it would stay true, and it would not help. The band couldn't choose a man. It didn't know what a man was. It knew his hand, and his hand had been afraid, and it had read the wish off his forearm like any other reach.
+
+It had never once given him an idea. Tonight it hadn't needed one. It had found the nearest way to finish what his forearm began.
 
 He had not opened that door. He had only been afraid in front of it.
 
@@ -76,7 +78,7 @@ The band had never held him. He stood with two fingers under its edge and looked
 
 His fingers came out from under the band.
 
-That was the whole of the crisis. It did not last long. When it was over Daren was still wearing the bracelet, and the bracelet was still warm, and a man he had never spoken to lay dead behind him because his hand had been afraid.
+Daren was still wearing the bracelet. It was still warm. A man he had never spoken to lay dead behind him because his hand had been afraid.
 
 There was paper in the man's coat. He saw the corner of it. He crouched, his own choice, his own hand, and he made himself notice that, and drew it out: a small notebook gone soft with handling, pencil only, no electronics anywhere in it. Page after page of the tower's dull facts in a small, upright hand. Door cycles. Lift holds. Sensor gaps, every maintenance interval logged in this tower over the last weeks, each with its floor and its hour. Most of them were circled. The circles thickened toward the fourth level, toward one corridor on it, toward a room on that corridor that the tower's plans showed and the tower's records didn't.
 
@@ -140,23 +142,19 @@ The young officer looked at his face, and closed his mouth, and took the posting
 
 Rohan had told the body, in the dead room, to make whatever it did look like nothing. So the cell would do the same: move slowly, look dull, make every true thing look like routine, so the hand would never feel them coming.
 
-A maintenance fault. Two words in the ordinary folder. Baju's death, dressed as routine.
-
-The hand had just used the slow way on them.
-
 The eye worked slowly, and he had let her. The ear only listened, because he'd told it to. The arm had been patient, and the arm was dead. Rohan was the door of this body, and the hand had walked round the door and killed the first of them who got close enough to see it, without leaving a mark on any record in the city. If it could do that, the records were never going to catch it. Something else would have to.
 
-He walked toward the lifts with the notice crackling against his chest at every step.
+He walked toward the lifts with the notice crackling against his chest at every step. He would send for Elara by runner. She would hear it from him tonight, before any channel told her.
 
 At the lift doors, the Dhammapala spoke to him from the lamplit room in his head, unhurried as ever. *A door that is willing to break serves the house. A door that is eager to break serves only its own story.*
 
 He heard it. He pressed the call plate anyway, and felt the scar along his jaw pull tight as the doors opened.
 
-There was one message to send tonight. It would go by the oldest route Ashoka had, a folded slip carried hand to hand by people who never read what they carried, to a man in Chanakya with a face like an unmarked door. Kaan's orders had been to watch the analyst and never approach him. Learn him. Decide nothing in advance.
+There was one other message to send tonight. It would go by the oldest route Ashoka had, a folded slip carried hand to hand by people who never read what they carried, to a man in Chanakya with a face that gave nothing to remember. Kaan's orders had been to watch the analyst and never approach him. Learn him. Decide nothing in advance.
 
 Rohan wrote two words on the slip in his own upright hand: *stop listening.*
 
-Kaan would read it as it was meant. The ear was to stop being an ear. He was to put himself within reach of the analyst named Ravi, and find out whether the man was the hand's instrument or the hand itself. The slow way was over.
+Kaan would know what the other half of that was.
 
 Baju had found the hand. That was what the notice said under its two words. He'd got close enough that it had to kill him, and it had done it in a hurry, with a blank any careful hunter would know for what it was. A hand that could be hurried was a hand that could make mistakes.
 
@@ -176,17 +174,17 @@ Her thumb went to the edge of the console and pressed until the nail whitened. S
 
 She couldn't follow them forward. So she went back, to the line she'd read past a hundred times: after the water test, Gage's intake stopped. She had always read the result. Now she opened the method.
 
-The chamber lenses had caught it. A translucent sliver drawn from inside the seam of his sleeve. Dipped. Purple, then grey. Then Gage's hand knocking the cup from Otto's, and the three of them not drinking again.
+The chamber lenses had caught it. A translucent sliver drawn from inside the seam of his sleeve. Dipped. Purple, then grey. Then Ben raving, Otto putting him down, and Gage and Otto not drinking again.
 
 The object had its own line, as objects did. *Reagent strip, single-use. Non-issue. Origin: unregistered.* And under it, in the archive's flat voice: *possession of non-issue diagnostic indicates prior access to restricted materials; source to be established; no action taken.*
 
-No action taken. Three boys had stopped drinking poison because of a strip a miner should never have had, and the city had written down that it didn't know where it came from and hadn't bothered to find out.
+No action taken. Gage and Otto had stopped drinking poison because of a strip a miner should never have had, and the city had written down that it didn't know where it came from and hadn't bothered to find out.
 
 Gage hadn't found it in the chamber. He'd carried it in. Someone at home had sewn it into his sleeve.
 
-The household archive sat two floors down, a long room of pale drawers and one reading table, where the city kept the parts of a family it didn't think worth reading. The drawers were labelled by district in a typeface two generations old, and the shack-rows had a drawer to themselves, down by the skirting board. The clerk on duty was older than anyone else on the floor, with a cardigan buttoned wrong by one button and a cup of tea she wasn't drinking. She drew the file without asking why.
+The household archive sat two floors down, a long room of pale drawers and one reading table, where the city kept the parts of a family it didn't think worth reading. The drawers were labelled by district in a typeface two generations old, and the shack-rows had a drawer to themselves, down by the skirting board. The clerk on duty was older than anyone else on the floor, with a cardigan buttoned wrong by one button and a cup of tea she wasn't drinking. She drew the file without asking why, and read the label on her way to the table.
 
-"Then you're looking for who stood near them," the clerk said, when Elara had said nothing at all. "I grew up two rows from the Parker shack. People in those rows stand near one another. It's the only thing they have plenty of."
+"I grew up two rows from the Thorton shack," she said. "People in those rows stand near one another."
 
 Thorton, deceased. Rita, spouse, surviving. Dependents of record: Gage. And a line beneath his that Elara had seen before and never opened.
 
@@ -204,7 +202,7 @@ The clerk looked over the top of her spectacles. "From the shack-rows? Two days'
 
 Elara thought of the lens footage: the sliver in Gage's fingers, the way the purple had come up through it slowly, like a bruise.
 
-She went back to the strip's line. *Origin: unregistered.* No factory had made it. A fifteen-year-old girl had walked two days into the place where the city's dead instruments went, picked through what they'd leaked, and built a working test out of the city's own rubbish. Then she'd sewn it into her brother's sleeve and taught him what the colors meant, and three boys had lived.
+She went back to the strip's line. *Origin: unregistered.* A fifteen-year-old girl had walked two days into the place where the city's dead instruments went, picked through what they'd leaked and found the one that still worked. Then she'd sewn it into her brother's sleeve. He'd known what purple meant. Somebody had made sure he did.
 
 *Nothing forged. Nothing named. Only timing.* Elara's own words. She'd put one number where a boy would find it and told herself that was the smallest thing a person could do. Camilla had put one strip where a boy would find it.
 
@@ -212,7 +210,7 @@ At fifteen Elara had hidden in a freight pod and gone down to the ground alone, 
 
 Camilla had gone out to the Heights alone, the same way, for the same reason. The difference was that Camilla had come back with something that worked. The city had a category for that. It called it a compassion anomaly and filed it under risk.
 
-"Her ration card," the clerk said. She had turned the file a quarter toward herself and was reading it upside down with the ease of long practice. "The only way the city counts a child too young for the mine. Last drawn the same morning as the Parker boy's and the Baxter boy's last scan. Nothing since."
+"Her ration card," the clerk said. She had turned the file a quarter toward herself and was reading it upside down with the ease of long practice. "The only way the city counts a child too young for the mine. Last drawn the same morning as the Parker boy's and the Baxter boy's, Ben and Otto, last scan. Nothing since."
 
 Four people from three shacks, gone within a day of each other, and a city that had looked once and moved on.
 
@@ -224,4 +222,4 @@ Wherever the boys were, the sister was with them. The one who'd armed them befor
 
 The girl's intake photograph was the last thing to go dark: flat, unsmiling, her eyes already busy with something out of frame.
 
-Elara went back upstairs to the hunt. Across the platforms, a notice was already on its way to her, folded against Rohan's chest.
+Elara went back upstairs to the hunt. Across the platforms, Rohan had already sent for her, the notice folded against his chest.
