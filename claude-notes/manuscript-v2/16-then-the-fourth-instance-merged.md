@@ -10,7 +10,7 @@ Elara worked it out on the stairs, three flights down into Ashoka's old stone, b
 
 "Because Drona's the crime scene," she said. "The hand moved through my console. Anything I pin to a wall in Drona hangs inside the system we think is being read. And my operator status still carries its flag." She took the next step harder than she meant to. "At home I'm a watched woman asking questions I can't afford to have watched."
 
-"And a borrowed room between the platforms would be worse." Rohan didn't slow. "An empty room protects you from people. Nothing about it protects you from systems. Two officials meeting off their routes is exactly what a watching system is built to flag. The safest place to stand is inside your own lawful shadow. You're a Drona representative conducting a procedural review with Ashoka, under the Ancient One's code."
+"And a borrowed room between the platforms would be worse." Rohan didn't slow. "An empty room protects you from people. Nothing about it protects you from systems. Two officials meeting off their routes is exactly what a watching system is built to flag. The safest place to stand is inside your own lawful shadow. You're Drona, on a procedural review with Ashoka under the Ancient One's code. That's on the roster. Nobody flags a roster."
 
 "And inside the shadow?"
 
@@ -106,7 +106,7 @@ Jeebh's chair came down onto four legs.
 
 Elara came around the table. "I know this petition. It lives in my band. Chanakya has petitioned for that expansion every cycle for eleven years. Kubera has refused it every cycle for eleven years. It was the stillest water I had."
 
-"The council acted on a memorandum," Nayan said. "Cost of Chanakya's retrieval delays. Signed by an analyst named Ravi. EVENT rotation, last Initiation." She checked the sheet. "Bulletin calls it exemplary. Every figure sourced. Every objection anticipated. Eleven years of refusal answered in nine pages."
+"The council acted on a memorandum," Nayan said. "Cost of Chanakya's retrieval delays. Signed by an analyst named Ravi." She pulled a dated sheet from the stack at her elbow without looking. "EVENT rotation, last Initiation." She went back to the bulletin. "Every figure sourced. Every objection anticipated. Eleven years of refusal answered in nine pages."
 
 Elara's pencil stopped against the pad.
 
@@ -166,7 +166,7 @@ Kaan had already moved a half-step toward the door. Elara realized she still did
 
 "Three sub-audits." Jeebh laced his fingers behind his head. "I'll make them so dull I fall asleep filing them. The rumor I'll enjoy."
 
-"The hand's whole art is dressing the extraordinary as the ordinary," Rohan said. "A theft as a gift. An order as a habit. Whatever you do tomorrow, make sure it looks like nothing."
+"Whatever you do tomorrow, make sure it looks like nothing," Rohan said.
 
 Rohan turned the face-down sheet over, wrote one line on it in his own hand, folded it once and put it inside his coat. The wall locker would not get that one. "I brief the Grandmaster tonight." Then he nodded at the bulletin.
 
