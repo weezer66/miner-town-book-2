@@ -10,7 +10,7 @@ Rohan told her in the dead room, standing, because he hadn't been able to make h
 
 He had sent for her the only way the two of them had: one line on paper, by a runner who didn't know what it said, asking Drona's reviewing monitor to attend a meeting on the Ashoka review that evening. He had never sent for her before. She came at once.
 
-At night the mirror shaft gave nothing, and the room ran on a lantern with a true flame, set on the table beside the dented tin of pencil shavings. The four panels were where they had been. Baju's brass pin still held the corner of the fourth, pushed in a little crooked, the way a man pushes a pin with his thumb while he's already turning to say something. Rohan stood facing the wall. He didn't turn around when she came in.
+At night the mirror shaft gave nothing, and the room ran on a lantern with a true flame, set on the table beside the dented tin of pencil shavings. The four panels were where they had been. Baju's brass pin still held the corner of the fourth, pushed in a little crooked. Rohan stood facing the wall. He didn't turn around when she came in.
 
 "Baju is dead," he said.
 
@@ -116,7 +116,7 @@ Elara's hands had gone cold on the wood. "And the four houses sealed it."
 
 The two words sat on the table between them, and nobody moved to pick them up.
 
-"We kept the plans," the Ancient One said. "That is the smaller lie. The Sākṣī already witnessed every record in the three houses. Our engineers gave it one channel more, which the Guard never knew existed. Every order the Guard gave, the instrument obeyed and wrote nowhere, except here. When the Guard was sealed, the channel was not. It has been listening to silence for a century."
+"We kept the plans," the Ancient One said. "That is the smaller lie. The Sākṣī already witnessed every record in the three houses. Our engineers gave it one channel more, which the Guard never knew existed. Every order given in the Guard's dialect, by any hand, anywhere, the instrument obeyed and wrote nowhere, except here. When the Guard was sealed, the channel was not. It has been listening to silence for a century."
 
 Elara heard the end of it before it came.
 
@@ -129,6 +129,10 @@ The wall behind the Grandmaster lit with a plain grey archive screen: rows, colu
 Months of them.
 
 The oldest were all inside Kubera, dozens close together. Someone practicing. Then they moved. Down into Drona's monitor tower, to a floor Elara knew, to a room on that floor she'd walked past a hundred times. Then out across the city in lines: a Chanakya conservatory one night, at nine. The archive wing on another. Transit platforms, service lifts, corridors. Each line was a walk that had been invisible to every eye in the city but this one.
+
+"Then it's Kubera's," Rohan said.
+
+"It's Kubera's band," the Ancient One said. "Whose hand, the wall doesn't say."
 
 "There," Rohan said, and pointed. The fourth-level corridor of the Drona tower, night after night. And tonight, the same corridor, the same hour, and beside it an order that appeared nowhere else on the wall. *Line test.*
 
@@ -146,6 +150,10 @@ Rohan was already on his feet. "That room. I can have it opened before—"
 
 "You will sit down, Commander." The Ancient One did not raise her voice. "Open that door tomorrow, and the first question anyone asks is how you knew. I have watched these lines for months. Every night I could have stopped it, this house would have fallen first. So I watched, and tonight a man of yours is dead on my floor. I will not ask your pardon for it. Whatever you do with that floor, you will do it from paper any clerk may read."
 
+"Months," Elara said. "You watched it walk to his corridor."
+
+"I watched it walk to a hundred corridors. His was one."
+
 Rohan sat. It took him a long time.
 
 "And now you see why no one may learn this chamber exists. For a hundred years every record in Kubera, Chanakya and Ashoka has been witnessed here without their knowing. Drona swore it was blind. The balance rests on each house believing the others are blind in the same places." She folded her hands. "A house that has secretly watched the other three for a century is a tyranny that has not yet been noticed. The day it is noticed, it falls. You asked how far down your code reaches, Monitor Nathan. This far. I hoped you would not need it. Use it."
@@ -158,7 +166,7 @@ The columns were still filling. Anandi had left the query live. At the bottom of
 
 Meru. A household panel on the upper terraces. *Look away.*
 
-Minutes later, a second, two terraces over. *Look away.*
+A quarter of an hour later, a second, two terraces over. *Look away.*
 
 "The hand's up there now," Elara said. "Right now. It's walking."
 
@@ -171,6 +179,8 @@ Elara counted without meaning to. Nine. Twelve. Fourteen. Someone was learning a
 She looked for the location field. Every other row on the wall had a house and a floor.
 
 This one had nothing. No house. No floor.
+
+Somewhere the city had no drawer for. Four people had gone somewhere like that.
 
 The Ancient One saw it a breath after she did. Nothing moved in the old woman's face. Then something in it shut.
 
@@ -214,7 +224,7 @@ Then the second.
 
 Afterward he stayed at the railing, because he wasn't sure his legs would carry him and there was nowhere he wanted them to go.
 
-He had wanted to be the hand they went looking for and couldn't find. The Grandmaster had promised him that, and the band had made it true. He'd never asked what a hand like that did to the things it moved. It moved what was in its path. He had called that power, and all it had ever been was a room with no one left in it who could tell him no.
+He had wanted to be the hand they went looking for and couldn't find. The Grandmaster had promised him that, and the band had made it true. He'd never asked what a hand like that did to the things it moved. It moved what was in its path. He had called it power. A man on his side in a corridor, one boot half off, was what the power had done.
 
 The band was cool now. Waiting. It would do, tonight and tomorrow and for as long as he wore it, exactly what his hand told it, including the things his hand told it that he never heard.
 
@@ -224,7 +234,7 @@ So he could only be still. Still enough, every hour of every day, that it never 
 
 Below him, on a terrace he couldn't see, a councilman's panel accepted a routine note from his own staff and filed it for the morning. Far below that, in a chamber beneath Drona's archive he had never heard of, two lines appeared on a grey wall with his hour on them, and someone read them.
 
-The moth lifted off the rail. Daren turned and went to find the Skylark, his right hand held still at his side, like a man carrying something that could spill.
+The moth lifted off the rail. Daren turned and went to find the Skylark, his right hand held still at his side.
 
 ---
 
