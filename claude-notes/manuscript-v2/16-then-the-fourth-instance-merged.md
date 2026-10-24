@@ -80,7 +80,7 @@ The bar was still warm from his pocket. She hadn't eaten since the night watch. 
 
 The wall held their work: three instances, each on its own panel, in Ashoka's plain style.
 
-The transfer that had doubled in flight, which no one had requested and no one had granted. The signature of two letters the system obeyed without being able to name. The calibration pushed to its ceiling through Elara's own console during the Initiation, by a hand no inquiry had found.
+The transfer that had doubled in flight, which no one had requested and no one had granted. The signature of two letters the system obeyed without being able to name. The calibration pushed to its ceiling through a Drona console during the Initiation, by a hand no inquiry had found.
 
 "Three instances," Rohan said. "Each one explainable alone. An error. An old authorization. A malfunction. I was charged to test what you see, and to act when the evidence requires it. So test it. All of you. This is not your case with my help. It is ours. What makes these one thing and not three?"
 
@@ -106,7 +106,7 @@ Jeebh's chair came down onto four legs.
 
 Elara came around the table. "I know this petition. It lives in my band. Chanakya has petitioned for that expansion every cycle for eleven years. Kubera has refused it every cycle for eleven years. It was the stillest water I had."
 
-"The council acted on a memorandum," Nayan said. "Cost of Chanakya's retrieval delays. Signed by an analyst named Ravi." She pulled a dated sheet from the stack at her elbow without looking. "EVENT rotation, last Initiation." She went back to the bulletin. "Every figure sourced. Every objection anticipated. Eleven years of refusal answered in nine pages."
+"The council acted on a memorandum," Nayan said. "Cost of Chanakya's retrieval delays. Signed by an analyst named Ravi." She pulled a dated copy of the Initiation roster from the stack at her elbow without looking. "EVENT rotation, last Initiation." She went back to the bulletin and the pages clipped behind it. "My runner copied the memorandum too. A full grant publishes its basis. Every figure sourced. Every objection anticipated. Eleven years of refusal answered in nine pages."
 
 Elara's pencil stopped against the pad.
 
@@ -114,11 +114,11 @@ She had caught that analyst's wrist once, at the Initiation consoles, when his h
 
 Her lips had parted on *I know him*. Rohan's hand came down flat on the face-down sheet.
 
-"Kaan watches him clean," he said. "Hand him your opinion of the man, and he'll see what you saw. Tell me afterward."
+"Kaan watches him clean," he said. "Give him your opinion of the man and he'll only ever see what you saw. Tell me afterward."
 
 Nayan's pencil paused, and went on. The eye had seen the look.
 
-Elara closed her mouth on the name and sat back. Her thumb found the dent it had made in the pad. An hour ago she had argued with the rule. Now she was keeping it.
+Elara closed her mouth on the name and sat back. Her thumb found the dent it had made in the pad and stayed there. Rohan did not look at her, which was how she knew he was sorry.
 
 "Houses change their minds," Baju said. He didn't sound as if he believed it. He sounded as if he wanted it tested.
 
