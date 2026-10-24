@@ -18,7 +18,7 @@ He said it to the wall. Then he gave her the rest in the order the notice had gi
 
 "It took his paper. It stood over him and reached inside his coat and took the one thing that could remember what it had done."
 
-*It.* Even now. He had made the rule in this room, and he was keeping it with his friend dead, because a rule you drop when it hurts was never a rule.
+*It.* Even now, with his friend dead. He had made the rule in this room.
 
 Elara didn't say she was sorry. Her throat had closed on it, and he hadn't come for that. His own people would have comforted him. He had passed over all of them and sent for her.
 
@@ -54,7 +54,7 @@ He looked at the fourth panel, at the crooked pin.
 
 Elara waited. That was all there was going to be, and she let it be all.
 
-Then he reached past her and pinched out the true flame between thumb and forefinger, the way he always did, and the dead room went dark.
+Then he reached past her and pinched out the true flame between thumb and forefinger, the way the Dhammapala did, and the dead room went dark.
 
 "Lead," he said.
 
@@ -64,7 +64,7 @@ She asked for the audience the only way she dared: a sealed paper note, carried 
 
 She hadn't expected an answer before morning. It came in an hour.
 
-The chamber lay beneath the archive, low-roofed, its long table empty tonight except for three people. The Ancient One sat at the head of it, small and upright, the darned grey shawl over her shoulders. Sarvajña sat at her right with the seven stones at his cuff. Anandi stood behind them both at a console Elara had never seen lit, one of its keys worn to a pale dish by a century of the same finger. Anandi's face was blank. With her that meant she'd argued for something and been overruled. Elara would learn later what: that the two of them be told nothing, and sent away, for their own safety.
+The chamber lay beneath the archive, low-roofed, its long table empty tonight except for three people. The Ancient One sat at the head of it, small and upright, the darned grey shawl over her shoulders. Sarvajña sat at her right with the seven stones at his cuff. Anandi stood behind them both at a console Elara had never seen lit, one of its keys worn to a pale dish by a century of the same finger. Anandi's face was blank. With her that meant she'd argued for something and been overruled.
 
 No one offered a chair. Elara stood beside Rohan, not in front of him.
 
@@ -96,11 +96,7 @@ She didn't wait to be told. "The mirrors weren't built to settle disputes betwee
 
 "Something for whom?"
 
-"For Kubera," Sarvajña said. "After the six days of fighting at the rebuilding, Kubera came to us with a commission. It wanted a guard that could not be bribed or seen or made to take sides. One instrument, in one hand, obeyed by every door and ledger and sensor in every house."
-
-"Who built it?"
-
-"Kubera wrote the authority, the founder-tier permission every instrument still honors beneath every rule laid since. Drona built the reader." His thumb found a stone. "A band against the wrist. It reads the nerves of the forearm, the small signals a body sends a heartbeat before it moves, and turns them into commands in each house's own dialect of trust. It does not read a mind. It reads a hand."
+"For Kubera," Sarvajña said. "After the six days of fighting at the rebuilding, Kubera came to us with a commission. It wanted a guard that could not be bribed or seen or made to take sides. One instrument, in one hand, obeyed by every door and ledger and sensor in every house. Kubera wrote the authority, the founder-tier permission every instrument still honors beneath every rule laid since. Drona built the reader." His thumb found a stone. "A band against the wrist. It reads the nerves of the forearm, the small signals a body sends a heartbeat before it moves, and turns them into commands in each house's own dialect of trust. It does not read a mind. It reads a hand."
 
 "And they called it—"
 
@@ -110,13 +106,9 @@ She didn't wait to be told. "The mirrors weren't built to settle disputes betwee
 
 "OG."
 
-Elara's hands had gone cold on the wood. "It's existed since the founding."
+Elara's hands had gone cold on the wood. "And the four houses sealed it."
 
-"For one generation," the Ancient One said. "Then the four houses saw what they had made. A guard no one could see was a guard no one could answer."
-
-"So they sealed it. How?"
-
-"The band was locked in a box of four parts. Its dialect was struck from every instrument's instruction. Kubera swore it kept the box only as a relic." The Ancient One's voice didn't change. "Drona swore it had destroyed the plans for the reader, and kept no record of anything the Guard had ever commanded."
+"Within a generation. A guard no one could see was a guard no one could answer." The Ancient One's voice didn't change. "The band was locked in a box of four parts, and its dialect struck from every instrument's instruction. Kubera swore it kept the box only as a relic. Drona swore it had destroyed the plans for the reader, and kept no record of anything the Guard had ever commanded."
 
 "Then why are you telling me about the mirrors?"
 
@@ -124,7 +116,7 @@ Elara's hands had gone cold on the wood. "It's existed since the founding."
 
 The two words sat on the table between them, and nobody moved to pick them up.
 
-"We kept the plans," the Ancient One said. "That is the smaller lie. When our engineers built the reader, they built it as Drona built everything in that century, with a witness. Every order the Guard gave, the instrument obeyed and wrote nothing. But the order itself was mirrored into the Sākṣī, by a channel the Guard never knew existed. When the Guard was sealed, the channel was not. It has been listening to silence for a century."
+"We kept the plans," the Ancient One said. "That is the smaller lie. The Sākṣī already witnessed every record in the three houses. Our engineers gave it one channel more, which the Guard never knew existed. Every order the Guard gave, the instrument obeyed and wrote nowhere, except here. When the Guard was sealed, the channel was not. It has been listening to silence for a century."
 
 Elara heard the end of it before it came.
 
@@ -150,7 +142,13 @@ Rohan looked at it until Elara thought he wouldn't stop. When he spoke, his voic
 
 "Every time it tells an instrument to forget, this place remembers that it asked." He didn't look away. "It can't hide without writing down the hiding."
 
-"And now you see why no one may learn this room exists. For a hundred years every order given to an instrument in Kubera, Chanakya or Ashoka has been copied here without their knowing. Drona swore it was blind. The balance rests on each house believing the others are blind in the same places." She folded her hands. "A house that has secretly watched the other three for a century is a tyranny that has not yet been noticed. The day it is noticed, it falls. You asked how far down your code reaches, Monitor Nathan. This far. I hoped you would not need it. Use it."
+Rohan was already on his feet. "That room. I can have it opened before—"
+
+"You will sit down, Commander." The Ancient One did not raise her voice. "Open that door tomorrow, and the first question anyone asks is how you knew. I have watched these lines for months. Every night I could have stopped it, this house would have fallen first. So I watched, and tonight a man of yours is dead on my floor. I will not ask your pardon for it. Whatever you do with that floor, you will do it from paper any clerk may read."
+
+Rohan sat. It took him a long time.
+
+"And now you see why no one may learn this chamber exists. For a hundred years every record in Kubera, Chanakya and Ashoka has been witnessed here without their knowing. Drona swore it was blind. The balance rests on each house believing the others are blind in the same places." She folded her hands. "A house that has secretly watched the other three for a century is a tyranny that has not yet been noticed. The day it is noticed, it falls. You asked how far down your code reaches, Monitor Nathan. This far. I hoped you would not need it. Use it."
 
 "One thing more," Sarvajña said, and touched the seventh stone. "The makers understood this better than any wearer has. The band is only as calm as the hand that wears it. A careful wearer is invisible. A frightened one is a weapon that fires itself. They wrote that it acts on fear as readily as on intent, and faster, because fear is the louder signal." He turned to Rohan. "No one here was in that corridor. But if your man came close enough to be truly seen, the hand did not need to decide anything. It only needed to be afraid of him. You will not find this thing while it is careful. You will find it when it is afraid."
 
@@ -160,21 +158,21 @@ The columns were still filling. Anandi had left the query live. At the bottom of
 
 Meru. A household panel on the upper terraces. *Look away.*
 
-A second, two terraces over. *Look away.*
+Minutes later, a second, two terraces over. *Look away.*
 
 "The hand's up there now," Elara said. "Right now. It's walking."
 
 No one answered. And because she was watching the whole wall and they were watching Meru, she was the one who saw the other column begin.
 
-It came up at the right-hand edge, where no query had asked for anything. No doors. No sensors. No *look away.* The orders were small and close together, and they were all addressed to the same instrument, and they were all addressed to its own joints. *Open. Close. Open.* A pause. *Close.* Each answer came a little behind its order, half a breath late, and each time the gap was shorter than the last.
+It came up at the right-hand edge, where no query had asked for anything. No doors. No sensors. No *look away.* The orders were small and close together, and they were all addressed to the same instrument, and they were all addressed to its own joints. *Open. Close. Open.* A pause. *Close.* Each answer came a little behind its order, a third of a breath late, and each time the gap was shorter than the last.
 
-Elara counted without meaning to, the way her hand curled round a pencil that wasn't there. Nine. Twelve. Fourteen. Someone was learning a hand.
+Elara counted without meaning to. Nine. Twelve. Fourteen. Someone was learning a hand.
 
 She looked for the location field. Every other row on the wall had a house and a floor.
 
 This one had nothing. No house. No floor.
 
-The Ancient One saw it a breath after she did. Nothing moved in the old woman's face, and then something in it shut, the way a book shuts on a finger left between the pages.
+The Ancient One saw it a breath after she did. Nothing moved in the old woman's face. Then something in it shut.
 
 "Anandi," she said. "Meru only."
 
@@ -182,7 +180,7 @@ The column dropped off the wall. Nobody explained it. Elara didn't ask, because 
 
 Seventeen, she thought. And the gap closing.
 
-On the grey screen, the Obsidian Guard went on about its evening's work, and someone was watching.
+On the grey screen, the Obsidian Guard went on about its evening's work.
 
 ---
 
@@ -202,7 +200,7 @@ The boot was what he couldn't leave alone. Such a small, ordinary, undignified t
 
 The band lay warm against his wrist, and it was listening to the tremor.
 
-That was worse than the tremor. He knew now what the band did with a frightened hand. Every nerve in his forearm was telling it the same scrambled story, *flinch, grip, get away*, and it was reading all of it a heartbeat early, the way it read everything. If he let this run, it would act on something. A steward's terminal. A garden pump. A lift. Someone else's hand on someone else's steel.
+That was worse than the tremor. He knew now what the band did with a frightened hand. Every nerve in his forearm was telling it the same scrambled story, *flinch, grip, get away*, and it was reading all of it a heartbeat early. If he let this run, it would act on something. A steward's terminal. A garden pump. A lift. Someone else's hand on someone else's steel.
 
 So Daren did the hardest thing he'd done since a chamber with black doors: nothing at all, on purpose.
 
@@ -210,7 +208,7 @@ He breathed. He let his shoulders drop. He unclenched the hand on the railing on
 
 When the tremor was gone, he did the work.
 
-This morning he'd have let the band carry a wish and finish it. Tonight he keyed each step himself, slowly, holding the stillness like a full cup: the household line, the panel, the queue, the note, the close. The bracelet carried what he gave it and nothing more, because he gave it nothing more. The first panel took a quarter of an hour. It should have taken a breath.
+An hour ago he'd have let the band carry a wish and finish it. Tonight he keyed each step himself, slowly, holding the stillness like a full cup: the household line, the panel, the queue, the note, the close. The bracelet carried what he gave it and nothing more, because he gave it nothing more. The first panel took a quarter of an hour. It should have taken a breath.
 
 Then the second.
 
@@ -302,8 +300,8 @@ She stood and crossed to the glass, her pen still in her hand. The boy hung as h
 
 Then she looked at his right hand, and her breath stopped.
 
-The first finger had curled. Against nothing. As she watched, a single thread of red left his nose and rose through the blue, unspooling slowly, like smoke in still air. The finger opened, and curled again. With effort, she would later swear. And a third time.
+The first finger had curled. Against nothing. As she watched, red bloomed inside the mask, under his nose, and spread. The finger opened, and curled again. With effort, she would later swear. And a third time.
 
 She marked the time on the panel and noted the phase of the cycle. She keyed the alert for the room two levels down. Above the key, on the panel's edge, were the three names in her own hand, the people who had asked to be woken for anything: Camilla. Gage. Ben. Her eyes rested on them while the alert went.
 
-Then she went back to the glass. She had sat with enough of the unconscious to know the order things came back in, a finger first and then the eyes, sometimes within the hour, sometimes not for days. There was no telling which this would be. But someone should be standing there if it was the hour, and there was no one else awake to do it.
+Then she went back to the glass. She had sat with enough of the unconscious to know the order things came back in, a finger first and then the eyes, sometimes within the hour, sometimes not for days. The stairs would take them four minutes. Until then, someone should be standing at the glass, and she was the only one awake.
