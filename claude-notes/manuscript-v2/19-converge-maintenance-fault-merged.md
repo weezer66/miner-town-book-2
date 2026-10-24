@@ -138,7 +138,7 @@ He thought of the dead room. A grey ration bar snapped across a knee, the two ha
 
 The young officer looked at his face, and closed his mouth, and took the postings.
 
-Rohan had told the body, in the dead room, that the hand's whole art was dressing the extraordinary as the ordinary. A theft as a gift. An order as a habit. So the cell would do the same: move slowly, look dull, make every true thing look like routine, so the hand would never feel them coming.
+Rohan had told the body, in the dead room, to make whatever it did look like nothing. So the cell would do the same: move slowly, look dull, make every true thing look like routine, so the hand would never feel them coming.
 
 A maintenance fault. Two words in the ordinary folder. Baju's death, dressed as routine.
 
