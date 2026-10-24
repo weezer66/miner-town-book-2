@@ -6,11 +6,11 @@
 
 ## Then: The fourth level
 
-The band's channels into Meru worked best from close by, so Daren left the unlisted room after the night bell and went down before he went up. Kubera had voted the review and Ashoka had accepted it; within ten days Ashoka's first postings would be confirmed to two Kubera councilmen, and Daren wanted them to read the confirmation as proof of their own good sense. Tonight a briefing note would arrive on each of their desks, and their own staff wouldn't remember writing it.
+The band's channels into Meru worked best from close by, so Daren left the unlisted room after the night bell and headed for the Skylark. Kubera had voted the review and Ashoka had accepted it; within ten days Ashoka's first postings would be confirmed to two Kubera councilmen, and Daren wanted them to read the confirmation as proof of their own good sense. Tonight a briefing note would arrive on each of their desks, and their own staff wouldn't remember writing it.
 
 The door slid aside before his hand reached it. The sensor outside wrote what it had been told to write, which was nothing, and the corridor closed behind him smooth as water.
 
-The quickest way to the Skylark was the service corridor on the fourth level, a maintenance passage that ran behind the working floors, meant for technicians and their carts. He didn't need it empty. The band made a crowd as safe as an empty hall. But at this hour it was empty, and he'd come to prefer that without ever deciding to.
+The quickest way to the Skylark was the service corridor outside his door, a maintenance passage that ran behind the working floors, meant for technicians and their carts. He didn't need it empty. The band made a crowd as safe as an empty hall. But at this hour it was empty, and he'd come to prefer that without ever deciding to.
 
 Lights at half. Pipes along the ceiling, one of them sweating a slow bead of water every few steps onto a stain the shape of a hand. A row of service panels down the wall, steel cabinets waist-high, each with a closed cover and a small green light above it to say everything behind the cover was working.
 
@@ -32,7 +32,7 @@ The man didn't flinch. He didn't look elsewhere or reach for anything. He watche
 
 Daren understood it a heartbeat after he did.
 
-The log face showed the corridor's sensors moment by moment. A breath ago it had shown one technician on station, and the technician was him. Right now, with a man walking past them in plain view, it showed *maintenance interval, no personnel.* On every other night that blank had been invisible, because no one was standing beside it to compare it with the corridor. Tonight someone was. He had a corridor in front of his eyes with a stranger in it, and a screen under his hands that swore the corridor was empty, and he had laid the two side by side.
+The log face showed the corridor's sensors moment by moment. A breath ago it had shown one technician on station: the man himself. Right now, with a man walking past them in plain view, it showed *maintenance interval, no personnel.* On every other night that blank had been invisible, because no one was standing beside it to compare it with the corridor. Tonight someone was. He had a corridor in front of his eyes with a stranger in it, and a screen under his hands that swore the corridor was empty, and he had laid the two side by side.
 
 The fear arrived in Daren's stomach first, then his throat. The man had nothing. A bare-wristed technician's word against the city's own records was no weapon at all. But the fear was older than that, and it didn't care. It was the cat's fear, of being seen by something that couldn't be told what it was seeing, the fear he'd carried off the maglev and filed under things that had no column.
 
@@ -82,8 +82,6 @@ There was paper in the man's coat. He saw the corner of it. He crouched, his own
 
 He'd been mapped, by someone patient enough to collect every place the instruments had been told to look away and to notice that the blind spots made a shape, and the shape had a center.
 
-He could make every record forget him. He could not make the forgetting itself invisible.
-
 He put the notebook inside his coat. It sat against his ribs, a map of his own hiding place.
 
 The man hadn't been working alone. Nobody collects weeks of a tower's sensor gaps for his own amusement. Whoever held his leash would notice he hadn't come back. They'd find him, and the blank written over the hour he died, and they'd know that kind of blank, because they'd been hunting it. And they'd find the notebook gone, which told them the blank had hands.
@@ -110,7 +108,7 @@ He went through the notice the way Baju would have, walking it line by line, cou
 
 *Effects recovered: toolbag (1). Coat (1). Counter, mechanical (1).*
 
-No terminal. Baju never wore one where he meant to watch.
+No terminal. Baju never wore one where he meant to watch. He'd have left it at the last checkpoint and gone the rest of the way on a maintenance key.
 
 No notebook.
 
@@ -138,7 +136,7 @@ He thought of the dead room. A grey ration bar snapped across a knee, the two ha
 
 The young officer looked at his face, and closed his mouth, and took the postings.
 
-Rohan had told the four of them, in the dead room, to make whatever they did look like nothing. So the cell would do the same: move slowly, look dull, make every true thing look like routine, so the hand would never feel them coming.
+Rohan had told the four of them, in the dead room, to make whatever they did look like nothing. So the cell would do the same: move slowly, look dull, make every true thing look like routine, so the hand would never feel them coming. Baju had made it look like nothing. It had worked right up until the minute it killed him.
 
 The eye worked slowly, and he had let her. The ear only listened, because he'd told it to. The arm had been patient, and the arm was dead. Rohan had been the only door. Whatever killed Baju had walked around him and left no mark on any record in the city. If it could do that, the records were never going to catch it. Something else would have to.
 
@@ -192,7 +190,7 @@ Flagged twice. Once as a child: *obstruction of a guard, minor*, a bite on the h
 
 "The Heights," Elara said. "Is that far?"
 
-The clerk looked over the top of her spectacles. "From the shack-rows? Two days' walk, there and back. Nobody crosses them on purpose." She turned her cup a quarter turn on its saucer. "My brother used to scavenge the near edge for wire. That's where the city throws the instruments it's finished with. Sensors, test kits, all of it leaking. You come home with your boots eaten. Now and then a child goes out to see what dying looks like. Most of them come back with a cough."
+The clerk looked over the top of her spectacles. "Two days' walk, there and back. That's where the city throws the instruments it's finished with. Test kits, all of it leaking. Now and then a child goes out to see what dying looks like."
 
 "Test kits."
 
@@ -202,7 +200,7 @@ Elara thought of the lens footage: the sliver in Gage's fingers, the way the pur
 
 She went back to the strip's line. *Origin: unregistered.* A fifteen-year-old girl had walked two days into the place where the city's dead instruments went, picked through what they'd leaked and found the one that still worked. Then she'd sewn it into her brother's sleeve. He'd known what purple meant. Somebody had made sure he did.
 
-*Nothing forged. Nothing named. Only timing.* Elara's own words. She'd put one number where a boy would find it and told herself that was the smallest thing a person could do. Camilla had put one strip where a boy would find it.
+Nothing forged, nothing named. The same small kindness Elara had done: she'd left one number where a boy would find it. Camilla had left a strip.
 
 At fifteen Elara had hidden in a freight pod and gone down to the ground alone, with a notebook full of notes on a herb that didn't exist. Three days. Teresa died on the second night. Every adult with the power to help had told her, kindly, that nothing could be done, and she hadn't waited for their permission.
 
@@ -214,11 +212,11 @@ Four people from three shacks, gone within a day of each other, and a city that 
 
 Wherever the boys were, the sister was with them. The one who'd armed them before anyone knew they needed arming.
 
+Her cursor sat on *source to be established.* Open it, and the city would start looking for Camilla too. Leave it, and she had nothing lawful to follow. She opened it. The header changed. *Reviewer: Nathan, E.*
+
 "Find what you wanted?" the clerk said.
 
 "I found who," Elara said, and closed the file.
-
-The header had changed. *Source to be established: reopened. Reviewer: Nathan, E.*
 
 The girl's intake photograph was the last thing to go dark: flat, unsmiling, her eyes already busy with something out of frame.
 
