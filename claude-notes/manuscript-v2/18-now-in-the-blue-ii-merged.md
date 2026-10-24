@@ -62,7 +62,7 @@ Two pieces. Gage at the hole, the old scar standing out pale, face turned up, wa
 
 But Ben had stopped in the middle, and gone back, and said it again.
 
-Otto turned that over. Then he did the one thing he could. He went back to the front of his own sentence and said it again, inside, slow. *I promise, brother.* Jump through after. After was a word with a later in it.
+Otto turned that over. Then he did the one thing he could. He went back to the front of his own sentence and said it again, inside, slow. *I promise, brother.* He'd said it so Gage would go. He said it now with nobody to fool, and found it was still true.
 
 The two pieces lay in the blue with him, the same as ever.
 
