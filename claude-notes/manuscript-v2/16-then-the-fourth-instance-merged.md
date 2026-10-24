@@ -18,7 +18,7 @@ Elara worked it out on the stairs, three flights down into Ashoka's old stone, b
 
 Ashoka called it a dead room, and the words were painted on the door in plain white, because the room was lawful and had nothing in it to hide. It was older than the present Grandmaster, kept for witness protection and planning: no recording lamps, no wall sensors, no network thread entering it anywhere. What light it had came down a shaft in the ceiling, daylight bent through three polished mirrors from somewhere far above. It arrived pale and a little late. When a cloud crossed the platforms, the room dimmed a few seconds after the sky did.
 
-Beside the door stood a grey steel locker with a slot for each wrist. Five other terminals already lay in their slots. Elara unbuckled hers and laid it in, and the drawer closed on it with a soft pneumatic sigh. The skin where it had sat was paler than the rest of her arm, and cold. The city couldn't hear her.
+Beside the door stood a grey steel locker with a slot for each wrist. Four other terminals already lay in their slots. Rohan sealed his first. Elara unbuckled hers and laid it in beside his, and the drawer closed on it with a soft pneumatic sigh. The skin where it had sat was paler than the rest of her arm, and cold. The city couldn't hear her.
 
 Paper only. Pads on the table, pencils, a dented tin for the shavings. At the end of each session the sheets went into a locker in the inner wall, a long steel face with two key-slots, Rohan's and the room keeper's, the keys cut fresh each time. No one could take a page out alone. The wall, Elara thought, would be the room's only memory. On no fixed days, two officers who had never been introduced swept the room by hand.
 
@@ -54,11 +54,11 @@ The last of them had his chair tipped back on two legs and his boots crossed at 
 
 "And before you ask," he said, before Rohan could, "I don't know him. Nobody does. There's a story going round the canteens this week about an ear who stood forty minutes in a tea queue and came out knowing which cook was watering the dal. Not ours, obviously. I may have started it." He tipped his chin at Kaan. "Jeebh. The tongue. I'm the one who talks."
 
-Baju let out one breath through his nose. She was slow to place it as a laugh. Something in the air let out a notch.
+Baju let out one breath through his nose. Elara was slow to place it as a laugh. Something in the air let out a notch.
 
 "I keep us invisible," Jeebh said, "by keeping the city bored. It's a gift. My mother said so, at length."
 
-"They don't know each other's true names," Rohan said. "Or their units. To each other they're the eye, the arm, the ear and the tongue, and the four together are the body. This is the only hour they'll ever share a room. After today, if one is caught, all they can give up is three faces, three nicknames, and me."
+"They don't know each other's true names," Rohan said. "Or their units. To each other they're the eye, the arm, the ear and the tongue, and the four together are the body. This is the only hour they'll ever share a room. After today, if one is caught, all they can give up is three faces, three nicknames, me, and you. Which is why you were never here."
 
 He laid a single handwritten sheet on the table, face down, and put his hand flat on it.
 
@@ -92,11 +92,7 @@ Nayan spoke without looking up from her copy. "Then the pattern is the evidence.
 
 "No," Elara said. "That is what this room is for."
 
-She had brought her own instrument: the Sākṣī mirrors, witness copies of the city's records, kept in a separate archive by hands that had no part in the originals. Anandi had taught her to read them. An altered record could be checked against its mirror, which still held what the original used to say.
-
-Since the Initiation she had been watching one narrow band: cross-house allocations, the entries where one gana's money paid for another gana's wants. The doubled transfer had come through there. So she watched for money arriving where nobody had asked for it.
-
-Her terminal sat in the locker by the door. She hadn't needed it. Nayan had been watching the same water on paper.
+She had brought the Sākṣī mirrors. Since the Initiation she had watched one narrow band, cross-house allocations, for money arriving where nobody had asked for it. Nayan, on paper, had been watching the same water.
 
 Two knocks came at the door, close together.
 
@@ -114,11 +110,11 @@ Elara came around the table. "I know this petition. It lives in my band. Chanaky
 
 Elara's pencil stopped against the pad.
 
-She had caught that analyst's wrist once, at the Initiation consoles, when his hand went toward the High Command button.
+She had caught that analyst's wrist once, at the Initiation consoles, when his hand went toward the High Command button. He had sat at her elbow, at EVENT, while her console was pushed to its ceiling.
 
 Her lips had parted on *I know him*. Rohan's hand came down flat on the face-down sheet.
 
-"Kaan watches him clean," he said. "Whatever any of us thinks we know."
+"Kaan watches him clean," he said. "Hand him your opinion of the man, and he'll see what you saw. Tell me afterward."
 
 Nayan's pencil paused, and went on. The eye had seen the look.
 
@@ -133,6 +129,8 @@ Elara closed her mouth on the name and sat back. Her thumb found the dent it had
 "Then it isn't one thing," Nayan said.
 
 "Or the calibration is the one we don't understand yet," Elara said.
+
+"Then it stays on the wall until we do," Rohan said.
 
 "He," Nayan said.
 
@@ -164,7 +162,7 @@ Rohan looked at the wall, then at the four of them, and divided the ground.
 
 Kaan had already moved a half-step toward the door. Elara realized she still didn't know what his voice sounded like, and might never.
 
-"Jeebh. Cover. From tomorrow, Drona's procedural review of Ashoka grows three sub-audits so dull no one reads past the titles. And a rumor in the right canteens: the Annex was eleven years of quiet lobbying finally landing."
+"Jeebh. Cover. From tomorrow, the procedural review grows three sub-audits so dull no one reads past the titles. And a rumor in the right canteens: the Annex was eleven years of quiet lobbying finally landing."
 
 "Three sub-audits." Jeebh laced his fingers behind his head. "I'll make them so dull I fall asleep filing them. The rumor I'll enjoy."
 
@@ -180,7 +178,7 @@ Baju was already reaching for it, a brass pin held between his lips, the counter
 
 At the hour when Ashoka's training halls went dark and its corridors learned to be quiet, Rohan knelt opposite the Dhammapala in a room that held two cushions, one oil lamp and nothing that recorded. The lamp burned with a true flame. It drew no power, reported to no grid, and left only a little smoke that smelled faintly of cloves. When either of them breathed out, the flame leaned toward the door.
 
-He reported the way he fought, with nothing wasted. Last, the bulletin.
+He reported in order, nothing wasted, and kept the bulletin for last.
 
 She had chosen the four. She did not know which was the eye and which the tongue, and he kept it that way. Even here, the door held.
 
@@ -188,7 +186,7 @@ The Dhammapala listened with her eyes closed, which in her meant the reverse of 
 
 "You have stopped saying he," she said, when he had finished.
 
-"The eye corrected us. We have a signature and a style. We do not have a body. Inside that room it is the hand, and it is an it, until the evidence says otherwise."
+"The eye corrected us."
 
 "Good." She opened her eyes. "And you are the only door. You have built a body whose whole safety is one man's silence. What happens to the hunt when the door is broken down?"
 
