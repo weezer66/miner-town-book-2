@@ -40,13 +40,15 @@ The Grandmaster went over the design, looking for the join that would not hold. 
 
 It was true. It was one-third of the truth.
 
+The Grandmaster's eyes went once to Daren's right cuff, and came back.
+
 The rest stayed behind Daren's teeth. The conservatory lamps going dark one by one. The routing trail with the analyst's own credentials grown into it like a vein in marble. The black king left standing on the glass. Those belonged to the method, and the method belonged to him. The unsaid part sat behind his sternum. The Grandmaster collected outcomes, and Daren had learned, somewhere between a chess table and a conservatory, that an instrument shown is an instrument that can be asked for. He kept his breathing level. He kept his right hand loose at his side, where the band lay cool under the cuff.
 
-"Ashoka next," the Grandmaster said. He rose and went to the window, where the three Trinitys burned below the cloud line like coins on a dark table. "They cannot be bought, and they cannot be starved. The city would notice either. So they will be given what they cannot refuse. Duty. A mandate review, generously sponsored. New sectors to protect, new posts to staff, new honors to absorb." He turned from the glass. "A guard stretched over everything guards nothing well. You weaken a blade by asking it to be a shield in every doorway at once."
+"Ashoka next," the Grandmaster said. He rose and went to the window, where the three Trinitys burned below the cloud line like coins on a dark table. "They cannot be bought, and they cannot be starved. The city would notice either. So they will be given what they cannot refuse. Duty. A mandate review, generously sponsored. New sectors to protect, new posts to staff, new honors to absorb. Make them a shield in every doorway."
 
 Daren filed it where he filed everything now, in the ledger no one else could audit, and noticed without letting it reach his face that he'd just been handed the fourth house as an instruction.
 
-At the door the Grandmaster spoke without looking up from the rings. "Second only to mine."
+At the door the Grandmaster spoke without turning from the window. "Second only to mine."
 
 "Second only to yours," Daren said.
 
@@ -62,13 +64,11 @@ Hands kept finding his shoulder. Seniors quoted his own sentences back at him. S
 
 The nine pages were the finest work that had ever carried his name. That was the problem. He had not written them.
 
-They argued the way he argued. They ordered evidence the way he ordered it; they even used the dry turns of phrase his section head liked to tease him about. Whoever had made them had studied him closely enough to forge his mind. Twice that afternoon, reading over a colleague's shoulder, he caught himself nodding at a sentence he'd never composed.
+Half the sentences were his, lifted from three years of filed work and rearranged. They even used the dry turns of phrase his section head liked to tease him about. Whoever had made them had studied him closely enough to forge his mind. Twice that afternoon, reading over a colleague's shoulder, he caught himself nodding at a sentence he'd never composed.
 
 He'd checked the provenance on the first morning, before the cheering began. A self-initiated analysis, registered under his name three weeks ago, drafted in sessions logged from his own console on evenings he remembered spending otherwise. The standing petition had done the rest. Its open file collected any registered analysis that carried its subject tags, and house procedure had carried the memorandum to council without anyone lifting a hand.
 
 All day the hall had put good questions to the memo, and the memo had answered every one. No one asked why it existed. A comfortable answer stood ready for them: talent, ambition, a young man reaching for a name. Only Ravi knew the author didn't exist.
-
-The city preferred its stories to have authors.
 
 He thought of a black king standing alone on a lit table in an empty conservatory. *Present.* He'd told himself that standing still was not a choice. The Annex, rising with his name in its foundations, said otherwise.
 
@@ -210,9 +210,9 @@ By afternoon his superior stopped him in the corridor, a decent man with a list 
 
 *Paper keeps,* Rohan thought. Paper kept. That was how cases ended up on walls and stayed there.
 
-He said yes, took his share, and walked the long way back along the training halls. He counted the gifts. Money to Drona, and Drona had turned inward to argue over it. An archive to Chanakya, and Chanakya was still toasting its own name. Wages to Ashoka, for duties no one could refuse, and within one day the house that had begun asking questions had no officers free to ask them. He couldn't prove whose hand it was. He knew the fingerprint when it pressed on his own house.
+He said yes, took his share, and walked the long way back along the training halls. He couldn't prove whose hand it was. He didn't need to. It was on his roster.
 
-Generosity, Elara had said. It feeds them.
+Generosity is the fingerprint, Elara had said.
 
 Now it was feeding him. And the first bite was his time.
 
@@ -224,4 +224,4 @@ Between the fourth page and the fifth lay a strip of paper with no seal, no sign
 
 He walked to the training hall, where the night lamps still burned with true flame for the oldest reasons, and held the strip above one until it was ash and the ash was nothing. The heat stung his split knuckle. He didn't move it. She had let the flood through on purpose.
 
-In the morning he went to the Drona review in its established hours, and started with whatever the postings had been sent to cover first.
+In the morning he went to the Drona review in its established hours, and pulled the first file the new postings would have kept him from.
