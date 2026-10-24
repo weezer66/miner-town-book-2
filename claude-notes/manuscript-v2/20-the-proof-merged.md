@@ -14,7 +14,7 @@ At night the mirror shaft gave nothing, and the room ran on a lantern with a tru
 
 "Baju is dead," he said.
 
-He said it to the wall. Then he gave her the rest in the order the notice had given it to him, flat, in the notice's own order: the Drona tower, the fourth-level corridor, the open panel, the line test, the hand on the steel. No witnesses. A maintenance interval written over the hour. And the one thing the notice hadn't listed, which he'd found by its absence.
+He said it to the wall. Then he gave her the rest flat, in the notice's own order: the Drona tower, the fourth-level corridor, the open panel, the line test, the hand on the steel. No witnesses. A maintenance interval written over the hour. And the one thing the notice hadn't listed, which he'd found by its absence.
 
 "It took his paper. It stood over him and reached inside his coat and took the one thing that could remember what it had done."
 
