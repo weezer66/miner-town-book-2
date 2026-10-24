@@ -14,7 +14,7 @@ At night the mirror shaft gave nothing, and the room ran on a lantern with a tru
 
 "Baju is dead," he said.
 
-He said it to the wall. Then he gave her the rest in the order the notice had given it to him, flat, like a man reading from a page he'd read too often: the Drona tower, the fourth-level corridor, the open panel, the line test, the hand on the steel. No witnesses. A maintenance interval written over the hour. And the one thing the notice hadn't listed, which he'd found by its absence.
+He said it to the wall. Then he gave her the rest in the order the notice had given it to him, flat, in the notice's own order: the Drona tower, the fourth-level corridor, the open panel, the line test, the hand on the steel. No witnesses. A maintenance interval written over the hour. And the one thing the notice hadn't listed, which he'd found by its absence.
 
 "It took his paper. It stood over him and reached inside his coat and took the one thing that could remember what it had done."
 
@@ -50,7 +50,7 @@ Rohan's eyes came off the wall.
 
 He looked at the fourth panel, at the crooked pin.
 
-"He had a counter," Rohan said. "He counted everything. Steps. Doors. How long a lift held before it closed." His jaw worked once along the scar. "He'd have known to the second how long it took me to read the notice." His thumb moved against his forefinger, the way a man works a thing that isn't there. "It's on its way home in a bag with his coat."
+"He had a counter," Rohan said. "He counted everything. Steps. Doors. How long a lift held before it closed." His jaw worked once along the scar. "He'd have known to the second how long it took me to read the notice." His thumb clicked against his forefinger, working a counter that wasn't there. "It's on its way home in a bag with his coat."
 
 Elara waited. That was all there was going to be, and she let it be all.
 
@@ -70,7 +70,7 @@ No one offered a chair. Elara stood beside Rohan, not in front of him.
 
 "He'll tell you what happened," she said. "Then I'll tell you what I want."
 
-Rohan told it without Baju's name, or the body's working names, or anything the wall held. A man of his had found a way to read the city's blind spots, had followed them to a corridor, and had died there with his hand on steel, and the record of his death was a maintenance interval. He told it in order, without ornament, to the end. When he finished, the Ancient One was looking at Elara.
+Rohan told it without Baju's name, or the cell's working names, or anything the wall held. A man of his had found a way to read the city's blind spots, had followed them to a corridor, and had died there with his hand on steel, and the record of his death was a maintenance interval. He told it in order, without ornament, to the end. When he finished, the Ancient One was looking at Elara.
 
 "The witness copies," Elara said. "All of them, searched for one thing: every order any instrument in this city has been given to look away. If the Sākṣī kept those orders, the hand has been drawing its own map for months and leaving it in your basement. If it didn't, I've cost a commander of Ashoka a night, and we'll go back to paper."
 
@@ -132,7 +132,7 @@ The oldest were all inside Kubera, dozens close together. Someone practicing. Th
 
 "Then it's Kubera's," Rohan said.
 
-"It's Kubera's band," the Ancient One said. "Whose hand, the wall doesn't say."
+"It's Kubera's band," the Ancient One said. "Whose hand, the wall doesn't say. I sent a clerk to that door in the first week. The room answers to no one the access logs know, and the corridor logged a maintenance interval the whole time she stood there."
 
 "There," Rohan said, and pointed. The fourth-level corridor of the Drona tower, night after night. And tonight, the same corridor, the same hour, and beside it an order that appeared nowhere else on the wall. *Line test.*
 
@@ -146,7 +146,7 @@ Rohan looked at it until Elara thought he wouldn't stop. When he spoke, his voic
 
 "Every time it tells an instrument to forget, this place remembers that it asked." He didn't look away. "It can't hide without writing down the hiding."
 
-Rohan was already on his feet. "That room. I can have it opened before—"
+Rohan's chair went back hard. "That room. I can have it opened before—"
 
 "You will sit down, Commander." The Ancient One did not raise her voice. "Open that door tomorrow, and the first question anyone asks is how you knew. I have watched these lines for months. Every night I could have stopped it, this house would have fallen first. So I watched, and tonight a man of yours is dead on my floor. I will not ask your pardon for it. Whatever you do with that floor, you will do it from paper any clerk may read."
 
@@ -158,7 +158,7 @@ Rohan sat. It took him a long time.
 
 "And now you see why no one may learn this chamber exists. For a hundred years every record in Kubera, Chanakya and Ashoka has been witnessed here without their knowing. Drona swore it was blind. The balance rests on each house believing the others are blind in the same places." She folded her hands. "A house that has secretly watched the other three for a century is a tyranny that has not yet been noticed. The day it is noticed, it falls. You asked how far down your code reaches, Monitor Nathan. This far. I hoped you would not need it. Use it."
 
-"One thing more," Sarvajña said, and touched the seventh stone. "The makers understood this better than any wearer has. The band is only as calm as the hand that wears it. A careful wearer is invisible. A frightened one is a weapon that fires itself. They wrote that it acts on fear as readily as on intent, and faster, because fear is the louder signal." He turned to Rohan. "No one here was in that corridor. But if your man came close enough to be truly seen, the hand did not need to decide anything. It only needed to be afraid of him. You will not find this thing while it is careful. You will find it when it is afraid."
+"One thing more," Sarvajña said, and touched the seventh stone. "It acts on fear faster than on intent." He turned to Rohan. "You will not find this thing while it is careful. You will find it when it is afraid."
 
 Rohan's jaw set. Elara watched him take it: frighten the hand, and every stumble would be written here, order by order.
 
@@ -188,7 +188,7 @@ The Ancient One saw it a breath after she did. Nothing moved in the old woman's 
 
 The column dropped off the wall. Nobody explained it. Elara didn't ask, because she knew already that she couldn't cite this wall, and a thing she couldn't cite was a question she would have to carry out of here alone.
 
-Seventeen, she thought. And the gap closing.
+Fourteen, the last she'd seen. And the gap closing.
 
 On the grey screen, the Obsidian Guard went on about its evening's work.
 
@@ -246,7 +246,7 @@ Blue on blue. Otto almost didn't see it. Then its wings opened and closed, slow,
 
 "You taught me to be."
 
-"I did. You were a loud boy. All fists. I taught you the fist is the last thing, not the first, and that most fights are won by the man who can be still long enough to see where the other man is going to be." The old man's eyes were kind in the way a good teacher's are, which has nothing to do with being gentle. "You learned it better than I ever did. I watched you hold those stones. I have never seen anyone go so deep."
+"I did. You were a loud boy. All fists. I taught you the fist is the last thing, not the first, and that most fights are won by the man who can be still long enough to see where the other man is going to be." The old man's eyes were kind. They had never once been gentle. "You learned it better than I ever did. I watched you hold those stones. I have never seen anyone go so deep."
 
 "I can't come back up."
 
