@@ -20,7 +20,7 @@ Nearly whole. Most of them arrived as gravel, worn round, nothing to catch on. T
 
 *Gretchen.*
 
-The picture came with it, so sharp after all the blue that it ached somewhere behind his eyes. A girl at the water pump, sleeves turned back, saying something that made Ben stop and listen. Ben's sister. Ben said her name like a man patting a pocket to check something was still in it.
+The picture came with it, so sharp after all the blue that it ached somewhere behind his eyes. A girl at the water pump, sleeves turned back, telling Ben a man who'd hurt them was still worth saving. Ben's sister. Ben said her name quick and low, and always looked up after, checking she was still there.
 
 So the voice was Ben.
 
@@ -58,11 +58,11 @@ The voice left another one.
 
 The promise was where it always was.
 
-Two pieces. Gage at the hole, the old scar standing out pale, face turned up, waiting. Otto had carried that face so long he'd stopped feeling the carrying. Gage had told him to jump. He'd said he would. He hadn't. That was the whole of it, as far as he'd ever let himself take it.
+Two pieces. Gage at the hole, the old scar standing out pale, face turned up, waiting. Otto had carried that face so long he'd stopped feeling the carrying. Gage had told him to jump. He'd said he would. He hadn't.
 
 But Ben had stopped in the middle, and gone back, and said it again.
 
-Otto turned that over. A sentence you go back to isn't finished. He hadn't jumped. Yet.
+Otto turned that over. Then he did the one thing he could. He went back to the front of his own sentence and said it again, inside, slow. *I promise, brother.* Jump through after. After was a word with a later in it.
 
 The two pieces lay in the blue with him, the same as ever.
 
