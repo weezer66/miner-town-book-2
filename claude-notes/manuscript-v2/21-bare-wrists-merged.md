@@ -54,7 +54,7 @@ Two nights of paper covered the dead-room table. None of it came from the grey w
 
 "Fourth level," he said. "More than anywhere else. But a floor isn't a room."
 
-"The room's on every plan and in no log. Neither will tell us which door it is." She set her finger on the fourth-level corridor, on the row of service panels. Neither of them looked at the third one. "But the hand isn't a room. It walks into that room every night and out again every morning, and it walks every stride of this corridor to get there. We don't need to find the room. We need to stand beside its path."
+"The room's on every plan and in no log. The logs won't tell us which door it is." She set her finger on the fourth-level corridor, on the row of service panels. Neither of them looked at the third one. "But the hand has a body. It walks into that room every night and out again every morning, and it walks every stride of this corridor to get there. We don't need to find the room. We need to stand beside its path."
 
 "Then we stand in the corridor."
 
