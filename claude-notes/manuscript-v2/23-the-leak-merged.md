@@ -102,7 +102,7 @@ Elara looked down the length of the four columns, from the wall where the hand's
 
 *Paper. Ruled. Forty reams.*
 
-It was there on the first page. The line didn't start there. It ran off the edge of it.
+It was there on the first page, and it didn't start there. It ran off the edge.
 
 "How far back does it go?"
 
