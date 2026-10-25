@@ -98,7 +98,7 @@ He looked at it a while longer. "Looks heavy."
 
 Nobody was going to wake him.
 
-The younger medic had the night log open on the panel. She turned back a page to check something against the older woman's square hand, and read it half aloud, for her own count. "Second rise. Evening. Present: Ben. Camilla."
+The younger medic had the night log open on the panel. She turned back a page to enter the rise against the last one, and read the last one half aloud, for her own count. "Second rise. Evening. Present: Ben. Camilla."
 
 Gage lifted his head off the blanket.
 
@@ -178,7 +178,7 @@ At a carrel at the back, under a green-shaded lamp, he slid the folio out. His o
 
 He didn't read it through. He knew what he'd written. He turned to the third page and found the line.
 
-He'd underlined it in pencil the night he filed it, because it was the one line he couldn't make sit still with the rest. *Continuity Reserve transfer, Kubera to Chanakya. Purpose: survey of the archive wing, preliminary.* Nobody in Chanakya had asked for a survey of the archive wing, three years ago. This week there were surveyors in it with knotted string. What he'd flagged was the line beneath. He could have recited it. The house had sealed it before he understood it, and he still didn't. The pencil had gone grey and furred. It was still underlined.
+He'd underlined it in pencil the night he filed it, because it was the one line he couldn't make sit still with the rest. *Transfer, Kubera to Chanakya. Purpose: survey of the archive wing, preliminary.* Nobody in Chanakya had asked for a survey of the archive wing, three years ago. This week there were surveyors in it with knotted string. Beneath it, in the field for the requesting officer, a single dash. That was what he'd flagged. The house had sealed it before he understood it, and he still didn't. The pencil had gone grey and furred. It was still underlined.
 
 He looked at it until the words stopped being words. Then he put his face back the way it had been, closed the folio, and slid it in its sleeve inside his coat.
 
@@ -186,7 +186,7 @@ Two hours after first bell, he went to Room Four. The slip had said two hours. Y
 
 The trolleys hadn't come up yet, and the policy corridor was empty. The wired glass in the door laid its grid of small diamonds over the room behind, and through the diamonds he could see that nobody was there.
 
-He opened the door anyway.
+The door should have been locked. It wasn't. He opened it anyway.
 
 The table was bare. One chair stood pulled out, angled to face the door, and on its seat lay a binder. Its spine had split and been mended with brown tape.
 
@@ -230,7 +230,7 @@ The grey wall was still lit when she came in. Anandi's finger was already on the
 
 Elara sat. The chair with the short leg rocked, and she set her heel against it.
 
-"You were in the fourth-level corridor last night," the Ancient One said. "Anandi told me where you stood. The wall told me what walked past you."
+"You were in the fourth-level corridor last night," the Ancient One said. "Anandi told me where you stood. The wall told me what the hand did beside you."
 
 The service stair's gate. It had taken her code and written it down, and Anandi kept the code's ledger.
 
