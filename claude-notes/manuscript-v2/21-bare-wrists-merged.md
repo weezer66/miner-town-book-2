@@ -126,7 +126,7 @@ The confirmation was received and entered and passed on to the next item, and Da
 
 He didn't look at the Grandmaster's chair. He felt the Grandmaster look at him.
 
-Afterward, in the gallery corridor, the Master of the Reserve passed him the way he passed everyone, without stopping, without turning his head, a word dropped in the walking as if it had fallen out of his pocket.
+Afterward, in the gallery corridor, the Master of the Reserve passed him the way he passed everyone, without stopping, without turning his head, a word dropped in the walking, like a coin out of a pocket.
 
 "You are standing in the wrong place."
 
