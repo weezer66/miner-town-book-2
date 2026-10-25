@@ -8,9 +8,9 @@
 
 The alert sounded two levels down a little after the night lamps dimmed: one tone, then the same tone again, and Camilla was on her feet before the second had finished.
 
-She'd slept in her greys with her boots on. They all had, since the medic sent them down from the glass at the end of last night's watch. Gage came off his cot so fast it skated across the floor and knocked the bench, and a box of splinters went over in a dry rattle. Ben was already at the door with one sock on and the other in his hand.
+She'd slept in her greys with her boots on. They all had, every night since the tank. Gage came off his cot so fast it skated across the floor and knocked the bench, and a box of splinters went over in a dry rattle. Ben was already at the door with one sock on and the other in his hand.
 
-Nobody said Otto's name. Saying it would have made it a question.
+Nobody said Otto's name.
 
 Gage took the stairs three at a time and stopped at every landing, one hand on the rail, not looking back, until he heard her boots. The metal arm swung at her side and dragged her wide on the turns. Ben came last, still carrying the sock.
 
@@ -32,7 +32,7 @@ She moved it left in front of his face. His eyes went after it. They lagged, and
 
 "Good. Now your hand. Put your palm against the glass."
 
-It took a long time. The arm rose through the gel like a man hauling a full bucket, and Camilla watched the elbow argue with every inch. Then the palm met the glass and flattened there, white at the heel, at the exact height where Ben had left two prints on the first morning.
+It took a long time. The arm rose through the gel an inch at a time, the elbow arguing with every one. Then the palm met the glass and flattened there, white at the heel, at the exact height where Ben had left two prints on the first morning.
 
 Gage stepped up and put both of his hands against it from the other side.
 
@@ -134,21 +134,21 @@ She stood in the doorway and waited for it to brighten. It didn't. It didn't dim
 
 "Yeah."
 
-Neither of them said anything else. There was nothing to say that either of them could check.
+Neither of them said anything else.
 
 She went back up and stood in the tank-room doorway. The tank was empty and drying, a blue tidemark round its base. Gage was in the chair by the bed with his hands still closed round Otto's, his head down on the blanket beside them, his face still turned to the wall, asleep or not.
 
 Twelve left, the evening of the egg. One night on from that. Eleven left of the nineteen.
 
-Otto didn't know about the Lake Wall, or the valves, or the ten minutes, or the listener under its cloth on her bench that heard everything and couldn't yet tell rock from footsteps, or who might have to be in the tunnel the water wanted first. He'd come up a rope, and the first thing he'd asked was whether the people he'd held things up for had got out.
+Otto didn't know about the Lake Wall, or the valves, or who might have to be in the tunnel the water wanted first. He'd been awake an hour, and the first thing he'd asked was whether the people he'd held things up for had got out.
 
 She let the metal hand fold into a fist at her side. She wasn't telling him tonight.
 
-She counted the room one more time, by habit, and got to four, and all four of them were breathing on their own, and one of them had his back to her. She had to put her good hand on the doorframe.
+She counted them one more time, by habit, Ben downstairs included, and got to four, and all four of them were breathing on their own, and one of them had his back to her. She had to put her good hand on the doorframe.
 
 ---
 
-Three mornings later, the records archive opened at first bell.
+The morning after the slip, the records archive opened at first bell.
 
 Ravi went through the public gate with his terminal on, because the gate needed to know him. It tasted his wrist and let him by. Beyond it, in the long hall of index cabinets, he switched the terminal dark and put it in his coat pocket, beside the two slips.
 
@@ -166,19 +166,19 @@ She turned the register's pages a long time. "The findings stay where they are. 
 
 "That's fine."
 
-She brought it from the stacks in a grey sleeve. The custody ledger lay open at the end of the counter, its pen tied on with a string a hand too short, so that he had to stoop to sign. He signed beneath the file number. His signature had changed in three years; he hadn't noticed until he saw the old one above it. The ink sat on the page and dried, and it would still be there in a hundred years.
+She brought it from the stacks in a card sleeve. The custody ledger lay open at the end of the counter, its pen tied on with a string a hand too short, so that he had to stoop to sign. He signed beneath the file number. His signature had changed in three years; he hadn't noticed until he saw the old one above it. The ink sat on the page and dried.
 
 "Returned by?"
 
 "Tomorrow," Ravi said.
 
-He didn't know if he could keep it. He said it in the voice of a man who could.
+He didn't know if he could keep it.
 
 At a carrel at the back, under a green-shaded lamp, he slid the folio out. His own handwriting, three years younger and neater, trying hard. The date. *Analyst, first year*, in the space where it had been required.
 
 He didn't read it through. He knew what he'd written. He turned to the third page and found the line.
 
-He'd underlined it in pencil the night he filed it, because it was the one line he couldn't make sit still with the rest. The pencil had gone grey and furred. It was still underlined. It was still waiting for someone above him to say what it meant.
+He'd underlined it in pencil the night he filed it, because it was the one line he couldn't make sit still with the rest. *Continuity Reserve transfer, Kubera to Chanakya. Purpose: survey of the archive wing, preliminary.* Nobody in Chanakya had asked for a survey of the archive wing, three years ago. This week there were surveyors in it with knotted string. What he'd flagged was the authority on the line beneath, and he didn't need to read that again. The pencil had gone grey and furred. It was still underlined. It was still waiting for someone above him to say what it meant.
 
 He looked at it until the words stopped being words. Then he put his face back the way it had been, closed the folio, and slid it in its sleeve inside his coat.
 
@@ -196,7 +196,7 @@ He opened the cover. Empty, except for one retrieval tag clipped inside the fron
 
 *Tomorrow. Bring what you took.*
 
-His hand went to his coat before he could stop it, flat over the folio. He'd signed for it an hour ago, in ink, in a building no instrument could see into.
+His hand went to his coat before he could stop it, flat over the folio. He'd signed for it an hour ago, in ink, in a hall no instrument watched.
 
 He sat in the chair after all, because the house would log that Room Four had been used and it might as well be true, with the binder on his knees and the folio held against his chest under his crossed arms. Nobody came. In the wired glass the diamonds held still, and nothing moved behind any of them.
 
@@ -214,7 +214,7 @@ Three borrowed rooms, three monitors, the dates in blue ink. Ravi's, released th
 
 Every other line had a second entry beside it, in a different ink on a different day: *Released.* This one had a column of white.
 
-A name and a room, both lawful to read. A Kubera monitor had been given a room on the fourth level for a watch that ended weeks ago, and nobody had written that he gave it back. The page said nothing about who walked into that room at night, or whose door opened before the hand was raised. A clerk had left a column blank. Clerks did.
+A name and a room, both lawful to read. A Kubera monitor had been given a room on the fourth level for a watch that ended weeks ago, and nobody had written that he gave it back. The page said nothing about who walked into that room at night, or whose door opened before the hand was raised. Kubera had taken that name off him in front of the whole house. Drona's book still had it, and still had him in a room.
 
 She copied the line onto a slip in pencil, with the volume's shelf mark, and thanked the clerk. He sneezed, and said bless you to his handkerchief.
 
@@ -246,11 +246,17 @@ The Ancient One read it without touching it.
 
 "There is one thing more. You were seen. The tower's overnight digest logged two unidentified persons on the service stair at the hour you came down. Two people the sensors could not name." Her eyes rested on Elara. "The hand reads digests. It will know someone stood there."
 
-The back of Elara's neck went cold. She hadn't seen any reader. She'd been counting steps.
-
 "It won't know who."
 
 "Not yet."
+
+The stair gate had her code. Rohan's under it, an hour early, and both of them again on the way out. Between them, at the hand's hour, two people no sensor could name.
+
+"It will," Elara said. "If it lays the gate log beside the digest."
+
+"It reads records," the Ancient One said.
+
+The back of Elara's neck went cold.
 
 The old woman looked down at the map, and Elara made herself look too.
 
@@ -296,8 +302,6 @@ She turned the mark back. The stone went dead under her hand.
 
 "I have told him I am looking. Nothing more." The old woman didn't look at her. She looked at the dark wall. "Kubera swore to us that the box was a relic. Tonight we will learn whether anything in this city moves because I said so."
 
-Dark, the wall showed nothing. Lit, it would show every order the hand gave, and the hour it gave it.
-
 "And I'm not in the room."
 
 "You are where you have always been. Where you can see the work, and nobody can see you doing it."
@@ -322,11 +326,9 @@ He listened with one hand flat on a sheet of paper on the table, face down.
 
 He looked at the flame, then at her. "There was a reader at the stair head when we went down. It went amber at us. Twice." His thumb pressed the edge of the sheet. "I saw it and didn't tell you. I didn't want you looking up."
 
-"Then it'll be in the overnight digest," she said. "Two people it couldn't name." Her voice stayed level, and she was glad of it. "And it reads records."
+"Then it's in the overnight digest. Two people it couldn't name." She kept her voice level. "Between two gate entries it can."
 
-"Then it knows two people stood there." He laid it out in order, what they had. "It doesn't know who. It knows there were two."
-
-He was quiet. Somewhere above them, his Grandmaster didn't know any of this.
+"I'd worked that out before we reached the bottom." He didn't look away from the flame. "Anyone who sets the gate log beside the digest has us by the end of the page."
 
 "The Dhammapala," Elara said. "She'll ask you what Ashoka's commander was doing bare-wristed in Drona's tower at the hand's hour. If she hasn't already."
 
