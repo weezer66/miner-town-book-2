@@ -14,13 +14,13 @@ He opened the door.
 
 Nayan was standing on the table in her socks.
 
-She had a sheet of paper in each hand and a pencil crosswise in her teeth, and she was looking down at the floor, where more paper lay in long pale strips from the wall almost to the door. One sock was grey. The other had been darned at the heel with green thread, a lot of green thread, by someone who had given up on matching. The afternoon came down the mirror shaft behind her, pale and a few seconds late, and lit her from above like a figure on a plinth.
+She had a sheet of paper in each hand and a pencil crosswise in her teeth, and she was looking down at the floor, where more paper lay in long pale strips from the wall almost to the door. One sock was grey. The other had been darned at the heel with green thread, a lot of green thread, by someone who had given up on matching. The last of the light came down the mirror shaft behind her, pale and a few seconds late, and lit her from above.
 
-Elara stopped on the threshold. The last time she'd seen this woman, she'd been a back and a moving pencil and a voice that didn't look up. That was weeks ago. Everything since had come to Elara through Rohan, on folded paper, in his upright hand.
+Elara stopped on the threshold. The last time she'd seen this woman, she'd been a back and a moving pencil and a voice that didn't look up. That was weeks ago. Everything since had come to Elara through Rohan, on folded paper, in his upright hand. Two nights since the Ancient One had turned Kubera's mark in the stone, and no word had come down from it.
 
 "You said after that day we'd never see each other again," she said.
 
-"I did." Rohan shut the door behind them. "The slow way ended with Baju. So does this rule."
+"I did." Rohan shut the door behind them. "Keeping you apart was the careful way. It ended with Baju. So does this rule."
 
 Nayan took the pencil out of her mouth.
 
@@ -34,7 +34,7 @@ Baju's brass pin still held its corner, pushed in a little crooked. Nayan had pi
 
 "All three of its gifts came out of one purse," Elara said. "The library money. The Annex. The mandate review. Kubera paid for every one, and Kubera never asked for any of it. The hand spends other people's money." She looked at the strips of paper on the floor. "So we follow the money."
 
-"Then you want all four houses," Nayan said. She came down off the table by way of a chair, landing on the balls of her feet between two columns. "A gift leaves one book and lands in another. You can't see it in either book alone. I've been copying these six years." She tapped the nearest strip with her toe, very lightly, without moving it. "I've never once put them next to each other."
+"Then you want all four houses," Nayan said. She came down off the table by way of a chair, landing on the balls of her feet between two columns. "A gift leaves one book and lands in another. You can't see it in either book alone. I've been copying these six years." She tapped the nearest strip with her toe, very lightly, without moving it. "I've never had a floor I could lay them out on behind a locked door."
 
 That was what was on the floor.
 
@@ -42,11 +42,11 @@ Four columns of paper, laid edge to edge, running from the wall toward the door.
 
 "You did all of this by hand," Elara said.
 
-"Public books are public. Nobody minds a woman with a pencil. They mind a terminal that asks." Nayan handed her a pencil. "Your hand's gifts are recent. Start at the wall."
+"Public books are public. Nobody minds a woman with a pencil. They mind a terminal that asks." Nayan handed her a pencil. "The hand's gifts are recent. Start at the wall."
 
 They started at the wall.
 
-It was slow work, and knee work. Elara found the library money first because she knew its shape. In Kubera's column it left the Continuity Reserve on a date she could have recited in her sleep. In Drona's column, four sheets over and on the same date, it arrived as shelving, scaffolding, the restricted wing. Nayan found the Annex in the Chanakya column without being told where to look, and Rohan, on his heels at the end of the Ashoka strip, found the mandate review's first funded postings and laid a pencil across them so they wouldn't be lost again.
+It was slow work, and knee work. Elara found the library money first because she knew its shape. In Kubera's column it left the Continuity Reserve on a date she could have recited in her sleep. In Drona's column, three columns over and on the same date, it arrived as shelving, scaffolding, the restricted wing. Nayan found the Annex in the Chanakya column without being told where to look, and Rohan, on his heels at the end of the Ashoka strip, found the mandate review's first funded postings and laid a pencil across them so they wouldn't be lost again.
 
 Three gifts. Three lines of light across four columns. Each one bigger than the last.
 
@@ -106,9 +106,9 @@ It was there on the first page. It was older than Nayan's copying.
 
 "How far back does it go?"
 
-"Further than I do." Nayan didn't look pleased about it. "By the shape of it, a long way further. Look." She ran her pencil down the Kubera column without touching the paper. "Lamp oil's doubled in six years. Bearings, nearly. Everything in this city costs more than it did. Every other line on these pages has grown." The pencil stopped. "Forty reams, six years running. This one has never asked for one sheet more."
+"Further than I do." Nayan didn't look pleased about it. "By the shape of it, a long way further. Look." She ran her pencil down the Kubera column without touching the paper. "Lamp oil's doubled in six years. Bearings, nearly. Everything in this city costs more than it did. Every other line on these pages has grown." The pencil stopped. "Forty reams, six years running, at the same sum on my first page as on yesterday's. Paper's up by half. Somebody is still paying what paper cost before any of us were born."
 
-Elara looked from the oldest page to the newest, from the door to the wall. The hand's gifts lay near the wall, three of them, recent and swelling, each one larger and louder than the one before. The other line ran the whole length of the floor, the same size at both ends, steady as a pulse taken in a sleeping body.
+Elara looked from the oldest page to the newest, from the door to the wall. The hand's gifts lay near the wall, three of them, recent and swelling, each one larger and louder than the one before. The other line ran the whole length of the floor, the same sum at both ends.
 
 "The hand feeds," she said. "This one eats. Just enough. For a very long time."
 
@@ -118,7 +118,7 @@ Something that wasn't a house had been fed by all four of them for longer than a
 
 Across the columns, Rohan hadn't moved.
 
-He was still on his heels at the end of the Ashoka strip, his pad on his knee, and he had gone still, the mat stillness. His eyes weren't on the paper. They were on nothing, a little above it.
+He was still on his heels at the end of the Ashoka strip, his pad on his knee, and he had gone still, the stillness he wore on the mat. His eyes weren't on the paper. They were on nothing, a little above it.
 
 "Commander?" Nayan said.
 
@@ -134,7 +134,7 @@ Two knocks came at the door, close together.
 
 Rohan went to the slot beside the frame and drew out a slip of paper, folded twice. It had no seal. He read it under the lantern, and then he turned it over and read the back, and something along the scar of his jaw tightened and let go.
 
-"Kaan," he said, for the room. Then he read it aloud, as if reading it aloud were the only way to make it lawful. "*The ear has spoken to the analyst. He kept the appointment.*"
+"Kaan," he said, for the room. Then he read it aloud. "*The ear has spoken to the analyst. He kept the appointment.*"
 
 "And the back?" Elara said.
 
@@ -158,7 +158,7 @@ At the hour when Ashoka's corridors learned to be quiet, Rohan knelt opposite th
 
 He didn't bring the paper. The paper was in a locker that opened only for three hands at once, and that was where it belonged. He brought what it showed. He did not bring the corridor. That was still his decision, and he had not made it.
 
-He gave it to her in order, with nothing added, as Ashoka taught its officers to report. Four columns. Six years. The hand's gifts at the wall end, three of them, growing. Then the other line. Every forty days, in all four houses' books in the same week. Bearings, filters, dressings, paper. Small sums. Carried on a founding mark no clerk could sign. Bought, and paid for, and never arriving anywhere a house would use them. The same size on the first page ever copied as on the last, though everything else in the city had grown.
+He gave it to her in order, with nothing added, as Ashoka taught its officers to report. When he reached forty days, her fingers uncurled on her knees.
 
 He said *the eye*, as he always had. He did not say who had knelt beside her.
 
@@ -174,7 +174,7 @@ She opened her eyes.
 
 "Whose is it?"
 
-"I told you I would tell you what I could." Her hands lay on her knees, the fingers curled. "So hear this, and only this. There is one table where the four Grandmasters sit together. Once in a year, no more. We are taken to it. None of us is told the way. But it can be asked to sit out of season, and this week it has been asked. The asking was not mine." A small pause, and her face didn't change across it. "I will carry what you found into that room. It will be answered."
+"I told you I would tell you what I could." Her hands lay on her knees again, the fingers curled. "So hear this, and only this. There is a table the four Grandmasters are taken to once a year. This week it was asked to sit out of season, and it has said yes. The asking was not mine." A small pause, and her face didn't change across it. "I will carry what you found into that room. It will be answered."
 
 "By whom?"
 
@@ -188,7 +188,7 @@ He shifted his weight off the knee, and the rib that had healed a fraction crook
 
 "Yes, Dhammapala."
 
-"A tired door begins to want the axe. It tells itself the breaking would be a rest." "Do not let it tell you that. You are not finished being opened and closed."
+"A tired door begins to want the axe. It tells itself the breaking would be a rest. Do not let it tell you that. You are not finished being opened and closed."
 
 Rohan bowed, low, and stayed down until the knee made him come up.
 
