@@ -78,7 +78,7 @@ Nobody said anything. The lantern ticked in its glass.
 
 "No clerk," Elara said at last. "Like the library money."
 
-"Worse. The library money came through the Reserve, with two letters at the bottom. This has no letters at all. The book carries it the way it carries the house's own name." Nayan sat back on her heels. "And look at the sums."
+"Worse. The library money came through the Reserve, with two letters at the bottom. This has no letters at all. It's printed, in the same ink as the house's name at the top of the page." Nayan sat back on her heels. "And look at the sums."
 
 She showed them. It took the rest of the evening, and the rest of the evening was mostly Nayan crawling between columns with the lantern, and Elara holding sheets to the light, and Rohan writing down dates on a pad balanced on his knee. The line came back every forty days. It came back in all four books at once, in the same week. Bearings, filters, dressings, paper. Small sums. Ordinary things. Each one carried on the founding mark, and no clerk's number anywhere.
 
@@ -102,17 +102,17 @@ Elara looked down the length of the four columns, from the wall where the hand's
 
 *Paper. Ruled. Forty reams.*
 
-It was there on the first page. It was older than Nayan's copying.
+It was there on the first page. The line didn't start there. It ran off the edge of it.
 
 "How far back does it go?"
 
-"Further than I do." Nayan didn't look pleased about it. "By the shape of it, a long way further. Look." She ran her pencil down the Kubera column without touching the paper. "Lamp oil's doubled in six years. Bearings, nearly. Everything in this city costs more than it did. Every other line on these pages has grown." The pencil stopped. "Forty reams, six years running, at the same sum on my first page as on yesterday's. Paper's up by half. Somebody is still paying what paper cost before any of us were born."
+"Further than I do." Nayan didn't look pleased about it. "By the shape of it, a long way further. Look." She ran her pencil down the Kubera column without touching the paper. "Lamp oil's doubled in six years. Bearings, nearly. Everything in this city costs more than it did. Every other line on these pages has grown." The pencil stopped. "Forty reams, six years running, at the same sum on my first page as on yesterday's. Paper's up by half. Somebody set that price before I ever picked up a pencil, and in six years nobody has corrected it."
 
-Elara looked from the oldest page to the newest, from the door to the wall. The hand's gifts lay near the wall, three of them, recent and swelling, each one larger and louder than the one before. The other line ran the whole length of the floor, the same sum at both ends.
+Elara looked from the oldest page to the newest, from the door to the wall. The hand's gifts lay near the wall, three of them, recent and swelling. The other line ran the whole length of the floor, the same sum at both ends.
 
-"The hand feeds," she said. "This one eats. Just enough. For a very long time."
+"The hand feeds," she said. "This one eats."
 
-Her fingers had gone cold on the paper. She was thinking, against her own instructions, of a grey wall under the archive and a column at its right-hand edge with nothing in its location field. No house. No floor. She looked at the receiving lists in Nayan's hand, at all the places the dressings and the bearings didn't arrive, and she set the old Drona page back down exactly where it had been, square to its neighbors, and said nothing at all.
+Her fingers had gone cold on the paper. She was thinking, though she could never say it here, of a grey wall under the archive and a column at its right-hand edge with nothing in its location field. No house. No floor. She looked at the receiving lists in Nayan's hand, at all the places the dressings and the bearings didn't arrive, and she set the old Drona page back down exactly where it had been, square to its neighbors, and said nothing at all.
 
 Something that wasn't a house had been fed by all four of them for longer than anyone had been copying it. That was all she knew. She put her hands flat on her thighs to stop them looking for a pencil.
 
@@ -138,7 +138,7 @@ Rohan went to the slot beside the frame and drew out a slip of paper, folded twi
 
 "And the back?" Elara said.
 
-He held it out. The second line was smaller, in the same blunt block letters, pressed in hard enough to dent the paper. *He brought an old file. He holds it. He won't say what is in it.*
+He held it out. The second line was smaller, in the same blunt block letters, pressed in hard enough to dent the paper. *He brought an old file. He keeps it shut on his knee.*
 
 "What file?"
 
@@ -170,7 +170,7 @@ She opened her eyes.
 
 "No."
 
-"Good." She looked at the lamp, not at him. "You have done what I asked of you, and it was the harder thing. Most hunters cannot leave a trail lying in the road."
+"Good." She looked at the lamp, not at him. "You have done what I asked of you, and it was the harder thing."
 
 "Whose is it?"
 
@@ -188,7 +188,7 @@ He shifted his weight off the knee, and the rib that had healed a fraction crook
 
 "Yes, Dhammapala."
 
-"A tired door begins to want the axe. It tells itself the breaking would be a rest. Do not let it tell you that. You are not finished being opened and closed."
+"Sleep before you decide anything you have not told me."
 
 Rohan bowed, low, and stayed down until the knee made him come up.
 
