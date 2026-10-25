@@ -42,7 +42,7 @@ Ben's stool creaked. Gage, standing by the shelves with his hands open at his si
 
 "Yes."
 
-"Forty reams of paper. Bearings." She'd read them off his own wall. "Dressings for the medics." "And this." She turned the metal hand over on her knee and looked at him. "Where did this come from?"
+"Forty reams of paper. Bearings." She'd read them off his own wall. "Dressings for the medics. And this." She turned the metal hand over on her knee and looked at him. "Where did this come from?"
 
 "From Drona," Flitzberg said, because she had asked, and he had promised. "The part that listens was built for an instrument the four houses sealed away a century ago. Drona swore it burned the plans. This office copied them first, and Drona's books still show Drona buying the parts for itself." He held her eyes. "I have never told anyone that. No one asked."
 
@@ -218,7 +218,7 @@ A number. Long, with a letter in it. Nothing else.
 
 Nayan was already moving. From under the tin cup she drew a thinner sheaf, and from under that a thinner one still, and laid a sheet beside Kaan's scrap without touching either.
 
-Chanakya's records archive. Custody. File numbers, and beside each a name: *released to*, *returned*.
+Chanakya's records archive. Custody. File numbers, and beside each a name: *released to*, *return*.
 
 Near the bottom, the same number. Beside it: *Source folio. One night. Author's custody. Ravi.* A date, the morning of the fourth. The return column beside it was empty.
 
