@@ -12,7 +12,7 @@ Under all of it ran the other document, the one he'd closed in Room Four in a bo
 
 He had been carrying two lies for a week. He had become, he thought, almost good at it.
 
-That morning the policy corridor was choked with binder trolleys. A porter had one wedged across the cloakroom doorway and held the door open with his heel while Ravi edged past. He put the day's retrieval binder into Ravi's arms without being asked, the way porters did, and was already turning the trolley by the time Ravi said thank you.
+That morning the policy corridor was choked with binder trolleys. A porter had one wedged across the cloakroom doorway and held the door open with his heel while Ravi edged past. He put the day's retrieval binder into Ravi's arms without being asked, the way porters did, one hand flat against his chest for a moment to steady it, and was already turning the trolley by the time Ravi said thank you.
 
 The cloakroom was the one place in Chanakya no instrument watched. A row of wooden lockers older than the consoles, a bench with one short leg, a mirror no one had cleaned in a decade, with a thumbprint at chin height that had been there since his first week. Wrist terminals stayed on in there; there was nothing to point them at. Ravi set the binder on the bench, hung his coat on the hook he had used for three years, and slid two fingers into the breast pocket behind the pens.
 
@@ -42,7 +42,7 @@ Who could he tell? The house believed he had written nine pages he hadn't writte
 
 He had a master who could reach him anywhere. He couldn't reach it at all.
 
-He'd thought that was what made him safe: the thing in the dark was strong, and he was its instrument, and instruments were kept. On a bench with a short leg and two slips of paper in his coat, he saw that he'd had it backwards. An instrument that could not call for help was not protected. It was simply alone, with everyone's hands on it.
+He'd thought that was what made him safe: the thing in the dark was strong, and he was its instrument, and instruments were kept. On a bench with a short leg and two slips of paper in his coat, he saw that he'd had it backwards. An instrument that could not call for help was not protected. It was just held.
 
 He put the slips back behind the pens, his on top. He picked up the binder. At his desk he read a file from beginning to end and couldn't have said afterward what it was about. By the time he stamped it he had decided two things. He would go to Room Four. And he would not go with empty hands.
 
@@ -54,7 +54,7 @@ Two nights of paper covered the dead-room table. None of it came from the grey w
 
 "Fourth level," he said. "More than anywhere else. But a floor isn't a room."
 
-"The room we'll never find on paper. A room that tells every instrument near it to forget hasn't got an address. It's a hole in the plan the shape of a door." She set her finger on the fourth-level corridor, on the row of service panels. Neither of them looked at the third one. "But the hand isn't a hole. It walks into the hole every night and out again every morning, and between the lift and the hole there are nine doors. It passes every one. We don't need to find the room. We need to stand in one of the doorways."
+"The room we'll never find on paper. A room that tells every instrument near it to forget hasn't got an address. It's a hole in the plan the shape of a door." She set her finger on the fourth-level corridor, on the row of service panels. Neither of them looked at the third one. "But the hand isn't a hole. It walks into the hole every night and out again every morning, and it walks every stride of this corridor to get there. We don't need to find the room. We need to stand beside its path."
 
 "Then we stand in the corridor."
 
@@ -120,7 +120,7 @@ The hall made a low sound, the sound of a room deciding to agree. It was better 
 
 One councilwoman asked, mildly, whether the house had considered the cost over ten cycles. The first councilman had. He read her Ashoka's own charter line, *a guardian within reach of every citizen*, and asked whether she proposed that Kubera go on funding the promise at a fraction. She didn't. Her question went into the record as a question, and nothing else.
 
-That question had been Ravi's. He'd seen it coming in Room Four, days before she thought of it, and closed it with Ashoka's own words, so the only answer left to her was the one she gave. Daren had chosen his man well. He allowed himself that much.
+That question had been Ravi's. He'd seen it coming in Room Four, days before she thought of it, and closed it with Ashoka's own words, so the only answer left to her was the one she gave. Daren had chosen his man well.
 
 The confirmation was received and entered and passed on to the next item, and Daren felt it go the way he'd felt the Annex go: a line moving from one column to another, clean, with nothing left over. Every promise that had slept in Ashoka's charter for a century was a funded duty now, read aloud on a public floor by two sincere men with the whole council watching. No one would ever be able to say who had opened the gate.
 
@@ -144,17 +144,17 @@ He went down to the Skylark. His hand lay still at his side the whole way. He ma
 
 ---
 
-They came up the service stair an hour early with their terminals on, two lawful names on a lawful walk-through. The gates accepted Rohan's credentials under his mandate-review posting and Elara's under the Ancient One's code, and wrote them both down.
+They came up the service stair an hour early with their terminals on, two lawful names on a lawful walk-through. The gates accepted Rohan's credentials under his mandate-review posting and Elara's under her review code, and wrote them both down.
 
-The recess was where the corridor turned toward the lift, a bay meant for a cart that no longer existed. Rohan had chosen it in daylight for what it lacked. No panel within four strides. No sensor housing overhead; Elara had read the maintenance plan herself. A man walking from the lift would pass it before his eyes adjusted to the half-light. A man walking the other way would have his back to it.
+The recess was where the corridor turned toward the lift, a bay meant for a cart that no longer existed. Rohan had chosen it in daylight for what it lacked. No panel within four strides. No sensor housing overhead; Elara had read the maintenance plan herself. A man walking from the lift would pass it before his eyes adjusted to the half-light. A man walking the other way would have his back to it. And a terminal switched off here would go dark at its last gate, an hour early and nowhere near that door.
 
 There, they unclasped their terminals.
 
-Elara had taken hers off before, to wash, to sleep, in the dead room's locker. She had never once walked out of a door without it. Not since a Drona clerk had fastened the first one on a child's arm and told her it would keep her safe. The band had been changed a dozen times since, for size and then for age, and the child's wrist had grown into a woman's. The skin underneath was pale and faintly ridged where the clasp sat. She switched the terminal off and put it in her coat pocket.
+Elara had taken hers off before, to wash, to sleep, in the dead room's locker. She had never once walked out of a door without it. Not since a Drona clerk had fastened the first one on a child's arm and told her it would keep her safe. The strap had been changed a dozen times since, for size and then for age, and the child's wrist had grown into a woman's. The skin underneath was pale and faintly ridged where the clasp sat. She switched the terminal off and put it in her coat pocket.
 
 Rohan did the same. The quiet came at once.
 
-It was their own quiet. She'd had twelve seconds of it in a doorway every morning, awake, and never more. So much of her attention had lived in the small weight on her wrist: the pulses she didn't notice noticing, the faint warmth when a message landed, the sense, steady as breathing, of being inside a conversation with the city. The city had stopped talking to her. She stood in the recess with one other person, and that was all.
+It was their own quiet. She'd had it behind the dead room's steel, and for twelve seconds in a doorway every morning. She had never had it in the open. So much of her attention had lived in the small weight on her wrist: the pulses she didn't notice noticing, the faint warmth when a message landed, the sense, steady as breathing, of being inside a conversation with the city. The city had stopped talking to her. She stood in the recess with one other person, and that was all.
 
 "It feels like going deaf," she said.
 
@@ -196,7 +196,7 @@ The opening door threw its light sideways across him, and she saw the side of hi
 
 She knew it.
 
-She had sat across the grid from that face for three days, close enough to hear him hum the same four notes until she wanted to throw her stylus across the console. He'd tapped his pen twice on the console's edge before every entry, like a man counting coins into a till. Daren. Kubera's monitor, who'd read three boys as rounding errors.
+She had sat across the grid from that face for three days, close enough to hear him hum the same four notes until she wanted to throw her stylus across the console. He'd tapped his pen twice on the console's edge before every entry. Daren. Kubera's monitor, who'd read three boys as rounding errors.
 
 And here he was, walking home to a room no record admitted.
 
@@ -224,10 +224,10 @@ He turned his head. He'd sat in that watch too, at CORRECTION, a station round f
 
 "Then find me another road." He was still looking at the door. "He lives here."
 
-She already knew where it ran. Every cycle, Drona gave the other houses' monitors borrowed rooms in this tower for the Initiation watch, and every borrowed room went into the tower's guest registers, on paper, in a clerk's hand, weeks before anything in the city had learned to forget him. A Drona reviewer could read them lawfully any morning she liked. She would be at the register desk when it opened.
+She already knew where it ran. Every cycle, Drona gave the other houses' monitors borrowed rooms in this tower for the Initiation watch, and every borrowed room went into the tower's guest registers, on paper, in a clerk's hand, weeks before anything in the city had learned to forget him. A Drona reviewer could read them lawfully any morning she liked. The register would show which borrowed room on the fourth level had gone to Kubera's monitor, and whether anyone had ever handed back the key. She would be at the register desk when it opened.
 
-They went back by the service stair. At the stair head Rohan's eyes went up once and came down again. A ceiling reader there had pulsed amber, twice, at two people it couldn't name. Elara was counting steps in the dark and didn't see it, and he didn't say.
+They went back by the service stair. At the stair head Rohan's eyes went up once and came down again. Elara was counting steps in the dark and didn't follow them, and he didn't say why.
 
 At the stair's foot, before the first gate, they switched their terminals on and fastened them back to their wrists.
 
-Elara's woke with a dozen small pulses, the city resuming its conversation where it had left off. She didn't read any of them. She stood at the gate with her thumb on the clasp, feeling it settle against the pale strip of skin, and held on to what she'd brought out of the corridor. It was less than she had wanted. It was more than anyone in the city had had in a hundred years. A door, an hour, and a name she couldn't yet use.
+Elara's woke with a dozen small pulses, the city resuming its conversation where it had left off. She didn't read any of them. She stood at the gate with her thumb on the clasp, feeling it settle against the pale strip of skin, and held on to what she'd brought out of the corridor. A door, an hour, and a name she couldn't yet use.
