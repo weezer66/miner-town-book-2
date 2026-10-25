@@ -10,7 +10,7 @@ Nothing in Chanakya had been quiet since the Annex. Surveyors measured the archi
 
 Under all of it ran the other document, the one he'd closed in Room Four in a booking he hadn't made. Tomorrow, inside the ten days he had written into it himself, Ashoka would confirm its first postings to Kubera's council. Two councilmen's names would be on the record. His wouldn't.
 
-He had been carrying two lies for a week. He had become, he thought, almost good at it.
+He had been carrying two lies for a week.
 
 That morning the policy corridor was choked with binder trolleys. A porter had one wedged across the cloakroom doorway and held the door open with his heel while Ravi edged past. He put the day's retrieval binder into Ravi's arms without being asked, the way porters did, one hand flat against his chest for a moment to steady it, and was already turning the trolley by the time Ravi said thank you.
 
@@ -54,7 +54,7 @@ Two nights of paper covered the dead-room table. None of it came from the grey w
 
 "Fourth level," he said. "More than anywhere else. But a floor isn't a room."
 
-"The room we'll never find on paper. A room that tells every instrument near it to forget hasn't got an address. It's a hole in the plan the shape of a door." She set her finger on the fourth-level corridor, on the row of service panels. Neither of them looked at the third one. "But the hand isn't a hole. It walks into the hole every night and out again every morning, and it walks every stride of this corridor to get there. We don't need to find the room. We need to stand beside its path."
+"The room's on every plan and in no log. Neither will tell us which door it is." She set her finger on the fourth-level corridor, on the row of service panels. Neither of them looked at the third one. "But the hand isn't a room. It walks into that room every night and out again every morning, and it walks every stride of this corridor to get there. We don't need to find the room. We need to stand beside its path."
 
 "Then we stand in the corridor."
 
@@ -62,7 +62,7 @@ Two nights of paper covered the dead-room table. None of it came from the grey w
 
 Rohan's eyes went past her to the steel locker by the door, where their two terminals lay in their slots.
 
-"Baju had none," Elara said. "That's the only reason he saw it. The band doesn't hide whoever wears it. It answers every instrument nearby and tells each one there's nothing worth a second look, and the instrument tells its owner, and the owner looks away without knowing he was told to. People see the hand. They don't keep it." She turned her own wrist up, the pale strip where the strap usually lay. "And a terminal answers every instrument it passes. Wear them into the corridor, and the tower's sensors hold our two names at the hand's hour, standing beside its door. The gates downstairs can have us. A walk-through an hour early is paper. Two names beside that door at its hour is a question. It reads records. Everything it's done, it's done inside them. Bare, we're two people with eyes. That's all we are."
+"Baju had none," Elara said. "That's why he saw it." She turned her own wrist up, the pale strip where the strap usually lay. "The gates downstairs can have our names; a walk-through an hour early is paper. But wear them into that corridor and the tower writes us beside its door at its hour, and it reads records. Bare, we're two people with eyes."
 
 "Bare, we're also deaf and mute." He said it to the drawing, not to her. "No signal in. No signal out. If one of us goes down, the other can't call. And every sensor in that tower will ask who we are and get no answer. Two people it can't name, in a service corridor, at night. Nothing in this city stays unnamed for long. Someone will be sent to find out why."
 
@@ -168,7 +168,7 @@ She had stood watch before. Every monitor had, through long cycles with nothing 
 
 And Rohan breathing.
 
-It was an ordinary sound, a little uneven on the in-breath, the way a man breathes when a rib broke once and healed a fraction crooked. She had never understood how loud a body was. There had always been a terminal talking over it.
+An ordinary sound, uneven on the in-breath, a rib broken once and healed crooked. She had never understood how loud a body was. There had always been a terminal talking over it.
 
 The archive had said the hour. The hour came.
 
@@ -188,15 +188,17 @@ The light came from above and behind him, from the lift, and it gave her the sha
 
 He passed the recess without turning his head.
 
-Two strides on, his right hand closed. Down the row, the third panel's green light went amber, once. Elara stopped breathing. The hand opened again, one finger at a time, and the light went green, and he walked on.
+Abreast of the third panel, his right hand closed. Its green light went amber, once. Elara stopped breathing. The hand opened again, one finger at a time, and the light went green, and he walked on.
 
-Four strides more, at a door marked on every floor plan and absent from every access log, he stopped. The door opened before his hand had risen toward it, and the sensor above it, which Elara watched with her own bare eyes, did nothing at all.
+A few strides more, at a door marked on every floor plan and absent from every access log, he stopped. The door opened before his hand had risen toward it, and the sensor above it, which Elara watched with her own bare eyes, did nothing at all.
 
 The opening door threw its light sideways across him, and she saw the side of his face.
 
 She knew it.
 
 She had sat across the grid from that face for three days, close enough to hear him hum the same four notes until she wanted to throw her stylus across the console. He'd tapped his pen twice on the console's edge before every entry. Daren. Kubera's monitor, who'd read three boys as rounding errors.
+
+Kubera had struck his name from its rolls, and the city had moved on. She had moved on. He had walked out with nothing, and somewhere between there and here he had learned to kill a man by being afraid of him.
 
 And here he was, walking home to a room no record admitted.
 
