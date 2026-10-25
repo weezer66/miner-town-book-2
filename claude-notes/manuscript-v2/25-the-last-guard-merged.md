@@ -6,13 +6,13 @@
 
 ## Now: The last guard
 
-Ben had come home from the city with graphite ground into both knees and a message, delivered from the end of Otto's bed like a boy reading off a ration slip. He'd told the commander up there the old man's name, Chan, and the rest: a back-row shed, the breath, a butterfly nobody could explain. The commander hadn't said anything for so long that Ben had started counting the lamps. Then he'd asked if he could meet Otto.
+Ben had come home from the city with graphite ground into both knees and a message, delivered from the end of Otto's bed without once looking up. He'd told the commander up there the old man's name, Chan, and the rest: a back-row shed, the breath, a butterfly nobody could explain. The commander hadn't said anything for so long that Ben had started counting the lamps. Then he'd asked if he could meet Otto.
 
 Flitzberg allowed it once. He said so at the foot of the bed with his hands folded: the same cover as Ben, the same wrist, home before the lamps came up. The grey-haired medic said that a body nine days out of the tank was not a body that climbed stairs.
 
 "It's the only one I've got," Otto said.
 
-Gage said nothing. He'd said nothing about it for a whole day, which was how Gage argued.
+Gage said nothing. He'd said nothing about it all afternoon, right through the last rehearsal, which was how Gage argued.
 
 ---
 
@@ -72,7 +72,7 @@ He didn't stand. Otto hadn't expected him to. He was older than the shed, and cl
 
 The old man looked at him.
 
-He started at the feet, then the knees, then the hands, without hurry, a man reading a gauge he didn't trust. The old man in the shed had looked at him like that the day he'd limped in with five stitches in his scalp, past the boy to whatever lay underneath, in case there was a floor down there worth standing on.
+He started at the feet, then the knees, then the hands, without hurry. The old man in the shed had looked at him like that the day he'd limped in with five stitches in his scalp, past the boy to whatever lay underneath, in case there was a floor down there worth standing on.
 
 "Master Vayun," Rohan said. "This is Otto."
 
@@ -118,11 +118,17 @@ The old man looked at the toe for a long time.
 
 Otto stood up. His legs hadn't been asked whether they wanted to, and they let him know, but he stayed on his feet.
 
-"After the six days," Vayun said, "this house kept a post at the boundary."
+"After the six days of the rebuilding," Vayun said, "this house kept a post at the boundary."
 
 "What boundary?"
 
-"The one above the sealed place below. A small post. Six guards. In lean years, four." He turned his cup a quarter turn on the saucer, through the spilled tea. "They watched."
+"The one above the sealed place below. A small post. Six guards. In lean years, four."
+
+*The Clean World*, Otto thought. Under the Junkyard, the old men used to say. He'd thought it was a story for children. He didn't say it.
+
+"What's sealed?"
+
+"That is not mine to tell." He turned his cup a quarter turn on the saucer, through the spilled tea. "They watched."
 
 "Watched it do what?"
 
@@ -130,21 +136,27 @@ Otto stood up. His legs hadn't been asked whether they wanted to, and they let h
 
 "I believe you."
 
-"They named it for the war that made our founder lay the sword flat. You will have seen him by the doors, if Rohan brought you the long way."
+"The post was named for the war that made our founder lay the sword flat. You will have seen him by the doors, if Rohan brought you the long way."
 
 "He didn't."
 
 "Then you will see him on the way out." Vayun drank. "Kalinga. The post, not the war. The war has the books. The post had a door and a kettle and a log that no one above it read."
 
-"Years later the house dissolved it," Vayun said. "There was nothing to watch, they said, and a post that watches nothing is a cost. It was taken off the maps. Its guards were called up and given other work." He set the cup down, steadier this time. "The last guard was my student. When the post was struck he came to me and said that a thing sealed is a thing someone must stand outside of, or the seal means nothing. Then he went below, and he did not come up."
+"Years later the house dissolved it," Vayun said. "There was nothing to watch, they said, and a post that watches nothing is a cost. It was taken off the maps. Its guards were called up and given other work." He set the cup down, steadier this time. "The last guard was my student. When the post was struck he came to me and said that a thing sealed is a thing someone must stand outside of, or the seal means nothing. Then he went down through the cloud, and he did not come back up."
 
 "He stayed," Otto said.
 
 "He stayed."
 
-"In a shed. Behind the ration carts. Near the Junkyard." Otto heard his own voice go flat, the voice he used on soft ground. "Everyone thought he was just old."
+Vayun looked at the lamp. "How did he end?"
 
-"He was old. So am I. Age makes a very good disguise." Vayun's eyes moved to the dark beyond the lamp, where there was nothing to see but more mat. "I knew him as Shu. He was nineteen. He fell better than anyone I have taught before or since. He could go down on stone and get up with nothing broken but the stone's pride."
+"He told me I'd picked him. I went home and slept. I went back in the morning and the shed was cold."
+
+Vayun said nothing. His thumb went along the rubbed place on his belt, once, and stopped.
+
+"That was his post," Otto said. "A shed. Behind the ration carts. Near the Junkyard." He heard his own voice go flat, the voice he used on soft ground. "Everyone thought he was just old."
+
+"He was old. So am I." Vayun's eyes moved to the dark beyond the lamp, where there was nothing to see but more mat. "I knew him as Shu. He was the youngest I ever sent to a post. He fell better than anyone I have taught before or since. He could go down on stone and get up with nothing broken but the stone's pride."
 
 "He was seventy-something and he still could." The shed came back, and the alley before the shed. "Four boys put him on the ground once. Behind the carts. I thought they'd hurt him. So I hit one of them with a pipe, and they hurt me instead."
 
@@ -176,7 +188,7 @@ When Vayun opened them, he looked at Otto's wrist.
 
 Otto looked too. Around the strap of the terminal, at the edge of his skin where it met the lamplight, there was the faintest blue. A shimmer, the one he'd watched at an old man's knee. He hadn't called it up. It was there like his pulse was there.
 
-Vayun didn't ask what it was. He didn't say what it was. He looked at it the way Otto had seen old women in Miner Town look at a name on a gate list, a name they had stopped expecting.
+Vayun didn't ask what it was. He didn't say what it was. He looked at it a long time. Then he looked at Otto.
 
 "He gave it to you," he said.
 
@@ -198,17 +210,17 @@ He didn't know how else to put it, and Vayun didn't make him.
 
 "And you fought."
 
-"I fought. One finger." He thought about it. "The hand was mine. So's the rest."
+"I fought. One finger. The hand was mine. So's the rest."
 
 "And?"
 
 "I'm here." He thought about it. "Mostly."
 
-Vayun nodded slowly, a sum come out right.
+Vayun nodded slowly.
 
 "Then he gave you the step he had," he said. "I will give you the next one, because he cannot."
 
-He didn't raise his voice. It came flat and plain, a man naming the parts of a cart.
+He didn't raise his voice. It came flat and plain.
 
 "Force that arrives without anger," Vayun said. "And the stop after the correct action."
 
@@ -220,7 +232,7 @@ He didn't raise his voice. It came flat and plain, a man naming the parts of a c
 
 "Good. He told you what comes before the fist. I am telling you what comes after it." The old man held up one finger, as the other one had in the yard. "After the fight comes the stop. When the threat has ended, you stop, and not one blow after. Most men can learn to fight. Very few can learn to stop. The ones who cannot are afraid of what will happen in the quiet afterward, so they fill it."
 
-Otto thought about the stones, and the floor of the stillness, which he'd found and stood on and not come back from, because of what might be waiting at the top if he let go.
+Otto thought about the blue, and how he'd stayed down in it because he was afraid of what was waiting at the top.
 
 "A man who is not afraid," Vayun said, "gives the other man nothing to read."
 
@@ -228,7 +240,7 @@ Otto thought about the stones, and the floor of the stillness, which he'd found 
 
 "Then you have work to do."
 
-It went into Otto like cold water. He knew that line. He'd been handed that line in a shed that smelled of rust and not-tea, by an old man with a lifted toe, on a night he'd wanted to hit a chair. He'd thought it was Master Chan's own. Master Chan had been handed it too. It had come down a stair and through a door and across a boundary nobody watched anymore, and here was the other end of it, drinking tea on a cushion.
+It went into Otto like cold water. He knew that line. He'd been handed that line in a shed that smelled of rust and not-tea, by an old man with a lifted toe, on a night he'd wanted to hit a chair. He'd thought it was Master Chan's own. Here was the other end of it, drinking tea on a cushion.
 
 Vayun came up slowly, one hand on his knee. He walked onto the mat in his bare feet, no faster than he'd have walked to a window, and stopped in front of Otto at arm's length.
 
