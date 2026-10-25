@@ -14,7 +14,7 @@ He had been carrying two lies for a week. He had become, he thought, almost good
 
 That morning the policy corridor was choked with binder trolleys. A porter had one wedged across the cloakroom doorway and held the door open with his heel while Ravi edged past. He put the day's retrieval binder into Ravi's arms without being asked, the way porters did, and was already turning the trolley by the time Ravi said thank you.
 
-The cloakroom was the one place in Chanakya no instrument watched. A row of wooden lockers older than the consoles, a bench with one short leg, a mirror no one had cleaned in a decade, with a thumbprint at chin height that had been there since his first week. Wrist terminals stayed on in there; there was nothing to point them at. Ravi set the binder on the bench, hung his coat on the hook he had used for three years, and slid two fingers into the breast pocket behind the pens, the way a man touches a wound to be sure it is still closed.
+The cloakroom was the one place in Chanakya no instrument watched. A row of wooden lockers older than the consoles, a bench with one short leg, a mirror no one had cleaned in a decade, with a thumbprint at chin height that had been there since his first week. Wrist terminals stayed on in there; there was nothing to point them at. Ravi set the binder on the bench, hung his coat on the hook he had used for three years, and slid two fingers into the breast pocket behind the pens.
 
 His slip was there. Folded twice, the way he folded it. His own handwriting: the old file number, the one case the records had refused to explain to him.
 
@@ -26,7 +26,7 @@ The same size as his. The same cheap paper the house used for retrieval tags, fo
 
 *Room Four. Two hours.*
 
-Nothing else. No file number; it hadn't needed one. The number was already there in Ravi's own hand, and the writer had only to slide his note beneath it so the two would be read together. A man who copies a thing wants it. A man who leaves it where it is has already got it.
+Nothing else. No file number; it hadn't needed one. The number was already there in Ravi's own hand, and the writer had only to slide his note beneath it so the two would be read together. Whoever it was hadn't needed to copy the number. They'd needed him to know they'd seen it.
 
 Room Four. The twelve characters he'd typed. The two hours the house had logged as a routine review with no discrepancies noted. Nobody had asked him about them. It was a dull line in a dull log, and someone would have to be watching Ravi, and not the log, to think it worth a second look. Or the words meant something plainer. Room Four, two hours after first bell. An appointment.
 
@@ -44,7 +44,7 @@ He had a master who could reach him anywhere. He couldn't reach it at all.
 
 He'd thought that was what made him safe: the thing in the dark was strong, and he was its instrument, and instruments were kept. On a bench with a short leg and two slips of paper in his coat, he saw that he'd had it backwards. An instrument that could not call for help was not protected. It was simply alone, with everyone's hands on it.
 
-He put the slips back behind the pens, his on top. He picked up the binder. At his desk he read a file from beginning to end and couldn't have said afterward what it was about, and at the end of the day he stamped it, as he always did.
+He put the slips back behind the pens, his on top. He picked up the binder. At his desk he read a file from beginning to end and couldn't have said afterward what it was about. By the time he stamped it he had decided two things. He would go to Room Four. And he would not go with empty hands.
 
 ---
 
@@ -62,7 +62,7 @@ Two nights of paper covered the dead-room table. None of it came from the grey w
 
 Rohan's eyes went past her to the steel locker by the door, where their two terminals lay in their slots.
 
-"Baju had none," Elara said. "That's the only reason he saw it. The band doesn't hide whoever wears it. It answers every instrument nearby and tells each one there's nothing worth a second look, and the instrument tells its owner, and the owner looks away without knowing he was told to. People see the hand. They don't keep it." She turned her own wrist up, the pale strip where the strap usually lay. "And a terminal answers every gate it passes. Wear them in, and Drona's logs hold our two names at the hand's hour in the hand's corridor, for anyone who reads logs. It reads records. Everything it's done, it's done inside them. Bare, we're two people with eyes. That's all we are."
+"Baju had none," Elara said. "That's the only reason he saw it. The band doesn't hide whoever wears it. It answers every instrument nearby and tells each one there's nothing worth a second look, and the instrument tells its owner, and the owner looks away without knowing he was told to. People see the hand. They don't keep it." She turned her own wrist up, the pale strip where the strap usually lay. "And a terminal answers every instrument it passes. Wear them into the corridor, and the tower's sensors hold our two names at the hand's hour, standing beside its door. The gates downstairs can have us. A walk-through an hour early is paper. Two names beside that door at its hour is a question. It reads records. Everything it's done, it's done inside them. Bare, we're two people with eyes. That's all we are."
 
 "Bare, we're also deaf and mute." He said it to the drawing, not to her. "No signal in. No signal out. If one of us goes down, the other can't call. And every sensor in that tower will ask who we are and get no answer. Two people it can't name, in a service corridor, at night. Nothing in this city stays unnamed for long. Someone will be sent to find out why."
 
@@ -120,7 +120,7 @@ The hall made a low sound, the sound of a room deciding to agree. It was better 
 
 One councilwoman asked, mildly, whether the house had considered the cost over ten cycles. The first councilman had. He read her Ashoka's own charter line, *a guardian within reach of every citizen*, and asked whether she proposed that Kubera go on funding the promise at a fraction. She didn't. Her question went into the record as a question, and nothing else.
 
-That one had been the analyst's. He'd seen it coming in Room Four, weeks before she thought of it, and closed it with Ashoka's own words, so the only answer left to her was the one she gave. Daren had chosen his man well. He allowed himself that much.
+That question had been Ravi's. He'd seen it coming in Room Four, days before she thought of it, and closed it with Ashoka's own words, so the only answer left to her was the one she gave. Daren had chosen his man well. He allowed himself that much.
 
 The confirmation was received and entered and passed on to the next item, and Daren felt it go the way he'd felt the Annex go: a line moving from one column to another, clean, with nothing left over. Every promise that had slept in Ashoka's charter for a century was a funded duty now, read aloud on a public floor by two sincere men with the whole council watching. No one would ever be able to say who had opened the gate.
 
@@ -138,7 +138,7 @@ Then he was gone, into the hall, into the rings and the seals and the bowing att
 
 Daren stood alone under a lamp that buzzed faintly at the end of every third breath. The thing he was carrying couldn't be put down. The man who had just told him to put it down was the man who had fastened it on.
 
-So the Grandmaster didn't know what it cost to wear. He had given the band and never asked. He could price every project the city undertook, down to the rivets, and he had never once asked what the band was costing Daren. Daren had no words for it anyway.
+The Grandmaster could price every project in the city down to the rivet. He had never asked what the band cost the man who wore it. Daren had no words for it anyway.
 
 He went down to the Skylark. His hand lay still at his side the whole way. He made it lie still. It was the only thing he still did himself.
 
@@ -184,9 +184,13 @@ Beside her Rohan had gone completely still, the stillness she'd seen in him once
 
 Ten strides. Eight.
 
-The light came from above and behind him, from the lift, and it gave her the shape of him and kept his face. A collar turned up against nothing. Head down, from tiredness more than stealth, the way a man walks home when there is no one at home to walk toward. The right hand, held so still that the stillness was a kind of movement.
+The light came from above and behind him, from the lift, and it gave her the shape of him and kept his face. A collar turned up against nothing. Head down, from tiredness more than stealth. The right hand, held so still that the stillness was a kind of movement.
 
-He passed the recess without turning his head. Six strides past them, at a door marked on every floor plan and absent from every access log, he stopped. His fingers tightened once against his coat. The door opened before his hand had risen toward it, and the sensor above it, which Elara watched with her own bare eyes, did nothing at all.
+He passed the recess without turning his head.
+
+Two strides on, his right hand closed. Down the row, the third panel's green light went amber, once. Elara stopped breathing. The hand opened again, one finger at a time, and the light went green, and he walked on.
+
+Four strides more, at a door marked on every floor plan and absent from every access log, he stopped. The door opened before his hand had risen toward it, and the sensor above it, which Elara watched with her own bare eyes, did nothing at all.
 
 The opening door threw its light sideways across him, and she saw the side of his face.
 
@@ -220,7 +224,7 @@ He turned his head. He'd sat in that watch too, at CORRECTION, a station round f
 
 "Then find me another road." He was still looking at the door. "He lives here."
 
-She already knew where it ran. Every cycle, Drona gave the other houses' monitors borrowed rooms in this tower for the Initiation watch, and every borrowed room went into the tower's guest registers, on paper, in a clerk's hand, where a Drona reviewer could read them lawfully any morning she liked. She would be at the register desk when it opened.
+She already knew where it ran. Every cycle, Drona gave the other houses' monitors borrowed rooms in this tower for the Initiation watch, and every borrowed room went into the tower's guest registers, on paper, in a clerk's hand, weeks before anything in the city had learned to forget him. A Drona reviewer could read them lawfully any morning she liked. She would be at the register desk when it opened.
 
 They went back by the service stair. At the stair head Rohan's eyes went up once and came down again. A ceiling reader there had pulsed amber, twice, at two people it couldn't name. Elara was counting steps in the dark and didn't see it, and he didn't say.
 
