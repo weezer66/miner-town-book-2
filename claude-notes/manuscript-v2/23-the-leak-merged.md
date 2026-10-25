@@ -6,6 +6,32 @@
 
 ## Then and now: The leak
 
+The morning after Room Four had stood empty, Ravi went back at the same hour with the folio inside his coat.
+
+This time the chair facing the door was taken.
+
+A porter. Grey sleeves, a nick white through one eyebrow, a face that gave nothing to remember. The trolley he'd been pushing waited out in the corridor with its brake on. He didn't get up. He looked at the flat shape under the left side of Ravi's coat, and then at the other chair.
+
+Ravi sat. He took the folio out and laid it on his knee, closed, and kept his hand flat on the card.
+
+He'd walked three ways into this conversation in the dark, each with a door out of it. None of them started here, across a bare table from a man who hadn't asked him anything.
+
+"You put the slip in my coat," he said. "And the binder in my arms."
+
+The porter didn't answer. Ravi had sat across from Chanakya's best questioners for three years, and every one of them had, at some point, leaned forward. This man didn't. Ravi heard himself start to fill the silence, and stopped, and it was the stopping the porter seemed to listen to.
+
+"I'm not opening it," Ravi said.
+
+The porter's eyes went to the folio and came back. He didn't ask what was in it.
+
+"When you do," he said, "open it for someone who will read it aloud."
+
+It was the only thing he said. His voice was ordinary and a little hoarse, a voice nobody would have looked up for in a canteen queue.
+
+They sat a while longer. Then the porter stood, crossed to the door, and held it with his heel. He didn't offer his hand. Ravi went out past him with the folio back inside his coat, still shut, and behind him the wired glass laid its diamonds over an empty chair.
+
+---
+
 The second evening after the register, Rohan said nothing on the stairs. Elara counted the flights instead, three of them, down into Ashoka's old stone, and at the bottom he stopped with his hand on the dead-room door and didn't open it.
 
 "Someone's inside," he said. "I asked her to be."
