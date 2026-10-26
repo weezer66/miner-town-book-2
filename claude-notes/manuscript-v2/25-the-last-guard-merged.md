@@ -62,8 +62,6 @@ Rohan stepped round the rack without looking at it.
 
 "A board." Rohan's thumb went to the glued knuckle. "It'll come back."
 
-He said it like Gage said things he meant to make true by hand.
-
 Otto smelled the tea before he saw the man. Something that wasn't tea: wet iron and a green thing dried too long, and under it a sweetness that stayed on the back of the tongue. He knew it as his hand knew the cup it came in, with a skin across the top you had to break with your lip.
 
 The lamp at the far end sat beside a cushion, and on the cushion sat an old man drinking tea.
@@ -98,7 +96,7 @@ He felt it go. Up off the mat, a hair's width, and stay up, as if something unde
 
 He'd known someone else did.
 
-Across the lamp, the old man set his cup down on its saucer. It didn't go down clean. It chattered against the rim, twice, and a little tea went over the edge and darkened the ivory at his wrist, and he left his hand on the cup after it was down, and the hand still wasn't steady.
+Across the lamp, the old man set his cup down on its saucer. It didn't go down clean. It chattered against the rim, twice, and a little tea went over the edge and darkened the cuff at his wrist, and he left his hand on the cup after it was down, and the hand still wasn't steady.
 
 ---
 
@@ -170,11 +168,15 @@ Vayun's face did a thing Otto didn't have a word for. It folded, and then it smo
 
 Otto stood there with that.
 
-He'd been six, small and stupid and holding a pipe, and he'd thought the whole of it was his idea. *You picked me.* He'd always heard it as a kindness. It had been a kindness and a report both, filed by a guard waiting at his post for someone to come up the road.
+He'd been six, small and stupid and holding a pipe, and he'd thought the whole of it was his idea. *You picked me.* He'd always heard it as a kindness.
+
+"He let me bleed for it," Otto said.
+
+Vayun didn't argue.
 
 "Then he was still on watch," Otto said.
 
-"He was always going to be on watch. It was the only thing he was ever bad at stopping."
+"He was always going to be on watch."
 
 "His hand," Otto said. "The right one. He told me it locked once. Closed up like a root."
 
@@ -182,7 +184,7 @@ He'd been six, small and stupid and holding a pipe, and he'd thought the whole o
 
 "Eventually. He said he opened it in his head first. One hour at a time, till the hand believed him." Otto's throat had gone tight, and he swallowed round it. "Took him a while."
 
-The old man closed his eyes. He kept them closed long enough that Rohan shifted at the edge of the mat, and the rib caught again.
+The old man closed his eyes. He kept them closed long enough that Rohan shifted at the edge of the mat.
 
 When Vayun opened them, he looked at Otto's wrist.
 
@@ -194,15 +196,15 @@ Vayun didn't ask what it was. He didn't say what it was. He looked at it a long 
 
 That was all he said about it.
 
-At the edge of the mat, Rohan had come a step forward without seeming to notice. He stood with his split knuckle white, looking from the old man to the miner boy and back, putting it together piece by piece on a table in his head.
+At the edge of the mat, Rohan had come a step forward without seeming to notice. He stood with his split knuckle white, looking from the old man to the miner boy and back. He did not ask. That was worse.
 
 "We teach the forms in every hall in this house, every morning," Rohan said. "The house thinks the breath ended."
 
-"The house," said Vayun, "is often wrong about endings."
+Vayun looked at the blue at Otto's wrist and didn't answer.
 
 ---
 
-"He came to me," Otto said. "In the blue. In the tank."
+"He came to me," Otto said. "In the blue." He heard the next word coming, the one that would give an Ashoka master the tank, and bit it off.
 
 He didn't know how else to put it, and Vayun didn't make him.
 
