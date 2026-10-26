@@ -230,7 +230,7 @@ Daren had turned from the table. His bare arm came up, and he pointed with it, a
 
 "There," he said. "The ridge. A finger above where the gold sits. That's where the obsidian sits." His voice was very even now, the voice from his old console, figures read off a sheet. "He told me the night he gave it to me. It is cold the first night. He knew because he'd lain awake under it. He knew what it fires on. He gave it to me anyway."
 
-Every eye in the room went to the old man's wrist. He didn't cover it. He didn't move his hand at all. The pale band lay across the spotted skin in the lamplight, with its small old ridge on the inner edge, faded almost to nothing and still there.
+Every eye in the room went to the old man's wrist. He didn't cover it. He didn't move his hand at all. The pale bands lay across the spotted skin in the lamplight, the higher one with its small old ridge on the inner edge, faded almost to nothing and still there.
 
 The Arthashastri sat down, slowly, his knees deciding for him.
 
