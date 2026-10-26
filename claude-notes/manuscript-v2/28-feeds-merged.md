@@ -106,7 +106,7 @@ The four Grandmasters sat at the round table in the room she'd never been in. Fl
 
 "Closed."
 
-On the screen below the table room, a corridor outside it. Otto had been standing in that corridor since before the shift change, where he'd said he'd be, with his back to the wall and his hands loose at his sides, so still that twice she'd thought the screen had frozen. Now he turned his head. Nothing in the corridor had made a sound; the ring's ears logged nothing. He turned his head toward the old route anyway, and then he opened the table-room door beside him and went in, unhurried, setting his feet down as he did on soft ground.
+On the screen below the table room, a corridor outside it. Otto had been standing in that corridor since before the shift change, where he'd said he'd be, with his back to the wall and his hands loose at his sides, so still that twice she'd thought the screen had frozen. His head was still turned along the curve. Nothing in the corridor had made a sound; the ring's ears logged nothing. He kept looking toward the old route anyway, and then he opened the table-room door beside him and went in, unhurried, setting his feet down as he did on soft ground.
 
 Two screens. One voice.
 

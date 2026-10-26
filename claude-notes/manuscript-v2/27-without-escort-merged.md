@@ -24,7 +24,7 @@ He struck again. The needle jumped again, the same stroke, the same length. Behi
 
 The engineer didn't look up. He waited. On the fourth it jumped.
 
-Sometimes. It heard rock sometimes. Three times in four. Pappy's gauges had taught her that a needle you couldn't trust every time was a needle you couldn't use, and she'd known it all week. She laid the plate in the box on its bed of rag, buckled the strap, and said nothing, because nothing true about it would help.
+Sometimes. It heard rock sometimes. Three times in four. Pappy's gauges had taught her that a needle you couldn't trust every time was a needle you couldn't use, and she'd known it all week. She laid the plate in the box on its bed of rag, buckled the strap, and said nothing.
 
 The control room was the screen room grown up. Someone had knocked through into the room next door, and now the grey pictures went round two walls, with six desks under them and six people at the desks. She knew most of them by their hands. The man with the headset had a fresh tin of crackers at his elbow, and he hadn't opened it.
 
@@ -64,7 +64,7 @@ Nobody said anything. Somebody's chair stopped creaking.
 
 "I don't know." He said it plainly, the same voice he'd used to tell her the arm looked heavy. "Something under the floor's been pulling at my toe all day. It pulls that way. I've stopped arguing with it."
 
-The medic opened her mouth, and closed it. Camilla looked at Otto standing in the doorway with his arms loose at his sides. She'd seen men argue with Gage and lose. Nobody in the room argued with this. There was nothing in it to push on.
+The medic opened her mouth, and closed it. Camilla looked at Otto standing in the doorway with his arms loose at his sides. She'd seen men argue with Gage and lose. Nobody in the room argued with this.
 
 "Corridor outside," the medic said at last. "A chair. You will sit in it."
 
@@ -86,7 +86,7 @@ The metal fingers began to close on it. They came a beat behind her, as they alw
 
 He watched them stop. Then his hand closed over hers, the whole of it, splinter and fingers and all, and held on.
 
-Neither of them said who'd be in the tunnel the water wanted first. He'd known since before the briefing, lying awake counting props. It sat between their two hands and neither of them put a word on it.
+Neither of them said that he would be in the tunnel when the water came. He'd known since the briefing, lying awake counting props. It sat between their two hands and neither of them put a word on it.
 
 "Clean," he said. "Like the fourth run."
 
@@ -114,7 +114,7 @@ Rohan was waiting on the archive steps at the evening bell, in the red-black wit
 
 "I know."
 
-"She told me at the door of her rooms. I had my coat on." He looked down at his right hand. There was fresh glue on the knuckle, still shining. "*Without escort, Commander. It is the one rule of that room, and I will not be the Grandmaster who breaks it.*" He said it in the Dhammapala's voice, low and even, without mockery. "Then she shut the door."
+"She told me at the door of her rooms. I had my coat on." He looked down at his right hand. There was fresh glue on the knuckle, still shining. Then, in the Dhammapala's voice, low and even, without mockery: "*Without escort, Commander. It is the one rule of that room, and I will not be the Grandmaster who breaks it.*" And in his own: "She shut the door."
 
 "She's right."
 
@@ -128,7 +128,7 @@ She waited.
 
 "I won't use it," Rohan said. "Not unless the night breaks."
 
-She looked at the glue on his knuckle, and at his left knee, the fatigues paler there than on the right, where he'd been kneeling on stone every night for a week. She didn't believe him. She didn't tell him so. If she argued, he'd have to promise, and then he'd have to break it, and she'd rather he only had to break the first thing.
+She looked at the glue on his knuckle, and at his left knee, the fatigues paler there than on the right, where he'd been kneeling on stone every night for a week. She didn't believe him. She didn't tell him so.
 
 "Go home," she said.
 
@@ -148,11 +148,13 @@ It stood in a low tunnel past the door, windowless, the dull grey of a ladle. Th
 
 "She is not an escort," the Ancient One said, without opening her eyes. "She is a witness. She will not be in the room."
 
-The driver said nothing. The car moved.
+Elara thought of Rohan on the archive steps with his coat on, and said nothing.
+
+The driver didn't answer. The car moved.
 
 It went, and turned, and sometimes went down; she knew that only by the pressure in her ears. She counted her own pulse because there was nothing else to count. Four hundred and twelve, and the car stopped. A door opened onto a lift.
 
-The lift had no floors marked. A brass plate where the numbers should have been, polished smooth by a century of nobody touching it. It went down long enough that Elara's pulse ran out of meaning and she stopped counting. Her ears popped. The air coming in round the door changed. Warmer. Machine oil, and under it something she couldn't place at first and then could: bread. Somewhere down here someone was baking bread.
+The lift had no floors marked. A brass plate where the numbers should have been, gone dull, with nothing on it. It went down long enough that Elara's pulse ran out of meaning and she stopped counting. Her ears popped. The air coming in round the door changed. Warmer. Machine oil, and under it something she couldn't place at first and then could: bread. Somewhere down here someone was baking bread.
 
 She thought of the map on the Ancient One's table, held flat by four stones. Every street drawn to the edge, and then the pen lifted. She was under the edge now. She was in the blank.
 
@@ -224,7 +226,7 @@ At the bottom of the last stair there was a lift.
 
 Its walls were dark and polished, black glass or something like it, and when the doors closed the light went low, and he saw himself.
 
-A man standing alone in a small dark space. Coat done up. Right arm held a little out from the body, the fingers spread. On the wrist something black that drank what light there was. The face above it pale and older than twenty, with a look on it he'd seen on a cat in a mesh carrier, ears flat, body low. The cat had been looking at this. This was what it had seen.
+A man standing alone in a small dark space. Coat done up. Right arm held a little out from the body, the fingers spread. On the wrist something black that drank what light there was. The face above it pale and older than twenty, with a look on it he'd seen on a cat in a mesh carrier, ears flat, body low.
 
 He looked at it until the lift began to move. He didn't look away first.
 
@@ -258,7 +260,7 @@ Grey picture, no sound, the lamp over the table a white smudge. Four old people 
 
 The old man in the gold had taken his rings off. She'd watched him do it, one at a time, slowly, and lay them out on the table in a row in front of him. They lay there now, small dull marks in the grey. Nobody had touched them. Nobody had looked at them, that she could see, except the old woman in the shawl, and she'd looked once and not again.
 
-High up in the wall of the table room, behind them all, there was a long dark pane of glass. She'd taken it for a mirror. Once, when the lamp swung, she thought she saw a shape behind it. A head. Then the lamp settled and it was glass. She didn't think the four at the table had either.
+High up in the wall of the table room, behind them all, there was a long dark pane of glass. She'd taken it for a mirror. Once, when the lamp swung, she thought she saw a shape behind it. A head. Then the lamp settled and it was glass. She didn't think the four at the table had noticed it either.
 
 On the right-hand wall, the mine.
 
@@ -284,6 +286,6 @@ It hung there, grey, the fingers a little curled.
 
 She was ready. The hand wasn't, quite. She let it arrive.
 
-On the left wall, at the table, the old man in the gold sat with his rings in their row and didn't look at the door on the far side, the one nobody had opened for him.
+On the left wall, at the table, the old man in the gold sat with his rings in their row and didn't look at the door on the far side, the one nobody had opened for him. On the corridor screen below it, Otto had turned his head and was looking along the curve of the corridor, at nothing the lens could show.
 
-Her mouth was already shaping it. The metal hand came down onto the key, a beat late, and didn't press it.
+Her mouth was already shaping it. The metal hand came down onto the key, a beat late, and didn't press it. Ben hadn't said it yet. The hand had known before she did.
