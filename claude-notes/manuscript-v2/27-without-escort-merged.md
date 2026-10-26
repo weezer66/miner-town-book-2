@@ -260,7 +260,7 @@ Grey picture, no sound, the lamp over the table a white smudge. Four old people 
 
 The old man in the gold had taken his rings off. She'd watched him do it, one at a time, slowly, and lay them out on the table in a row in front of him. They lay there now, small dull marks in the grey. Nobody had touched them. Nobody had looked at them, that she could see, except the old woman in the shawl, and she'd looked once and not again.
 
-High up in the wall of the table room, behind them all, there was a long dark pane of glass. She'd taken it for a mirror. Once, when the lamp swung, she thought she saw a shape behind it. A head. Then the lamp settled and it was glass. She didn't think the four at the table had noticed it either.
+High up in the wall of the table room, behind them all, there was a long dark pane of glass. She'd taken it for a mirror. Once, when the lamp swung, she thought she saw a shape behind it. A head. Then the lamp settled and it was glass. She didn't think the four at the table had noticed it.
 
 On the right-hand wall, the mine.
 
