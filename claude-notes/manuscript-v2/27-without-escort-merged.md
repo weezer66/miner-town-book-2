@@ -24,11 +24,11 @@ He struck again. The needle jumped again, the same stroke, the same length. Behi
 
 The engineer didn't look up. He waited. On the fourth it jumped.
 
-Sometimes. It heard rock sometimes. Three times in four. Pappy's gauges had taught her that a needle you couldn't trust every time was a needle you couldn't trust, and she'd known it all week. She laid the plate in the box on its bed of rag, buckled the strap, and said nothing, because nothing true about it would help.
+Sometimes. It heard rock sometimes. Three times in four. Pappy's gauges had taught her that a needle you couldn't trust every time was a needle you couldn't use, and she'd known it all week. She laid the plate in the box on its bed of rag, buckled the strap, and said nothing, because nothing true about it would help.
 
 The control room was the screen room grown up. Someone had knocked through into the room next door, and now the grey pictures went round two walls, with six desks under them and six people at the desks. She knew most of them by their hands. The man with the headset had a fresh tin of crackers at his elbow, and he hadn't opened it.
 
-On the top row of the near wall, the Hub lift. Two guards at the board. On the next screen, the turbine floor, men a couple of hours from the end of a shift, walking slower than they had at the start of it. Above them, the city's own screens: platforms and stairheads, and in every one a figure in red-black, standing. On one grey picture near the end of the row, the Miner Town gates, and a small figure in a scarf at the edge of them. Ben didn't let himself look at that one.
+On the top row of the near wall, the Hub lift. Two guards at the board. On the next screen, the turbine floor, men a couple of hours from the end of a shift, walking slower than they had at the start of it. Above them, the city's own screens: platforms and stairheads, and in every one a figure in red-black, standing. On one grey picture near the end of the row, the Miner Town gates, and a small figure in a scarf at the edge of them. Ben never looked at that one.
 
 Ben was on the stool.
 
@@ -62,9 +62,9 @@ Nobody said anything. Somebody's chair stopped creaking.
 
 "Why?" Camilla said.
 
-"I don't know." He said it plainly, the same voice he'd used to tell her the arm looked heavy. "Something in me says that's where I'm wanted. I've stopped arguing with it. It's usually right, and I'm usually the last to know."
+"I don't know." He said it plainly, the same voice he'd used to tell her the arm looked heavy. "Something under the floor's been pulling at my toe all day. It pulls that way. I've stopped arguing with it."
 
-The medic opened her mouth, and closed it. Camilla looked at Otto standing in the doorway with his arms loose at his sides, and the room seemed to settle round him a little, the way water settles round a post. She'd seen men argue with Gage and lose. She'd never seen anyone argue with this. There was nothing in it to push on.
+The medic opened her mouth, and closed it. Camilla looked at Otto standing in the doorway with his arms loose at his sides. She'd seen men argue with Gage and lose. Nobody in the room argued with this. There was nothing in it to push on.
 
 "Corridor outside," the medic said at last. "A chair. You will sit in it."
 
@@ -102,7 +102,7 @@ He was in his own face. He'd buttoned his collar to the top, and his coat was pl
 
 "Closed."
 
-"Closed." He looked down at her fist, and didn't ask. "Sooner than you are ready. I said so in the briefing room. I had assumed, when I said it, that I was describing other people." He nearly smiled. "I was right. I have been right about a great many things in this office. I have never once been glad of it."
+"Closed." He looked down at her fist, and didn't ask. "Sooner than you are ready. I said so in the briefing room. I had assumed, when I said it, that I was describing other people." He nearly smiled. "I was right. I have been right about a great many things in this office."
 
 He went on down the corridor, toward the room where the table was. Otto stood outside its door with his back to the wall and a chair beside him he wasn't sitting in. Flitzberg nodded to him as he passed. Otto nodded back.
 
@@ -128,7 +128,7 @@ She waited.
 
 "I won't use it," Rohan said. "Not unless the night breaks."
 
-She looked at the glue on his knuckle, and at his left knee, the fatigue paler there than on the right, where he'd been kneeling on stone every night for a week. She didn't believe him. She didn't tell him so. If she argued, he'd have to promise, and then he'd have to break it, and she'd rather he only had to break the first thing.
+She looked at the glue on his knuckle, and at his left knee, the fatigues paler there than on the right, where he'd been kneeling on stone every night for a week. She didn't believe him. She didn't tell him so. If she argued, he'd have to promise, and then he'd have to break it, and she'd rather he only had to break the first thing.
 
 "Go home," she said.
 
@@ -138,7 +138,7 @@ She looked at the glue on his knuckle, and at his left knee, the fatigue paler t
 
 Anandi took her terminal at the first door.
 
-It was a plain door at the end of the corridor beneath the archive, older than the chamber, with no plate on it and a shelf beside it at elbow height. Elara unbuckled the strap and laid the terminal on the shelf, and Anandi laid a folded cloth over it, like a cage covered for the night. The pale stripe on Elara's wrist felt the air. Bare again. It was getting to be her skin.
+It was a plain door at the end of the corridor beneath the archive, older than the chamber, with no plate on it and a shelf beside it at elbow height. Elara unbuckled the strap and laid the terminal on the shelf, and Anandi laid a folded cloth over it. The pale stripe on Elara's wrist felt the air. Bare again.
 
 The Ancient One was already in the car.
 
@@ -172,7 +172,7 @@ He had a soft face. Smooth, pale, full at the cheeks, a face made to be calm and
 
 The Arthashastri came first, small and upright in his green, the black script at his hem catching the lamp. He came in by the door on the left, and he came alone. He looked at the soft-faced man and inclined his head, and sat.
 
-The Dhammapala came next, by the same door. White hair. Bare wrist. She walked to her chair like a woman called onto a mat. She didn't look up at the dark glass. Elara's hands found the sill.
+The Dhammapala came next, by the same door. White hair. Bare wrist. She walked to her chair. She didn't look up at the dark glass. Elara's hands found the sill.
 
 Then the Ancient One, by the same door, in her shawl. She sat, and folded her hands, and was still.
 
@@ -184,11 +184,11 @@ The fourth came in by the other door.
 
 It was on the far side of the room, and nobody had opened it for him. Elara hadn't seen it was a door until it moved. He came through it alone, an old man in muted gold, with no guard at his shoulder and nobody's hand at his elbow, and he walked across the clean stone floor at the pace of a man who'd walked it before and didn't need to look where he was going.
 
-The soft-faced man drew out the fifth chair.
+The soft-faced man drew out the empty chair.
 
 The Master of the Reserve sat in it and laid his hands on the table, rings and all, and looked round at the other three as if he'd been the one to call them.
 
-Elara's hand had closed round a pencil that wasn't there. *No house. No floor.* The right-hand edge of a grey wall, a column nobody had asked for, its location field blank. She'd carried that blank out of the chamber like a stone in a shoe. She was sitting in a blank now. She didn't know if they were the same blank. She knew she'd ask.
+Elara's hand had closed round a pencil that wasn't there. *No house. No floor.* The right-hand edge of a grey wall, a column nobody had asked for, its location field blank. She'd carried that blank out of the chamber. She was sitting in a blank now. She didn't know if they were the same blank. She knew she'd ask.
 
 ---
 
@@ -196,7 +196,7 @@ The Master had come down through Drona's lower stacks.
 
 Daren had watched him do it. He'd stood on the senior platform at the evening bell with his coat done up and watched the Phoenix open and the old man step out of it alone. No gold-armored pair at his shoulder. No clerk. He'd crossed to the maglev on foot with his hands behind his back, and Daren had followed him into the last carriage and stood at the dark end of it, and the old man hadn't looked round once.
 
-Drona. The lower stacks, the cellar of shelving under the tower. Then a door at the end of the shelving, which closed behind the Master with a soft sound.
+Drona. The lower stacks, the cellar of shelving under the tower. Then a second door at the end of the shelving, plain and unmarked, beside the one that let onto the sky. It closed behind the Master with a soft sound.
 
 Daren reached it. His hand didn't rise.
 
@@ -218,7 +218,7 @@ Doors. He lost count. Old iron with no handle. Wood gone black, with a bar that 
 
 He kept his hand open.
 
-Inside his coat the notebook pressed its corner against his rib each time he breathed in. Somewhere below there was a room that kept its doors told to no one; the Master's *I did not need to be taken* had said that much. Someone ought to say the man's name in a room like that. Daren didn't have the name. He had the man's handwriting, and a hole worn through a page by a pencil.
+Inside his coat the notebook pressed its corner against his rib each time he breathed in. Somewhere below was the room the Master hadn't needed to be taken to. Someone ought to say the man's name in a room like that. Daren didn't have the name. He had the man's handwriting, and a hole worn through a page by a pencil.
 
 At the bottom of the last stair there was a lift.
 
@@ -258,7 +258,7 @@ Grey picture, no sound, the lamp over the table a white smudge. Four old people 
 
 The old man in the gold had taken his rings off. She'd watched him do it, one at a time, slowly, and lay them out on the table in a row in front of him. They lay there now, small dull marks in the grey. Nobody had touched them. Nobody had looked at them, that she could see, except the old woman in the shawl, and she'd looked once and not again.
 
-High up in the wall of the table room, behind them all, there was a long dark pane of glass. She'd taken it for a mirror. Once, when the lamp swung, she thought she saw a shape behind it. A head. Then the lamp settled and it was glass.
+High up in the wall of the table room, behind them all, there was a long dark pane of glass. She'd taken it for a mirror. Once, when the lamp swung, she thought she saw a shape behind it. A head. Then the lamp settled and it was glass. She didn't think the four at the table had either.
 
 On the right-hand wall, the mine.
 
@@ -270,7 +270,7 @@ The Hub mouth, from above. The lamps on their poles, yellow, swinging a little i
 
 Ben was counting.
 
-He was on the stool at her shoulder, his voice gone low and level, the voice he used for the dead in Miner Town and for Otto's gaps. "Board's up."
+He was on the stool at her shoulder, his voice gone low and level, the voice he used for the dead in Miner Town and for Otto's gaps. "Shift's turning."
 
 The man with the headset had opened his tin. He ate a cracker without looking at it, and the crumbs went into the pale crescent on his desk.
 
@@ -284,10 +284,6 @@ It hung there, grey, the fingers a little curled.
 
 She was ready. The hand wasn't, quite. She let it arrive.
 
-On the left wall, at the table, the old man in the gold lifted his head and looked at the door on the far side, the one nobody had opened for him. On the corridor screen beside it, Otto had turned his head and was looking along the curve of the corridor, at nothing the lens could show.
+On the left wall, at the table, the old man in the gold sat with his rings in their row and didn't look at the door on the far side, the one nobody had opened for him.
 
-Her mouth was already shaping it.
-
-*Feeds.*
-
-Not yet.
+Her mouth was already shaping it. The metal hand came down onto the key, a beat late, and didn't press it.
