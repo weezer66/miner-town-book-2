@@ -4,7 +4,7 @@
 
 — Book 1, Chapter 13: We Have a Guest
 
-## Now: The wrong place
+## Then: The wrong place
 
 Eight nights before the table sat, the morning after the corridor, the tower's overnight digest came in at the fourth bell, as it did every morning: the whole night of the building pressed into a few hundred grey lines that nobody was meant to read to the end.
 
@@ -44,7 +44,7 @@ He didn't look up. "You read the digest."
 
 "So did I." The strip of peel lengthened and turned under his thumb. "The Ancient One called on me yesterday. She has asked for the table to sit out of season. She tells me she has a witness, and a pattern. I told her I would come without escort." He turned the pear a quarter round. "She sounded pleased with herself. She has not been pleased with herself in thirty years. It was good to hear."
 
-Daren stood where he had stood the night of the Annex, on the same square of floor. His right hand hung at his side. He kept it open.
+Daren stood where he had stood the night the Annex passed, on the same square of floor. His right hand hung at his side. He kept it open.
 
 "A witness to what?"
 
@@ -70,15 +70,13 @@ The knife paused.
 
 "I know what it does."
 
-It came too fast. It came before Daren had finished the last word, the way the band came before a hand had finished moving, and the old man seemed to hear that too, because his mouth closed on whatever he'd meant to say next. He set the knife down on the plate, crossed it neatly over the peel, and wiped his fingers on a folded cloth.
+It came before Daren had finished the last word. The old man heard that too. His mouth closed on whatever he'd meant to say next. He set the knife down on the plate, crossed it neatly over the peel, and wiped his fingers on a folded cloth.
 
 His right hand came to rest on the table's edge, the cuff fallen back from it.
 
 Daren had looked at that hand since he was nine without seeing it. The wrist above it was thin and spotted at the knuckle-end, the skin loose with age.
 
-Across it, faded almost to the color of the rest, ran a pale band where nothing had lain in the sun. On its inner edge was a ridge, small and old and flattened by decades.
-
-Kubera's gold left a mark on every officer who wore it. He told himself that first. Then he saw where the ridge lay. Gold rode low, against the heel of the hand; that was where his own old ridge was. This one sat a finger higher. It sat where the obsidian sat.
+Across it, faded almost to the color of the rest, ran two pale bands. The lower one he knew: Kubera's gold, its ridge low against the heel of the hand, where his own had been. He told himself that first. Then he saw the other. It sat a finger higher. It sat where the obsidian sat.
 
 Daren's own thumb found the place on his own wrist, under the black, before he told it to.
 
@@ -86,9 +84,9 @@ The Master watched him do it. Then he looked toward the window, toward the cloud
 
 The words went into Daren and kept going.
 
-He had heard them before, in this room, with the obsidian just closed on him and his skin drawn tight from the cold of it. He'd taken them then for a kindness, a small one, the only one offered. He heard them now for what they had been. A man doesn't know how cold a thing is the first night from reading about it. He knows because he has lain awake under it himself, turning his wrist to the window, waiting for the cold to stop.
+He had heard them before, in this room, with the obsidian just closed on him and his skin drawn tight from the cold of it. He'd taken them then for a kindness, the only one offered. They had been a memory.
 
-He'd known. The ledger, the lamps, the bottle crossing the room at walking pace. *Learn it slowly. It will learn you faster.* The corridor. All of it, he'd known.
+He'd known.
 
 "You wore it," Daren said.
 
@@ -96,15 +94,15 @@ The Master did not deny it. He did not confess it either. He refolded the cloth 
 
 "I stood where you are standing," he said. "Once."
 
-Daren looked down at his own feet on the square of floor, and then up at the old man, and understood that the gallery corridor had held two meanings and he'd heard only the one that let him go on.
+Daren looked down at his own feet on the square of floor, and then up at the old man. The gallery corridor had held two meanings, and he'd heard only the one that let him go on.
 
-*So the Grandmaster didn't know what it cost to wear.* He'd thought that under a buzzing lamp, and it had been almost a comfort. A careless master was something a man could forgive, or outlast. This one had known the cost to the ounce, carried it, set it down, and then fastened it on someone else.
+*He had never asked what the band cost the man who wore it.* He'd thought that under a buzzing lamp, and it had been almost a comfort. This man had known the price, paid it, and fastened it on someone else anyway.
 
 *Second only to mine.* A rank, he'd thought. Second hand. The tool goes to the apprentice when the old man's grip has had enough of it.
 
-There was a question behind his teeth. The band would not close on a hand the city still held, so the city had once let go of this man too, and then taken him back and put rings on every finger. Who had done the taking back? He didn't ask. His tongue stayed behind his teeth.
+There was a question behind his teeth. The band would not close on a hand the city still held. So the city had let this man go once, and then taken him back and put rings on every finger. Who had done the taking back? He didn't ask.
 
-"The table," he said instead. "She'll want you to go wherever it is. Blind, she said once. Fetched."
+"The table," he said instead. "She'll want you to go wherever it is. They fetch you, don't they. Blind."
 
 The Master picked up the peeled pear and turned it in his fingers, looking at it, not at Daren. "I know the way to the table. I did not need to be taken. That is a thing one learns, wearing it. Among others."
 
@@ -132,7 +130,7 @@ This cat was grey, with one ear notched at the tip in a neat half-moon, the size
 
 No terminal spoke for it. Nothing told it he was cleared, or beneath notice, or none of its business. It saw a man, and it went on seeing him.
 
-Since the first carriage he'd filed that look and walked off with it. He'd been carrying it since the first night of the band without knowing what it weighed.
+Since the first carriage he'd filed that look and walked off with it. He'd been carrying it ever since without knowing what it weighed.
 
 This time he looked back.
 
@@ -160,13 +158,13 @@ He took the notebook out from under the mattress and sat on the bed with it in b
 
 He didn't get up.
 
-He opened his coat and put the notebook inside it, in the inner pocket, against his chest. The soft cover took the warmth of him at once. When he breathed in, he could feel the corner of it press a ribbon of pressure along one rib, and he left it there.
+He opened his coat and put the notebook inside it, in the inner pocket, against his chest. The soft cover took the warmth of him at once. When he breathed in, the corner of it pressed along one rib, and he left it there.
 
 The stair's gate would have kept whatever the two of them had fed it on the way down. Codes went somewhere. Everything did. One reach, the smallest he'd made in weeks, and the gate would hand him what it held, and he'd have names by the fifth bell.
 
 He laid his right hand on his knee and did nothing with it.
 
-He didn't open the gate. He didn't query the reader, or the digest, or the ledger behind the digest. He didn't send a note to anyone's queue in anyone's staff's dull phrasing. The two people on the stair stayed two people, unidentified, wherever they were this morning, eating breakfast or arguing or asleep. He gave the band nothing, on purpose, and kept giving it nothing, and found that holding nothing out to it was harder than any door he'd opened with it.
+He didn't open the gate. He didn't query the reader, or the digest, or the ledger behind the digest. He didn't send a note to anyone's queue in anyone's staff's dull phrasing. The two people on the stair stayed two people, unidentified, wherever they were this morning, eating breakfast or arguing or asleep. And two dead on Drona's stair a week before the table sat would be the very pattern she had asked them to sit for. He gave the band nothing, on purpose, and kept giving it nothing, and found that holding nothing out to it was harder than any door he'd opened with it.
 
 The four notes came up in his throat, low, the same four. He heard the first and didn't close his mouth on it. He let the second come, and the third, and the last, and the last one sat in the room a while after it was done.
 
@@ -174,13 +172,13 @@ Then, because he had to know whether it was still true, he put his left hand to 
 
 His fingers stopped.
 
-It was still true. The band hadn't changed and neither had his hand. But this time he stayed and looked at the stopping, the way he'd once looked at a loss curve until it gave up where it broke. His fingers had stopped because when he tried to picture the wrist underneath, pale and ridged and unfinished, there was no one standing behind it. No house. No name. No man he would be without it.
+It was still true. The band hadn't changed and neither had his hand. But this time he stayed and looked at the stopping, the way he'd once stared at a loss curve until it showed him where it broke. His fingers had stopped because when he tried to picture the wrist underneath, pale and ridged and unfinished, there was no one standing behind it. No house. No name. No man he would be without it.
 
 The Master had stood here once, with the same fingers under the same edge. He'd stopped too. Then, one day, he hadn't. And what he'd become afterwards had a row of rings and a pear and a silver knife, and a plain way of saying *clean*.
 
 Daren took his fingers out from under the band.
 
-The notebook pressed against his rib. Somewhere in it, in a small upright hand, was a man who had wanted to know what the instruments wouldn't tell him and had written it down so it would keep. Daren didn't know his name. Somebody in Ashoka did. It was written somewhere, on some roll in Ashoka, in someone's memory. Someone ought to say it aloud in a room that was listening.
+The notebook pressed against his rib. Somewhere in it, in a small upright hand, was a man who had wanted to know what the instruments wouldn't tell him and had written it down so it would keep. Daren didn't know his name. He could have found it with one reach. He didn't. Somebody in Ashoka did. It would be on some roll there, or in someone's memory. Someone ought to say it aloud in a room that was listening.
 
 He turned the thought over and found it had a person in it.
 
