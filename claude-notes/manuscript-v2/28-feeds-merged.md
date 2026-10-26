@@ -8,7 +8,7 @@
 
 The man with the headset had shut his cracker tin again.
 
-The control room was warm and low and full of the hum of the fans behind the wall. Ben sat on the stool at the headset man's other side, his elbows on his knees, his eyes on the top row. Camilla stood behind them both with one earpiece pressed to her head and the cord looped twice round her good wrist, so she couldn't drop it if she wanted to. The engineer stood at the end of the desk with his brass-caged sand-glass in both hands, not yet turned. He'd checked it against three clocks again that afternoon. She'd watched him do it.
+The control room was warm and low and full of the hum of the fans behind the wall. Ben sat on the stool at the headset man's other side, his elbows on his knees, his eyes on the top row. Camilla had taken the metal hand off the key and got up, because she couldn't sit over it any longer, and she stood behind them both with one earpiece pressed to her head and the cord looped twice round her good wrist, so she couldn't drop it if she wanted to. The engineer had stood up too, at the end of the desk, with his brass-caged sand-glass in both hands, not yet turned. He'd checked it against three clocks again that afternoon. She'd watched him do it.
 
 "Board's coming up," Ben said.
 
