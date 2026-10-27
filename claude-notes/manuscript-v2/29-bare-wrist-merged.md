@@ -22,7 +22,7 @@ He laid one finger on the wood beside the ring on its edge, not touching it.
 
 "The library money. The Annex. The mandate review. A death in Drona's tower, filed as a fault. Ask him how each of them was done. He will know. I came without escort to bring him to you, because I would not have it said at this table that Kubera hid its failures behind its own guard."
 
-It was clean. Daren heard how clean it was. Nearly every line of it was true, and the one that wasn't was laid so flush against the rest that there was no gap anywhere for it to show through. A struck officer. A sealed box. A wrist. The old man had built it the way he peeled a pear, in one unbroken strip, and when he set the knife down there would be nothing left of Daren on the plate but the part the table could eat.
+It was clean. Daren heard how clean it was. Nearly every line of it was true, and the one that wasn't was laid so flush against the rest that there was no gap anywhere for it to show through. A struck officer. A sealed box. A wrist. The old man had built it the way he peeled a pear, in one unbroken strip. Daren was the core.
 
 *I stood where you are standing. Once.*
 
@@ -38,7 +38,7 @@ Over the table the lamp began to hum. It was a thin sound, high, the note a wire
 
 "This office's doors are answering him," Flitzberg said, low, to no one. "I was not told they would."
 
-It was leaning. He could feel it leaning, the whole warm weight of it pulling down his arm toward the far side of the table, toward the old man under the lamp, like a dog on a lead.
+It was leaning. He could feel it leaning, the whole warm weight of it pulling down his arm toward the far side of the table, toward the old man under the lamp. It had already decided.
 
 The four notes came up in his throat. He shut his mouth on the first one.
 
@@ -48,7 +48,7 @@ At the edge of the light, a little apart from everyone, the boy from the corrido
 
 Otto had heard the hum before anyone looked up.
 
-He knew rooms. He'd spent two years in a shed learning what a room was doing before it did it, and weeks in the blue learning nothing else, and this room had been doing one thing since the old man in gold began to talk. It had been tightening. The air at the table had gone thick and close, a pot with the lid on, and now the lamp was singing, and the man in the doorway was standing very straight with his right arm held out from his side and his left hand flat on his chest.
+He knew rooms. He'd spent two years in a shed learning what a room was doing before it did it, and weeks in the blue learning nothing else, and this room had been doing one thing since the old man in gold began to talk. It had been tightening. The air at the table had gone thick and close, and now the lamp was singing, and the man in the doorway was standing very straight with his right arm held out from his side and his left hand flat on his chest.
 
 He walked.
 
@@ -66,7 +66,7 @@ He'd felt it in the corridor too. It was like a hand in a dark cupboard, patting
 
 *A man who is not afraid gives the other man nothing to read.*
 
-He'd held ten stones open over a lake of fire and let them close over himself. He'd been to the bottom of the stillness and found it had no bottom, and he'd stood there a long time. After that, a man in a buttoned coat in a clean room was not very much.
+He'd held ten stones open over a floor of fire until it dropped him. He'd been to the bottom of the stillness and found it had no bottom, and he'd stood there a long time. After that, a man in a buttoned coat in a clean room was not very much.
 
 The hand in the cupboard found the back wall and stopped.
 
@@ -82,7 +82,7 @@ That was the whole of it. Vayun had told him what came after the fist: the stop,
 
 Along the backs of his hands, where the lamp caught them, there was a faint blue. The shimmer he'd watched at an old man's knee. He didn't call it up. It was there like his pulse was there.
 
-Something settled on the back of his left hand. It weighed nothing. He didn't look down at it, because he knew what he'd see, which was his own hand and nothing on it, and he didn't need to see that.
+Something settled on the back of his left hand. It weighed nothing. He didn't look down. He knew what he'd see: his own hand, and nothing on it.
 
 Behind him, the lamp's hum dropped by a note. It didn't stop.
 
@@ -96,7 +96,7 @@ Otto let one breath out, long.
 
 Camilla's arm had been pulling at her since she came through the door.
 
-She'd run the whole corridor. Her chest was going like a bellows and her good fist was tight on Gage's splinter, and the earpiece cord had left a red spiral round her wrist that she could still feel. She'd stopped in the doorway behind Otto because the room had stopped her: the low lamp, the old faces, the man in black in the far door. And the arm had started to lift.
+She'd run the whole corridor. Her chest was going like a bellows and her good fist was tight on Gage's splinter, and the earpiece cord had left a red spiral round her wrist that she could still feel. She didn't know if Gage's line was still open. She didn't let herself turn round. She'd stopped in the doorway behind Otto because the room had stopped her: the low lamp, the old faces, the man in black in the far door. And the arm had started to lift.
 
 Nobody had asked it to. The elbow came up off her side by a finger's width and stayed up. The metal fingers spread. There was a pull in her shoulder, deep, where the arm listened to her, and it was listening to something else now, something across the room, and it wanted to go and hear it better.
 
@@ -114,7 +114,7 @@ The man in black looked at the table again, and the space between the arm and th
 
 "It's a beat ahead of you," Camilla said.
 
-It came out louder than she'd meant, in the voice she used on Gage when he was holding a wrench wrong. Every face in the room turned to her. The old woman in the shawl. The small man in green. The white-haired woman, who'd been looking at the man's wrist and now looked at Camilla's arm instead, at the elbow still lifted on its own. Flitzberg's eyes came to her and his hands came together, once, and parted.
+It came out louder than she'd meant, in the voice she used on Gage when he was holding a wrench wrong. Every face but one turned to her. The old woman in the shawl. The small man in green. The white-haired woman, who'd been looking at the man's wrist and now looked at Camilla's arm instead, at the elbow still lifted on its own. Flitzberg's eyes came to her and his hands came together, once, and parted.
 
 She'd spent her whole life being the one nobody looked at. A girl on a ration card. Eyes on everybody else's gauges. Now the whole room was on her, and on the arm, and so was a wall somewhere above the city. The cups. The egg. Every morning she'd made a fist and opened it again, someone had written it down.
 
@@ -122,23 +122,23 @@ So they were writing this down too.
 
 She found that it didn't matter. That was the odd thing. It sat in her chest, cold and steady. They'd been watching her hand for weeks, and every one of those weeks the hand had been hers. It had learned an egg without breaking it. It had held a splinter tonight without cracking it any further. Nobody reading it had made it do one thing.
 
-Her good hand, the splinter still in it, had gone up to her collar, to the cord and the small pin on it, the one that answered first. She'd finished it a week ago. Two fingers found it. She held it, and let it go.
+Her good hand, the splinter still in it, had gone up to her collar, to the cord and the small pin on it, her own switch, the one that answered first. She'd filed it at the sink weeks ago. Two fingers found it. She held it, and let it go.
 
 She made the metal fingers close. They came late. She let them. She made them open again, slowly, all the way, in front of everyone, and the elbow came down to her side.
 
-"It doesn't wait to see what you want," she said to the man. "It's listening to you being scared, and it does what scared people want before they've finished wanting it. That's all it's for." She looked past him, past the table, at the old man in gold with his bare hands on the wood. "And you're scared of *him*."
+"It moves before you do," she said to the man. She looked past him at the old man in gold. "And it's moving at him."
 
 The Master didn't look up. He was looking at the ring on its edge.
 
 "I know everybody's looking at you," Camilla said. "Somebody's been reading my hand for weeks. I found out a few minutes ago. It's still my hand."
 
-Behind her, someone came into the doorway and stopped at her shoulder, breathing as hard as she was. Grey-blue jacket, buttoned wrong by one hole. Camilla didn't turn round.
+Behind her, someone came into the doorway and stopped at her shoulder, breathing as hard as she was. Grey-blue jacket, buttoned wrong by one hole. Camilla didn't look.
 
 ---
 
-Daren looked at the girl's metal hand, open at her side.
+Daren looked at the girl's metal hand, open at her side because she'd told it to be.
 
-Then he looked at the old man. The Master was still looking at his ring. He hadn't looked up once, not when the lamp sang, not when the boy walked, not when the girl said *him*. Daren understood that he wasn't going to. He'd made his whole speech without once looking at the man he was handing over, and he would sit there through whatever came next with his eyes on a small gold hoop, as a man watches the weather through a window, because anything else in this room might look back.
+Then he looked at the old man. The Master was still looking at his ring. He hadn't looked up once, not when the lamp sang, not when the boy walked, not when the girl named him. Daren understood that he wasn't going to. He'd made his whole speech without once looking at the man he was handing over, and he would sit there through whatever came next with his eyes on a small gold hoop.
 
 *Second only to mine.*
 
@@ -154,7 +154,7 @@ The band was warm, and then, as it came away from the skin, it wasn't. It came o
 
 He looked at his wrist.
 
-Pale. Paler than the rest of the arm, a band of skin that hadn't seen light since a chamber with black doors. The fine grain of the obsidian's inner face was printed into it, like a crease left on a cheek by a sheet. And the old ridge where Kubera's gold had sat against the heel of the hand, and a finger above it a new one, shallower, not yet finished. It looked like something half built and left out in the weather. It was bare.
+Pale. Paler than the rest of the arm, a band of skin that hadn't seen light since a chamber with black doors. The fine grain of the obsidian's inner face was printed into it. And the old ridge where Kubera's gold had sat against the heel of the hand, and a finger above it a new one, shallower, not yet finished. It looked like something half built and left out in the weather. It was bare.
 
 He walked to the table. Otto stepped aside to let him by, without hurry, and fell in a pace behind.
 
@@ -186,15 +186,13 @@ He went past her.
 
 He went past her and past the metal-armed girl and into the room, and his face had nothing in it at all. That was how she knew. She'd seen him angry. She'd seen him in the dead room with a notice in his coat, his back teeth set. This was further in than that. His right hand had closed, and the glue on the split knuckle had cracked across, and a bead of dark came up through the crack, and he didn't look at it. He was walking toward Daren, the man who'd killed Baju, at the pace of a man who has already decided where he'll be when he arrives.
 
-*A door that is eager to break serves only its own story.*
-
 The Dhammapala was on her feet at the table. She didn't move. She didn't call his name. Her hands had come together at her waist, and she watched her commander cross the floor and left it to him. Elara understood that she was leaving it to someone.
 
 Elara stepped into his way.
 
 She didn't touch him. She stood in front of him at arm's length, close enough that he'd have to go round her or through her, and she put her hands at her sides where he could see them. She'd never stood in front of him before. She'd sat across a lantern from him. She'd never been the thing between Rohan and where he meant to go.
 
-He stopped because she was there. His chest came up against nothing a hand's width from her, and he looked down at her like a door that had shut in a corridor he knew.
+He stopped because she was there. His chest came up against nothing a hand's width from her, and he looked down at her for a long while.
 
 "Move," he said.
 
@@ -234,9 +232,9 @@ Every eye in the room went to the old man's wrist. He didn't cover it. He didn't
 
 The Arthashastri sat down, slowly, his knees deciding for him.
 
-She'd sat once, when the band came off, and now she rose again in her two movements, a hand on the table's edge and then the rest, and Elara, who knew those two movements better than anyone in the room, felt her own hands go cold.
+The Ancient One, who had sat when the band came off, rose again in her two movements, a hand on the table's edge and then the rest, and Elara, who knew those two movements better than anyone in the room, felt her own hands go cold.
 
-"You will want to know how I knew the Guard was active," the Ancient One said to the other three. Her voice was dry and small and carried to every wall. "For a hundred years, every order given to an instrument in Kubera, in Chanakya and in Ashoka has been written on a wall beneath my archive. Drona swore to this table that it was blind. Drona lied."
+"You will want to know how I knew the Guard was active," she said to the other three. Her voice was dry and small and carried to every wall. "For a hundred years, every order given in the Guard's dialect, by any hand in Kubera, in Chanakya or in Ashoka has been written on a wall beneath my archive. Drona swore to this table that it was blind. Drona lied."
 
 The room went quiet in a new way.
 
