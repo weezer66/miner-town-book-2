@@ -26,7 +26,7 @@ The Skylark lifted her toward the monitoring floor. RISE ABOVE SUFFERING ran alo
 
 In the door's polished metal she caught herself leaning forward.
 
-She hadn't meant to. She was about to spend three days watching sixteen kids be broken on purpose, and some part of her couldn't wait to see what they'd do. She straightened her gray-blue collar before the doors opened.
+She hadn't meant to. She was about to spend three days watching sixteen kids be broken on purpose, and some part of her couldn't wait to see what they'd do. She straightened her grey-blue collar before the doors opened.
 
 ---
 
@@ -36,7 +36,7 @@ Across the round antechamber, three other doors let go of their seals at the sam
 
 The first thing she noticed was how young they all were. Nobody over twenty-one. Trinity staffed its Initiation watch with new graduates; she'd read the policy. She hadn't expected it to show on her own pulse line, standing in a circle of people her own age who had all just bled into a machine.
 
-Ravi came first, in Chanakya's green-gray. When he lifted his hand to the panel, his cuff turned, and she caught a line of script stitched inside it, too small to read. He nodded to her once, and she had the uncomfortable feeling she'd just been filed somewhere.
+Ravi came first, in Chanakya's green-grey. When he lifted his hand to the panel, his cuff turned, and she caught a line of script stitched inside it, too small to read. He nodded to her once, and she had the uncomfortable feeling she'd just been filed somewhere.
 
 Daren came in Kubera's muted gold, the insignia at his collar set dead center. He was humming, four notes under his breath, the same four over and over, and his eyes went across badges and doors without stopping on anyone's face.
 

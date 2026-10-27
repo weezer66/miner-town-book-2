@@ -39,7 +39,7 @@ A compact substitute for rereading everything. If something here conflicts with 
 ## World (tower thread)
 - **Note (Ch1 rewrite, 2026-10-20):** Ch1 no longer gives the Trinity-1/2/3 rundown; it shows only Drona's spires, the cloud, the mine and Meru's underside. Don't assume the reader already got the rundown. Introduce a house lightly the first time it matters on the page.
 - **Trinity-1** (Drona: institutes, archives, monitoring towers), **Trinity-2** (Chanakya), **Trinity-3** (Ashoka), and **Meru** above them (Kubera, which "merely manages").
-- **Uniforms:** Drona gray-blue, Chanakya green-gray, Kubera muted gold, Ashoka red-black.
+- **Uniforms:** Drona grey-blue, Chanakya green-grey, Kubera muted gold, Ashoka red-black.
 - **Stations:** EVENT (Ravi), VARIANCE (Elara), THRESHOLD (Daren), CORRECTION (Rohan).
 - **Wrist terminals:** worn on the LEFT wrist; people see only what their terminal underlines. Daren's Kubera bracelet, later the obsidian band, is on the RIGHT.
 - **Elara:** her parents are Vishnu (a priest) and Voss (a teacher). Her childhood friend Teresa died while Elara, 15, was on the ground searching for the Sanjeevani herb. Teresa's last word was "Elara." At 12, Elara falsified a report to protect **Iris** (the strap on the construct), and Preceptor Sen turned the monitor around to show her own telemetry. Her marker: EMPATHY SURGE EVENT, AGE 12.

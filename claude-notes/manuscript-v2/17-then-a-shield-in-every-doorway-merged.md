@@ -142,7 +142,7 @@ The charter first. Ashoka could argue that *every doorway* was a figure of speec
 
 The funding next. The allocation register let a receiving house defer a gift for a full cycle to "assess capacity." He moved the start date inside the current cycle and tied it to a public-safety clause, which the register exempted. Safety could not be told to wait.
 
-Someone passed in the corridor. Ravi's eyes went to the door glass before he could stop them: a shoulder, a stack of folders, the wire diamonds sliding over gray cloth. Gone. He looked back at the screen and found he'd stopped breathing somewhere in the middle of a clause.
+Someone passed in the corridor. Ravi's eyes went to the door glass before he could stop them: a shoulder, a stack of folders, the wire diamonds sliding over grey cloth. Gone. He looked back at the screen and found he'd stopped breathing somewhere in the middle of a clause.
 
 The council's vote. Ashoka's council could accept the review and then table it to committee, where Chanakya's own petitions had gone to die for eleven years. He knew that road better than anyone alive. He wrote in a reporting requirement: first postings confirmed to the sponsor within ten days, so that any delay would appear in writing as a house refusing paid duty in public.
 
@@ -192,7 +192,7 @@ He sent it to the council members who answered to the Grandmaster, to be voted o
 
 ---
 
-The flood reached Ashoka on a gray morning, dressed as an honor.
+The flood reached Ashoka on a grey morning, dressed as an honor.
 
 Rohan stood in the commanders' hall and watched the duty board grow. The house council had accepted the mandate review the evening before, because it couldn't be declined, and everyone in the hall understood that without saying it. Now the postings arrived in waves, each one stamped, funded and individually reasonable. A guardian presence at the eastern transit platforms. Escorts for the archive convoys. A security liaison for Chanakya's Annex construction. Ceremonial stands at four public commissionings. By midday the roster, which had fit one board for as long as Rohan had served, had spilled onto a second, hauled out of a storeroom with an old drill diagram still ghosted under the new chalk.
 

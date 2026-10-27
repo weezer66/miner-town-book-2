@@ -22,7 +22,7 @@ He lay looking at the last line until the display dimmed to save power. The summ
 
 Every year Chanakya ranked its top ten across policy simulation, adversarial debate, probability games and classical chess, and the ten drew lots for one formal match against the Grandmaster. Most lost quickly. A few lasted long enough to earn a comment. The elders' ranking notes had a small mark beside Ravi's name, *youngest of the ten*, twenty years old and three years into the analyst track. He had seen the mark. He had been meant to.
 
-He dressed in the green-gray coat of the representative class. It fastened high at the throat and carried no ornament except a line of script along the inner cuff, visible only when the hand moved.
+He dressed in the green-grey coat of the representative class. It fastened high at the throat and carried no ornament except a line of script along the inner cuff, visible only when the hand moved.
 
 *Meaning precedes action.*
 
@@ -208,7 +208,7 @@ The window above the writing surface held Chanakya's slice of sky. He found it w
 
 The four notes came up in his throat, the same four, low enough to stay in the room. Ravi didn't stir. Daren closed his mouth on the last one and let himself out.
 
-The residential corridor was green-gray and thin with the night rotation, representatives walking to analysis rooms with panes under their arms. As Daren came within range a wrist terminal flickered on a clerk's left arm. A wall sensor dimmed. A route marker on the floor slid aside, and a woman stepped with it without looking down. Nobody stopped him. These were people trained since childhood to notice what others missed, and they parted around him, each following a floor marker that had moved a hand's width for him.
+The residential corridor was green-grey and thin with the night rotation, representatives walking to analysis rooms with panes under their arms. As Daren came within range a wrist terminal flickered on a clerk's left arm. A wall sensor dimmed. A route marker on the floor slid aside, and a woman stepped with it without looking down. Nobody stopped him. These were people trained since childhood to notice what others missed, and they parted around him, each following a floor marker that had moved a hand's width for him.
 
 Drona first, Kubera's old man had said. He had never said what came after.
 

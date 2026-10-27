@@ -136,7 +136,7 @@ Twenty-one, maybe. Red-black, no insignia. A scar along the jaw, old and pale. T
 
 "I'm the runner."
 
-The man looked at him the way the medic looked, all of it at once, and Ben felt himself counted: the gray-blue that didn't fit at the shoulder, the boots, the hand that had gone to his hip and come away. He looked back. A commander. A man who'd knelt on stone recently; the left knee of his fatigues was paler than the right.
+The man looked at him the way the medic looked, all of it at once, and Ben felt himself counted: the grey-blue that didn't fit at the shoulder, the boots, the hand that had gone to his hip and come away. He looked back. A commander. A man who'd knelt on stone recently; the left knee of his fatigues was paler than the right.
 
 Neither of them said what they'd seen. The commander held it a second longer, then nodded once.
 

@@ -132,7 +132,7 @@ She sat down. The column stepped up. The pool read zero.
 
 ---
 
-That evening Elara fastened the gray-blue collar in the narrow mirror and aligned the small Drona mark at her throat.
+That evening Elara fastened the grey-blue collar in the narrow mirror and aligned the small Drona mark at her throat.
 
 She checked the closure at each wrist. On the left, under the cuff, the terminal still held the morning's line. She let the cuff cover it and pulled her hair back from her face.
 

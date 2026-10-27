@@ -326,7 +326,7 @@ He had grey under his eyes and a pencil behind his ear he'd forgotten about. He 
 
 Camilla thought about Rita's kettle on the stove, and Rita's hand on the tap, and the tap coughing. It would. She'd called it. She didn't look away from that and nobody asked her to.
 
-"Gretchen was there the night it went," Ben said. "At the gates. Late. Same patch. She stood a bit longer than usual. I think she heard the mountain go." His thumb moved on his knee. "Elara took word up this morning, bare-wristed. Gretch heard my name from a Trinity girl in gray-blue." He looked at his hands. "I don't know what she did."
+"Gretchen was there the night it went," Ben said. "At the gates. Late. Same patch. She stood a bit longer than usual. I think she heard the mountain go." His thumb moved on his knee. "Elara took word up this morning, bare-wristed. Gretch heard my name from a Trinity girl in grey-blue." He looked at his hands. "I don't know what she did."
 
 "Sat down," Otto said. "In the dirt, probably. Then got up."
 

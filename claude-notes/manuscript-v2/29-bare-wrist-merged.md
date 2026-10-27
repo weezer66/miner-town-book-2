@@ -132,7 +132,7 @@ The Master didn't look up. He was looking at the ring on its edge.
 
 "Somebody's been reading my hand for weeks," Camilla said. "I found out a few minutes ago. It's still my hand."
 
-Behind her, someone came into the doorway and stopped at her shoulder, breathing as hard as she was. Gray-blue jacket, buttoned wrong by one hole. Camilla didn't look.
+Behind her, someone came into the doorway and stopped at her shoulder, breathing as hard as she was. Grey-blue jacket, buttoned wrong by one hole. Camilla didn't look.
 
 ---
 
