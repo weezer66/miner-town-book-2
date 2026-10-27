@@ -18,7 +18,7 @@ On the top row, the guard post at the head of the Hub lift. The man going off sh
 
 The man scratched his neck. The board went over.
 
-"Eleven."
+"Eleven," Ben said, for the seconds the board would be down.
 
 Nobody in the room breathed while the guard post stood with its back to its gauges. Ben's eyes had already moved on, down a row, to the turbine floor, where a short man in a lamp-hat was talking to the new man and pointing at something on the rail. Ben went very still on the stool. Camilla watched the side of his face, because that was where she'd see it first.
 
@@ -26,7 +26,7 @@ The turbine man laughed. He laughed at the start of the sentence, before the end
 
 Ben let his breath out through his nose. "Kid's well," he said. "He's going home on time tonight."
 
-Then he counted the rest of them off. He did it in the voice he'd used for Nayan's columns, flat, in order, nothing added: the men off the turbine floor, the men up out of the silver galleries with the grey dust to their elbows, the two at the pods who were always last because one of them couldn't find his gloves. Into the cage. The gate pulled across. The cage going up out of the top of the screen, and the cable shaking after it.
+Then he counted the rest of them off. He did it in his reading voice, flat, in order, nothing added: the men off the turbine floor, the men up out of the silver galleries with the grey dust to their elbows, the two at the pods who were always last because one of them couldn't find his gloves. Into the cage. The gate pulled across. The cage going up out of the top of the screen, and the cable shaking after it.
 
 "Hub's empty," Ben said. "Turbine floor's empty. Nobody on the silver. Nobody at the pods." He'd promised to say it plainly, once, so it would be said, and he did. "There's nobody down there."
 
@@ -94,7 +94,7 @@ Nobody leaned forward. The sand ran.
 
 The screen in the top right corner wasn't the mine's.
 
-It was one of the ring's, one of the hundred small grey eyes this place kept on its own corridors, and it had shown the same thing every night: a short curve of corridor behind the table room, a door at the end of it that nobody used, a lamp above the door that nobody lit. The route was on Flitzberg's plans as disused. She'd asked him once where it went. *Up,* he'd said. *Once.*
+It was one of the ring's, one of the hundred small grey eyes this place kept on its own corridors, and it had shown the same thing every night: a short curve of corridor behind the table room, a door at the end of it that nobody used, a lamp above the door that nobody lit. Once already tonight it had shown something else: the door opening for an old man in gold, who hadn't looked at the lens. The route was on Flitzberg's plans as disused. She'd asked him once where it went. *Up,* he'd said. *Once.*
 
 The door opened.
 
@@ -102,7 +102,7 @@ Nobody was in front of it. The picture held still, old stone and a dark lamp, an
 
 Camilla looked at the table-room screen beside it.
 
-The four Grandmasters sat at the round table in the room she'd never been in. Flitzberg sat among them, in his own face, his hands folded. And the Master of the Reserve sat with his rings laid out before him in their row and his hands bare on the wood, and he didn't look round. He didn't look at the door at the back of the table room, or at anything. He was looking at the rings. He'd been expecting it.
+The four Grandmasters sat at the round table in the room she'd never been in. Flitzberg sat among them, in his own face, his hands folded. And the Master of the Reserve sat with his rings laid out before him in their row and his hands bare on the wood, and he didn't look round. He didn't look at the door at the back of the table room, or at anything. He was looking at the rings. His thumb went along the row and squared the last one to the edge of the wood.
 
 "Landed," Gage said in her ear.
 
@@ -126,7 +126,7 @@ The engineer looked at her, and at the sand, and went back to the sand.
 
 "Who are you?"
 
-"Elara Nathan. Drona." The girl's eyes went along the rows and came back. The mine. The sand-glass. Ben on his stool with his lips moving. "They put me in a room upstairs to watch the table. I've watched that door open for weeks on paper. I know what's behind it." She looked at the bottom row again, longer. "You're doing something to the mine."
+"Elara Nathan. Drona." The girl's eyes went along the rows and came back. The mine. The sand-glass. Ben on his stool with his lips moving. "They put me in a room upstairs to watch the table. The woman who brought me went to see to something and didn't come back. I followed the fans. I've watched that door open for weeks on paper. I know what's behind it." She looked at the bottom row again, longer. "You're doing something to the mine."
 
 "Landed," said Gage, small and far away.
 
@@ -138,7 +138,7 @@ The girl from Drona had heard all of it. Camilla watched her hear it: the count,
 
 "It's the city."
 
-"I know what it is. I've sat behind those desks." She came two steps into the room. "Nobody's watching the ground tonight. Ashoka's standing in every doorway in the city, every guardian they've got, for the review. And Drona's wall is turned the other way tonight. I watched them turn it." She said it level, a figure read off a sheet. "Whatever you're doing down there, nobody up there's going to look."
+"I know what it is. I've sat behind those desks." She came two steps into the room. "Nobody's watching the ground tonight. Ashoka's standing in every doorway in the city, every guardian they've got, for the review. And Drona's wall is turned the other way tonight. I watched them turn it. Whatever you're doing down there, nobody up there's going to look."
 
 Camilla stood with that.
 
@@ -151,8 +151,6 @@ Elara was looking at it.
 Something went through the older girl's face that Camilla didn't have a name for. It looked like a sum. Her lips moved, a small count, and stopped.
 
 "Your arm talks to Drona's wall," Elara said. "It has since the day they fitted it."
-
-Elara had just said it aloud, to a stranger.
 
 The cups. The egg. The four dents in the grain. Someone had watched her learn every one.
 
@@ -172,7 +170,7 @@ Camilla unlooped the cord from her wrist. She lifted the earpiece off her head a
 
 "Cami—"
 
-"You know when. You always know when." She looked at the sand. Less than half left in the top. "Otto's gone in, and that door opened by itself. Somebody has to be there when that door closes."
+"You know when. You always know when." She held up the metal hand. It had closed again on its own. "If this talks, it isn't talking in here. Not tonight." She looked at the sand. Less than half left in the top. "And Otto's gone in, and that door opened by itself."
 
 Ben looked at Elara. Elara nodded, once. Ben put two fingers to the earpiece.
 
@@ -260,7 +258,7 @@ Thirteen. Twelve.
 
 Light ahead, grey. The Hub's work lamps, through the mouth, through the spray.
 
-He saw it all through the gap over the sill, in the second before the water reached him. The Hub filling. The turbine floor going under, its lamps going out row by row. The water running on down the fall, the way he'd drawn it with his finger lake to pods, faster than he'd drawn it, toward the silver and the pods and the end of the straw.
+He saw it through the gap over the sill, in the second before the water reached him. The Hub filling.
 
 And at the far edge, squat against the rock, the pump house.
 
@@ -302,7 +300,7 @@ Gap.
 
 Elara knew his face. She'd seen it once on an Initiation feed, five feet eight, every value inside the band, the boy nobody had routed. She'd never heard his voice until tonight.
 
-She'd been responsible for Gage for seventy-two hours and never heard his voice. Tonight she'd heard a handful of words, and the last was *through*.
+She'd been responsible for Gage for seventy-two hours. Tonight she'd heard a handful of his words, and the last was *through*.
 
 There was no other chair. She sat down on the floor beside the stool, with her back against the leg of the desk and her bare wrist on her knee.
 
@@ -324,4 +322,4 @@ On the top row, the girl was a grey shape running a corridor, the metal arm swin
 
 In the doorway at the back of the table room, in black, his coat buttoned to the throat and his right arm held a little out from his body, with his left hand at his chest over something in his coat, stood Daren.
 
-A screen had him now. Whatever he'd been asking of the band to come this far unseen, he'd stopped asking.
+His right hand hung open. A screen had him now. Whatever he'd been asking of the band to come this far unseen, he'd stopped asking.
