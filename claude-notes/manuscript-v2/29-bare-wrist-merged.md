@@ -78,7 +78,7 @@ He felt it hang there, puzzled. It went over him again, slower. Then it drew bac
 
 Then he stood still.
 
-That was the whole of it. Vayun had told him what came after the fist: the stop, and not one blow after. Nobody had told him that sometimes the correct action was standing where you were with your hands open, and the stop came straight after it, and was the same thing. He worked it out on his feet. He didn't move his hands. He didn't step closer, though he could have, and he didn't step back. He gave the man's arm a boy to look at, and nothing in the boy to take hold of.
+That was the whole of it. Vayun had told him what came after the fist: the stop, and not one blow after. Nobody had told him the stop could come first. He worked it out on his feet. He didn't move his hands. He didn't step closer, though he could have, and he didn't step back. He gave the man's arm a boy to look at, and nothing in the boy to take hold of.
 
 Along the backs of his hands, where the lamp caught them, there was a faint blue. The shimmer he'd watched at an old man's knee. He didn't call it up. It was there like his pulse was there.
 
@@ -104,13 +104,13 @@ She'd felt the arm do things on its own before: a twitch, a fist on a desk a few
 
 It was coming from the man's wrist.
 
-She knew that the way she'd known which of Pappy's gauges was lying, before she could have said why. The black thing on his wrist was talking, and her arm knew the voice. It had always known it. They'd been made out of the same idea. She could feel the shape of the thing's reach in her own shoulder, how it went out into the room and leaned toward the table, and she could feel what her arm did with it. Her arm came after. It always came after her, a beat behind, learning her. The thing on his wrist went before him, a heartbeat early. It didn't wait to learn anything.
+She knew it before she could say how. The black thing on his wrist was talking, and her arm knew the voice. It had always known it. They'd been made out of the same idea. She could feel the shape of the thing's reach in her own shoulder, how it went out into the room and leaned toward the table, and she could feel what her arm did with it. Her arm came after. It always came after her, a beat behind, learning her. The thing on his wrist went before him, a heartbeat early. It didn't wait to learn anything.
 
 She stood with the two of them pulling at each other across the room, and felt the space between them, and knew what size it was. It was the size of a man looking at an old man and wanting him gone before the wanting had finished.
 
 Otto said his piece. The lamp's hum dropped, and came back.
 
-The man in black looked at the table again, and the space between the arm and the band opened wider, and the chain over the table ticked against its hook.
+The man in black looked at the table again, and the space between the arm and the band opened wider, and the chain over the table slipped a link on its hook, and the lamp dropped a hand's width toward the old man's bare head and hung there, swinging.
 
 "It's a beat ahead of you," Camilla said.
 
@@ -120,7 +120,7 @@ She'd spent her whole life being the one nobody looked at. A girl on a ration ca
 
 So they were writing this down too.
 
-She found that it didn't matter. That was the odd thing. It sat in her chest, cold and steady. They'd been watching her hand for weeks, and every one of those weeks the hand had been hers. It had learned an egg without breaking it. It had held a splinter tonight without cracking it any further. Nobody reading it had made it do one thing.
+It sat in her chest, cold and steady. They'd been watching her hand for weeks, and every one of those weeks the hand had been hers. It had learned an egg without breaking it. It had held a splinter tonight without cracking it any further.
 
 Her good hand, the splinter still in it, had gone up to her collar, to the cord and the small pin on it, her own switch, the one that answered first. She'd filed it at the sink weeks ago. Two fingers found it. She held it, and let it go.
 
@@ -130,7 +130,7 @@ She made the metal fingers close. They came late. She let them. She made them op
 
 The Master didn't look up. He was looking at the ring on its edge.
 
-"I know everybody's looking at you," Camilla said. "Somebody's been reading my hand for weeks. I found out a few minutes ago. It's still my hand."
+"Somebody's been reading my hand for weeks," Camilla said. "I found out a few minutes ago. It's still my hand."
 
 Behind her, someone came into the doorway and stopped at her shoulder, breathing as hard as she was. Grey-blue jacket, buttoned wrong by one hole. Camilla didn't look.
 
@@ -138,7 +138,7 @@ Behind her, someone came into the doorway and stopped at her shoulder, breathing
 
 Daren looked at the girl's metal hand, open at her side because she'd told it to be.
 
-Then he looked at the old man. The Master was still looking at his ring. He hadn't looked up once, not when the lamp sang, not when the boy walked, not when the girl named him. Daren understood that he wasn't going to. He'd made his whole speech without once looking at the man he was handing over, and he would sit there through whatever came next with his eyes on a small gold hoop.
+Then he looked at the old man. The Master was still looking at his ring. He hadn't looked up once, not when the lamp sang, not when it dropped toward his head, not when the boy walked, not when the girl turned the room on him. Daren understood that he wasn't going to. He'd made his whole speech without once looking at the man he was handing over, and he would sit there through whatever came next with his eyes on a small gold hoop.
 
 *Second only to mine.*
 
@@ -148,9 +148,11 @@ He'd done it in a corridor with a man on the floor behind him. He'd done it on a
 
 There was somebody now. A man with a bare wrist, crouched at an open panel, who had looked up and seen what the instruments wouldn't and nodded to himself. Daren meant to say his name in this room. He didn't have it. He had the man's handwriting against his ribs, and a hole worn through a page by a pencil, and that was someone to stand behind the wrist. It would have to do.
 
+*It moves before you do.* So he didn't move. He waited one beat, the girl's beat, until the band had reached for what he wanted and found he wanted nothing.
+
 His fingers didn't stop.
 
-The band was warm, and then, as it came away from the skin, it wasn't. It came off cold, all at once, the cold of a stone taken out of a river, and the lamp over the table stopped humming in the same instant, so that the quiet afterward was loud. The chain hung still. The bar in the door behind him settled into its bracket with a soft knock and didn't move again. At the table, the Ancient One sat down.
+The band was warm, and then, as it came away from the skin, it wasn't. It came off cold, all at once, and took a strip of skin with it, and the lamp over the table stopped humming in the same instant, so that the quiet afterward was loud. The chain hung still. The bar in the door behind him settled into its bracket with a soft knock and didn't move again. At the table, the Ancient One sat down.
 
 He looked at his wrist.
 
@@ -182,9 +184,9 @@ The name sat in the room. Daren heard it go into the stone, the swept floor, the
 
 Rohan had come down in his red-black with no insignia, and there was rock dust on both his knees and a long grey smear of it up one sleeve. The runner's lift. It went further than three floors.
 
-He went past her.
+He went past Elara without seeing her.
 
-He went past her and past the metal-armed girl and into the room, and his face had nothing in it at all. That was how she knew. She'd seen him angry. She'd seen him in the dead room with a notice in his coat, his back teeth set. This was further in than that. His right hand had closed, and the glue on the split knuckle had cracked across, and a bead of dark came up through the crack, and he didn't look at it. He was walking toward Daren, the man who'd killed Baju, at the pace of a man who has already decided where he'll be when he arrives.
+He went past her and past the metal-armed girl and into the room, and his face had nothing in it at all. That was how she knew. She'd seen him angry. She'd seen him in the dead room with a notice in his coat, his back teeth set. This was further in than that. His right hand had closed, and the glue on the split knuckle had cracked across, and a bead of dark came up through the crack, and he didn't look at it. He was walking toward Daren, the man who'd killed Baju. He didn't speed up. He didn't need to.
 
 The Dhammapala was on her feet at the table. She didn't move. She didn't call his name. Her hands had come together at her waist, and she watched her commander cross the floor and left it to him. Elara understood that she was leaving it to someone.
 
@@ -200,7 +202,7 @@ He stopped because she was there. His chest came up against nothing a hand's wid
 
 "Elara."
 
-"It's off." She didn't look round at the table. She didn't have to. She could see it in his eyes: the black thing lying on the wood beside the rings, the soft notebook beside it, the man standing over both with his wrist bare and his hands open. "It's on the table. He took it off himself. He put Baju down next to it and said what he did." She held her voice level. It wanted to go up and she didn't let it. "Stop when the threat has ended. You taught that to five-year-olds."
+"It's off." She didn't look round at the table. She didn't have to. She knew what was on the table: the black thing lying on the wood beside the rings, the soft notebook beside it, the man standing over both with his wrist bare and his hands open. "It's on the table. He took it off himself. He put Baju down next to it and said what he did." She held her voice level. It wanted to go up and she didn't let it. "Stop when the threat has ended. You taught that to five-year-olds."
 
 His jaw moved along the scar, once.
 
@@ -226,7 +228,7 @@ Rohan's fist stayed closed at his side, the bead of dark running down the knuckl
 
 Daren had turned from the table. His bare arm came up, and he pointed with it, across the wood and the rings and the band, at the Master's right hand, where the cuff had fallen back from the wrist.
 
-"There," he said. "The ridge. A finger above where the gold sits. That's where the obsidian sits." His voice was very even now, the voice from his old console, figures read off a sheet. "He told me the night he gave it to me. It is cold the first night. He knew because he'd lain awake under it. He knew what it fires on. He gave it to me anyway."
+"There," he said. "The ridge. A finger above where the gold sits. That's where the obsidian sits." His voice was very even now. "He told me the night he gave it to me. It is cold the first night. He knew because he'd lain awake under it. He knew what it fires on. He gave it to me anyway."
 
 Every eye in the room went to the old man's wrist. He didn't cover it. He didn't move his hand at all. The pale bands lay across the spotted skin in the lamplight, the higher one with its small old ridge on the inner edge, faded almost to nothing and still there.
 
