@@ -234,7 +234,7 @@ The Arthashastri sat down, slowly, his knees deciding for him.
 
 The Ancient One, who had sat when the band came off, rose again in her two movements, a hand on the table's edge and then the rest, and Elara, who knew those two movements better than anyone in the room, felt her own hands go cold.
 
-"You will want to know how I knew the Guard was active," she said to the other three. Her voice was dry and small and carried to every wall. "For a hundred years, every order given in the Guard's dialect, by any hand in Kubera, in Chanakya or in Ashoka has been written on a wall beneath my archive. Drona swore to this table that it was blind. Drona lied."
+"You will want to know how I knew the Guard was active," she said to the other three. Her voice was dry and small and carried to every wall. "For a hundred years, every record in Kubera, in Chanakya and in Ashoka has been witnessed beneath my archive, and every order given in the Guard's dialect, by any hand, written on its wall. Drona swore to this table that it was blind. Drona lied."
 
 The room went quiet in a new way.
 
