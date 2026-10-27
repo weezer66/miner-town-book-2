@@ -156,7 +156,7 @@ The band was warm, and then, as it came away from the skin, it wasn't. It came o
 
 He looked at his wrist.
 
-Pale. Paler than the rest of the arm, a band of skin that hadn't seen light since a chamber with black doors. The fine grain of the obsidian's inner face was printed into it. And the old ridge where Kubera's gold had sat against the heel of the hand, and a finger above it a new one, shallower, not yet finished. It looked like something half built and left out in the weather. It was bare.
+Pale. Paler than the rest of the arm, a band of skin that hadn't seen light since a chamber with black doors. The fine grain of the obsidian's inner face was printed into it, raw along one edge where the skin had come away. And the old ridge where Kubera's gold had sat against the heel of the hand, and a finger above it a new one, shallower, not yet finished. It looked like something half built and left out in the weather. It was bare.
 
 He walked to the table. Otto stepped aside to let him by, without hurry, and fell in a pace behind.
 
@@ -184,9 +184,7 @@ The name sat in the room. Daren heard it go into the stone, the swept floor, the
 
 Rohan had come down in his red-black with no insignia, and there was rock dust on both his knees and a long grey smear of it up one sleeve. The runner's lift. It went further than three floors.
 
-He went past Elara without seeing her.
-
-He went past her and past the metal-armed girl and into the room, and his face had nothing in it at all. That was how she knew. She'd seen him angry. She'd seen him in the dead room with a notice in his coat, his back teeth set. This was further in than that. His right hand had closed, and the glue on the split knuckle had cracked across, and a bead of dark came up through the crack, and he didn't look at it. He was walking toward Daren, the man who'd killed Baju. He didn't speed up. He didn't need to.
+He went past Elara without seeing her, and past the metal-armed girl, and into the room, and his face had nothing in it at all. That was how she knew. She'd seen him angry. She'd seen him in the dead room with a notice in his coat, his back teeth set. This was further in than that. His right hand had closed, and the glue on the split knuckle had cracked across, and a bead of dark came up through the crack, and he didn't look at it. He was walking toward Daren, the man who'd killed Baju. He didn't speed up. He didn't need to.
 
 The Dhammapala was on her feet at the table. She didn't move. She didn't call his name. Her hands had come together at her waist, and she watched her commander cross the floor and left it to him. Elara understood that she was leaving it to someone.
 
