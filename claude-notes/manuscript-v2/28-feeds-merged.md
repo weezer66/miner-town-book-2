@@ -32,7 +32,7 @@ Then he counted the rest of them off. He did it in the voice he'd used for Nayan
 
 Camilla looked at the bottom row anyway.
 
-The Hub, wide and grey and lit by its own work lamps, with no one under them. The turbine floor. The long mouth of the drainage run. And at the far edge, squat against the rock, the old pump house that drew Miner Town's ration water up out of the deep, with one caged lamp over its door and its pumps going round alone, as they did every night after the second bell. Nobody kept it at night. She'd checked it every night. She checked it again now, every corner of the grey picture, and the door stayed shut and the lamp stayed lit and nothing moved in front of it but water in the gutter.
+The Hub, wide and grey and lit by its own work lamps, with no one under them. The turbine floor. The long mouth of the drainage run. And at the far edge, squat against the rock, the old pump house that drew Miner Town's ration water up out of the deep, with one caged lamp over its door and its pumps going round alone, as they did every night after the second bell. Nobody kept it at night. She'd checked it every night for a man inside. She had never once thought about what it drew. She checked it again now, every corner of the grey picture, and the door stayed shut and the lamp stayed lit and nothing moved in front of it but water in the gutter.
 
 One screen left. The tunnel mouth at the Hub's far side, the drain sill a pale line across the bottom of the picture. A lamp was standing in it.
 
@@ -60,6 +60,8 @@ She didn't say anything. Ben didn't turn round.
 
 On the line, under his breath, Gage had started to count.
 
+She counted with him. At thirty-one he stopped.
+
 The engineer turned the glass over. The rust-colored sand began to fall.
 
 "Clear," Ben said.
@@ -72,9 +74,9 @@ Then there was nothing to do but wait for the wall.
 
 She heard it through Gage. That was the only way she could have heard it. A long way down, at the end of thirty-one props in the dark, something came through his breathing that was not his breathing: a sound like a heavy door shutting somewhere in a big house, felt more than heard, and after it a ticking, small and quick, that she understood was the needle.
 
-"Landed," Gage said. A pause the length of a step. "Again."
+"Landed," Gage said.
 
-"Again."
+A pause the length of a step. "Again," Camilla said.
 
 "Closed."
 
@@ -82,7 +84,9 @@ The wall answered. Twice. Three times. Ben counted the landings under his breath
 
 Nobody leaned forward. The sand ran.
 
-"Landed. Again."
+"Landed," Gage said.
+
+"Again," Camilla said.
 
 "Four," Ben said.
 
@@ -100,17 +104,15 @@ Camilla looked at the table-room screen beside it.
 
 The four Grandmasters sat at the round table in the room she'd never been in. Flitzberg sat among them, in his own face, his hands folded. And the Master of the Reserve sat with his rings laid out before him in their row and his hands bare on the wood, and he didn't look round. He didn't look at the door at the back of the table room, or at anything. He was looking at the rings. He'd been expecting it.
 
-"Landed," Gage said in her ear. "Again."
-
-"Again," she said.
-
-"Closed."
+"Landed," Gage said in her ear.
 
 On the screen below the table room, a corridor outside it. Otto had been standing in that corridor since before the shift change, where he'd said he'd be, with his back to the wall and his hands loose at his sides, so still that twice she'd thought the screen had frozen. His head was still turned along the curve. Nothing in the corridor had made a sound; the ring's ears logged nothing. He kept looking toward the old route anyway, and then he opened the table-room door beside him and went in, unhurried, setting his feet down as he did on soft ground.
 
-Two screens. One voice.
+"Again," she said, and watched Otto's door swing shut.
 
-She had one word in her mouth, and it belonged to the wall.
+"Closed."
+
+"Five," Ben said.
 
 The door behind her opened.
 
@@ -120,13 +122,15 @@ She didn't look at Camilla first. She looked at the top right screen, at the ope
 
 "It opens before the hand rises," she said.
 
+The engineer looked at her, and at the sand, and went back to the sand.
+
 "Who are you?"
 
 "Elara Nathan. Drona." The girl's eyes went along the rows and came back. The mine. The sand-glass. Ben on his stool with his lips moving. "They put me in a room upstairs to watch the table. I've watched that door open for weeks on paper. I know what's behind it." She looked at the bottom row again, longer. "You're doing something to the mine."
 
-"Landed," said Gage, small and far away. "Again."
+"Landed," said Gage, small and far away.
 
-"Again," Camilla said, and the headset man said "Closed," and the wall answered, and she didn't take her eyes off the stranger. "Five," Ben said.
+"Again," Camilla said, and the headset man said "Closed," and the wall answered, and she didn't take her eyes off the stranger. "Six," Ben said.
 
 The girl from Drona had heard all of it. Camilla watched her hear it: the count, the word, the answer. Her face didn't do anything. Her hands came up and pressed flat together in front of her mouth and then came down again.
 
@@ -134,7 +138,7 @@ The girl from Drona had heard all of it. Camilla watched her hear it: the count,
 
 "It's the city."
 
-"I know what it is. I've sat behind those desks." She came two steps into the room. "Nobody's watching the ground tonight. Ashoka's standing in every doorway in the city, every guardian they've got, for the review. And Drona's got a wall that sees everything, and tonight it's turned the other way, at Meru. I watched them turn it." She said it level, a figure read off a sheet. "Whatever you're doing down there, nobody up there's going to look."
+"I know what it is. I've sat behind those desks." She came two steps into the room. "Nobody's watching the ground tonight. Ashoka's standing in every doorway in the city, every guardian they've got, for the review. And Drona's wall is turned the other way tonight. I watched them turn it." She said it level, a figure read off a sheet. "Whatever you're doing down there, nobody up there's going to look."
 
 Camilla stood with that.
 
@@ -148,13 +152,15 @@ Something went through the older girl's face that Camilla didn't have a name for
 
 "Your arm talks to Drona's wall," Elara said. "It has since the day they fitted it."
 
+Elara had just said it aloud, to a stranger.
+
 The cups. The egg. The four dents in the grain. Someone had watched her learn every one.
 
 She looked at the fist on the desk. She made it open.
 
 "Later," she said.
 
-"Landed," said Gage. "Again."
+"Landed," said Gage.
 
 On the corridor screen the stretch beside the table-room door stood empty.
 
@@ -166,9 +172,9 @@ Camilla unlooped the cord from her wrist. She lifted the earpiece off her head a
 
 "Cami—"
 
-"You know when. You always know when." She looked at the sand. Less than half left in the top. "Nobody's looking. She says so."
+"You know when. You always know when." She looked at the sand. Less than half left in the top. "Otto's gone in, and that door opened by itself. Somebody has to be there when that door closes."
 
-Ben looked at Elara. Elara looked back at him. Something passed between them that Camilla didn't have time to read.
+Ben looked at Elara. Elara nodded, once. Ben put two fingers to the earpiece.
 
 "Again," Ben said into the line, and his voice didn't shake, and the headset man said "Closed."
 
@@ -198,11 +204,11 @@ He knelt and unstrapped the listener and pressed it to the junction, clay to sto
 
 "Closed."
 
-The first blow came through the mountain and into his palm, and the needle by his knee went over and ticked. He said *landed*. He said *again*. He'd said them a hundred times over clay with Cami's voice answering, and her voice answered now, and that was all right. That held.
+The first blow came through the mountain and into his palm, and the needle by his knee went over and ticked. He said *landed*. Her voice said *again*. He'd said it a hundred times over clay with Cami's voice answering, and it answered now, and that was all right. That held.
 
 Five. Six. On the seventh, the voice that said *again* was Ben's.
 
-Gage's hand stayed on the rock. He waited for the next word to be hers, and it wasn't, and the wall came in under his palm before he'd worked out what to do about that.
+Gage's hand stayed on the rock. He waited for the next word to be hers, and it wasn't, and the eighth blow came in under his palm before he'd worked out what to do about that.
 
 "Landed," he said. "Where's Cami?"
 
@@ -212,7 +218,7 @@ He didn't ask where. If she'd gone, there was somewhere worse than here, and she
 
 "Closed," said the old dry voice.
 
-Eight. He gave them to Ben now, every one. *Landed. Again.* The blows came closer together, or seemed to, and the rock had started to say things back between them. A creak in the props behind him, long and low, a sound he'd heard once in two months and had run from. A patter of grit on the back of his neck. The needle wasn't settling between blows anymore. It lay over against its pin and shivered there.
+Eight. He gave them to Ben now, every one. *Landed*, and Ben's *again*. The blows came closer together, or seemed to, and the rock had started to say things back between them. A creak in the props behind him, long and low, a sound he'd heard once in two months and had run from. A patter of grit on the back of his neck. The needle wasn't settling between blows anymore. It lay over against its pin and shivered there.
 
 Nine. His mouth opened on it and nothing came.
 
@@ -228,7 +234,7 @@ Eleven. Under his hand the rock went cold, wet, then wetter, and when he lifted 
 
 Twelve came, and the mountain answered it with its whole weight.
 
-He felt it in his teeth. His ears went tight, then tighter, and popped, and the air in the tunnel pushed at his face from nowhere. The props groaned, all of them at once, a long chord. And the rock spoke before it broke, the way Pappy used to say it did, a dry crackle running away from the junction in both directions faster than he could follow it, the sound of ice on a bucket, of a knuckle cracking a mile long.
+He felt it in his teeth. His ears went tight, then tighter, and popped, and the air in the tunnel pushed at his face from nowhere. The props groaned, all of them at once, a long chord. And the rock spoke before it broke, the way Pappy used to say it did, a dry crackle running away from the junction in both directions faster than he could follow it, the sound of a knuckle cracking a mile long.
 
 His lamp went out.
 
@@ -254,13 +260,13 @@ Thirteen. Twelve.
 
 Light ahead, grey. The Hub's work lamps, through the mouth, through the spray.
 
-He saw it all through the gap over the sill, in the second before the water reached him. The Hub filling. The turbine floor going under, its lamps going out row by row, like a street being put to bed. The water running on down the fall, the way he'd drawn it with his finger lake to pods, faster than he'd drawn it, toward the silver and the pods and the end of the straw.
+He saw it all through the gap over the sill, in the second before the water reached him. The Hub filling. The turbine floor going under, its lamps going out row by row. The water running on down the fall, the way he'd drawn it with his finger lake to pods, faster than he'd drawn it, toward the silver and the pods and the end of the straw.
 
 And at the far edge, squat against the rock, the pump house.
 
 He watched the water find its door. It climbed the door. It climbed past the caged lamp, and for a breath the lamp went on burning under the water, a yellow blur, and then it went out. The pumps that drew Miner Town's ration water up out of the deep, the water in Rita's kettle and in the tap at the end of their row, went under the lake he'd let in, and he stood in the run with his hand on the twelfth prop and couldn't do anything about it at all.
 
-It hadn't been on the model. Nothing had been on the model but the clean line of his finger.
+It hadn't been on the model.
 
 The twelfth prop moved under his hand.
 
@@ -296,7 +302,7 @@ Gap.
 
 Elara knew his face. She'd seen it once on an Initiation feed, five feet eight, every value inside the band, the boy nobody had routed. She'd never heard his voice until tonight.
 
-She'd held the other one for seventy-two hours and never heard him speak until a man in the dark said *landed*, and the last word she'd heard him say was *through*.
+She'd been responsible for Gage for seventy-two hours and never heard his voice. Tonight she'd heard a handful of words, and the last was *through*.
 
 There was no other chair. She sat down on the floor beside the stool, with her back against the leg of the desk and her bare wrist on her knee.
 
@@ -317,3 +323,5 @@ She listened with him. She had never counted beside anyone. She found that she w
 On the top row, the girl was a grey shape running a corridor, the metal arm swinging her wide at the turn, and then she wasn't on any screen. On the one beside it, the table room. Three of the Grandmasters had come up out of their chairs. Flitzberg had unfolded his hands. Only the Master of the Reserve still sat facing forward, with his bare hands on the wood and his rings in their row in front of him, every seal closed. At the edge of the lamp's circle, a little apart, stood Otto.
 
 In the doorway at the back of the table room, in black, his coat buttoned to the throat and his right arm held a little out from his body, with his left hand at his chest over something in his coat, stood Daren.
+
+A screen had him now. Whatever he'd been asking of the band to come this far unseen, he'd stopped asking.
