@@ -38,13 +38,13 @@ He breathed out. It went on a long time.
 
 "Silver?"
 
-"Under. All of it. The galleries, the pods. The straw's broken." The engineer had said so on the line from the Hub, and she'd heard it over Ben's shoulder. "Nobody was down there. Ben counted them off. Every one."
+"Under. All of it. The galleries, the pods. The straw's broken." The engineer had said so on the line from the shelf above the Hub, and she'd heard it over Ben's shoulder. "Nobody was down there. Ben counted them off. Every one."
 
 "The pump house," Gage said.
 
 He'd seen it. She could tell from how he said it, flat, a thing already put down somewhere inside him. She could have left it there. She didn't.
 
-"It's gone," she said. "Under the lake. The ration pumps, all of them." She heard her own voice going on, exact. "Nothing's coming up the main to the rows. Not tonight. Not tomorrow. Rita's tap. The tap at the end of ours."
+"It's gone," she said. "Under the lake. The ration pumps, all of them." She heard her own voice going on, exact. "Nothing's coming up the main to the rows. Not tonight. Not tomorrow. Ma's tap. Rita's. The tap at the end of ours."
 
 Behind her, the medic's breath went in and out once, and she didn't speak.
 
@@ -68,9 +68,9 @@ They lifted him out. Six of them for his weight, and Camilla walked beside the s
 
 The return column had stayed white for a long time.
 
-Ravi had watched it stay white. Every morning the retrieval clerk with the paper-clip chain had written a slip, *Folio outstanding, author's custody*, and every morning a porter had laid it on his desk, and he'd put each one in the drawer with the others, in order, squared. There was a small stack of them now. He'd stopped counting them, because the counting had started to sound like an excuse.
+Ravi had watched it stay white. Every morning the retrieval clerk with the paper-clip chain had written a slip, *Folio outstanding, author's custody*, and every morning a porter had laid it on his desk, and he'd put each one in the drawer with the others, in order, squared. There was a small stack of them now. He'd stopped counting them.
 
-That morning there had been a different slip in his coat, behind the pens, in blunt block letters.
+That morning there had been a new slip in his coat, behind the pens, in blunt block letters.
 
 *Tomorrow. Bring what you took.*
 
@@ -112,7 +112,7 @@ He hadn't been this close to her since the consoles. She was thinner. Her left w
 
 "Tell me."
 
-"First year. I was auditing cross-house allocations, the dull ones. A Kubera transfer through the Continuity Reserve, for a survey of the archive wing that nobody had asked for. No requesting officer, only a dash. And at the foot, where a signature goes, two letters. OG. No registered authority." He opened the sleeve and turned to the third page, to the line he'd underlined in pencil three years ago, gone grey and furred. "That was odd. This was worse. Every Reserve order carries the channel it came in by, in a field the channel never checks and the record keeps anyway. This one came in through the summit seal. The Master of the Reserve's own ring." He put his finger above the line, not on it. "An authority no registry holds, through a door only one man in Kubera can open. I flagged the dash. It was sealed above my grade within the day, before I'd thought to read the field beneath it." He turned to the back board. A seal slip was pasted there, its wax gone brown. "There's the answer to my objection."
+"First year. I was auditing cross-house allocations, the dull ones. A Kubera transfer through the Continuity Reserve, for a survey of the archive wing that nobody had asked for. No requesting officer, only a dash. And at the foot, where a signature goes, two letters. OG. No registered authority." He opened the sleeve and turned to the third page, to the line he'd underlined in pencil three years ago, gone grey and furred. "That was odd. I flagged the dash. It was sealed above my grade within the day, before I'd thought to read the field beneath it." He put his finger above it, not on it. "The channel field said summit seal. The Master's own ring." He turned to the back board. A seal slip was pasted there, its wax gone brown. "There's the answer to my objection."
 
 She read it. *Sealed at the request of the Office of the Reserve.*
 
@@ -148,7 +148,7 @@ Elara looked at him for a long while.
 
 ---
 
-The round room had a second table in it that night, a plain one, carried in and set beside the first, and Elara had laid the paper road on it herself.
+When the table sat again, the next night, the round room had a second table in it, a plain one, carried in and set beside the first, and Elara had laid the paper road on it herself.
 
 The guest register, open at Room 4-12, the white column. Nayan's four columns, the forty-day squares in the margins, lifted from the dead-room floor in order and squared. The Annex approval in the runner's pencil copy, Baju's brass pin still through its corner. Baju's notebook, with the hole worn through its last page. Ravi's folio, open at the seal. And at the end, on a fold of Anandi's cloth, the band. Black. Inert. Beside it, in their row, the Master's rings.
 
@@ -180,7 +180,7 @@ The Ancient One didn't answer the charge. Elara saw her hands, folded in the sha
 
 "The wall is beneath my archive," the Ancient One said. "Any of you may come down and read it."
 
-Nobody moved. To read it was to sit where Drona had sat.
+Nobody moved.
 
 The soft-faced man among them had not moved.
 
@@ -240,7 +240,7 @@ Rohan was standing at the next bend. He'd waited there since the doors closed, h
 
 Neither of them said anything.
 
-Rohan's hands were at his sides. The knuckle had split again under its glue, dark. Elara watched them. They didn't close. They didn't open either; they hung, and the fingers held a half-curl, the shape of a hand that had decided against something and was still deciding.
+Rohan's hands were at his sides. The knuckle had split again under its glue, dark. Elara watched them. They didn't close. They didn't open either; they hung, and the fingers held a half-curl, and stayed there.
 
 "He had a counter he clicked when he was thinking," Rohan said. "He hated lifts." His voice didn't rise. "You'll say his name to his people. Not to me. I'll take you to them, the eye and the ear and Jeebh, who'll do the talking, and you'll stand there and say it, and you won't say *afraid*, because they don't need to carry that too."
 
@@ -352,7 +352,7 @@ The door opened.
 
 Flitzberg stood in it. He didn't come in. He was in his own face, his collar open where the marks had been, his hands empty, and he stood on the threshold and looked at the room.
 
-His eyes went to Gage first, in the bed with his leg like a hill. Gage looked back at him. Then to Camilla, at the bedside. She looked back. Then to Ben on the end of the bed, with the pencil behind his ear. Ben looked back.
+His eyes went to Gage first, in the bed with his leg splinted under the blanket. Gage looked back at him. Then to Camilla, at the bedside. She looked back. Then to Ben on the end of the bed, with the pencil behind his ear. Ben looked back.
 
 Then to Otto, by the empty tank.
 
